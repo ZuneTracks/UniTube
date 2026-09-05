@@ -141,6 +141,7 @@ after installing UniTube.
 | --- | --- |
 | Search public videos | `GET https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&q=...&safeSearch=moderate` (`strict` when Safe Mode is enabled) |
 | Trending / popular by region | `GET https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails,statistics,status&chart=mostPopular&regionCode=...` |
+| Supported country selector | `GET https://www.googleapis.com/youtube/v3/i18nRegions?part=snippet` |
 | Category choices by region | `GET https://www.googleapis.com/youtube/v3/videoCategories?part=snippet&regionCode=...` |
 | Popular videos in a selected category | `GET https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails,statistics,status&chart=mostPopular&videoCategoryId=...&regionCode=...` |
 | Video details | `GET https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails,statistics,status&id=...` |

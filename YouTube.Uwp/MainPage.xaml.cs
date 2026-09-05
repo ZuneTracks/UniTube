@@ -33,6 +33,10 @@ namespace YouTube.Uwp
             InitializeComponent();
             Results = new ObservableCollection<VideoSummary>();
             Categories = new ObservableCollection<VideoCategory>();
+            Regions = new ObservableCollection<RegionOption>
+            {
+                new RegionOption { Code = "US", Name = "United States" }
+            };
             Subscriptions = new ObservableCollection<SubscriptionSummary>();
             Playlists = new ObservableCollection<PlaylistSummary>();
             PlaylistVideos = new ObservableCollection<VideoSummary>();
@@ -45,11 +49,14 @@ namespace YouTube.Uwp
             OAuthDeviceAuthorizationService oauthService = new OAuthDeviceAuthorizationService(App.Configuration);
             authenticatedClient = new YouTubeDataApiClient(App.Configuration.GetApiKey, oauthService.GetValidAccessTokenAsync);
             trendingTileService = new TrendingTileService();
+            Loaded += MainPage_Loaded;
         }
 
         public ObservableCollection<VideoSummary> Results { get; private set; }
 
         public ObservableCollection<VideoCategory> Categories { get; private set; }
+
+        public ObservableCollection<RegionOption> Regions { get; private set; }
 
         public ObservableCollection<SubscriptionSummary> Subscriptions { get; private set; }
 
@@ -102,7 +109,7 @@ namespace YouTube.Uwp
             {
                 PublicStatusText.Text = "Loading popular videos...";
                 HomeStatusText.Text = "Loading popular videos...";
-                DataPage<VideoSummary> page = await client.GetMostPopularVideosAsync(RegionBox.Text, null, 25);
+                DataPage<VideoSummary> page = await client.GetMostPopularVideosAsync(GetSelectedRegionCode(), null, 25);
                 ReplaceResults(page);
                 PublicStatusText.Text = Results.Count + " popular video results.";
                 HomeStatusText.Text = Results.Count + " popular video results.";
@@ -144,7 +151,7 @@ namespace YouTube.Uwp
 
             try
             {
-                trendingTileService.Update(page.Items[0], RegionBox.Text);
+                trendingTileService.Update(page.Items[0], GetSelectedRegionCode());
                 HomeStatusText.Text = Results.Count + " popular video results. The live tile now shows the top result.";
             }
             catch (UnauthorizedAccessException)
@@ -185,6 +192,70 @@ namespace YouTube.Uwp
                 {
                     ShowProfileFailure("pivot", exception, ProfileStatusText);
                 }
+            }
+        }
+
+        private async void MainPage_Loaded(object sender, RoutedEventArgs e)
+        {
+            Loaded -= MainPage_Loaded;
+            await LoadSupportedRegionsAsync();
+        }
+
+        private async Task LoadSupportedRegionsAsync()
+        {
+            try
+            {
+                RegionStatusText.Text = "Loading supported regions...";
+                IReadOnlyList<RegionOption> supportedRegions = await client.GetSupportedRegionsAsync();
+                RegionOption currentRegion = RegionSelector.SelectedItem as RegionOption;
+                string homeRegionCode = Windows.System.UserProfile.GlobalizationPreferences.HomeGeographicRegion;
+
+                if (supportedRegions.Count == 0)
+                {
+                    RegionStatusText.Text = "YouTube did not return any supported regions. Using United States.";
+                    return;
+                }
+
+                Regions.Clear();
+                foreach (RegionOption region in supportedRegions)
+                {
+                    Regions.Add(region);
+                }
+
+                RegionOption selectedRegion = (currentRegion == null ? null : FindRegion(currentRegion.Code))
+                    ?? FindRegion(homeRegionCode)
+                    ?? FindRegion("US");
+                RegionSelector.SelectedItem = selectedRegion;
+                RegionStatusText.Text = string.Empty;
+            }
+            catch (InvalidOperationException exception)
+            {
+                RegionStatusText.Text = exception.Message;
+            }
+            catch (YouTubeApiException exception)
+            {
+                RegionStatusText.Text = exception.Message;
+            }
+            catch (YouTubeApiResponseException exception)
+            {
+                RegionStatusText.Text = exception.Message;
+            }
+            catch (TaskCanceledException)
+            {
+                RegionStatusText.Text = "Supported regions could not load because the YouTube Data API request timed out.";
+            }
+            catch (HttpRequestException)
+            {
+                RegionStatusText.Text = "Supported regions could not load. Check the network connection.";
+            }
+        }
+
+        private async void RegionSelector_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Categories.Clear();
+            if (MainPivot.SelectedIndex == 2)
+            {
+                await LoadCategoriesAsync();
             }
         }
 
@@ -723,7 +794,7 @@ namespace YouTube.Uwp
             try
             {
                 CategoryStatusText.Text = "Loading categories...";
-                IReadOnlyList<VideoCategory> categories = await client.GetVideoCategoriesAsync(RegionBox.Text);
+                IReadOnlyList<VideoCategory> categories = await client.GetVideoCategoriesAsync(GetSelectedRegionCode());
                 Categories.Clear();
                 foreach (VideoCategory category in categories)
                 {
@@ -786,7 +857,7 @@ namespace YouTube.Uwp
             try
             {
                 category.StatusMessage = "Loading " + category.Title + " videos...";
-                DataPage<VideoSummary> page = await client.GetMostPopularVideosAsync(RegionBox.Text, category.Id, null, 25);
+                DataPage<VideoSummary> page = await client.GetMostPopularVideosAsync(GetSelectedRegionCode(), category.Id, null, 25);
                 category.SetVideos(page.Items);
                 category.StatusMessage = category.Videos.Count + " popular " + category.Title + " videos for " + GetRegionLabel() + ".";
             }
@@ -856,9 +927,32 @@ namespace YouTube.Uwp
 
         private string GetRegionLabel()
         {
-            return string.IsNullOrWhiteSpace(RegionBox.Text)
-                ? "your region"
-                : RegionBox.Text.Trim().ToUpperInvariant();
+            RegionOption selectedRegion = RegionSelector.SelectedItem as RegionOption;
+            return selectedRegion == null ? "United States" : selectedRegion.Name;
+        }
+
+        private string GetSelectedRegionCode()
+        {
+            RegionOption selectedRegion = RegionSelector.SelectedItem as RegionOption;
+            return selectedRegion == null ? "US" : selectedRegion.Code;
+        }
+
+        private RegionOption FindRegion(string regionCode)
+        {
+            if (string.IsNullOrWhiteSpace(regionCode))
+            {
+                return null;
+            }
+
+            foreach (RegionOption region in Regions)
+            {
+                if (string.Equals(region.Code, regionCode.Trim(), StringComparison.OrdinalIgnoreCase))
+                {
+                    return region;
+                }
+            }
+
+            return null;
         }
     }
 }

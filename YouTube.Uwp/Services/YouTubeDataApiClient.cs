@@ -20,6 +20,8 @@ namespace YouTube.Uwp.Services
 
         Task<IReadOnlyList<VideoCategory>> GetVideoCategoriesAsync(string regionCode);
 
+        Task<IReadOnlyList<RegionOption>> GetSupportedRegionsAsync();
+
         Task<VideoDetails> GetVideoAsync(string videoId);
 
         Task<ChannelDetails> GetChannelAsync(string channelId);
@@ -185,6 +187,33 @@ namespace YouTube.Uwp.Services
             }
 
             return categories;
+        }
+
+        public async Task<IReadOnlyList<RegionOption>> GetSupportedRegionsAsync()
+        {
+            Dictionary<string, string> parameters = new Dictionary<string, string>();
+            parameters.Add("part", "snippet");
+
+            JsonObject response = await GetPublicJsonAsync("i18nRegions", parameters);
+            JsonArray items = response.GetNamedArray("items", new JsonArray());
+            List<RegionOption> regions = new List<RegionOption>();
+
+            for (int index = 0; index < items.Count; index++)
+            {
+                JsonObject item = items.GetObjectAt((uint)index);
+                string code = item.GetNamedString("id", string.Empty);
+                string name = item.GetNamedObject("snippet", new JsonObject()).GetNamedString("name", string.Empty);
+                if (!string.IsNullOrWhiteSpace(code) && !string.IsNullOrWhiteSpace(name))
+                {
+                    regions.Add(new RegionOption
+                    {
+                        Code = code,
+                        Name = name
+                    });
+                }
+            }
+
+            return regions;
         }
 
         public async Task<VideoDetails> GetVideoAsync(string videoId)

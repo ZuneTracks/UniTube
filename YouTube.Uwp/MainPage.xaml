@@ -155,7 +155,8 @@
                             <Button Content="POPULAR" Style="{StaticResource PhoneOutlineButtonStyle}" Click="PopularButton_Click" />
                         </StackPanel>
                         <TextBlock Text="REGION" Style="{StaticResource PhoneMetadataStyle}" />
-                        <TextBox x:Name="RegionBox" Width="100" Style="{StaticResource PhoneTextBoxStyle}" Text="US" />
+                        <ComboBox x:Name="RegionSelector" ItemsSource="{Binding Regions}" DisplayMemberPath="Name" SelectionChanged="RegionSelector_SelectionChanged" />
+                        <TextBlock x:Name="RegionStatusText" Style="{StaticResource PhoneMetadataStyle}" Margin="0,4,0,0" TextWrapping="Wrap" />
                         <TextBlock x:Name="PublicStatusText" Style="{StaticResource PhoneMetadataStyle}" Margin="0,4,0,12" TextWrapping="Wrap" />
                         <ListView ItemsSource="{Binding Results}" ItemTemplate="{StaticResource VideoCardTemplate}" ItemContainerStyle="{StaticResource PhoneListItemStyle}" IsItemClickEnabled="True" ItemClick="ResultsList_ItemClick" SelectionMode="None" />
                     </StackPanel>
