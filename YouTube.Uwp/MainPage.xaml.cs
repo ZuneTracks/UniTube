@@ -200,7 +200,7 @@ namespace YouTube.Uwp
             Loaded -= MainPage_Loaded;
             if (RegionSelector.Items.Count > 0)
             {
-                RegionSelector.SelectedIndex = 0;
+                RegionSelector.SelectedItem = Regions[0];
             }
 
             await LoadSupportedRegionsAsync();
@@ -234,7 +234,7 @@ namespace YouTube.Uwp
                     Regions.Insert(0, selectedRegion);
                 }
 
-                RegionSelector.SelectedIndex = selectedRegion == null ? -1 : 0;
+                RegionSelector.SelectedItem = selectedRegion;
                 RegionStatusText.Text = string.Empty;
             }
             catch (InvalidOperationException exception)
