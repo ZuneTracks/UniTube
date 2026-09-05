@@ -43,6 +43,7 @@ namespace YouTube.Uwp
             UploadedVideos = new ObservableCollection<VideoSummary>();
             LikedVideos = new ObservableCollection<VideoSummary>();
             DataContext = this;
+            RegionSelector.SelectedIndex = 0;
             client = YouTubeDataApiClient.CreatePublicClient(
                 App.Configuration.GetApiKey,
                 () => App.Configuration.IsSafeModeEnabled);
@@ -207,7 +208,7 @@ namespace YouTube.Uwp
             {
                 RegionStatusText.Text = "Loading supported regions...";
                 IReadOnlyList<RegionOption> supportedRegions = await client.GetSupportedRegionsAsync();
-                string homeRegionCode = Windows.System.UserProfile.GlobalizationPreferences.HomeGeographicRegion;
+                string homeRegionCode = new Windows.Globalization.GeographicRegion().CodeTwoLetter;
 
                 if (supportedRegions.Count == 0)
                 {
@@ -229,7 +230,7 @@ namespace YouTube.Uwp
                     Regions.Insert(0, selectedRegion);
                 }
 
-                RegionSelector.SelectedItem = selectedRegion;
+                RegionSelector.SelectedIndex = selectedRegion == null ? -1 : 0;
                 RegionStatusText.Text = string.Empty;
             }
             catch (InvalidOperationException exception)
