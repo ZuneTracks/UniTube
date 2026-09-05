@@ -213,6 +213,7 @@ namespace YouTube.Uwp.Services
                 }
             }
 
+            regions.Sort((left, right) => string.Compare(left.Name, right.Name, StringComparison.CurrentCultureIgnoreCase));
             return regions;
         }
 
