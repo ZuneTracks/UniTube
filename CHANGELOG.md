@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.6.7.6 - Region selector release
+
+- Replaced the editable two-letter region code with a selector that lists
+  countries supported by YouTube Data API v3.
+- Detects the device region, selects it by default, and places it first in the
+  bounded country list. United States is used if the device region is not
+  supported.
+- Uses the selected country for Trending Now, category choices, popular
+  category videos, and live-tile regional metadata.
+- Updated the package version to `1.6.7.6`.
+
 ## v1.6.7.0 - Safe Mode release
 
 - Added a Settings **Safe Mode** toggle, enabled by default, that uses YouTube

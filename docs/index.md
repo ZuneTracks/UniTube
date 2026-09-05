@@ -8,14 +8,14 @@ UniTube is an original UWP client for Windows 10 Mobile 10.0.15063 (Creators
 Update) and later. It is designed for ARM devices and uses the official YouTube
 Data API v3 for public discovery features.
 
-## Latest release: v1.6.7.0
+## Latest release: v1.6.7.6
 
-[Download the ARM Developer Mode sideload package](https://github.com/ZuneTracks/UniTube/releases/tag/v1.6.7.0)
+[Download the ARM Developer Mode sideload package](https://github.com/ZuneTracks/UniTube/releases/tag/v1.6.7.6)
 
-The `v1.6.7.0` release enables Safe Mode by default, using YouTube's strict
-SafeSearch filter for public video searches. It also moves **About** to the top
-of Settings, moves **View Diagnostics** to the bottom, and adds x64 build
-configurations alongside the existing ARM device configurations. It retains the
+The `v1.6.7.6` release replaces the editable region code with a country
+selector sourced from YouTube's supported regions. It defaults to the device
+region, places that country first, and has a bounded list; **United States** is
+used when a device region is unsupported. It retains Safe Mode, the
 authenticated User Profile pivot, foreground video-upload prototype with Google
 limited-input-device authorization, and rotating live-tile behavior for the
 latest video metadata:
