@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.ComponentModel;
 using System.Net.Http;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
@@ -12,7 +13,7 @@ using YouTube.Uwp.Views;
 
 namespace YouTube.Uwp
 {
-    public sealed partial class MainPage : Page
+    public sealed partial class MainPage : Page, INotifyPropertyChanged
     {
         private readonly YouTubeDataApiClient client;
         private readonly YouTubeDataApiClient authenticatedClient;
@@ -27,6 +28,7 @@ namespace YouTube.Uwp
         private string selectedPlaylistId;
         private string uploadsPlaylistId;
         private string profileLoadStage;
+        private string selectedRegionCode;
 
         public MainPage()
         {
@@ -43,6 +45,7 @@ namespace YouTube.Uwp
             UploadedVideos = new ObservableCollection<VideoSummary>();
             LikedVideos = new ObservableCollection<VideoSummary>();
             DataContext = this;
+            SelectedRegionCode = GetHomeRegionCode();
             client = YouTubeDataApiClient.CreatePublicClient(
                 App.Configuration.GetApiKey,
                 () => App.Configuration.IsSafeModeEnabled);
@@ -57,6 +60,21 @@ namespace YouTube.Uwp
         public ObservableCollection<VideoCategory> Categories { get; private set; }
 
         public ObservableCollection<RegionOption> Regions { get; private set; }
+
+        public string SelectedRegionCode
+        {
+            get { return selectedRegionCode; }
+            set
+            {
+                if (string.Equals(selectedRegionCode, value, StringComparison.OrdinalIgnoreCase))
+                {
+                    return;
+                }
+
+                selectedRegionCode = value;
+                OnPropertyChanged("SelectedRegionCode");
+            }
+        }
 
         public ObservableCollection<SubscriptionSummary> Subscriptions { get; private set; }
 
@@ -198,11 +216,6 @@ namespace YouTube.Uwp
         private async void MainPage_Loaded(object sender, RoutedEventArgs e)
         {
             Loaded -= MainPage_Loaded;
-            if (RegionSelector.Items.Count > 0)
-            {
-                RegionSelector.SelectedItem = Regions[0];
-            }
-
             await LoadSupportedRegionsAsync();
         }
 
@@ -212,7 +225,7 @@ namespace YouTube.Uwp
             {
                 RegionStatusText.Text = "Loading supported regions...";
                 IReadOnlyList<RegionOption> supportedRegions = await client.GetSupportedRegionsAsync();
-                string homeRegionCode = Windows.System.UserProfile.GlobalizationPreferences.HomeGeographicRegion;
+                string homeRegionCode = GetHomeRegionCode();
 
                 if (supportedRegions.Count == 0)
                 {
@@ -226,15 +239,17 @@ namespace YouTube.Uwp
                     Regions.Add(region);
                 }
 
-                RegionOption selectedRegion = FindRegion(homeRegionCode)
+                RegionOption selectedRegion = FindRegion(SelectedRegionCode)
+                    ?? FindRegion(homeRegionCode)
                     ?? FindRegion("US");
                 if (selectedRegion != null)
                 {
                     Regions.Remove(selectedRegion);
                     Regions.Insert(0, selectedRegion);
+                    SelectedRegionCode = null;
+                    SelectedRegionCode = selectedRegion.Code;
                 }
 
-                RegionSelector.SelectedItem = selectedRegion;
                 RegionStatusText.Text = string.Empty;
             }
             catch (InvalidOperationException exception)
@@ -261,6 +276,14 @@ namespace YouTube.Uwp
 
         private async void RegionSelector_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            RegionOption selectedRegion = e.AddedItems.Count == 0
+                ? null
+                : e.AddedItems[0] as RegionOption;
+            if (selectedRegion != null)
+            {
+                SelectedRegionCode = selectedRegion.Code;
+            }
+
             Categories.Clear();
             if (MainPivot.SelectedIndex == 2)
             {
@@ -936,14 +959,19 @@ namespace YouTube.Uwp
 
         private string GetRegionLabel()
         {
-            RegionOption selectedRegion = RegionSelector.SelectedItem as RegionOption;
+            RegionOption selectedRegion = FindRegion(SelectedRegionCode);
             return selectedRegion == null ? "United States" : selectedRegion.Name;
         }
 
         private string GetSelectedRegionCode()
         {
-            RegionOption selectedRegion = RegionSelector.SelectedItem as RegionOption;
-            return selectedRegion == null ? "US" : selectedRegion.Code;
+            return string.IsNullOrWhiteSpace(SelectedRegionCode) ? "US" : SelectedRegionCode;
+        }
+
+        private static string GetHomeRegionCode()
+        {
+            string homeRegionCode = Windows.System.UserProfile.GlobalizationPreferences.HomeGeographicRegion;
+            return string.IsNullOrWhiteSpace(homeRegionCode) ? "US" : homeRegionCode.Trim();
         }
 
         private RegionOption FindRegion(string regionCode)
@@ -962,6 +990,17 @@ namespace YouTube.Uwp
             }
 
             return null;
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        private void OnPropertyChanged(string propertyName)
+        {
+            PropertyChangedEventHandler handler = PropertyChanged;
+            if (handler != null)
+            {
+                handler(this, new PropertyChangedEventArgs(propertyName));
+            }
         }
     }
 }
