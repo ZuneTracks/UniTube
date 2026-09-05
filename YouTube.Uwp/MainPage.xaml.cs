@@ -43,7 +43,6 @@ namespace YouTube.Uwp
             UploadedVideos = new ObservableCollection<VideoSummary>();
             LikedVideos = new ObservableCollection<VideoSummary>();
             DataContext = this;
-            RegionSelector.SelectedIndex = 0;
             client = YouTubeDataApiClient.CreatePublicClient(
                 App.Configuration.GetApiKey,
                 () => App.Configuration.IsSafeModeEnabled);
@@ -199,6 +198,11 @@ namespace YouTube.Uwp
         private async void MainPage_Loaded(object sender, RoutedEventArgs e)
         {
             Loaded -= MainPage_Loaded;
+            if (RegionSelector.Items.Count > 0)
+            {
+                RegionSelector.SelectedIndex = 0;
+            }
+
             await LoadSupportedRegionsAsync();
         }
 
