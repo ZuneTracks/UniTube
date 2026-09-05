@@ -208,7 +208,7 @@ namespace YouTube.Uwp
             {
                 RegionStatusText.Text = "Loading supported regions...";
                 IReadOnlyList<RegionOption> supportedRegions = await client.GetSupportedRegionsAsync();
-                string homeRegionCode = new Windows.Globalization.GeographicRegion().CodeTwoLetter;
+                string homeRegionCode = Windows.System.UserProfile.GlobalizationPreferences.HomeGeographicRegion;
 
                 if (supportedRegions.Count == 0)
                 {
