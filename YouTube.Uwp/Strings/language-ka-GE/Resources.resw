@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>საჯარო ბრაუზერი</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>პარამეტრები</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>მთავარი</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>ძიება</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>კატეგორიები</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>პროფილი</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>აღმოჩენა</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>უახლესი პოპულარული ვიდეოები, კლასიკური ტელეფონის პირველი განლაგებით.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>ტენდენცია ახლა</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>ჩატვირთეთ პოპულარული ვიდეოები თქვენი რეგიონისთვის</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>პოპულარული ვიდეოები</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>აირჩიეთ Trending Now საჯარო შედეგების ჩასატვირთად.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>ძებნა</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>იპოვეთ საჯარო YouTube ვიდეოები თქვენი მომხმარებლის მიერ მოწოდებული API გასაღებით.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>საძიებო ტერმინები</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>მოძებნეთ YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>ძიება</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>პოპულარული</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>რეგიონი</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>კატეგორიები</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>შეეხეთ კატეგორიას მისი ამჟამინდელი პოპულარული ვიდეოების გასადიდებლად. კვლავ შეეხეთ მას დასაკეცად და აირჩიეთ სხვა.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>პროფილი</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>ანგარიშის მონაცემები ხელმისაწვდომია თქვენი ავტორიზებული YouTube კავშირის მეშვეობით.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>შესახებ</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API გასაღების უგულებელყოფა</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>მართული კონფიგურაციის გამოსაყენებლად დატოვეთ ცარიელი</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ უკან</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>ამ არხის შესახებ</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>არხის დეტალები</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>გასუფთავება</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>პირადი სერთიფიკატები ინახება მხოლოდ Windows Credential Locker-ში.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>აღწერა</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>სურვილისამებრ</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>აღწერა</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>ეს ჟურნალი აღრიცხავს აპის შეცდომებს და OAuth ეტაპებს. სერთიფიკატები, ავტორიზაციის კოდები და ჟეტონები გამორიცხულია.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>დიაგნოსტიკა</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>პროფილის წაკითხვისა და ატვირთვის გამოყენებით გამოიყენება Google TV-ები და შეზღუდული შეყვანის მოწყობილობა OAuth კლიენტი. გადამისამართების URI არ გამოიყენება. მართული ადგილობრივი build ღირებულებები რჩება დამალული; აქ სერთიფიკატების შენახვა უგულებელყოფს მათ.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>გუგლის ანგარიში</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>აპს-შიდა დაკვრა იყენებს YouTube-ის ოფიციალურ მობილური ყურების გვერდს. ეს აპი არ ამოიღებს და არ ჩამოტვირთავს მედია URL-ებს.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>მოეწონა ვიდეოები</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>მოწონებული ვიდეოების ჩატვირთვა</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>ატვირთეთ მეტი მოწონებული ვიდეო</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>ჩატვირთეთ მეტი დასაკრავი სიები</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>ჩატვირთეთ მეტი დასაკრავი სიის ვიდეოები</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>ჩატვირთეთ მეტი გამოწერა</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>ატვირთეთ მეტი ატვირთული ვიდეო</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>შეზღუდული შეყვანის მოწყობილობის OAuth კლიენტის ID უგულებელყოფა</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>მართული კონფიგურაციის გამოსაყენებლად დატოვეთ ცარიელი</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>შეზღუდული შეყვანის მოწყობილობის OAuth კლიენტის საიდუმლო გადაფარვა</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>მართული კონფიგურაციის გამოსაყენებლად დატოვეთ ცარიელი</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>შეინახეთ რწმუნებათა სიგელები, შემდეგ დაიწყეთ Google-ში შესვლა. ქვემოთ მოცემული დამადასტურებელი კოდი შეყვანილია სხვა მოწყობილობაზე; ეს აპლიკაცია არასოდეს ხსნის შესვლის ფორმას. ხელახლა შედით ამ განახლების შემდეგ, რათა პროფილს წაკითხვის წვდომა მიანიჭოთ.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>გახსენი არხი</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>გახსენით ბრაუზერში</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>მოთამაშე</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>ითამაშე აპში</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>დასაკრავი სიები</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>დასაკრავი სიის ვიდეოები</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>კონფიდენციალურობა</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>კერძო</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>შეზღუდული API გასაღები გამოიყენება მხოლოდ წაკითხვადი YouTube Data API v3 ზარებისთვის. მართული ადგილობრივი build ღირებულებები რჩება დამალული; აქ დაზოგვა აჭარბებს მათ.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>საჯარო მონაცემების წვდომა</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>საჯარო</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>განაახლეთ</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>განაახლეთ პროფილი</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>უსაფრთხო რეჟიმი იყენებს YouTube-ის მკაცრ SafeSearch პარამეტრს ძიებებისთვის. ის არ გთავაზობთ YouTube Kids-ის კატალოგს ან ფილტრის პოპულარულ, კატეგორიებსა და ანგარიშების არხებს.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>უსაფრთხო რეჟიმი</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>გამოიყენეთ მკაცრი SafeSearch საჯარო ვიდეო ძიებისთვის</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>API გასაღების შენახვა</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ჟურნალის შენახვა</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>შეინახეთ რწმუნებათა სიგელები</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>ვიდეო არ არის არჩეული.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>აირჩიეთ ვიდეო</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>პარამეტრები</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>დაიწყეთ GOOGLE შესვლა</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>გასვლა</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ატვირთვის დაწყება</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>გამოწერები</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>სათაური</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>საჭირო</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>ჩამოთვლილი</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>ყურების ისტორია და მოგვიანებით ყურება არ არის ნაჩვენები, როგორც წაკითხვადი v3 კოლექციები. UniTube არ მიბაძავს ან არასწორ ეტიკეტს ასახელებს მათ.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>არ არის მხარდაჭერილი YouTube Data API v3-ით</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>ატვირთული ვიდეოები</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>ატვირთვა</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>აირჩიეთ ადგილობრივი ვიდეო, შემდეგ ატვირთეთ ის თქვენი ავტორიზებული Google ანგარიშის მეშვეობით.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>ვიდეოს ატვირთვა</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>მზად არის ვიდეოს ასარჩევად.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>ატვირთვები საჭიროებს OAuth-ის პარამეტრებს და Google-ის დასრულებულ შესვლას პარამეტრებიდან.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>ვიდეოს ატვირთვა</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>ვიდეო დეტალები</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>დიაგნოსტიკის ნახვა</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>უყურეთ YOUTUBE-ზე</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} კატეგორიები ხელმისაწვდომია {1}-სთვის.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>იტვირთება კატეგორიები...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>იტვირთება {0} ვიდეოები...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} პოპულარული {1} ვიდეოები {2}-ისთვის.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>საჭიროა არხის ID.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>არხის დეტალების ჩატვირთვა...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} აბონენტები | {1:N0} ვიდეოები | {2:N0} ნახვები</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>მოთხოვნილი არხი მიუწვდომელია.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>დახურვა</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube მონაცემთა API-სთან დაკავშირება ვერ მოხერხდა. შეამოწმეთ ქსელის კავშირი.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API მოთხოვნის დრო ამოიწურა. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>უცნობი</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google-ის ავტორიზაცია არ აძლევდა წვდომის ჟეტონს. ხელახლა შედით.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google ანგარიშზე წვდომა არ არის კონფიგურირებული. შედით პროფილის გახსნამდე.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>დაამატეთ Google API გასაღები საჯარო YouTube Data API v3 ფუნქციების გამოყენებამდე.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>საჭიროა არხის ID.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>ავთენტიფიცირებულმა YouTube Data API-მ არასწორი პასუხი დააბრუნა. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube მონაცემთა API-მ არასწორი პასუხი დააბრუნა. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>დასაკრავი სიის ID საჭიროა.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 დაბრუნდა {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>შეიყვანეთ ტექსტი საძიებლად.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>საჭიროა ვიდეო ID.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>დიაგნოსტიკური ჟურნალი გასუფთავებულია.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>დიაგნოსტიკური ჟურნალი შენახულია {0}-ში.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>დიაგნოსტიკური მოვლენები არ დაფიქსირებულა.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>დიაგნოსტიკური ჟურნალის შენახვა გაუქმდა.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>დიაგნოსტიკური ჟურნალის შენახვა (0x{0}) ვერ მოხერხდა.</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>ტექსტური ფაილი</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>ბოლოს ითამაშა</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>ვიდეო მეტამონაცემები საჭიროა ცოცხალი ფილის განახლებისთვის.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>ტენდენცია ახლა</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>პოპულარული ახლა ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>საჭიროა ტენდენციური ვიდეოს სათაური.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google მოწყობილობის ავტორიზაცია ამოიწურა.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google მოწყობილობის ავტორიზაცია არ დასრულებულა: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Google-ის ავტორიზაცია ხელახლა უნდა დასრულდეს ატვირთვამდე.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google მოწყობილობის ავტორიზაცია ვერ დაიწყო: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>შესვლამდე დააყენეთ შეზღუდული შეყვანის მოწყობილობის OAuth კლიენტის ID.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>შესვლამდე დააყენეთ შეზღუდული შეყვანის მოწყობილობის OAuth კლიენტის საიდუმლო.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google-მა უარყო შეზღუდული შეყვანის მოწყობილობის OAuth კლიენტი (invalid_client). შეამოწმეთ კლიენტის ID და კლიენტის საიდუმლო.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google-მა უარყო შეზღუდული შეყვანის მოწყობილობის OAuth სერთიფიკატები (invalid_client). შეამოწმეთ კლიენტის ID და კლიენტის საიდუმლო.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google მოწყობილობის ავტორიზაციამ არასწორი პასუხი დააბრუნა.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google token endpoint-მა არასწორი პასუხი დააბრუნა.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google მოწყობილობის ავტორიზაციამ არ დააბრუნა გამოსაყენებელი დამადასტურებელი კოდი და URL.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google token endpoint-მა არ დააბრუნა წვდომის ჟეტონი.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>არცერთი Google ანგარიში არ არის ავტორიზებული. ჯერ დაიწყეთ შესვლა.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google-მა მოითხოვა ნელი გამოკითხვა.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>შენახული OAuth ჟეტონის ვადის გასვლა არასწორია. ხელახლა შედით.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>შენახული OAuth ჟეტონი არასწორია. ხელახლა შედით.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google ტოკენის განახლება ვერ მოხერხდა: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google-ის ავტორიზაცია დასრულდა, მაგრამ Windows Credential Locker-მა ვერ შეინახა ჟეტონი (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>აპს-შიდა დამკვრელმა ვერ ჩაიტვირთა ეს ვიდეო. ამის ნაცვლად გახსენით ბრაუზერში.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>მიმდინარეობს YouTube-ის ყურების ოფიციალური გვერდის ჩატვირთვა...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>აპს-შიდა დაკვრისთვის საჭიროა ვიდეო ID.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} ვიდეოები</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>პოპულარული ვიდეოების ჩატვირთვა...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} პოპულარული ვიდეო შედეგები.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} პოპულარული ვიდეო შედეგები. Windows-მა ცოცხალი ფილა განახლების უფლება არ მისცა.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} პოპულარული ვიდეო შედეგები. ცოცხალი ფილა ახლა აჩვენებს საუკეთესო შედეგს.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} პოპულარული ვიდეო შედეგები. ცოცხალი ფილა ვერ განახლდა.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google-მა ამ ანგარიშს არ მისცა წვდომა პროფილის მონაცემებზე. გადით სისტემიდან, ხელახლა დაიწყეთ Google-ში შესვლა და მიიღეთ YouTube-ის მხოლოდ წაკითხვის სფერო.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} მოეწონა ვიდეოები ჩატვირთული.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>მოწონებული ვიდეოების მოთხოვნა ვერ მოხერხდა. შეამოწმეთ ქსელის კავშირი.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>მოწონებული ვიდეოების მოთხოვნის დრო ამოიწურა. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>პროფილი ჩაიტვირთა.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>პროფილის ჩატვირთვა ვერ მოხერხდა {0} (0x{1}) დროს. გახსენით დიაგნოსტიკა დეტალებისთვის.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>იტვირთება ავტორიზებული პროფილი...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>მოწონებული ვიდეოების ჩატვირთვა...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>იტვირთება მეტი მოწონებული ვიდეო...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>იტვირთება მეტი დასაკრავი სიის ვიდეო...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>იტვირთება მეტი ატვირთული ვიდეო...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>დასაკრავი სიის ვიდეოების ჩატვირთვა...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} აბონენტები | {1:N0} ვიდეოები | {2:N0} ნახვები</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google-მა არ დააბრუნა ავტორიზებული ანგარიშისთვის.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>არცერთი მოწონებული ვიდეო არ დაბრუნებულა.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube-მა არ მოგვაწოდა ატვირთვების დასაკრავი სია ამ არხისთვის.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>ჩატვირთულია {0:N0} დასაკრავი სიები. აირჩიეთ ერთი მისი ვიდეოების სანახავად.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>დასაკრავი სიების მოთხოვნა ვერ მოხერხდა. შეამოწმეთ ქსელის კავშირი.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>დასაკრავი სიების მოთხოვნა ამოიწურა. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} დასაკრავი სიის ვიდეოები ჩაიტვირთა.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>დასაკრავი სიის ვიდეოების მოთხოვნა ვერ მოხერხდა. შეამოწმეთ ქსელის კავშირი.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>დასაკრავი სიის ვიდეოების მოთხოვნის დრო ამოიწურა. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>ავტორიზებული YouTube API ვერ მიიღწევა. შეამოწმეთ ქსელის კავშირი.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>YouTube-ის დამოწმებული მოთხოვნის დრო ამოიწურა. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>აირჩიეთ მოწონებული ვიდეოების ჩატვირთვა, რათა მოითხოვოთ თქვენი მოწონებული კოლექცია.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>აირჩიეთ დასაკრავი სია ზემოთ მისი ვიდეოების ჩასატვირთად.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>არხი</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>მოეწონა ვიდეოები</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>დასაკრავი სიები</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>დასაკრავი სიის ვიდეოები</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>დაწყებული</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>გამოწერები</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>ატვირთული ვიდეოები</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>ჩაიტვირთა {0:N0} გამოწერები.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>გამოწერის მოთხოვნა ვერ მოხერხდა. შეამოწმეთ ქსელის კავშირი.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>გამოწერის მოთხოვნის დრო ამოიწურა. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} თუ ეს ანგარიში ავტორიზებულია პროფილის დამატებამდე, ხელახლა შედით YouTube-ის მხოლოდ წაკითხვის სფეროს მინიჭებისთვის.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ატვირთული ვიდეოები ჩაიტვირთა.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>ატვირთული ვიდეოების მოთხოვნა ვერ მოხერხდა. შეამოწმეთ ქსელის კავშირი.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>ატვირთული ვიდეოების მოთხოვნის დრო ამოიწურა. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>მხარდაჭერილი რეგიონების ჩატვირთვა...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>მხარდაჭერილი რეგიონები ვერ ჩაიტვირთა. შეამოწმეთ ქსელის კავშირი.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>მხარდაჭერილი რეგიონები ვერ ჩაიტვირთა, რადგან YouTube მონაცემთა API მოთხოვნის დრო ამოიწურა.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube-მა არ დააბრუნა მხარდაჭერილი რეგიონები. შეერთებული შტატების გამოყენება.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>შეერთებული შტატები</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>შეიყვანეთ API გასაღები ან გამოიყენეთ Clear API გასაღები.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>საჭიროა შეზღუდული შეყვანის მოწყობილობის OAuth კლიენტის ID.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>საჭიროა შეზღუდული შეყვანის მოწყობილობის OAuth კლიენტის საიდუმლო.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>ძიება...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} საჯარო ვიდეო შედეგები.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>ეს აპი არ არის დაკავშირებული Google-თან ან YouTube-თან.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>აშენება {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube არის თანამედროვე UWP აპლიკაცია YouTube-ის საჯარო API-ით YouTube-ის დასათვალიერებლად.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>შემქმნელი:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>ჩაშენებული UniTube კონფიგურაციის გამოყენება საჯარო მონაცემებისთვის. აქ შენახვა უგულებელყოფს მას.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>API გასაღები არ არის კონფიგურირებული.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>თქვენი API გასაღები ინახება Windows Credential Locker-ში.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google-ის ავტორიზაცია გაუქმდა.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google-ის ავტორიზაცია დასრულდა. შესაძლებელია პროფილის წაკითხვა და ვიდეო ატვირთვა.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} კოდი იწურება {1:D2}:{2:D2}-ში. Google-ის შემოწმება ყოველ {3} წამში.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google-ის ავტორიზაცია ვერ დაუკავშირდა ჟეტონის საბოლოო წერტილს. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google-ის ავტორიზაცია წაიშალა. დაიწყეთ Google-ში შესვლა პროფილის გახსნამდე ან ატვირთვამდე.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google ანგარიში ავტორიზებულია პროფილის წაკითხვისა და ვიდეოს ატვირთვისთვის. ხელახლა შედით, თუ ეს ჟეტონი პროფილს უსწრებს.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google-ის ავტორიზაცია მოულოდნელად ვერ მოხერხდა (0x{0}). გახსენით დიაგნოსტიკა აპის გადატვირთვის შემდეგ.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>ჩაშენებული UniTube კონფიგურაციის გამოყენება პროფილისა და ატვირთვისთვის. ჯერ დაიწყეთ Google-ში შესვლა.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>შეზღუდული შეყვანის მოწყობილობის OAuth სერთიფიკატები შენახულია. თუ რომელიმე მნიშვნელობა შეიცვალა, შედით ხელახლა ატვირთვამდე.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>შენახული OAuth სერთიფიკატები კონფიგურირებულია. დაიწყეთ Google-ში შესვლა პროფილის გახსნამდე ან ატვირთვამდე.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>არასრული შენახული OAuth უგულებელყოფა იქნა იგნორირებული. ჩაშენებული UniTube კონფიგურაციის გამოყენება პროფილისა და ატვირთვისთვის.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>მართული OAuth კონფიგურაცია ხელმისაწვდომია. დაიწყეთ Google-ში შესვლა პროფილის გახსნამდე ან ატვირთვამდე.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>შეინახეთ OAuth სერთიფიკატები, შემდეგ დაიწყეთ Google-ში შესვლა პროფილის გახსნამდე ან ატვირთვამდე.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>კოდი: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>ვერიფიკაციის კოდს ვადა გაუვიდა. ახალი კოდის მოთხოვნა...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>შეიყვანეთ კოდი ამ ბრაუზერში. ეს ტელეფონი დაელოდება Google-ის ავტორიზაციას.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>თქვენს წინა კოდს ვადა გაუვიდა. შეიყვანეთ ახალი კოდი ამ ბრაუზერში.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>სხვა ტელეფონზე, ტაბლეტზე ან კომპიუტერზე მიმდინარე ბრაუზერზე, ეწვიეთ: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>ელოდება Google-ის დამტკიცებას.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>ატვირთვა გაუქმდა. ნაწილობრივ ატვირთული განახლების სესია არ გაგრძელებულა.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>მიმდინარეობს ატვირთვის გაუქმება...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>ატვირთვა დასრულდა. YouTube ამუშავებს ვიდეოს.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>ატვირთვა დასრულდა. ვიდეოს ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>ვიდეოს აღწერა უნდა შედგებოდეს 5000 სიმბოლოსგან ან ნაკლები.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>აირჩიეთ ვიდეო ფაილი, რომელიც შეიცავს მონაცემებს.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>არჩეული ფაილი დასრულდა მის მოხსენებულ სიგრძემდე.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>აირჩიეთ ვიდეო ფაილი ატვირთვამდე.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>არჩეული ვიდეო ძალიან დიდია ასატვირთად.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>ატვირთვა ვერ მიაღწია YouTube-ს. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube-მა არ დააბრუნა ატვირთვის დასრულებული პასუხი.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube-მა არ დააბრუნა განახლების ატვირთვის მდებარეობა.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>აირჩიეთ პირადი, გამოუქვეყნებელი ან საჯარო კონფიდენციალურობა.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>ატვირთულია {0:N0} / {1:N0} ბაიტი ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>მზადაა ატვირთოთ {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube ატვირთვა დაბრუნდა {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} ბაიტი)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>ვიდეოს შერჩევა გაუქმდა.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>იწყება განახლების ატვირთვა...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>ატვირთვის დრო ამოიწურა. შეამოწმეთ ქსელის კავშირი და სცადეთ ხელახლა.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>ატვირთვამდე შეიყვანეთ სათაური.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>ვიდეოს სათაური უნდა იყოს 100 სიმბოლო ან ნაკლები.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>აირჩიეთ აღიარებული ვიდეო ფაილი.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>ვიდეოს დეტალების ჩატვირთვა...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>გამოქვეყნებულია {0} | {1:N0} ნახვები | ხანგრძლივობა {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Play in app ხსნის YouTube-ის ოფიციალურ მობილური ყურების გვერდს.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>დაკვრა დაიწყო, მაგრამ მისი მეტამონაცემების შენახვა ცოცხალი ფილისთვის ვერ მოხერხდა.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>დაკვრა დაიწყო, მაგრამ Windows-მა არ დაუშვა ცოცხალი ფილა განახლებულიყო.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>დაკვრა დაიწყო, მაგრამ ცოცხალი ფილა ვერ განახლდა.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>მოთხოვნილი ვიდეო მიუწვდომელია.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>საჭიროა ვიდეო ID.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>განსაკუთრებული მადლობა</value>
+  </data>
+</root>

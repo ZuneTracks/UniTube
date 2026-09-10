@@ -23,7 +23,7 @@ namespace YouTube.Uwp.Services
 
             if (string.IsNullOrWhiteSpace(video.Title))
             {
-                throw new ArgumentException("A trending video title is required.", "video");
+                throw new ArgumentException(Localizer.Get("LiveTile.VideoTitleRequired"), "video");
             }
 
             LiveTileStateStore.SaveTrending(video, regionCode);
@@ -45,7 +45,7 @@ namespace YouTube.Uwp.Services
             VideoSummary lastPlayed = LiveTileStateStore.GetLastPlayed();
             if (lastPlayed != null)
             {
-                AddNotification(updater, CreateVideoTileXml(lastPlayed, "Last played"), LastPlayedTag);
+                AddNotification(updater, CreateVideoTileXml(lastPlayed, Localizer.Get("LiveTile.LastPlayed")), LastPlayedTag);
             }
 
             VideoSummary trending = LiveTileStateStore.GetTrending();
@@ -125,8 +125,8 @@ namespace YouTube.Uwp.Services
                 ? string.Empty
                 : regionCode.Trim().ToUpperInvariant();
             return string.IsNullOrWhiteSpace(region)
-                ? "Trending now"
-                : "Trending now (" + region + ")";
+                ? Localizer.Get("LiveTile.TrendingNow")
+                : Localizer.Format("LiveTile.TrendingNowRegion", region);
         }
 
         private static string TrimForTile(string value, int maximumLength)

@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>OPENBARE Blaaier</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>INSTELLINGS</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>TUIS</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>SOEK</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORIEë</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFIEL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>ontdek</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Die nuutste gewilde video's, in die klassieke telefoon-eerste uitleg.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>TREND NOU</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Laai gewilde video's vir jou streek</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>gewilde video's</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Kies Neiging Nou om publieke resultate te laai.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>soek</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Vind publieke YouTube-video's met jou gebruikerverskafde API-sleutel.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Soekterme</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Soek YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>SOEK</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>GEWILDE</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>STREEK</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategorieë</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Tik 'n kategorie om sy huidige gewilde video's uit te brei. Tik dit weer om in te vou en kies 'n ander.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profiel</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Rekeningdata beskikbaar deur jou geverifieerde YouTube-verbinding.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>OOR</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API-sleutel ignoreer</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Laat leeg om bestuurde opstelling te gebruik</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ TERUG</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>KANSELLEER</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>oor hierdie kanaal</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>kanaalbesonderhede</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>DUIDELIK</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Persoonlike geloofsbriewe word slegs in Windows Credential Locker gestoor.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Beskrywing</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Opsioneel</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>beskrywing</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Hierdie log teken programfoute en OAuth-mylpale aan. Geloofsbriewe, magtigingskodes en tokens is uitgesluit.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostiek</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profiellees en oplaai gebruik 'n Google TV's en OAuth-kliënt met beperkte invoertoestel. Geen herleidings-URI word gebruik nie. Bestuurde plaaslike bouwaardes bly verborge; om geloofsbriewe hier te stoor, ignoreer dit.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google rekening</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Inprogram-terugspeel gebruik YouTube se amptelike mobiele kykbladsy. Hierdie toepassing onttrek of laai nie media-URL's af nie.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>het video's gehou</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>Laai VIDEO'S wat gelaaik is</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>Laai NOG VIDEO'S wat gelaaik is</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>LAAAI MEER SPEILLYSTE</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>Laai NOG SPEELLYS-VIDEO'S</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>Laai NOG INTEKENINGE</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>Laai NOG OPGELAAI VIDEO'S</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Beperk-invoer toestel OAuth kliënt ID ignoreer</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Laat leeg om bestuurde opstelling te gebruik</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Beperk-invoer toestel OAuth kliënt geheime ignorering</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Laat leeg om bestuurde opstelling te gebruik</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Stoor eiebewyse en begin dan Google-aanmelding. Die verifikasiekode hieronder word op 'n ander toestel ingevoer; hierdie toepassing maak nooit 'n aanmeldvorm oop nie. Meld weer aan na hierdie opdatering om profielleestoegang te verleen.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>OOP KANAAL</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>OOP IN Blaaier</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>speler</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>SPEEL IN APP</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>snitlyste</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>snitlys video's</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Privaatheid</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>privaat</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>'n Beperkte API-sleutel word slegs vir leesalleen YouTube Data API v3-oproepe gebruik. Bestuurde plaaslike bouwaardes bly verborge; spaar hier ignoreer hulle.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>toegang tot publieke data</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>publiek</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>VERFRISS</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>HERFRS PROFIEL</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Veilige modus gebruik YouTube se streng Veiligsoek-instelling vir soektogte. Dit verskaf nie die YouTube Kids-katalogus of filter gewilde, kategorie- en rekeningstrome nie.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>veilige modus</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Gebruik streng SafeSearch vir publieke videosoektogte</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>STOOR API-SLEUTEL</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>STOOR LOG</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>BEWAAR AANWYSINGS</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Geen video gekies nie.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>KIES VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>instellings</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>BEGIN GOOGLE AANMELD</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>TEKEN UIT</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>BEGIN OPLAAI</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>intekeninge</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Titel</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Vereis</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>ongenoteerd</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Kykgeskiedenis en Kyk later word nie as leesbare v3-versamelings blootgestel nie. UniTube boots hulle nie na of benoem hulle nie.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>nie ondersteun deur YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>opgelaaide video's</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>oplaai</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Kies 'n plaaslike video en laai dit dan op deur jou gemagtigde Google-rekening.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>video oplaai</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Gereed om 'n video te kies.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Oplaaie vereis OAuth-instellings en 'n voltooide Google-aanmelding vanaf Instellings.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>Laai VIDEO op</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>video besonderhede</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>KYK DIAGNOSTIEK</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>KYK OP YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0}-kategorieë beskikbaar vir {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Laai tans kategorieë...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Laai tans {0}-video's...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} gewilde {1} video's vir {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>'n Kanaal-ID word vereis.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Laai tans kanaalbesonderhede...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} intekenare | {1:N0} video's | {2:N0} aansigte</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Die versoekte kanaal is nie beskikbaar nie.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>SLUIT</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>Die YouTube Data API kon nie bereik word nie. Gaan die netwerkverbinding na.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Die YouTube Data API-versoek het uitgetel. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>onbekend</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google-magtiging het nie 'n toegangtoken verskaf nie. Meld weer aan.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google-rekeningtoegang is nie opgestel nie. Meld aan voordat profiel oopgemaak word.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Voeg 'n Google API-sleutel by voordat jy publieke YouTube Data API v3-kenmerke gebruik.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>'n Kanaal-ID word vereis.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Die geverifieerde YouTube Data API het 'n ongeldige antwoord teruggestuur. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>Die YouTube Data API het 'n ongeldige antwoord teruggegee. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>'n Snitlys-ID word vereis.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 het {0} ({1}) teruggegee. {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Voer teks in om na te soek.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>'n Video-ID word vereis.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnostiese logboek is skoongemaak.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnostiese logboek gestoor na {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Geen diagnostiese gebeure is aangeteken nie.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Die stoor van die diagnostiese logboek is gekanselleer.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Kon nie die diagnostiese logboek (0x{0}) stoor nie.</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Tekslêer</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Laas gespeel</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Video-metadata word vereis om die regstreekse teël op te dateer.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Nou gewild</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Neigings nou ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>'n Gewilde videotitel word vereis.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google-toestelmagtiging het verval.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google-toestelmagtiging is nie voltooi nie: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Google-magtiging moet weer voltooi word voor oplaai.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google-toestelmagtiging kon nie begin nie: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Stel 'n OAuth-kliënt-ID met beperkte toevoertoestel voor jy aanmeld.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Stel die OAuth-kliëntgeheim van die beperkte toevoertoestel voordat jy aanmeld.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google het die OAuth-kliënt met beperkte invoertoestel (ongeldige_kliënt) verwerp. Gaan die kliënt-ID en kliëntgeheim na.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google het die OAuth-eiebewyse van die beperkte invoertoestel (ongeldige_kliënt) verwerp. Gaan die kliënt-ID en kliëntgeheim na.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google-toestelmagtiging het 'n ongeldige antwoord teruggestuur.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google-token-eindpunt het 'n ongeldige antwoord teruggestuur.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google-toestelmagtiging het nie 'n bruikbare verifikasiekode en URL teruggegee nie.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google-token-eindpunt het nie 'n toegangtoken teruggestuur nie.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Geen Google-rekening is gemagtig nie. Begin eers aanteken.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google het stadiger stembus versoek.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Die vervaldatum van die gestoorde OAuth-token is verkeerd gevorm. Meld weer aan.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Die gestoorde OAuth-token is verkeerd gevorm. Meld weer aan.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google-token-verversing het misluk: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google-magtiging voltooi, maar Windows Credential Locker kon nie die teken (0x{0}) stoor nie.</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Die inprogram-speler kon nie hierdie video laai nie. Maak dit eerder in die blaaier oop.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Laai tans die amptelike YouTube-kykbladsy...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>'n Video-ID word vereis vir inprogram-terugspeel.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} video's</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Laai tans gewilde video's...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} gewilde video resultate.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} gewilde video resultate. Windows het nie toegelaat dat die lewendige teël opdateer nie.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} gewilde video resultate. Die lewendige teël wys nou die topresultaat.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} gewilde video resultate. Die regstreekse teël kon nie opgedateer word nie.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google het nie hierdie rekening toegang tot profieldata gegee nie. Meld af, begin weer Google-aanmelding en aanvaar die YouTube-leesalleen-omvang.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} het video's gelaai wat gelaai is.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Die versoek om gelaaikte video's kon nie bereik word nie. Gaan die netwerkverbinding na.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Die versoek vir gelaaikte video's het uitgetel. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profiel gelaai.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profiel kon nie tydens {0} (0x{1}) laai nie. Maak Diagnostics oop vir besonderhede.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Laai tans geverifieerde profiel...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Laai tans gelaaikte video's...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Laai tans meer gelaaikte video's...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Laai tans nog snitlysvideo's...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Laai tans nog opgelaaide video's...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Laai tans snitlysvideo's...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} intekenare | {1:N0} video's | {2:N0} aansigte</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google het geen kanaal vir die gemagtigde rekening teruggestuur nie.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Geen gelaaikte video's is teruggestuur nie.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube het nie 'n oplaai-snitlys vir hierdie kanaal verskaf nie.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0}-snitlyste gelaai. Kies een om sy video's te sien.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Die snitlysteversoek kon nie bereik word nie. Gaan die netwerkverbinding na.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Die snitlysteversoek het uitgetel. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} snitlysvideo's gelaai.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Die snitlysvideo's-versoek kon nie bereik word nie. Gaan die netwerkverbinding na.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Die snitlysvideoversoek het uitgetel. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Die geverifieerde YouTube API kon nie bereik word nie. Gaan die netwerkverbinding na.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Die geverifieerde YouTube-versoek het uitgetel. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Kies Laai gelaaide video's om jou gelaaide versameling aan te vra.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Kies 'n snitlys hierbo om sy video's te laai.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanaal</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>het video's gehou</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>snitlyste</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>snitlys video's</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>begin</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>intekeninge</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>opgelaaide video's</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0}-intekeninge gelaai.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Die intekeningversoek kon nie bereik word nie. Gaan die netwerkverbinding na.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Die intekeningversoek het uitgetel. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} As hierdie rekening gemagtig is voordat profiel bygevoeg is, meld weer aan om die YouTube-leesalleen-omvang toe te staan.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} opgelaaide video's gelaai.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Die opgelaaide video's-versoek kon nie bereik word nie. Gaan die netwerkverbinding na.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Die opgelaaide video's-versoek het uitgetel. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Laai tans gesteunde streke...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Gesteunde streke kon nie laai nie. Gaan die netwerkverbinding na.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Gesteunde streke kon nie laai nie omdat die YouTube Data API-versoek uitgetel het.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube het geen gesteunde streke teruggegee nie. Die gebruik van die Verenigde State.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Verenigde State</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Voer 'n API-sleutel in of gebruik Clear API-sleutel.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>'n Beperkte invoertoestel-OAuth-kliënt-ID word vereis.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>'n Beperkte invoertoestel-OAuth-kliëntgeheim word vereis.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Soek tans …</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} publieke video-resultate.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Hierdie toepassing is nie met Google of YouTube geaffilieer nie.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Bou {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube is 'n moderne UWP-toepassing om YouTube via YouTube se publieke API te blaai.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Ontwikkel deur:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Gebruik ingeboude UniTube-konfigurasie vir publieke data. Om hier te stoor, ignoreer dit.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Geen API-sleutel is opgestel nie.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Jou API-sleutel word in Windows Credential Locker gestoor.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google-magtiging gekanselleer.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google-magtiging voltooi. Profiellees en video-oplaaie is beskikbaar.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0}-kode verval in {1:D2}:{2:D2}. Gaan Google elke {3} sekondes na.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google-magtiging kon nie die token-eindpunt kontak nie. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google-magtiging is verwyder. Begin Google-aanmelding voordat u Profiel oopmaak of oplaai.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>'n Google-rekening is gemagtig vir profiellees en video-oplaaie. Meld weer aan as hierdie teken voor profiel is.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google-magtiging het onverwags misluk (0x{0}). Maak Diagnostics oop nadat u die toepassing herbegin het.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Gebruik ingeboude UniTube-konfigurasie vir profiel en oplaaie. Begin eers Google-aanmelding.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Beperkte invoertoestel-OAuth-eiebewyse is gestoor. As enige van die waardes verander het, meld weer aan voor oplaai.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Gestoorde OAuth-eiebewyse is opgestel. Begin Google-aanmelding voordat u Profiel oopmaak of oplaai.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>'n Onvolledige gestoorde OAuth-oorskrywing is geïgnoreer. Gebruik ingeboude UniTube-konfigurasie vir profiel en oplaaie.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Bestuurde OAuth-opstelling is beskikbaar. Begin Google-aanmelding voordat u Profiel oopmaak of oplaai.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Stoor OAuth-eiebewyse en begin dan Google-aanmelding voor jy Profiel oopmaak of oplaai.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kode: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Verifikasiekode het verval. Versoek tans 'n nuwe kode...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Voer die kode in daardie blaaier in. Hierdie foon sal wag vir Google-magtiging.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Jou vorige kode het verval. Voer die nuwe kode in daardie blaaier in.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Op 'n ander foon, tablet of rekenaar met 'n huidige blaaier, besoek: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Wag tans vir Google-goedkeuring.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Oplaai is gekanselleer. Die gedeeltelik opgelaaide hervatbare sessie is nie voortgesit nie.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Kanselleer tans oplaai …</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Oplaai voltooi. YouTube verwerk die video.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Oplaai voltooi. Video ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Die videobeskrywing moet 5 000 karakters of minder wees.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Kies 'n videolêer wat data bevat.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Die gekose lêer het voor sy gerapporteerde lengte geëindig.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Kies 'n videolêer voor oplaai.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Die gekose video is te groot om op te laai.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Die oplaai kon nie YouTube bereik nie. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube het nie 'n voltooide oplaai-antwoord teruggestuur nie.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube het nie 'n hervatbare oplaailigging teruggegee nie.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Kies privaat, ongenoteerde of publieke privaatheid.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} van {1:N0} grepe opgelaai ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Gereed om {0} op te laai.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube-oplaai het {0} ({1}) teruggekeer. {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} grepe)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Videokeuse is gekanselleer.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Begin tans hervatbare oplaai …</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Die oplaai het uitgetel. Gaan die netwerkverbinding na en probeer weer.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Voer 'n titel in voor oplaai.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Die videotitel moet 100 karakters of minder wees.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Kies 'n herkende videolêer.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Laai tans videobesonderhede...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Gepubliseer {0} | {1:N0} aansigte | duur {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Speel in app maak YouTube se amptelike mobiele kykbladsy oop.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Afspeel het begin, maar sy metadata kon nie vir die lewendige teël gestoor word nie.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Afspeel het begin, maar Windows het nie toegelaat dat die regstreekse teël opdateer nie.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Afspeel het begin, maar die regstreekse teël kon nie opgedateer word nie.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Die gevraagde video is nie beskikbaar nie.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>'n Video-ID word vereis.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Spesiale dank</value>
+  </data>
+</root>

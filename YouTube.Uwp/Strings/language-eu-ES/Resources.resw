@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>NARAKATZAILE PUBLIKOA</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>EZARPENAK</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>ETXERA</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>BILATU</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORIAK</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PERFILA</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>ezagutu</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Azken bideo ezagunak, telefonoaren lehen diseinu klasikoan.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>ORAIN JOERA</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Kargatu zure eskualdeko bideo ezagunak</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>bideo ezagunak</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Aukeratu Trending Now emaitza publikoak kargatzeko.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>bilatu</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Bilatu YouTube-ko bideo publikoak erabiltzaileek emandako API gakoarekin.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Bilaketa-terminoak</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Bilatu YouTuben</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>BILATU</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>HERRIKOIA</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>ESKUALDEA</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategoriak</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Sakatu kategoria bat bere egungo bideo ezagunak zabaltzeko. Sakatu berriro tolestu eta beste bat aukeratzeko.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profila</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Kontuaren datuak zure YouTube-ko konexio autentifikatuaren bidez eskuragarri daude.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>BURUZ</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API gakoa gainidaztea</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Utzi hutsik kudeatutako konfigurazioa erabiltzeko</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ ATZERA</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>Utzi</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>kanal honi buruz</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>kanalaren xehetasunak</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>ARGI</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Kredentzial pertsonalak Windows Credential Locker-en soilik gordetzen dira.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Deskribapena</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Aukerakoa</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>deskribapena</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Erregistro honek aplikazioen erroreak eta OAuth-en mugarriak erregistratzen ditu. Kredentzialak, baimen-kodeak eta tokenak baztertuta daude.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostikoak</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profila irakurtzeko eta kargatzeko, erabili Google TVs eta sarrera mugatuko gailu OAuth bezeroa. Ez da birbideratzeko URIrik erabiltzen. Kudeatutako tokiko eraikuntza-balioak ezkutuan geratzen dira; Hemen kredentzialak gordetzeak baliogabetzen ditu.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google kontua</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Aplikazio barruko erreprodukzioak YouTube-ren mugikorretarako orri ofiziala erabiltzen du. Aplikazio honek ez ditu multimedia URLak ateratzen edo deskargatzen.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>gustatu zaizkien bideoak</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>KARGATU GUSTUKO DITUZTEN BIDEOAK</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>KARGATU GUSTATUTAKO BIDEOAK GEHIAGO</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>KARGATU Erreprodukzio-zerrenda GEHIAGO</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>KARGATU ERREprodukzio-zerrendako BIDEO GEHIAGO</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>KARGATU HARPIDETZA GEHIAGO</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>KARGATU KGOGATUTAKO BIDEO GEHIAGO</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Sarrera mugatuko gailuaren OAuth bezero IDa gainidaztea</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Utzi hutsik kudeatutako konfigurazioa erabiltzeko</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Sarrera mugatuko gailua OAuth bezeroaren sekretua gainidaztea</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Utzi hutsik kudeatutako konfigurazioa erabiltzeko</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Gorde kredentzialak, eta, gero, hasi Google saioa hasteko. Beheko egiaztapen-kodea beste gailu batean sartu da; Aplikazio honek ez du inoiz saioa hasteko inprimakirik irekitzen. Hasi saioa berriro eguneratze honen ondoren profila irakurtzeko sarbidea emateko.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>KANELA IREKI</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>IREKI NARAKATZAILEAN</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>jokalaria</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>JOLASTU APLIKAZIOAN</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>erreprodukzio-zerrendak</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>erreprodukzio zerrendako bideoak</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Pribatutasuna</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>pribatua</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Mugatutako API gako bat irakurtzeko soilik den YouTube Data API v3 deietarako soilik erabiltzen da. Kudeatutako tokiko eraikuntza-balioak ezkutuan geratzen dira; hemen gordetzeak gailentzen ditu.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>datu publikoen sarbidea</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>publikoa</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>FRESKATU</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>FRESKATU PROFILA</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Modu seguruak YouTube-ren SafeSearch ezarpen zorrotza erabiltzen du bilaketak egiteko. Ez du YouTube Kids katalogoa edo iragazki ezagunak, kategoriak eta kontu-jarioak eskaintzen.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>modu segurua</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Erabili SafeSearch zorrotza bideo publikoen bilaketak egiteko</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>GORDE API GAKOA</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>GORDE ERREGISTROA</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>GORDE KREDENTZIALAK</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Ez da bideorik hautatu.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>HAUTATU BIDEOA</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>ezarpenak</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>HASI GOOGLE SAIOA HARTZEN</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>AMAITU</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>HASI KARGATZEN</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>harpidetzak</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Izenburua</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Beharrezkoa</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>zerrendatu gabea</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Ikusi-historia eta Geroago ikusi ez dira ikusgai v3 bilduma irakurgarri gisa. UniTube-k ez ditu emulatzen edo gaizki etiketatzen.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>ez du onartzen YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>igotako bideoak</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>igo</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Hautatu tokiko bideo bat, eta kargatu baimendutako Google kontuaren bidez.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>bideoa igo</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Bideo bat hautatzeko prest.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Kargatzeko, OAuth ezarpenak eta Ezarpenetatik Google-ren saioa amaitu behar dira.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>BIDEOA IGO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>bideoaren xehetasunak</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>IKUSI DIAGNOSTIKOAK</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>IKUSI YOUTUBEN</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} kategoriak eskuragarri daude {1}entzat.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Kategoriak kargatzen...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} bideoak kargatzen...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} {1} {2} bideo ezagunak.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Kanalaren IDa behar da.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Kanalaren xehetasunak kargatzen...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} harpidedunak | {1:N0} bideoak | {2:N0} ikuspegiak</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Eskatutako kanala ez dago erabilgarri.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ITXI</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>Ezin izan da YouTube Data APIra iritsi. Egiaztatu sareko konexioa.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API eskaera denbora-muga gainditu da. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>ezezaguna</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google-ren baimenak ez du sarbide-token bat eman. Hasi saioa berriro.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google konturako sarbidea ez dago konfiguratuta. Hasi saioa Profila ireki aurretik.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Gehitu Google API gako bat YouTube Data API v3 funtzio publikoak erabili aurretik.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Kanalaren IDa behar da.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Autentifikatutako YouTube Data APIak erantzun baliogabea eman du. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data APIak erantzun baliogabea eman du. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Erreprodukzio-zerrendaren IDa behar da.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 {0} ({1}) itzuli da. {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Idatzi testua bilatzeko.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Bideoaren IDa behar da.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Garbitu da diagnostiko-erregistroa.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>{0}-n gorde da diagnostiko-erregistroa.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Ez da diagnostiko-gertaerarik erregistratu.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Diagnostiko-erregistroa gordetzea bertan behera utzi da.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Ezin izan da diagnostiko-erregistroa gorde (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Testu fitxategia</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Azken jokatutakoa</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Bideoaren metadatuak beharrezkoak dira zuzeneko lauza eguneratzeko.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Orain modan</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Joera orain ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Modan dagoen bideoaren izenburua behar da.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google gailuaren baimena iraungi da.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google-ren gailuaren baimena ez da osatu: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Google-ren baimena berriro osatu behar da kargatu aurretik.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Ezin izan da Google gailuaren baimena hasi: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Ezarri sarrera mugatuko gailuko OAuth bezero ID bat saioa hasi aurretik.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Ezarri sarrera mugatuko gailuaren OAuth bezeroaren sekretua saioa hasi aurretik.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google-k sarrera mugatuko gailuko OAuth bezeroa baztertu du (invalid_client). Egiaztatu bezeroaren IDa eta bezeroaren sekretua.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google-k sarrera mugatuko gailuaren OAuth kredentzialak baztertu ditu (invalid_client). Egiaztatu bezeroaren IDa eta bezeroaren sekretua.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google gailuaren baimenak erantzun baliogabea eman du.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google token amaierako puntuak erantzun baliogabea eman du.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google-ren gailuaren baimenak ez ditu egiaztapen-kode eta URL erabilgarririk itzuli.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google token amaiera-puntuak ez du sarbide-token bat itzuli.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Ez dago Google konturik baimendurik. Hasi saioa hasten lehenik.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google-k bozketa motelagoa eskatu zuen.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Biltegiratutako OAuth tokenaren iraungipena gaizki osatuta dago. Hasi saioa berriro.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Biltegiratutako OAuth tokena gaizki osatuta dago. Hasi saioa berriro.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Huts egin du Google-ren token-a freskatu: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google-ren baimena osatu da, baina Windows Credential Locker-ek ezin izan du tokena gorde (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Aplikazioko erreproduzitzaileak ezin izan du bideo hau kargatu. Ireki arakatzailean.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>YouTube-ren ikustaldi-orri ofiziala kargatzen...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Bideoaren IDa behar da aplikazioan erreproduzitzeko.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} bideoak</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Bideo ezagunak kargatzen...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} bideo-emaitza ezagunak.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} bideo-emaitza ezagunak. Windows-ek ez zuen baimendu zuzeneko lauza eguneratzen.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} bideo-emaitza ezagunak. Zuzeneko fitxak emaitzarik onena erakusten du orain.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} bideo-emaitza ezagunak. Zuzeneko lauza ezin izan da eguneratu.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google-k ez dio kontu honi profileko datuetarako sarbidea eman. Amaitu saioa, hasi Google saioa berriro eta onartu YouTube irakurtzeko soilik esparrua.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0}-k kargatutako bideoak gustatu zaizkio.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Ezin izan da gustatu zaizkigun bideoen eskaerari heldu. Egiaztatu sareko konexioa.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Atsegindako bideoen eskaera denbora-muga gainditu da. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profila kargatu da.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Ezin izan da profila kargatu {0} (0x{1}) bitartean. Ireki Diagnostikoak xehetasunetarako.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Autentifikatutako profila kargatzen...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Gustatutako bideoak kargatzen...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Gustatu zaizkigun bideo gehiago kargatzen...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Erreprodukzio-zerrendako bideo gehiago kargatzen...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Kargatutako bideo gehiago kargatzen...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Erreprodukzio zerrendako bideoak kargatzen...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} harpidedunak | {1:N0} bideoak | {2:N0} ikuspegiak</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google-k ez dio kanalik itzuli baimendutako kontuari.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Ez da gustatu zaizun bideorik itzuli.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube-k ez du eman kanal honetarako kargatutako erreprodukzio-zerrendarik.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} erreprodukzio-zerrendak kargatu dira. Hautatu bat bere bideoak ikusteko.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Ezin izan da erreprodukzio-zerrenden eskaerari heldu. Egiaztatu sareko konexioa.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Erreprodukzio-zerrenden eskaera denbora-muga gainditu da. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} erreprodukzio-zerrendako bideoak kargatu dira.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Ezin izan da erreprodukzio-zerrendako bideo-eskaera iritsi. Egiaztatu sareko konexioa.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Erreprodukzio-zerrendako bideoen eskaera denbora-muga gainditu da. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Ezin izan da autentifikatutako YouTube APIra iritsi. Egiaztatu sareko konexioa.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Autentifikatutako YouTube eskaera denbora-muga gainditu da. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Hautatu Kargatu gustatu zaizkizuen bideoak gustatu zaizun bilduma eskatzeko.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Hautatu goiko erreprodukzio-zerrenda bere bideoak kargatzeko.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanala</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>gustatu zaizkien bideoak</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>erreprodukzio-zerrendak</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>erreprodukzio zerrendako bideoak</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>hasiz</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>harpidetzak</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>igotako bideoak</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} harpidetzak kargatu dira.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Ezin izan da harpidetza eskaerari heldu. Egiaztatu sareko konexioa.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Harpidetza eskaerak denbora-muga gainditu du. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Profila gehitu aurretik kontu hau baimendu bazen, hasi saioa berriro YouTube irakurtzeko soilik den esparrua emateko.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0}-k bideoak kargatu ditu.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Ezin izan da kargatutako bideoen eskaerari heldu. Egiaztatu sareko konexioa.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Kargatutako bideoen eskaera denbora-muga gainditu da. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Onartutako eskualdeak kargatzen...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Onartutako eskualdeak ezin izan dira kargatu. Egiaztatu sareko konexioa.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Onartutako eskualdeak ezin izan dira kargatu YouTube Data API eskaera denbora-muga gainditu delako.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube-k ez du onartutako eskualderik itzuli. Estatu Batuak erabiliz.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Estatu Batuak</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Sartu API gako bat edo erabili Garbitu API gakoa.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Sarrera mugatuko gailuaren OAuth bezero IDa behar da.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Sarrera mugatuko gailuko OAuth bezeroaren sekretua behar da.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Bilatzen...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} bideo publikoaren emaitzak.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Aplikazio hau ez dago Google edo YouTube-rekin afiliatuta.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Eraiki {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube YouTube-ren API publikoaren bidez YouTube arakatzeko UWP aplikazio modernoa da.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Honek garatua:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Datu publikoetarako UniTube konfigurazio integratua erabiliz. Hemen gordetzeak baliogabetzen du.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Ez dago API gakorik konfiguratuta.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Zure API gakoa Windows Credential Locker-en gordetzen da.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google-ren baimena bertan behera utzi da.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google-ren baimena osatu da. Profilen irakurketak eta bideoak kargatzeko aukera dago.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} kodea {1:D2}:{2:D2}-n iraungiko da. {3} segundoro Google egiaztatzen.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google-ren baimena ezin izan da token amaiera-puntuarekin harremanetan jarri. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google-ren baimena kendu da. Hasi saioa Google Profile ireki edo kargatu aurretik.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google kontu bat baimenduta dago profilak irakurtzeko eta bideoak kargatzeko. Hasi saioa berriro token hau Profila baino lehenagokoa bada.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google-ren baimenak huts egin du ustekabean (0x{0}). Ireki Diagnostikoak aplikazioa berrabiarazi ondoren.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Profilerako eta kargatzeko UniTube konfigurazio integratua erabiliz. Hasi saioa Google-n lehenik.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Sarrera mugatuko gailuaren OAuth kredentzialak gorde dira. Balioren bat aldatzen bada, hasi saioa berriro kargatu aurretik.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Gordetako OAuth kredentzialak konfiguratuta daude. Hasi saioa Google-n Profile ireki edo kargatu aurretik.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Osatu gabeko gordetako OAuth gainidatzi bati ez ikusi egin zaio. Profilerako eta kargatzeko UniTube konfigurazio integratua erabiliz.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Kudeatutako OAuth konfigurazioa eskuragarri dago. Hasi saioa Google-n Profile ireki edo kargatu aurretik.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Gorde OAuth-eko kredentzialak, eta, gero, hasi Google saioa hasi Profila ireki edo kargatu aurretik.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kodea: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Egiaztapen-kodea iraungi da. Kode berri bat eskatzen...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Sartu kodea arakatzaile horretan. Telefono honek Google-ren baimenaren zain egongo da.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Zure aurreko kodea iraungi egin da. Sartu kode berria arakatzaile horretan.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Uneko arakatzailea duen beste telefono, tablet edo ordenagailu batean, bisitatu: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Google-ren onespenaren zain.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Kargatzea bertan behera utzi da. Partzialki kargatu daitekeen saioa ez da jarraitu.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Kargatzea bertan behera uzten...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Kargatu da. YouTube bideoa prozesatzen ari da.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Kargatu da. Bideoaren IDa: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Bideoaren deskribapenak 5.000 karaktere edo gutxiago izan behar ditu.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Hautatu datuak dituen bideo fitxategi bat.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Hautatutako fitxategia jakinarazi zuen luzera baino lehen amaitu zen.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Hautatu bideo-fitxategi bat kargatu aurretik.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Hautatutako bideoa handiegia da kargatzeko.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Kargatzea ezin izan da YouTubera iritsi. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube-k ez du kargatze-erantzun osaturik itzuli.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube-k ez du berriro kargatzeko kokapenik itzuli.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Hautatu pribatutasun pribatua, zerrendarik gabekoa edo publikoa.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} {1:N0} byte kargatu dira ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>{0} kargatzeko prest.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube kargatzea {0} ({1}) itzuli da. {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} byte)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Bideoaren hautaketa bertan behera utzi da.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Berrekiteko kargatzen hasten...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Kargatzeko denbora-muga gainditu da. Egiaztatu sareko konexioa eta saiatu berriro.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Sartu izenburu bat kargatu aurretik.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Bideoaren izenburuak 100 karaktere edo gutxiago izan behar ditu.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Hautatu aitortutako bideo-fitxategi bat.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Bideoaren xehetasunak kargatzen...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>{0} argitaratua | {1:N0} bistak | iraupena {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Erreproduzitu aplikazioan YouTube-ren mugikorretarako orri ofiziala irekitzen da.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Erreprodukzioa hasi zen, baina bere metadatuak ezin izan dira gorde zuzeneko lauzarako.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Erreprodukzioa hasi zen, baina Windows-ek ez zuen baimendu zuzeneko lauza eguneratzen.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Erreprodukzioa hasi zen, baina zuzeneko lauza ezin izan da eguneratu.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Eskatutako bideoa ez dago erabilgarri.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Bideoaren IDa behar da.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Eskerrak bereziak</value>
+  </data>
+</root>

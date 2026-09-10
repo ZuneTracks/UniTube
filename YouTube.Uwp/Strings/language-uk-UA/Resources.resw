@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>ПУБЛІЧНИЙ БРАУЗЕР</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>НАЛАШТУВАННЯ</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>ДІМ</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>ПОШУК</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>КАТЕГОРІЇ</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>ПРОФІЛЬ</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>виявити</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Найновіші популярні відео в класичному компонуванні для телефонів.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>У ТЕНДЕ</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Завантажуйте популярні відео для вашого регіону</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>популярні відео</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Виберіть «Популярні зараз», щоб завантажити загальнодоступні результати.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>пошук</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Знаходьте загальнодоступні відео YouTube за допомогою наданого користувачем ключа API.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Пошукові терміни</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Пошук на YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>ПОШУК</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>ПОПУЛЯРНИЙ</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>РЕГІОН</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>категорії</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Торкніться категорії, щоб розгорнути поточні популярні відео. Торкніться його ще раз, щоб згорнути та вибрати інший.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>профіль</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Дані облікового запису доступні через автентифіковане підключення YouTube.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>ПРО</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Заміна ключа Google API</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Залиште поле порожнім, щоб використовувати керовану конфігурацію</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ НАЗАД</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>СКАСУВАТИ</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>про цей канал</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>деталі каналу</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>ЯСНО</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Особисті облікові дані зберігаються лише в Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>опис</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Додатково</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>опис</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>У цьому журналі записуються помилки додатків і етапи OAuth. Облікові дані, коди авторизації та токени виключаються.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>діагностика</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Профіль читається та завантажується за допомогою клієнта OAuth Google TV і пристрою з обмеженим введенням. URI перенаправлення не використовується. Значення керованої локальної збірки залишаються прихованими; збереження облікових даних тут замінює їх.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>обліковий запис Google</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Для відтворення в додатку використовується офіційна сторінка YouTube для мобільних пристроїв. Ця програма не витягує та не завантажує URL-адреси медіафайлів.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>сподобалися відео</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>ЗАВАНТАЖИТИ ВІДЕО, СПОДОБАЛИСЯ</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>ЗАВАНТАЖИТИ БІЛЬШЕ ВІДЕО, СПОДОБАЛИСЯ</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>ЗАВАНТАЖИТИ ІНШІ СПИСКИ ВІДТВОРЕННЯ</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>ЗАВАНТАЖИТИ БІЛЬШЕ СПИСОК ВІДТВОРЕННЯ ВІДЕО</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>ЗАВАНТАЖИТИ ІНШІ ПІДПИСКИ</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>ЗАВАНТАЖИТИ БІЛЬШЕ ЗАВАНТАЖЕНИХ ВІДЕО</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Заміна ідентифікатора клієнта OAuth пристрою обмеженого введення</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Залиште поле порожнім, щоб використовувати керовану конфігурацію</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Перевизначення секрету клієнта OAuth пристрою обмеженого введення</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Залиште поле порожнім, щоб використовувати керовану конфігурацію</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Збережіть облікові дані та розпочніть вхід у Google. Наведений нижче код перевірки введено на іншому пристрої; ця програма ніколи не відкриває форму входу. Увійдіть знову після цього оновлення, щоб надати доступ для читання профілю.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ВІДКРИТИЙ КАНАЛ</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ВІДКРИТИ В БРАУЗЕРІ</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>гравець</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>ГРАТИ В ДОДАТКУ</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>списки відтворення</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>відео в списку відтворення</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Конфіденційність</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>приватний</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Обмежений ключ API використовується лише для викликів YouTube Data API v3. Значення керованої локальної збірки залишаються прихованими; збереження тут замінює їх.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>публічний доступ до даних</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>громадськість</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>ОНОВИТИ</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>ОНОВИТИ ПРОФІЛЬ</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>У безпечному режимі для пошуку використовуються суворі налаштування SafeSearch YouTube. Він не надає каталог YouTube Kids або не фільтрує канали популярних, категорій і облікових записів.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>безпечний режим</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Використовуйте строгий безпечний пошук для загальнодоступного пошуку відео</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>ЗБЕРЕГТИ КЛЮЧ API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ЗБЕРЕГТИ ЖУРНАЛ</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>ЗБЕРЕГТИ ОБЛІКОВІ ДАНІ</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Відео не вибрано.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>ВИБЕРІТЬ ВІДЕО</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>налаштування</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ПОЧАТИ ВХІД У GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ВИЙТИ</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ПОЧАТИ ЗАВАНТАЖУВАННЯ</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>підписки</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Назва</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Обов'язковий</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>не перераховані</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Історія переглядів і «Переглянути пізніше» не відображаються як доступні для читання колекції v3. UniTube не емулює та не позначає їх неправильно.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>не підтримується YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>завантажених відео</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>завантажити</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Виберіть локальне відео та завантажте його через авторизований обліковий запис Google.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>завантажити відео</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Готовий вибрати відео.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Для завантаження потрібні налаштування OAuth і завершений вхід у Google із налаштувань.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>ЗАВАНТАЖИТИ ВІДЕО</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>подробиці відео</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>ПЕРЕГЛЯНУТИ ДІАГНОСТИКУ</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>ДИВИТИСЯ НА YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>Категорії {0:N0} доступні для {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Завантаження категорій...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Завантаження відео {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} популярні відео {1} для {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Потрібен ідентифікатор каналу.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Завантаження деталей каналу...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>Підписники {0:N0} | {1:N0} відео | Перегляди {2:N0}</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Запитуваний канал недоступний.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ЗАКРИТИ</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>Не вдалося отримати доступ до API даних YouTube. Перевірте підключення до мережі.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Час очікування запиту YouTube Data API минув. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>невідомий</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Авторизація Google не надає маркер доступу. Увійдіть знову.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Доступ до облікового запису Google не налаштовано. Увійдіть перед відкриттям профілю.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Додайте ключ Google API перед використанням загальнодоступних функцій YouTube Data API v3.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Потрібен ідентифікатор каналу.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Автентифікований API даних YouTube повернув недійсну відповідь. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>API даних YouTube повернув недійсну відповідь. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Потрібен ідентифікатор списку відтворення.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 повернув {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Введіть текст для пошуку.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Потрібен ідентифікатор відео.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Журнал діагностики очищено.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Журнал діагностики збережено в {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Жодних діагностичних подій не зареєстровано.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Збереження журналу діагностики скасовано.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Не вдалося зберегти журнал діагностики (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Текстовий файл</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Востаннє грали</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Для оновлення живої плитки потрібні метадані відео.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>У тренді зараз</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Популярні зараз ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Потрібна назва популярного відео.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Термін авторизації пристрою Google минув.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Авторизацію пристрою Google не завершено: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Перед завантаженням потрібно ще раз пройти авторизацію Google.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Не вдалося розпочати авторизацію пристрою Google: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Установіть ідентифікатор клієнта OAuth пристрою з обмеженим введенням перед входом.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Установіть секрет клієнта OAuth пристрою з обмеженим введенням перед входом.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google відхилив клієнт OAuth пристрою з обмеженим введенням (invalid_client). Перевірте ідентифікатор клієнта та секрет клієнта.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google відхилив облікові дані OAuth пристрою з обмеженим введенням (invalid_client). Перевірте ідентифікатор клієнта та секрет клієнта.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Авторизація пристрою Google повернула недійсну відповідь.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Кінцева точка маркера Google повернула недійсну відповідь.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Авторизація пристрою Google не повернула придатний код підтвердження та URL-адресу.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Кінцева точка маркера Google не повернула маркер доступу.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Обліковий запис Google не авторизовано. Спочатку почніть вхід.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google подав запит на повільніше опитування.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Термін дії збереженого токена OAuth має неправильний формат. Увійдіть знову.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Збережений маркер OAuth має неправильний формат. Увійдіть знову.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Не вдалося оновити маркер Google: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Авторизацію Google завершено, але Windows Credential Locker не зміг зберегти маркер (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Програвач у програмі не може завантажити це відео. Натомість відкрийте його у браузері.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Завантаження офіційної сторінки перегляду YouTube...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Для відтворення в додатку потрібен ідентифікатор відео.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} відео</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Завантаження популярних відео...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>Популярні результати відео {0:N0}.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>Популярні результати відео {0:N0}. Windows не дозволила оновити живу плитку.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>Популярні результати відео {0:N0}. Жива плитка тепер показує найкращий результат.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>Популярні результати відео {0:N0}. Не вдалося оновити живу плитку.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google не надав цьому обліковому запису доступ до даних профілю. Вийдіть, знову ввійдіть у Google і прийміть доступ YouTube лише для читання.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>Завантажено відео, які сподобалися {0:N0}.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Не вдалося отримати запит на відео, які сподобалися. Перевірте підключення до мережі.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Час очікування запиту відео, що сподобалося, минув. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Профіль завантажено.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Не вдалося завантажити профіль під час {0} (0x{1}). Щоб дізнатися більше, відкрийте Діагностику.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Завантаження автентифікованого профілю...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Завантаження відео, які сподобалися...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Завантаження інших відео, які сподобалися...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Завантаження інших відео в списку відтворення...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Завантаження інших завантажених відео...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Завантаження відео зі списку відтворення...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>Підписники {0:N0} | {1:N0} відео | Перегляди {2:N0}</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google не повернув жодного каналу для авторизованого облікового запису.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Жодне відео, яке сподобалося, не повернуто.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube не надав списку відтворення для цього каналу.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>Завантажено списки відтворення {0:N0}. Виберіть один, щоб переглянути його відео.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Не вдалося отримати запит на списки відтворення. Перевірте підключення до мережі.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Час очікування запиту списків відтворення минув. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>Завантажено відео зі списку відтворення {0:N0}.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Не вдалося отримати запит на відео в списку відтворення. Перевірте підключення до мережі.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Час очікування запиту на відео в списку відтворення минув. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Не вдалося отримати доступ до автентифікованого API YouTube. Перевірте підключення до мережі.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Час очікування автентифікованого запиту YouTube минув. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Виберіть Завантажити відео, які сподобалися, щоб надіслати запит на колекцію, яка сподобалася.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Виберіть список відтворення вище, щоб завантажити його відео.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>канал</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>сподобалися відео</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>списки відтворення</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>відео в списку відтворення</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>починаючи</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>підписки</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>завантажених відео</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} підписки завантажено.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Не вдалося отримати запит на підписку. Перевірте підключення до мережі.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Час очікування запиту на підписку минув. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Якщо цей обліковий запис було авторизовано до додавання профілю, увійдіть знову, щоб надати доступ YouTube лише для читання.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} завантажено відео.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Не вдалося отримати запит на завантажені відео. Перевірте підключення до мережі.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Час очікування запиту на завантажені відео минув. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Завантаження підтримуваних регіонів...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Не вдалося завантажити підтримувані регіони. Перевірте підключення до мережі.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Не вдалося завантажити підтримувані регіони, оскільки минув час очікування запиту YouTube Data API.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube не повернув жодного підтримуваного регіону. Використання Сполучених Штатів.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>США</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Введіть ключ API або скористайтеся Очистити ключ API.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Потрібен ідентифікатор клієнта OAuth пристрою з обмеженим введенням.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Потрібен секрет клієнта OAuth пристрою з обмеженим введенням.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Пошук...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} публічні результати відео.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Ця програма не пов’язана з Google або YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Збірка {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube — це сучасна програма UWP для перегляду YouTube через публічний API YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Розроблено:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Використання вбудованої конфігурації UniTube для публічних даних. Збереження тут перекриває це.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Ключ API не налаштовано.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Ваш ключ API зберігається в Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Авторизацію Google скасовано.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Авторизацію Google завершено. Доступні читання профілю та завантаження відео.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Термін дії коду закінчується через {1:D2}:{2:D2}. Перевірка Google кожні {3} секунд.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Авторизації Google не вдалося зв’язатися з кінцевою точкою маркера. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Авторизацію Google видалено. Розпочніть вхід у Google, перш ніж відкривати профіль або завантажувати.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Обліковий запис Google авторизовано для читання профілю та завантаження відео. Увійдіть ще раз, якщо цей маркер був створений раніше за профіль.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Несподівана помилка авторизації Google (0x{0}). Відкрийте Діагностику після перезапуску програми.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Використання вбудованої конфігурації UniTube для профілю та завантажень. Спочатку почніть вхід Google.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Облікові дані OAuth пристрою з обмеженим введенням збережено. Якщо будь-яке значення змінилося, увійдіть ще раз перед завантаженням.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Збережені облікові дані OAuth налаштовано. Розпочніть вхід у Google, перш ніж відкривати профіль або завантажувати.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Неповне збережене перевизначення OAuth було проігноровано. Використання вбудованої конфігурації UniTube для профілю та завантажень.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Доступна керована конфігурація OAuth. Розпочніть вхід у Google перед відкриттям профілю або завантаженням.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Збережіть облікові дані OAuth, а потім запустіть вхід Google, перш ніж відкривати профіль або завантажувати.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Код: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Код підтвердження закінчився. Запит на новий код...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Введіть код у цьому браузері. Цей телефон чекатиме авторизації Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Термін дії вашого попереднього коду минув. Введіть новий код у цьому браузері.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>На іншому телефоні, планшеті чи комп’ютері з поточним браузером відвідайте: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Очікування на схвалення Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Завантаження скасовано. Частково завантажений відновлюваний сеанс не було продовжено.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Скасування завантаження...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Завантаження завершено. YouTube обробляє відео.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Завантаження завершено. Ідентифікатор відео: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Опис відео має містити 5000 символів або менше.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Виберіть відеофайл, який містить дані.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Вибраний файл закінчився раніше заявленої довжини.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Виберіть відеофайл перед завантаженням.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Вибране відео завелике для завантаження.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Завантажений файл не досяг YouTube. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube не повернув завершену відповідь на завантаження.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube не повернув місце для відновлення завантаження.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Виберіть приватну, приватну або публічну конфіденційність.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Завантажено {0:N0} із {1:N0} байтів ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Готовий до завантаження {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>Завантаження YouTube повернуло {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} байтів)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Відбір відео скасовано.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Початок відновленого завантаження...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Час очікування завантаження минув. Перевірте підключення до мережі та повторіть спробу.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Введіть назву перед завантаженням.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Назва відео має містити 100 символів або менше.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Виберіть розпізнаний відеофайл.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Завантаження деталей відео...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Опубліковано {0} | {1:N0} переглядів | тривалість {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Відтворення в додатку відкриває офіційну сторінку перегляду YouTube для мобільних пристроїв.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Відтворення розпочато, але його метадані не вдалося зберегти для живої плитки.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Відтворення почалося, але Windows не дозволила оновити живу плитку.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Відтворення розпочато, але живу плитку не вдалося оновити.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Потрібне відео недоступне.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Потрібен ідентифікатор відео.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Особлива подяка</value>
+  </data>
+</root>

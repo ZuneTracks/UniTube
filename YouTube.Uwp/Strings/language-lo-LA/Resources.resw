@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>ບຣາວເຊີສາທາລະນະ</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>ການຕັ້ງຄ່າ</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>ຫນ້າທໍາອິດ</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>ຄົ້ນຫາ</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>ໝວດໝູ່</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>ໂປຣໄຟລ໌</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>ຄົ້ນພົບ</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>ວິ​ດີ​ໂອ​ທີ່​ນິ​ຍົມ​ຫລ້າ​ສຸດ​, ໃນ​ຮູບ​ແບບ​ໂທລະ​ສັບ​ຄລາ​ສ​ສິກ​ຄັ້ງ​ທໍາ​ອິດ​.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>ກຳລັງເປັນທີ່ນິຍົມໃນຕອນນີ້</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>ໂຫລດວິດີໂອຍອດນິຍົມສໍາລັບພາກພື້ນຂອງທ່ານ</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>ວິດີໂອຍອດນິຍົມ</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>ເລືອກກຳລັງມາແຮງຕອນນີ້ເພື່ອໂຫຼດຜົນການຊອກຫາສາທາລະນະ.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>ຊອກຫາ</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>ຊອກຫາວິດີໂອ YouTube ສາທາລະນະດ້ວຍລະຫັດ API ທີ່ຜູ້ໃຊ້ສະໜອງໃຫ້ຂອງທ່ານ.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>ຄຳສັບຊອກຫາ</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>ຊອກຫາ YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>ຄົ້ນຫາ</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>ຍອດນິຍົມ</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>ພາກພື້ນ</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>ປະເພດ</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>ແຕະໃສ່ໝວດໝູ່ເພື່ອຂະຫຍາຍວິດີໂອຍອດນິຍົມໃນປັດຈຸບັນ. ແຕະມັນອີກຄັ້ງເພື່ອຫຍໍ້ລົງ ແລະເລືອກອັນອື່ນ.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>ໂປຣໄຟລ໌</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>ຂໍ້​ມູນ​ບັນ​ຊີ​ທີ່​ມີ​ຢູ່​ໂດຍ​ຜ່ານ​ການ​ເຊື່ອມ​ຕໍ່ YouTube ຂອງ​ທ່ານ​ທີ່​ຮັບ​ຮອງ​.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>ກ່ຽວກັບ</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>ການລົບລ້າງລະຫັດ Google API</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>ປ່ອຍຫວ່າງເພື່ອໃຊ້ການຕັ້ງຄ່າທີ່ມີການຈັດການ</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ ກັບຄືນ</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ຍົກເລີກ</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>ກ່ຽວກັບຊ່ອງນີ້</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>ລາຍ​ລະ​ອຽດ​ຊ່ອງ​</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>ອະນາໄມ</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>ຂໍ້ມູນປະຈຳຕົວສ່ວນບຸກຄົນຖືກເກັບໄວ້ໃນ Windows Credential Locker ເທົ່ານັ້ນ.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>ລາຍລະອຽດ</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>ທາງເລືອກ</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>ລາຍລະອຽດ</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>ບັນທຶກນີ້ບັນທຶກຄວາມຜິດພາດຂອງແອັບຯ ແລະຈຸດສຳຄັນຂອງ OAuth. ຂໍ້ມູນປະຈຳຕົວ, ລະຫັດການອະນຸຍາດ, ແລະໂທເຄັນແມ່ນບໍ່ລວມເອົາ.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>ການວິນິດໄສ</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>ໂປຣໄຟລ໌ອ່ານ ແລະອັບໂຫຼດໃຊ້ Google TVs ແລະເຄື່ອງປ້ອນຂໍ້ມູນແບບຈຳກັດ OAuth client. ບໍ່ມີການນໍາໃຊ້ການປ່ຽນເສັ້ນທາງ URI. ການຄຸ້ມຄອງມູນຄ່າການກໍ່ສ້າງໃນທ້ອງຖິ່ນຍັງຄົງເຊື່ອງໄວ້; ການບັນທຶກຂໍ້ມູນປະຈຳຕົວຢູ່ບ່ອນນີ້ຈະລົບລ້າງພວກມັນ.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>ບັນຊີ google</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>ການຫຼິ້ນໃນແອັບຈະໃຊ້ໜ້າເບິ່ງມືຖືຢ່າງເປັນທາງການຂອງ YouTube. ແອັບຯນີ້ບໍ່ໄດ້ສະກັດ ຫຼືດາວໂຫລດ URL ຂອງສື່.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>ວິດີໂອຖືກໃຈ</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>ໂຫລດວິດີໂອທີ່ມັກ</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>ໂຫລດວິດີໂອທີ່ມັກຫຼາຍ</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>ໂຫຼດລາຍການຫຼິ້ນເພີ່ມເຕີມ</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>ໂຫຼດວິດີໂອລາຍການຫຼິ້ນເພີ່ມເຕີມ</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>ໂຫຼດການສະໝັກໃຊ້ເພີ່ມເຕີມ</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>ໂຫຼດວິດີໂອທີ່ອັບໂຫຼດເພີ່ມເຕີມ</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>ອຸປະກອນປ້ອນຂໍ້ມູນແບບຈຳກັດ OAuth client ID override</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>ປ່ອຍຫວ່າງເພື່ອໃຊ້ການຕັ້ງຄ່າທີ່ມີການຈັດການ</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>ອຸປະກອນປ້ອນຂໍ້ມູນແບບຈຳກັດ OAuth client secret override</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>ປ່ອຍຫວ່າງເພື່ອໃຊ້ການຕັ້ງຄ່າທີ່ມີການຈັດການ</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>ບັນທຶກຂໍ້ມູນປະຈຳຕົວ, ຈາກນັ້ນເລີ່ມການເຂົ້າສູ່ລະບົບ Google. ລະຫັດຢືນຢັນຂ້າງລຸ່ມນີ້ແມ່ນໃສ່ໃນອຸປະກອນອື່ນ; ແອັບນີ້ບໍ່ເຄີຍເປີດແບບຟອມເຂົ້າສູ່ລະບົບ. ເຂົ້າສູ່ລະບົບອີກຄັ້ງຫຼັງຈາກການອັບເດດນີ້ເພື່ອໃຫ້ສິດການອ່ານໂປຣໄຟລ໌.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ເປີດຊ່ອງ</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ເປີດໃນບຣາວເຊີ</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>ຜູ້ນ</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>ຫຼິ້ນຢູ່ໃນ APP</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>ລາຍການຫຼິ້ນ</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>ວິດີໂອລາຍການຫຼິ້ນ</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>ຄວາມເປັນສ່ວນຕົວ</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>ສ່ວນຕົວ</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>ລະຫັດ API ທີ່ຖືກຈຳກັດແມ່ນໃຊ້ສໍາລັບການອ່ານຢ່າງດຽວຂອງການໂທ YouTube Data API v3. ການຄຸ້ມຄອງມູນຄ່າການກໍ່ສ້າງໃນທ້ອງຖິ່ນຍັງຄົງເຊື່ອງໄວ້; ການບັນທຶກທີ່ນີ້ overrides ເຂົາເຈົ້າ.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>ການເຂົ້າເຖິງຂໍ້ມູນສາທາລະນະ</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>ສາທາລະນະ</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>ໂຫຼດຂໍ້ມູນຄືນໃໝ່</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>ໂຫຼດຂໍ້ມູນໂປຣໄຟລ໌ຄືນໃໝ່</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Safe Mode ໃຊ້ການຕັ້ງຄ່າ SafeSearch ທີ່ເຂັ້ມງວດຂອງ YouTube ສໍາລັບການຊອກຫາ. ມັນບໍ່ໄດ້ສະໜອງລາຍການ YouTube Kids ຫຼືການກັ່ນຕອງທີ່ນິຍົມ, ໝວດໝູ່, ແລະຟີດບັນຊີ.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>ໂໝດປອດໄພ</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>ໃຊ້ SafeSearch ທີ່ເຂັ້ມງວດສໍາລັບການຊອກຫາວິດີໂອສາທາລະນະ</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>ບັນທຶກ API KEY</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ບັນທຶກບັນທຶກ</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>ບັນທຶກຂໍ້ມູນປະຈໍາຕົວ</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>ບໍ່ໄດ້ເລືອກວິດີໂອ.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>ເລືອກວິດີໂອ</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>ການຕັ້ງຄ່າ</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ເລີ່ມການເຂົ້າສູ່ລະບົບ GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ອອກຈາກລະບົບ</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ເລີ່ມການອັບໂຫລດ</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>ການສະໝັກໃຊ້</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>ຫົວຂໍ້</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>ຕ້ອງການ</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>ບໍ່ມີລາຍຊື່</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>ປະຫວັດການເບິ່ງ ແລະເບິ່ງພາຍຫຼັງບໍ່ໄດ້ຖືກເປີດເຜີຍເປັນຄໍເລັກຊັນ v3 ທີ່ສາມາດອ່ານໄດ້. UniTube ບໍ່ໄດ້ເຮັດຕາມແບບ ຫຼື ປ້າຍຊື່ພວກມັນຜິດ.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>ບໍ່ຮອງຮັບໂດຍ YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>ວິດີໂອທີ່ອັບໂຫລດ</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>ອັບໂຫຼດ</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>ເລືອກວິດີໂອທ້ອງຖິ່ນ, ຈາກນັ້ນອັບໂຫຼດມັນຜ່ານບັນຊີ Google ທີ່ໄດ້ຮັບອະນຸຍາດຂອງທ່ານ.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>ອັບໂຫລດວິດີໂອ</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>ພ້ອມເລືອກວິດີໂອ.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>ການອັບໂຫລດຕ້ອງມີການຕັ້ງຄ່າ OAuth ແລະການເຂົ້າສູ່ລະບົບ Google ທີ່ສຳເລັດແລ້ວຈາກການຕັ້ງຄ່າ.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>ອັບໂຫຼດວິດີໂອ</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>ລາຍ​ລະ​ອຽດ​ວິ​ດີ​ໂອ​</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>ເບິ່ງການວິນິດໄສ</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>ເບິ່ງຢູ່ໃນ YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>ໝວດໝູ່ {0:N0} ມີໃຫ້ສຳລັບ {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດໝວດໝູ່...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>ກຳລັງໂຫລດວິດີໂອ {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} ວິດີໂອ {1} ຍອດນິຍົມສໍາລັບ {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>ຕ້ອງມີ ID ຊ່ອງ.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດລາຍລະອຽດຊ່ອງ...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>ຈອງ {0:N0} | ວິດີໂອ {1:N0} | ທັດສະນະ {2:N0}</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>ຊ່ອງທີ່ຮ້ອງຂໍບໍ່ສາມາດໃຊ້ໄດ້.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ປິດ</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>ບໍ່ສາມາດຕິດຕໍ່ YouTube Data API ໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍ.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>ຄຳຮ້ອງຂໍ API ຂໍ້ມູນ YouTube ໝົດເວລາ. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>ບໍ່ຮູ້ຈັກ</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>ການອະນຸຍາດຂອງ Google ບໍ່ໄດ້ໃຫ້ token ການເຂົ້າເຖິງ. ເຂົ້າສູ່ລະບົບອີກຄັ້ງ.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>ການເຂົ້າເຖິງບັນຊີ Google ບໍ່ໄດ້ຖືກຕັ້ງຄ່າ. ເຂົ້າສູ່ລະບົບກ່ອນເປີດໂປຣໄຟລ໌.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>ເພີ່ມລະຫັດ Google API ກ່ອນທີ່ຈະໃຊ້ຄຸນສົມບັດ YouTube Data API v3 ສາທາລະນະ.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>ຕ້ອງມີ ID ຊ່ອງ.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>API ຂໍ້​ມູນ YouTube ທີ່​ຖືກ​ກວດ​ສອບ​ໄດ້​ສົ່ງ​ຄືນ​ການ​ຕອບ​ສະ​ຫນອງ​ທີ່​ບໍ່​ຖືກ​ຕ້ອງ. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API ສົ່ງຄືນການຕອບສະໜອງທີ່ບໍ່ຖືກຕ້ອງ. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>ຕ້ອງລະບຸ ID ລາຍການຫຼິ້ນ.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 ສົ່ງຄືນ {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>ໃສ່ຂໍ້ຄວາມເພື່ອຊອກຫາ.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>ຕ້ອງມີ ID ວິດີໂອ.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>ລຶບບັນທຶກການວິນິໄສແລ້ວ.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>ບັນທຶກການວິນິໄສຖືກບັນທຶກໄວ້ໃນ {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>ບໍ່ມີເຫດການການວິນິດໄສໄດ້ຖືກບັນທຶກໄວ້.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>ການບັນທຶກບັນທຶກການວິນິໄສໄດ້ຖືກຍົກເລີກ.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>ບໍ່ສາມາດບັນທຶກບັນທຶກການວິນິໄສ (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>ໄຟລ໌ຂໍ້ຄວາມ</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>ຫຼິ້ນຄັ້ງສຸດທ້າຍ</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>ຂໍ້ມູນເມຕາເດຕາຂອງວິດີໂອແມ່ນຕ້ອງການເພື່ອອັບເດດແຜ່ນສົດ.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>ກຳລັງເປັນທີ່ນິຍົມໃນຕອນນີ້</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>ກຳລັງເປັນທີ່ນິຍົມໃນຕອນນີ້ ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>ຕ້ອງມີຊື່ວິດີໂອມາແຮງ.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>ການອະນຸຍາດອຸປະກອນ Google ໝົດອາຍຸແລ້ວ.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>ການອະນຸມັດອຸປະກອນ Google ບໍ່ສໍາເລັດ: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>ການອະນຸມັດຂອງ Google ຕ້ອງໄດ້ຮັບການສໍາເລັດອີກເທື່ອຫນຶ່ງກ່ອນທີ່ຈະອັບໂຫລດ.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>ການອະນຸຍາດອຸປະກອນ Google ບໍ່ສາມາດເລີ່ມຕົ້ນໄດ້: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>ຕັ້ງຄ່າອຸປະກອນການປ້ອນຂໍ້ມູນແບບຈຳກັດ OAuth client ID ກ່ອນທີ່ຈະເຂົ້າສູ່ລະບົບ.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>ຕັ້ງອຸປະກອນການປ້ອນຂໍ້ມູນແບບຈຳກັດ OAuth client secret ກ່ອນເຂົ້າສູ່ລະບົບ.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google ໄດ້ປະຕິເສດລູກຂ່າຍ OAuth ຂອງອຸປະກອນທີ່ຈຳກັດການປ້ອນຂໍ້ມູນ (invalid_client). ກວດເບິ່ງລະຫັດລູກຄ້າແລະຄວາມລັບຂອງລູກຄ້າ.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google ປະຕິເສດການປ້ອນຂໍ້ມູນ OAuth credentials (invalid_client). ກວດເບິ່ງລະຫັດລູກຄ້າແລະຄວາມລັບຂອງລູກຄ້າ.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>ການອະນຸຍາດອຸປະກອນ Google ສົ່ງຄືນຄໍາຕອບທີ່ບໍ່ຖືກຕ້ອງ.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google token endpoint ສົ່ງຄືນຄໍາຕອບທີ່ບໍ່ຖືກຕ້ອງ.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>ການອະນຸຍາດອຸປະກອນ Google ບໍ່ໄດ້ສົ່ງຄືນລະຫັດຢືນຢັນ ແລະ URL ທີ່ສາມາດໃຊ້ໄດ້.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google token endpoint ບໍ່ສົ່ງຄືນ token ການເຂົ້າເຖິງ.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>ບໍ່ມີບັນຊີ Google ໄດ້ຮັບອະນຸຍາດ. ເລີ່ມການເຂົ້າສູ່ລະບົບກ່ອນ.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google ຮ້ອງຂໍໃຫ້ມີການເລືອກຕັ້ງຊ້າລົງ.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>ການໝົດອາຍຸໂທເຄັນ OAuth ທີ່ເກັບໄວ້ນັ້ນມີຮູບແບບບໍ່ຖືກຕ້ອງ. ເຂົ້າສູ່ລະບົບອີກຄັ້ງ.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>ໂທເຄັນ OAuth ທີ່ເກັບໄວ້ບໍ່ຖືກຕ້ອງ. ເຂົ້າສູ່ລະບົບອີກຄັ້ງ.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google token refresh ລົ້ມເຫລວ: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>ການອະນຸມັດຂອງ Google ສໍາເລັດແລ້ວ, ແຕ່ Windows Credential Locker ບໍ່ສາມາດບັນທຶກ token ໄດ້ (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>ເຄື່ອງຫຼິ້ນໃນແອັບບໍ່ສາມາດໂຫຼດວິດີໂອນີ້ໄດ້. ເປີດມັນຢູ່ໃນຕົວທ່ອງເວັບແທນ.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດໜ້າເບິ່ງ YouTube ຢ່າງເປັນທາງການ...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>ຕ້ອງມີ ID ວິດີໂອສຳລັບການຫຼິ້ນໃນແອັບ.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>ວິດີໂອ {0:N0}</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດວິດີໂອຍອດນິຍົມ...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>ຜົນວິດີໂອຍອດນິຍົມ {0:N0}.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>ຜົນວິດີໂອຍອດນິຍົມ {0:N0}. Windows ບໍ່ໄດ້ອະນຸຍາດໃຫ້ກະເບື້ອງສົດອັບເດດ.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>ຜົນວິດີໂອຍອດນິຍົມ {0:N0}. ກະເບື້ອງສົດຕອນນີ້ສະແດງຜົນສູງສຸດ.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>ຜົນວິດີໂອຍອດນິຍົມ {0:N0}. ບໍ່ສາມາດອັບເດດແຜ່ນສົດໄດ້.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google ບໍ່ໄດ້ອະນຸຍາດໃຫ້ບັນຊີນີ້ເຂົ້າເຖິງຂໍ້ມູນໂປຣໄຟລ໌. ອອກຈາກລະບົບ, ເລີ່ມການເຂົ້າສູ່ລະບົບ Google ອີກຄັ້ງ, ແລະຍອມຮັບຂອບເຂດການອ່ານຢ່າງດຽວຂອງ YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ມັກວິດີໂອຖືກໂຫລດແລ້ວ.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>ບໍ່ສາມາດຕິດຕໍ່ຄຳຮ້ອງຂໍວິດີໂອທີ່ຖືກໃຈໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍ.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>ຄຳຮ້ອງຂໍວິດີໂອທີ່ຖືກໃຈໝົດເວລາແລ້ວ. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>ໂຫຼດໂປຣໄຟລ໌ແລ້ວ.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>ໂປຣໄຟລ໌ບໍ່ສາມາດໂຫຼດໄດ້ໃນລະຫວ່າງ {0} (0x{1}). ເປີດ Diagnostics ສໍາລັບລາຍລະອຽດ.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດໂປຣໄຟລ໌ທີ່ຮັບຮອງຄວາມຖືກຕ້ອງ...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດວິດີໂອທີ່ມັກ...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດວິດີໂອທີ່ຖືກໃຈເພີ່ມເຕີມ...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດວິດີໂອລາຍການຫຼິ້ນເພີ່ມເຕີມ...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດວິດີໂອທີ່ອັບໂຫຼດເພີ່ມເຕີມ...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດວິດີໂອລາຍການຫຼິ້ນ...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>ຈອງ {0:N0} | ວິດີໂອ {1:N0} | ທັດສະນະ {2:N0}</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google ສົ່ງຄືນບໍ່ມີຊ່ອງທາງສໍາລັບບັນຊີທີ່ໄດ້ຮັບອະນຸຍາດ.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>ບໍ່ມີວິດີໂອທີ່ມັກຖືກສົ່ງຄືນ.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube ບໍ່ໄດ້ສະໜອງລາຍການຫຼິ້ນທີ່ອັບໂຫຼດໃຫ້ກັບຊ່ອງນີ້.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>ໂຫຼດລາຍການຫຼິ້ນ {0:N0} ແລ້ວ. ເລືອກອັນໜຶ່ງເພື່ອເບິ່ງວິດີໂອຂອງມັນ.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>ບໍ່ສາມາດຕິດຕໍ່ຄຳຮ້ອງຂໍລາຍການຫຼິ້ນໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍ.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>ການຮ້ອງຂໍລາຍການຫຼິ້ນໝົດເວລາ. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>ໂຫຼດວິດີໂອລາຍການຫຼິ້ນ {0:N0} ແລ້ວ.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>ບໍ່ສາມາດຕິດຕໍ່ຄຳຮ້ອງຂໍວິດີໂອລາຍການຫຼິ້ນໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍ.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>ການຮ້ອງຂໍວິດີໂອລາຍການຫຼິ້ນໝົດເວລາ. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>ບໍ່ສາມາດຕິດຕໍ່ YouTube API ທີ່ຮັບຮອງຄວາມຖືກຕ້ອງໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍ.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>ຄຳຮ້ອງຂໍຂອງ YouTube ທີ່ຮັບຮອງຄວາມຖືກຕ້ອງໝົດເວລາ. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>ເລືອກການໂຫຼດວິດີໂອທີ່ມັກເພື່ອຮ້ອງຂໍການເກັບທີ່ທ່ານມັກ.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>ເລືອກລາຍການຫຼິ້ນຂ້າງເທິງເພື່ອໂຫລດວິດີໂອຂອງມັນ.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>ຊ່ອງ</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>ວິດີໂອຖືກໃຈ</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>ລາຍການຫຼິ້ນ</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>ວິດີໂອລາຍການຫຼິ້ນ</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>ເລີ່ມ</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>ການສະໝັກໃຊ້</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>ວິດີໂອທີ່ອັບໂຫລດ</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>ໂຫຼດການສະໝັກໃຊ້ {0:N0} ແລ້ວ.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>ບໍ່ສາມາດຕິດຕໍ່ຄຳຮ້ອງຂໍການສະໝັກສະມາຊິກໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍ.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>ຄຳຮ້ອງຂໍການສະໝັກໃຊ້ໝົດເວລາ. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} ຖ້າບັນຊີນີ້ໄດ້ຮັບອະນຸຍາດກ່ອນທີ່ຈະເພີ່ມໂປຣໄຟລ໌, ກະລຸນາເຂົ້າສູ່ລະບົບອີກຄັ້ງເພື່ອໃຫ້ຂອບເຂດການອ່ານເທົ່ານັ້ນຂອງ YouTube.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ອັບໂຫຼດວິດີໂອຖືກໂຫລດ.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>ການຮ້ອງຂໍວິດີໂອທີ່ອັບໂຫຼດບໍ່ສາມາດບັນລຸໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍ.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>ຄຳຮ້ອງຂໍວິດີໂອທີ່ອັບໂຫຼດໝົດເວລາ. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>ກຳລັງໂຫຼດພາກພື້ນທີ່ຮອງຮັບ...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>ພາກພື້ນທີ່ຮອງຮັບບໍ່ສາມາດໂຫຼດໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍ.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>ພາກພື້ນທີ່ຮອງຮັບບໍ່ສາມາດໂຫຼດໄດ້ເນື່ອງຈາກການຮ້ອງຂໍ API Data API ໝົດເວລາ.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube ບໍ່ໄດ້ສົ່ງຄືນພາກພື້ນທີ່ຮອງຮັບໃດໆ. ໃຊ້ສະຫະລັດ.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>ສະຫະລັດ</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>ໃສ່ລະຫັດ API ຫຼືໃຊ້ລະຫັດ Clear API.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>ອຸປະກອນປ້ອນຂໍ້ມູນແບບຈຳກັດ OAuth client ID ແມ່ນຕ້ອງການ.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>ອຸ​ປະ​ກອນ​ການ​ປ້ອນ​ຂໍ້​ມູນ​ທີ່​ຈໍາ​ກັດ OAuth ລູກ​ຄ້າ​ເປັນ​ຄວາມ​ລັບ​ແມ່ນ​ຕ້ອງ​ການ​.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>ກຳລັງຊອກຫາ...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} ຜົນໄດ້ຮັບວິດີໂອສາທາລະນະ.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>ແອັບນີ້ບໍ່ໄດ້ກ່ຽວຂ້ອງກັບ Google ຫຼື YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>ສ້າງ {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube ເປັນແອັບພລິເຄຊັນ UWP ທີ່ທັນສະໄຫມສໍາລັບການທ່ອງ YouTube ຜ່ານ API ສາທາລະນະຂອງ YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>ພັດທະນາໂດຍ:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>ການ​ນໍາ​ໃຊ້​ການ​ຕັ້ງ​ຄ່າ UniTube ໃນ​ຕົວ​ສໍາ​ລັບ​ຂໍ້​ມູນ​ສາ​ທາ​ລະ​ນະ​. ການບັນທຶກທີ່ນີ້ overrides ມັນ.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>ບໍ່ມີລະຫັດ API ຖືກຕັ້ງຄ່າ.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>ກະແຈ API ຂອງທ່ານຖືກເກັບໄວ້ໃນ Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>ຍົກເລີກການອະນຸຍາດ Google.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>ການອະນຸມັດ Google ສຳເລັດແລ້ວ. ອ່ານໂປຣໄຟລ໌ ແລະອັບໂຫຼດວິດີໂອໄດ້.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>ລະຫັດ {0} ໝົດອາຍຸໃນ {1:D2}:{2:D2}. ກວດເບິ່ງ Google ທຸກໆ {3} ວິນາທີ.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>ການອະນຸຍາດຂອງ Google ບໍ່ສາມາດຕິດຕໍ່ກັບຈຸດສິ້ນສຸດຂອງ token ໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>ລຶບການອະນຸຍາດ Google ອອກ. ເລີ່ມການເຂົ້າສູ່ລະບົບ Google ກ່ອນທີ່ຈະເປີດໂປຣໄຟລ໌ ຫຼືອັບໂຫຼດ.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>ບັນຊີ Google ໄດ້ຮັບອະນຸຍາດໃຫ້ອ່ານໂປຣໄຟລ໌ ແລະອັບໂຫຼດວິດີໂອ. ເຂົ້າສູ່ລະບົບອີກຄັ້ງຖ້າ token ນີ້ predates Profile.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>ການອະນຸມັດຂອງ Google ລົ້ມເຫລວໂດຍບໍ່ຄາດຄິດ (0x{0}). ເປີດ Diagnostics ຫຼັງຈາກ restart app.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>ການ​ນໍາ​ໃຊ້​ການ​ຕັ້ງ​ຄ່າ UniTube ໃນ​ຕົວ​ສໍາ​ລັບ​ຂໍ້​ມູນ​ແລະ​ການ​ອັບ​ໂຫລດ​. ເລີ່ມການເຂົ້າສູ່ລະບົບ Google ກ່ອນ.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>ບັນທຶກຂໍ້ມູນປະຈຳຕົວ OAuth ອຸປະກອນປ້ອນຂໍ້ມູນຈຳກັດໄວ້ແລ້ວ. ຖ້າຄ່າທັງສອງມີການປ່ຽນແປງ, ເຂົ້າສູ່ລະບົບອີກຄັ້ງກ່ອນທີ່ຈະອັບໂຫລດ.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>ຂໍ້ມູນປະຈຳຕົວ OAuth ທີ່ບັນທຶກໄວ້ຖືກຕັ້ງຄ່າແລ້ວ. ເລີ່ມການເຂົ້າສູ່ລະບົບ Google ກ່ອນທີ່ຈະເປີດໂປຣໄຟລ໌ ຫຼືອັບໂຫຼດ.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>ການ override OAuth ທີ່ບັນທຶກໄວ້ບໍ່ສົມບູນໄດ້ຖືກລະເລີຍ. ການ​ນໍາ​ໃຊ້​ການ​ຕັ້ງ​ຄ່າ UniTube ໃນ​ຕົວ​ສໍາ​ລັບ​ຂໍ້​ມູນ​ແລະ​ການ​ອັບ​ໂຫລດ​.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>ມີການກຳນົດຄ່າ OAuth ທີ່ມີການຈັດການ. ເລີ່ມການເຂົ້າສູ່ລະບົບ Google ກ່ອນທີ່ຈະເປີດໂປຣໄຟລ໌ ຫຼືອັບໂຫຼດ.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>ບັນທຶກຂໍ້ມູນປະຈຳຕົວ OAuth, ຈາກນັ້ນເລີ່ມການເຂົ້າສູ່ລະບົບ Google ກ່ອນທີ່ຈະເປີດໂປຣໄຟລ໌ ຫຼືອັບໂຫຼດ.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>ລະຫັດ: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>ລະຫັດຢືນຢັນໝົດອາຍຸແລ້ວ. ກຳລັງຮ້ອງຂໍລະຫັດໃໝ່...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>ໃສ່ລະຫັດໃນຕົວທ່ອງເວັບນັ້ນ. ໂທລະສັບນີ້ຈະລໍຖ້າການອະນຸຍາດຈາກ Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>ລະຫັດກ່ອນໜ້າຂອງເຈົ້າໝົດອາຍຸແລ້ວ. ໃສ່ລະຫັດໃຫມ່ໃນຕົວທ່ອງເວັບນັ້ນ.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>ໃນໂທລະສັບ, ແທັບເລັດ, ຫຼືຄອມພິວເຕີອື່ນທີ່ມີຕົວທ່ອງເວັບປະຈຸບັນ, ໃຫ້ເຂົ້າໄປເບິ່ງ: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>ກຳລັງລໍຖ້າການອະນຸມັດຈາກ Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>ຍົກເລີກການອັບໂຫລດ. ເຊດຊັນທີ່ອັບໂຫຼດຄືນໃໝ່ໄດ້ບາງສ່ວນບໍ່ໄດ້ສືບຕໍ່.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>ກຳລັງຍົກເລີກການອັບໂຫລດ...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>ອັບໂຫຼດສຳເລັດ. YouTube ກຳລັງປະມວນຜົນວິດີໂອ.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>ອັບໂຫຼດສຳເລັດ. ID ວິດີໂອ: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>ຄຳອະທິບາຍວິດີໂອຕ້ອງມີ 5000 ຕົວອັກສອນ ຫຼືໜ້ອຍກວ່າ.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>ເລືອກໄຟລ໌ວິດີໂອທີ່ມີຂໍ້ມູນ.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>ໄຟລ໌ທີ່ເລືອກໄດ້ສິ້ນສຸດລົງກ່ອນຄວາມຍາວທີ່ລາຍງານຂອງມັນ.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>ເລືອກໄຟລ໌ວິດີໂອກ່ອນທີ່ຈະອັບໂຫລດ.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>ວິດີໂອທີ່ເລືອກນັ້ນໃຫຍ່ເກີນໄປທີ່ຈະອັບໂຫຼດ.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>ການອັບໂຫຼດບໍ່ສາມາດເຂົ້າເຖິງ YouTube ໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube ບໍ່​ໄດ້​ຕອບ​ສະ​ຫນອງ​ການ​ອັບ​ໂຫລດ​ສໍາ​ເລັດ​.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube ບໍ່ໄດ້ສົ່ງຄືນສະຖານທີ່ອັບໂຫຼດຄືນໃໝ່.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>ເລືອກສ່ວນຕົວ, ບໍ່ສະແດງ, ຫຼືຄວາມເປັນສ່ວນຕົວສາທາລະນະ.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} ຂອງ {1:N0} bytes ອັບໂຫຼດ ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>ພ້ອມທີ່ຈະອັບໂຫລດ {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>ການອັບໂຫລດ YouTube ສົ່ງຄືນ {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bytes)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>ການເລືອກວິດີໂອຖືກຍົກເລີກ.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>ກຳລັງເລີ່ມການອັບໂຫຼດຄືນໃໝ່...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>ການອັບໂຫລດໝົດເວລາ. ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວລອງໃໝ່ອີກຄັ້ງ.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>ໃສ່ຊື່ກ່ອນອັບໂຫຼດ.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>ຊື່ວິດີໂອຕ້ອງມີ 100 ຕົວອັກສອນ ຫຼືໜ້ອຍກວ່າ.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>ເລືອກໄຟລ໌ວິດີໂອທີ່ຮັບຮູ້.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>ກຳລັງໂຫລດລາຍລະອຽດວິດີໂອ...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>ຈັດພີມມາ {0} | {1:N0} views | ໄລຍະເວລາ {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>ຫຼິ້ນຢູ່ໃນແອັບເປີດໜ້າເບິ່ງມືຖືຢ່າງເປັນທາງການຂອງ YouTube.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>ການຫຼິ້ນໄດ້ເລີ່ມຂຶ້ນ, ແຕ່ເມຕາເດຕາຂອງມັນບໍ່ສາມາດຖືກບັນທຶກໄວ້ໃນແຜ່ນສົດໄດ້.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>ການຫຼິ້ນຄືນເລີ່ມຕົ້ນ, ແຕ່ Windows ບໍ່ອະນຸຍາດໃຫ້ມີການອັບເດດແຜ່ນສົດ.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>ເລີ່ມການຫຼິ້ນແລ້ວ, ແຕ່ແຜ່ນສົດບໍ່ສາມາດອັບເດດໄດ້.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>ວິດີໂອທີ່ຮ້ອງຂໍແມ່ນບໍ່ສາມາດໃຊ້ໄດ້.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>ຕ້ອງມີ ID ວິດີໂອ.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>ຂອບໃຈເປັນພິເສດ</value>
+  </data>
+</root>

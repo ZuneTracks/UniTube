@@ -3,6 +3,7 @@ using Windows.System;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Navigation;
+using YouTube.Uwp.Services;
 
 namespace YouTube.Uwp.Views
 {
@@ -20,11 +21,11 @@ namespace YouTube.Uwp.Views
             videoId = e.Parameter as string;
             if (string.IsNullOrWhiteSpace(videoId))
             {
-                StatusText.Text = "A video ID is required for in-app playback.";
+                StatusText.Text = Localizer.Get("Player.VideoIdRequired");
                 return;
             }
 
-            StatusText.Text = "Loading the official YouTube watch page...";
+            StatusText.Text = Localizer.Get("Player.Loading");
             PlayerWebView.Navigate(CreateMobileWatchUri(videoId));
             base.OnNavigatedTo(e);
         }
@@ -41,12 +42,12 @@ namespace YouTube.Uwp.Views
         {
             StatusText.Text = args.IsSuccess
                 ? string.Empty
-                : "The in-app player could not load this video. Open it in the browser instead.";
+                : Localizer.Get("Player.LoadFailed");
         }
 
         private void PlayerWebView_NavigationFailed(object sender, WebViewNavigationFailedEventArgs e)
         {
-            StatusText.Text = "The in-app player could not load this video. Open it in the browser instead.";
+            StatusText.Text = Localizer.Get("Player.LoadFailed");
         }
 
         private async void OpenInBrowserButton_Click(object sender, RoutedEventArgs e)

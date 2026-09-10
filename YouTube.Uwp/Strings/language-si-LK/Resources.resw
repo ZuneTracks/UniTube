@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>පොදු බ්‍රව්සරය</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>සැකසීම්</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>නිවස</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>සොයන්න</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>කාණ්ඩ</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>පැතිකඩ</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>සොයාගන්න</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>නවතම ජනප්‍රිය වීඩියෝ, සම්භාව්‍ය දුරකථන-පළමු පිරිසැලසුම තුළ.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>දැන් ප්‍රවණතා</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>ඔබේ කලාපය සඳහා ජනප්‍රිය වීඩියෝ පූරණය කරන්න</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>ජනප්‍රිය වීඩියෝ</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>පොදු ප්‍රතිඵල පූරණය කිරීමට Trending Now තෝරන්න.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>සොයන්න</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>ඔබගේ පරිශීලක-සපයන ලද API යතුර සමඟ පොදු YouTube වීඩියෝ සොයන්න.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>සෙවුම් පද</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>YouTube සොයන්න</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>සොයන්න</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>ජනප්‍රිය</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>කලාපය</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>කාණ්ඩ</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>එහි වත්මන් ජනප්‍රිය වීඩියෝ පුළුල් කිරීමට ප්‍රවර්ගයක් තට්ටු කරන්න. හැකිලීමට එය නැවත තට්ටු කර වෙනත් එකක් තෝරා ගන්න.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>පැතිකඩ</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>ඔබගේ සත්‍යාපිත YouTube සම්බන්ධතාවය හරහා ගිණුම් දත්ත ලබා ගත හැක.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>ගැන</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API යතුර අභිබවා යාම</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>කළමනාකරණය කළ වින්‍යාසය භාවිතා කිරීමට හිස්ව තබන්න</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ ආපසු</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>අවලංගු කරන්න</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>මෙම නාලිකාව ගැන</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>නාලිකා විස්තර</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>පැහැදිලි</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>පුද්ගලික අක්තපත්‍ර ගබඩා කර ඇත්තේ වින්ඩෝස් අක්තපත්‍ර ලොකරයේ පමණි.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>විස්තරය</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>විකල්ප</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>විස්තරය</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>මෙම ලොගය යෙදුම් දෝෂ සහ OAuth සන්ධිස්ථාන වාර්තා කරයි. අක්තපත්‍ර, අවසර කේත සහ ටෝකන බැහැර කර ඇත.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>රෝග විනිශ්චය</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>පැතිකඩ කියවීම සහ උඩුගත කිරීම Google TVs සහ සීමිත ආදාන උපාංග OAuth සේවාලාභියෙකු භාවිතා කරයි. යළි-යොමුවීම් URI භාවිතා නොකෙරේ. කළමනාකරණය කළ දේශීය ගොඩනැගීමේ අගයන් සැඟවී පවතී; මෙහි අක්තපත්‍ර සුරැකීම ඒවා අභිබවා යයි.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google ගිණුම</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>යෙදුම තුළ නැවත ධාවනය YouTube හි නිල ජංගම නැරඹුම් පිටුව භාවිත කරයි. මෙම යෙදුම මාධ්‍ය URL උපුටා ගැනීම හෝ බාගත නොකරයි.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>වීඩියෝ වලට කැමතියි</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>කැමති වීඩියෝ පටවන්න</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>වැඩිපුර කැමති වීඩියෝ පටවන්න</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>තවත් ධාවන ලැයිස්තු පූරණය කරන්න</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>තවත් ධාවන ලැයිස්තු වීඩියෝ පූරණය කරන්න</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>තවත් දායකත්වයන් පූරණය කරන්න</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>තවත් උඩුගත කළ වීඩියෝ පටවන්න</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>සීමිත ආදාන උපාංගය OAuth සේවාලාභී ID අභිබවා යාම</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>කළමනාකරණය කළ වින්‍යාසය භාවිතා කිරීමට හිස්ව තබන්න</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>සීමිත ආදාන උපාංගය OAuth සේවාලාභී රහස් ප්‍රතික්ෂේප කිරීම</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>කළමනාකරණය කළ වින්‍යාසය භාවිතා කිරීමට හිස්ව තබන්න</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>අක්තපත්‍ර සුරකින්න, පසුව Google පුරනය වීම ආරම්භ කරන්න. පහත සත්‍යාපන කේතය වෙනත් උපාංගයක ඇතුළත් කර ඇත; මෙම යෙදුම කිසිවිටක පුරනය වීමේ පෝරමයක් විවෘත නොකරයි. පැතිකඩ කියවීමට ප්‍රවේශය ලබා දීමට මෙම යාවත්කාලීනයෙන් පසුව නැවත පුරන්න.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>නාලිකාව විවෘත කරන්න</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>බ්‍රව්සරයේ විවෘත කරන්න</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>ක්රීඩකයා</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>යෙදුම තුළ සෙල්ලම් කරන්න</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>ධාවන ලැයිස්තු</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>ධාවන ලැයිස්තු වීඩියෝ</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>පෞද්ගලිකත්වය</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>පුද්ගලික</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>සීමා කළ API යතුරක් කියවීමට පමණක් YouTube Data API v3 ඇමතුම් සඳහා පමණක් භාවිත කෙරේ. කළමනාකරණය කළ දේශීය ගොඩනැගීමේ අගයන් සැඟවී පවතී; මෙහි ඉතිරි කිරීම ඒවා අභිබවා යයි.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>පොදු දත්ත ප්රවේශය</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>පොදු</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>නැවුම් කරන්න</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>පැතිකඩ නැවුම් කරන්න</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>ආරක්ෂිත ප්‍රකාරය සෙවුම් සඳහා YouTube හි දැඩි SafeSearch සැකසීම් භාවිත කරයි. එය YouTube Kids නාමාවලිය හෝ පෙරහන් ජනප්‍රිය, ප්‍රවර්ග සහ ගිණුම් සංග්‍රහ සපයන්නේ නැත.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>ආරක්ෂිත මාදිලිය</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>පොදු වීඩියෝ සෙවීම් සඳහා දැඩි SafeSearch භාවිතා කරන්න</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>API යතුර සුරකින්න</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ලොගය සුරකින්න</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>අක්තපත්‍ර සුරකින්න</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>වීඩියෝවක් තෝරා නැත.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>වීඩියෝව තෝරන්න</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>සැකසුම්</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ගූගල් පුරනය වීම ආරම්භ කරන්න</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>Sign Out කරන්න</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>උඩුගත කිරීම ආරම්භ කරන්න</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>දායකත්ව</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>මාතෘකාව</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>අවශ්යයි</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>ලැයිස්තුගත නොකළ</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>නැරඹුම් ඉතිහාසය සහ පසුව නැරඹීම කියවිය හැකි v3 එකතුවක් ලෙස නිරාවරණය නොවේ. UniTube ඒවා අනුකරණය කිරීම හෝ වැරදි ලේබල් කිරීම සිදු නොකරයි.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>YouTube Data API v3 මගින් සහය නොදක්වයි</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>උඩුගත කළ වීඩියෝ</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>උඩුගත කරන්න</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>දේශීය වීඩියෝවක් තෝරන්න, ඉන්පසු එය ඔබගේ බලයලත් Google ගිණුම හරහා උඩුගත කරන්න.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>වීඩියෝ උඩුගත කරන්න</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>වීඩියෝවක් තේරීමට සූදානම්.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>උඩුගත කිරීම් සඳහා OAuth සැකසීම් සහ සැකසීම් වෙතින් සම්පූර්ණ කළ Google පුරනය වීමක් අවශ්‍ය වේ.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>වීඩියෝ උඩුගත කරන්න</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>වීඩියෝ විස්තර</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>රෝග විනිශ්චය බලන්න</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>YOUTUBE හි නරඹන්න</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{1} සඳහා {0:N0} වර්ග තිබේ.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>ප්‍රවර්ග පූරණය කරමින්...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} වීඩියෝ පූරණය වෙමින්...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{2} සඳහා {0:N0} ජනප්‍රිය {1} වීඩියෝ.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>නාලිකා හැඳුනුම්පතක් අවශ්‍ය වේ.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>නාලිකා විස්තර පූරණය කරමින්...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} ග්‍රාහකයින් | {1:N0} වීඩියෝ | {2:N0} දසුන්</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>ඉල්ලූ නාලිකාව නොමැත.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>වසා දමන්න</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube දත්ත API වෙත ළඟා විය නොහැකි විය. ජාල සම්බන්ධතාවය පරීක්ෂා කරන්න.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API ඉල්ලීම කල් ඉකුත් විය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>නොදන්නා</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google අවසරය ප්‍රවේශ ටෝකනයක් සපයා නැත. නැවත පුරන්න.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google ගිණුම් ප්‍රවේශය වින්‍යාස කර නොමැත. පැතිකඩ විවෘත කිරීමට පෙර පුරනය වන්න.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>පොදු YouTube Data API v3 විශේෂාංග භාවිත කිරීමට පෙර Google API යතුරක් එක් කරන්න.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>නාලිකා හැඳුනුම්පතක් අවශ්‍ය වේ.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>සත්‍යාපනය කළ YouTube දත්ත API අවලංගු ප්‍රතිචාරයක් ලබා දුන්නේය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API අවලංගු ප්‍රතිචාරයක් ලබා දුන්නේය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>ධාවන ලැයිස්තු හැඳුනුම්පතක් අවශ්‍ය වේ.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 {0} ({1}) ලබා දුන්නේය. {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>සෙවීමට පෙළ ඇතුළත් කරන්න.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>වීඩියෝ හැඳුනුම්පතක් අවශ්‍ය වේ.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>රෝග විනිශ්චය ලොගය හිස් කරන ලදී.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>රෝග විනිශ්චය ලොගය {0} වෙත සුරකින ලදී.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>රෝග විනිශ්චය සිදුවීම් කිසිවක් වාර්තා කර නොමැත.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>රෝග විනිශ්චය ලොගය සුරැකීම අවලංගු කරන ලදී.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>රෝග විනිශ්චය ලොගය සුරැකීමට නොහැකි විය (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>පෙළ ගොනුව</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>අවසන් වරට ක්‍රීඩා කළා</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>සජීවී ටයිල් යාවත්කාලීන කිරීමට වීඩියෝ පාරදත්ත අවශ්‍යයි.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>දැන් ප්‍රවණතාවය</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>දැන් නැගී එන ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>නැඹුරු වීඩියෝ මාතෘකාවක් අවශ්‍ය වේ.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google උපාංග අවසරය කල් ඉකුත් විය.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google උපාංග අවසරය සම්පූර්ණ කර නැත: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>උඩුගත කිරීමට පෙර Google අවසරය නැවත සම්පූර්ණ කිරීමට අවශ්‍යයි.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google උපාංග අවසරය ආරම්භ කළ නොහැක: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>පුරනය වීමට පෙර සීමිත ආදාන උපාංග OAuth සේවාලාභී ID සකසන්න.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>පුරනය වීමට පෙර සීමිත ආදාන උපාංගය OAuth සේවාදායක රහස සකසන්න.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google සීමිත ආදාන උපාංගය OAuth සේවාලාභියා (invalid_client) ප්‍රතික්ෂේප කළේය. සේවාදායක හැඳුනුම්පත සහ සේවාදායක රහස පරීක්ෂා කරන්න.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google සීමිත ආදාන උපාංග OAuth අක්තපත්‍ර ප්‍රතික්ෂේප කළේය (invalid_client). සේවාදායක හැඳුනුම්පත සහ සේවාදායක රහස පරීක්ෂා කරන්න.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google උපාංග අවසරය අවලංගු ප්‍රතිචාරයක් ලබා දුන්නේය.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google ටෝකන් අන්ත ලක්ෂ්‍යය වලංගු නොවන ප්‍රතිචාරයක් ලබා දුන්නේය.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google උපාංග අවසරය භාවිත කළ හැකි සත්‍යාපන කේතයක් සහ URL එකක් ආපසු ලබා දුන්නේ නැත.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google ටෝකන් අන්ත ලක්ෂ්‍යය ප්‍රවේශ ටෝකනයක් ආපසු ලබා දුන්නේ නැත.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>කිසිම Google ගිණුමකට අවසර නැත. පළමුව පුරනය වීම අරඹන්න.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google මන්දගාමී ඡන්ද විමසීමක් ඉල්ලා සිටියේය.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>ගබඩා කර ඇති OAuth ටෝකන කල් ඉකුත්වීම විකෘති වී ඇත. නැවත පුරන්න.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>ගබඩා කර ඇති OAuth ටෝකනය විකෘති වී ඇත. නැවත පුරන්න.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google ටෝකන නැවුම් කිරීම අසාර්ථක විය: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google අවසරය සම්පූර්ණ කර ඇත, නමුත් Windows අක්තපත්‍ර ලොකරයට ටෝකනය සුරැකීමට නොහැකි විය (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>යෙදුම-තුළ ධාවකයට මෙම වීඩියෝව පූරණය කළ නොහැකි විය. ඒ වෙනුවට බ්‍රවුසරයේ එය විවෘත කරන්න.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>නිල YouTube නැරඹුම් පිටුව පූරණය කරමින්...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>යෙදුම තුළ නැවත ධාවනය සඳහා වීඩියෝ ID අවශ්‍ය වේ.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} වීඩියෝ</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>ජනප්‍රිය වීඩියෝ පූරණය වෙමින්...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} ජනප්‍රිය වීඩියෝ ප්‍රතිඵල.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} ජනප්‍රිය වීඩියෝ ප්‍රතිඵල. වින්ඩෝස් සජීවී ටයිල් යාවත්කාලීන කිරීමට ඉඩ දුන්නේ නැත.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} ජනප්‍රිය වීඩියෝ ප්‍රතිඵල. සජීවී ටයිල් දැන් ඉහළ ප්‍රතිඵලය පෙන්වයි.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} ජනප්‍රිය වීඩියෝ ප්‍රතිඵල. සජීවී ටයිල් යාවත්කාලීන කළ නොහැකි විය.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google මෙම ගිණුමට පැතිකඩ දත්ත වෙත ප්‍රවේශය ලබා දුන්නේ නැත. වරනය වන්න, Google පුරනය නැවත ආරම්භ කරන්න, සහ YouTube කියවීමට පමණක් විෂය පථය පිළිගන්න.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} කැමති වීඩියෝ පටවා ඇත.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>කැමති වූ වීඩියෝ ඉල්ලීම වෙත ළඟා විය නොහැකි විය. ජාල සම්බන්ධතාවය පරීක්ෂා කරන්න.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>කැමති වූ වීඩියෝ ඉල්ලීම කල් ඉකුත් විය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>පැතිකඩ පටවා ඇත.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>{0} (0x{1}) අතරතුර පැතිකඩ පූරණය කළ නොහැකි විය. විස්තර සඳහා Diagnostics විවෘත කරන්න.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>සත්‍යාපනය කළ පැතිකඩ පූරණය කරමින්...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>කැමති වීඩියෝ පූරණය වෙමින්...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>වැඩිපුර කැමති වීඩියෝ පූරණය වෙමින්...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>තවත් ධාවන ලැයිස්තු වීඩියෝ පූරණය වෙමින්...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>තවත් උඩුගත කළ වීඩියෝ පූරණය වෙමින්...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>ධාවන ලැයිස්තු වීඩියෝ පූරණය වෙමින්...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} ග්‍රාහකයින් | {1:N0} වීඩියෝ | {2:N0} දසුන්</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google බලයලත් ගිණුම සඳහා නාලිකාවක් ආපසු ලබා දුන්නේ නැත.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>කැමති වූ වීඩියෝ කිසිවක් ආපසු ලබා දුන්නේ නැත.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube මෙම නාලිකාව සඳහා උඩුගත කිරීම් ධාවන ලැයිස්තුවක් ලබා දුන්නේ නැත.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} ධාවන ලැයිස්තු පූරණය කර ඇත. එහි වීඩියෝ නැරඹීමට එකක් තෝරන්න.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>ධාවන ලැයිස්තු ඉල්ලීම වෙත ළඟා විය නොහැකි විය. ජාල සම්බන්ධතාවය පරීක්ෂා කරන්න.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>ධාවන ලැයිස්තු ඉල්ලීම කල් ඉකුත් විය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ධාවන ලැයිස්තු වීඩියෝ පටවා ඇත.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>ධාවන ලැයිස්තු වීඩියෝ ඉල්ලීම වෙත ළඟා විය නොහැකි විය. ජාල සම්බන්ධතාවය පරීක්ෂා කරන්න.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>ධාවන ලැයිස්තු වීඩියෝ ඉල්ලීම කල් ඉකුත් විය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>සත්‍යාපනය කළ YouTube API වෙත ළඟා විය නොහැකි විය. ජාල සම්බන්ධතාවය පරීක්ෂා කරන්න.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>සත්‍යාපනය කළ YouTube ඉල්ලීම කල් ඉකුත් විය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>ඔබේ කැමති එකතුව ඉල්ලීමට කැමති වීඩියෝ පූරණය කරන්න තෝරන්න.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>එහි වීඩියෝ පූරණය කිරීමට ඉහත ධාවන ලැයිස්තුවක් තෝරන්න.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>නාලිකාව</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>වීඩියෝ වලට කැමතියි</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>ධාවන ලැයිස්තු</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>ධාවන ලැයිස්තු වීඩියෝ</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>පටන් ගන්නවා</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>දායකත්ව</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>උඩුගත කළ වීඩියෝ</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} දායකත්වයන් පූරණය කරන ලදී.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>දායකත්ව ඉල්ලීම වෙත ළඟා විය නොහැකි විය. ජාල සම්බන්ධතාවය පරීක්ෂා කරන්න.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>දායකත්ව ඉල්ලීම කල් ඉකුත් විය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} පැතිකඩ එක් කිරීමට පෙර මෙම ගිණුම අනුමත කර ඇත්නම්, YouTube කියවීමට පමණක් විෂය පථය ලබා දීමට නැවත පුරන්න.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} උඩුගත කළ වීඩියෝ පටවා ඇත.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>උඩුගත කළ වීඩියෝ ඉල්ලීම වෙත ළඟා විය නොහැකි විය. ජාල සම්බන්ධතාවය පරීක්ෂා කරන්න.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>උඩුගත කළ වීඩියෝ ඉල්ලීම කල් ඉකුත් විය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>සහාය දක්වන කලාප පූරණය කරමින්...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>සහාය දක්වන කලාප පූරණය කළ නොහැකි විය. ජාල සම්බන්ධතාවය පරීක්ෂා කරන්න.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>YouTube Data API ඉල්ලීම කල් ඉකුත් වූ නිසා සහාය දක්වන කලාප පූරණය කළ නොහැකි විය.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube සහාය දක්වන කලාප කිසිවක් ආපසු ලබා දුන්නේ නැත. එක්සත් ජනපදය භාවිතා කිරීම.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>එක්සත් ජනපදය</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>API යතුරක් ඇතුළු කරන්න හෝ Clear API යතුර භාවිතා කරන්න.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>සීමිත ආදාන උපාංගයක් OAuth සේවාදායක ID අවශ්‍යයි.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>සීමිත ආදාන උපාංගයක් OAuth සේවාදායක රහසක් අවශ්‍ය වේ.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>සොයමින්...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} පොදු වීඩියෝ ප්‍රතිඵල.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>මෙම යෙදුම Google හෝ YouTube සමඟ අනුබද්ධ නොවේ.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>{0}.{1}.{2}.{3} සාදන්න</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube යනු YouTube හි පොදු API හරහා YouTube බ්‍රවුස් කිරීම සඳහා නවීන UWP යෙදුමකි.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>විසින් සංවර්ධනය කරන ලදී:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>යුනිටියුබ් යූඩබ්ලිව්පී</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>පොදු දත්ත සඳහා බිල්ට් යුනිටියුබ් වින්‍යාසය භාවිතා කිරීම. මෙහි සුරැකීම එය අභිබවා යයි.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>API යතුරක් වින්‍යාස කර නැත.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>ඔබගේ API යතුර Windows Credential Locker හි ගබඩා කර ඇත.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google අවසරය අවලංගු කරන ලදී.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google අවසරය සම්පූර්ණ කර ඇත. පැතිකඩ කියවීම් සහ වීඩියෝ උඩුගත කිරීම් තිබේ.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} කේතය {1:D2}:{2:D2} හි කල් ඉකුත් වේ. සෑම {3} තත්පරයකට වරක් Google පරීක්ෂා කිරීම.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google අවසරයට ටෝකන් අන්ත ලක්ෂ්‍යය සම්බන්ධ කර ගැනීමට නොහැකි විය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google අවසරය ඉවත් කරන ලදී. පැතිකඩ විවෘත කිරීමට හෝ උඩුගත කිරීමට පෙර Google පුරනය වීම ආරම්භ කරන්න.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>පැතිකඩ කියවීම් සහ වීඩියෝ උඩුගත කිරීම් සඳහා Google ගිණුමක් අනුමත කර ඇත. මෙම ටෝකනය පැතිකඩට පෙර නම් නැවත පුරන්න.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google අවසරය අනපේක්ෂිත ලෙස අසාර්ථක විය (0x{0}). යෙදුම නැවත ආරම්භ කිරීමෙන් පසු Diagnostics විවෘත කරන්න.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>පැතිකඩ සහ උඩුගත කිරීම් සඳහා බිල්ට් යුනිටියුබ් වින්‍යාසය භාවිතා කිරීම. මුලින්ම Google පුරනය වීම ආරම්භ කරන්න.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>සීමිත ආදාන උපාංග OAuth අක්තපත්‍ර සුරකින ලදී. එක් අගයක් වෙනස් වී ඇත්නම්, උඩුගත කිරීමට පෙර නැවත පුරන්න.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>සුරකින ලද OAuth අක්තපත්‍ර වින්‍යාස කර ඇත. පැතිකඩ විවෘත කිරීමට හෝ උඩුගත කිරීමට පෙර Google පුරනය වීම ආරම්භ කරන්න.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>අසම්පූර්ණ සුරැකි OAuth අභිබවා යාමක් නොසලකා හරින ලදී. පැතිකඩ සහ උඩුගත කිරීම් සඳහා බිල්ට් යුනිටියුබ් වින්‍යාසය භාවිතා කිරීම.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>කළමනාකරණය කළ OAuth වින්‍යාසය පවතී. පැතිකඩ විවෘත කිරීමට හෝ උඩුගත කිරීමට පෙර Google පුරනය වීම ආරම්භ කරන්න.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>OAuth අක්තපත්‍ර සුරකින්න, පැතිකඩ විවෘත කිරීමට හෝ උඩුගත කිරීමට පෙර Google පුරනය වීම ආරම්භ කරන්න.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>කේතය: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>සත්‍යාපන කේතය කල් ඉකුත් විය. නව කේතයක් ඉල්ලමින්...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>එම බ්‍රව්සරයේ කේතය ඇතුළත් කරන්න. මෙම දුරකථනය Google අවසරය සඳහා රැඳී සිටිනු ඇත.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>ඔබගේ පෙර කේතය කල් ඉකුත් විය. එම බ්‍රවුසරයේ නව කේතය ඇතුළත් කරන්න.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>වත්මන් බ්‍රවුසරයක් සහිත වෙනත් දුරකථනයක, ටැබ්ලටයක හෝ පරිගණකයක, පිවිසෙන්න: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Google අනුමැතිය සඳහා රැඳී සිටිමින්.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>උඩුගත කිරීම අවලංගු කරන ලදී. අර්ධ වශයෙන් උඩුගත කළ නැවත ආරම්භ කළ හැකි සැසිය දිගටම කරගෙන ගියේ නැත.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>උඩුගත කිරීම අවලංගු කරමින්...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>උඩුගත කිරීම සම්පූර්ණයි. YouTube වීඩියෝව සකසමින් සිටී.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>උඩුගත කිරීම සම්පූර්ණයි. වීඩියෝ ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>වීඩියෝ විස්තරය අක්ෂර 5000ක් හෝ ඊට අඩු විය යුතුය.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>දත්ත අඩංගු වීඩියෝ ගොනුවක් තෝරන්න.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>තෝරාගත් ගොනුව වාර්තා කළ දිගට පෙර අවසන් විය.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>උඩුගත කිරීමට පෙර වීඩියෝ ගොනුවක් තෝරන්න.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>තෝරාගත් වීඩියෝව උඩුගත කිරීමට විශාල වැඩිය.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>උඩුගත කිරීම YouTube වෙත ළඟා විය නොහැකි විය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube සම්පූර්ණ උඩුගත කිරීමේ ප්‍රතිචාරයක් ලබා දුන්නේ නැත.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube නැවත ආරම්භ කළ හැකි උඩුගත කිරීමේ ස්ථානයක් ආපසු ලබා දුන්නේ නැත.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>පුද්ගලික, ලැයිස්තුගත නොකළ, හෝ පොදු පෞද්ගලිකත්වය තෝරන්න.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>උඩුගත කරන ලද {1:N0} බයිට් වලින් {0:N0} ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>{0} උඩුගත කිරීමට සූදානම්.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube උඩුගත කිරීම {0} ({1}) ආපසු ලබා දුන්නේය. {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} බයිට්)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>වීඩියෝ තේරීම අවලංගු කරන ලදී.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>නැවත ආරම්භ කළ හැකි උඩුගත කිරීම ආරම්භ කරමින්...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>උඩුගත කිරීමේ කාලය අවසන් විය. ජාල සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>උඩුගත කිරීමට පෙර මාතෘකාවක් ඇතුළත් කරන්න.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>වීඩියෝ මාතෘකාව අනුලකුණු 100ක් හෝ ඊට අඩු විය යුතුය.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>හඳුනාගත් වීඩියෝ ගොනුවක් තෝරන්න.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>වීඩියෝ විස්තර පූරණය කරමින්...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>ප්‍රකාශිත {0} | {1:N0} දසුන් | කාලසීමාව {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Play in app YouTube හි නිල ජංගම නැරඹුම් පිටුව විවෘත කරයි.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>පසුධාවනය ආරම්භ වූ නමුත් එහි පාරදත්ත සජීවී ටයිල් සඳහා සුරැකිය නොහැක.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>නැවත ධාවනය ආරම්භ විය, නමුත් Windows සජීවී ටයිල් යාවත්කාලීන කිරීමට ඉඩ දුන්නේ නැත.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>පසුධාවනය ආරම්භ විය, නමුත් සජීවී ටයිල් යාවත්කාලීන කළ නොහැකි විය.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>ඉල්ලූ වීඩියෝව නොමැත.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>වීඩියෝ හැඳුනුම්පතක් අවශ්‍ය වේ.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>විශේෂ ස්තුතිය</value>
+  </data>
+</root>

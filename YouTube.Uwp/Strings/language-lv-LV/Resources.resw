@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>PUBLISKĀ PĀRLŪKLA</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>IESTATĪJUMI</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>MĀJAS</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>MEKLĒT</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORIJAS</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFILS</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>atklāt</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Jaunākie populārie videoklipi klasiskajā tālruņa izkārtojumā.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>TAGAD TRENDES</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Ielādējiet savam reģionam populārus videoklipus</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>populāri videoklipi</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Izvēlieties Trending Now, lai ielādētu publiskos rezultātus.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>meklēt</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Atrodiet publiskus YouTube videoklipus, izmantojot lietotāja nodrošināto API atslēgu.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Meklēšanas vienumi</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Meklēt pakalpojumā YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>MEKLĒT</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULĀRS</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>REĢIONS</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategorijām</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Pieskarieties kategorijai, lai izvērstu tās pašreizējos populāros videoklipus. Pieskarieties tai vēlreiz, lai sakļautu un izvēlētos citu.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profilu</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Konta dati ir pieejami, izmantojot jūsu autentificēto YouTube savienojumu.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>PAR</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API atslēgas ignorēšana</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Lai izmantotu pārvaldīto konfigurāciju, atstājiet lauku tukšu</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ ATPAKAĻ</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ATCELT</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>par šo kanālu</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>kanāla informācija</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>DZĪRS</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Personiskie akreditācijas dati tiek glabāti tikai programmā Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Apraksts</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Pēc izvēles</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>apraksts</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Šajā žurnālā tiek reģistrētas lietotņu kļūdas un OAuth atskaites punkti. Akreditācijas dati, autorizācijas kodi un marķieri nav iekļauti.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostika</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profila lasīšanai un augšupielādei tiek izmantots Google TV un ierobežotas ievades ierīces OAuth klients. Pāradresācijas URI netiek izmantots. Pārvaldītās vietējās būvniecības vērtības paliek paslēptas; šeit saglabājot akreditācijas datus, tie tiek ignorēti.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google konts</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Atskaņošanai lietotnē tiek izmantota YouTube oficiālā skatīšanās lapa mobilajām ierīcēm. Šī lietotne neizņem vai nelejupielādē multivides vietrāžus URL.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>patika videoklipi</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>IELĀDĒJIET VIDEO, KAS PATĪK</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>IELĀDĒJIET VAIRĀK VIDEO, KAS PATĪK</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>IELĀDĒJIET VAIRĀK ATSKAŅOŠANAS SARAKSTU</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>IELĀDĒJIET VAIRĀK ATSKAŅOŠANAS SARAKSTU VIDEO</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>IELĀDĒJIET VAIRĀK ABONEMENTU</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>IELĀDĒJIET VĒL AUGšupielādētos VIDEO</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Ierobežotas ievades ierīces OAuth klienta ID ignorēšana</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Lai izmantotu pārvaldīto konfigurāciju, atstājiet lauku tukšu</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Ierobežotas ievades ierīces OAuth klienta noslēpuma ignorēšana</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Lai izmantotu pārvaldīto konfigurāciju, atstājiet lauku tukšu</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Saglabājiet akreditācijas datus un pēc tam sāciet Google pierakstīšanos. Tālāk norādītais verifikācijas kods ir ievadīts citā ierīcē; šī lietotne nekad neatver pierakstīšanās veidlapu. Pēc šī atjauninājuma pierakstieties vēlreiz, lai piešķirtu profila lasīšanas piekļuvi.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ATVĒRT KANĀLU</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ATVĒRT PĀRLŪKĀ</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>spēlētājs</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>SPĒLĒT LIETOTnē</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>atskaņošanas sarakstus</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>atskaņošanas sarakstu video</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Privātums</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>privāts</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Ierobežota API atslēga tiek izmantota tikai lasāmiem YouTube Data API v3 izsaukumiem. Pārvaldītās vietējās būvniecības vērtības paliek paslēptas; saglabāšana šeit tos ignorē.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>publiska piekļuve datiem</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>publiski</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>ATSVAIDZINĀT</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>ATVAIDZINĀT PROFILU</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Drošajā režīmā meklēšanai tiek izmantots stingrs YouTube drošas meklēšanas iestatījums. Tas nenodrošina YouTube Kids katalogu un nefiltrē populārās, kategoriju un kontu plūsmas.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>drošais režīms</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Publisku videoklipu meklēšanai izmantojiet stingru Drošu meklēšanu</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>SAGLABĀT API ATSLĒGU</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>SAGLABĀT ŽURNĀLU</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>SAGLABĀT Akreditācijas datus</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Nav atlasīts neviens video.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>IZVĒLĒTIES VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>iestatījumus</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>SĀKT GOOGLE PIEKĀRŠANĀS</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>IZRAKSTĪTIES</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>SĀKT AUGšupielādēt</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>abonementi</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Nosaukums</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Obligāti</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>neiekļauts sarakstā</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Skatīšanās vēsture un Skatīties vēlāk netiek rādītas kā lasāmas v3 kolekcijas. UniTube tos neatdarina vai nepareizi marķē.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>neatbalsta YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>augšupielādētie videoklipi</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>augšupielādēt</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Atlasiet vietējo videoklipu un pēc tam augšupielādējiet to, izmantojot savu pilnvaroto Google kontu.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>augšupielādēt video</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Gatavs, lai atlasītu videoklipu.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Augšupielādei nepieciešami OAuth iestatījumi un pabeigta Google pierakstīšanās sadaļā Iestatījumi.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>AUGšupielādēt VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>video detaļas</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>SKATĪT DIAGNOSTIKU</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>SKATĪTIES YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} kategorijas ir pieejamas {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Notiek kategoriju ielāde...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Notiek {0} videoklipu ielāde...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} populāri {1} videoklipi, kas paredzēti {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Ir nepieciešams kanāla ID.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Notiek kanāla informācijas ielāde...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} abonenti | {1:N0} video | {2:N0} skati</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Pieprasītais kanāls nav pieejams.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>AIZVĒRT</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube datu API nevarēja sasniegt. Pārbaudiet tīkla savienojumu.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube datu API pieprasījuma noildze. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>nezināms</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google autorizācija nenodrošināja piekļuves pilnvaru. Pierakstieties vēlreiz.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google konta piekļuve nav konfigurēta. Pirms profila atvēršanas pierakstieties.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Pirms publisko YouTube Data API v3 funkciju izmantošanas pievienojiet Google API atslēgu.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Ir nepieciešams kanāla ID.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Autentificētā YouTube datu API sniedza nederīgu atbildi. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube datu API sniedza nederīgu atbildi. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Nepieciešams atskaņošanas saraksta ID.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 atgrieza {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Ievadiet meklējamo tekstu.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Nepieciešams video ID.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnostikas žurnāls ir notīrīts.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnostikas žurnāls saglabāts {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Diagnostikas notikumi nav reģistrēti.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Diagnostikas žurnāla saglabāšana tika atcelta.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Nevarēja saglabāt diagnostikas žurnālu (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Teksta fails</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Pēdējo reizi spēlēja</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Videoklipa metadati ir nepieciešami, lai atjauninātu tiešraides elementu.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Šobrīd aktuāli</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Šobrīd aktuāli ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Nepieciešams populārs videoklipa nosaukums.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google ierīces autorizācijas termiņš ir beidzies.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google ierīces autorizācija netika pabeigta: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Pirms augšupielādes vēlreiz ir jāpabeidz Google autorizācija.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google ierīces autorizāciju nevarēja sākt: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Pirms pierakstīšanās iestatiet ierobežotas ievades ierīces OAuth klienta ID.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Pirms pierakstīšanās iestatiet ierobežotas ievades ierīces OAuth klienta noslēpumu.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google noraidīja ierobežotas ievades ierīces OAuth klientu (invalid_client). Pārbaudiet klienta ID un klienta noslēpumu.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google noraidīja ierobežotas ievades ierīces OAuth akreditācijas datus (invalid_client). Pārbaudiet klienta ID un klienta noslēpumu.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google ierīces autorizācija sniedza nederīgu atbildi.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google pilnvaras galapunkts atgrieza nederīgu atbildi.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google ierīces autorizācija neatgrieza izmantojamu verifikācijas kodu un URL.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google pilnvaras galapunkts neatgrieza piekļuves pilnvaru.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Neviens Google konts nav autorizēts. Vispirms sāciet pierakstīšanos.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google pieprasīja lēnāku aptauju.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Saglabātā OAuth pilnvaras derīguma termiņš ir nepareizi veidots. Pierakstieties vēlreiz.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Saglabātā OAuth pilnvara ir nepareizi veidota. Pierakstieties vēlreiz.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google pilnvaras atsvaidzināšana neizdevās: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google autorizācija ir pabeigta, taču Windows Credential Locker nevarēja saglabāt marķieri (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Lietotnē esošais atskaņotājs nevarēja ielādēt šo videoklipu. Tā vietā atveriet to pārlūkprogrammā.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Notiek oficiālās YouTube skatīšanās lapas ielāde...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Lai atskaņotu lietotnē, ir nepieciešams videoklipa ID.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} video</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Notiek populāru videoklipu ielāde...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} populāri video rezultāti.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} populāri video rezultāti. Windows neļāva atjaunināt reāllaika elementu.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} populāri video rezultāti. Tiešraides flīze tagad parāda labāko rezultātu.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} populāri video rezultāti. Tiešraides elementu nevarēja atjaunināt.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google nepiešķīra šim kontam piekļuvi profila datiem. Izrakstieties, vēlreiz sāciet Google pierakstīšanos un piekrītiet YouTube tikai lasīšanas tvērumam.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>Ielādēti {0:N0} videoklipi ar Patīk.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Nevarēja sasniegt pieprasījumu atzīmēt videoklipus ar Patīk. Pārbaudiet tīkla savienojumu.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Videoklipu pieprasījumam ar Patīk iestājās noildze. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profils ielādēts.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profilu nevarēja ielādēt laikā {0} (0x{1}). Lai iegūtu sīkāku informāciju, atveriet sadaļu Diagnostika.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Notiek autentificēta profila ielāde...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Notiek videoklipu, kas atzīmēti ar Patīk, ielāde...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Notiek citu videoklipu ielāde, kas atzīmēti ar Patīk...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Notiek citu atskaņošanas sarakstu videoklipu ielāde...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Notiek citu augšupielādēto videoklipu ielāde...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Notiek atskaņošanas saraksta videoklipu ielāde...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} abonenti | {1:N0} video | {2:N0} skati</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google neatgrieza nevienu kanālu autorizētajam kontam.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Neviens videoklips ar Patīk netika atgriezts.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube šim kanālam nenodrošināja augšupielādes atskaņošanas sarakstu.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} atskaņošanas saraksti ir ielādēti. Izvēlieties vienu, lai skatītu tā videoklipus.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Atskaņošanas sarakstu pieprasījumu nevarēja sasniegt. Pārbaudiet tīkla savienojumu.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Atskaņošanas sarakstu pieprasījumam iestājās noildze. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} atskaņošanas saraksta videoklipi ir ielādēti.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Atskaņošanas saraksta videoklipu pieprasījumu nevarēja sasniegt. Pārbaudiet tīkla savienojumu.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Atskaņošanas saraksta videoklipu pieprasījumam iestājās noildze. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Nevarēja sasniegt autentificēto YouTube API. Pārbaudiet tīkla savienojumu.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Autentificētajam YouTube pieprasījumam iestājās noildze. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Atlasiet Ielādēt videoklipus, kas atzīmēti ar Patīk, lai pieprasītu kolekciju, kas atzīmēja Patīk.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Atlasiet iepriekš atskaņošanas sarakstu, lai ielādētu tā videoklipus.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanālu</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>patika videoklipi</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>atskaņošanas sarakstus</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>atskaņošanas sarakstu video</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>sākot</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>abonementi</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>augšupielādētie videoklipi</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} abonementi ir ielādēti.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Abonementu pieprasījumu nevarēja sasniegt. Pārbaudiet tīkla savienojumu.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Abonementu pieprasījumam iestājās noildze. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Ja šis konts tika autorizēts pirms profila pievienošanas, pierakstieties vēlreiz, lai piešķirtu YouTube tikai lasīšanas tvērumu.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} augšupielādētie videoklipi ir ielādēti.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Augšupielādēto videoklipu pieprasījumu nevarēja sasniegt. Pārbaudiet tīkla savienojumu.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Augšupielādēto videoklipu pieprasījuma noildze iestājās. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Notiek atbalstīto reģionu ielāde...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Nevarēja ielādēt atbalstītos reģionus. Pārbaudiet tīkla savienojumu.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Atbalstītos reģionus nevarēja ielādēt, jo beidzās YouTube datu API pieprasījuma noildze.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube neatgrieza nevienu atbalstīto reģionu. Izmantojot Amerikas Savienotās Valstis.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Amerikas Savienotās Valstis</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Ievadiet API atslēgu vai izmantojiet Clear API atslēgu.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Ir nepieciešams ierobežotas ievades ierīces OAuth klienta ID.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Ir nepieciešams ierobežotas ievades ierīces OAuth klienta noslēpums.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Notiek meklēšana...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} publiskie video rezultāti.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Šī lietotne nav saistīta ar Google vai YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Būvējums {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube ir moderna UWP lietojumprogramma YouTube pārlūkošanai, izmantojot YouTube publisko API.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Izstrādāja:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Izmantojot iebūvēto UniTube konfigurāciju publiskiem datiem. Saglabāšana šeit to ignorē.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Nav konfigurēta neviena API atslēga.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Jūsu API atslēga tiek saglabāta Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google autorizācija ir atcelta.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google autorizācija ir pabeigta. Ir pieejamas profila lasīšanas un video augšupielādes.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Koda derīguma termiņš beidzas šeit: {1:D2}:{2:D2}. Pārbauda Google ik pēc {3} sekundēm.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google autorizācija nevarēja sazināties ar pilnvaras galapunktu. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google autorizācija ir noņemta. Sāciet Google pierakstīšanos pirms profila atvēršanas vai augšupielādes.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google konts ir autorizēts profila lasīšanai un video augšupielādei. Pierakstieties vēlreiz, ja šis marķieris ir pirms profila.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google autorizācija negaidīti neizdevās (0x{0}). Pēc lietotnes restartēšanas atveriet sadaļu Diagnostika.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Izmantojot iebūvēto UniTube konfigurāciju profilam un augšupielādēm. Vispirms sāciet Google pierakstīšanos.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Ierobežotas ievades ierīces OAuth akreditācijas dati ir saglabāti. Ja kāda no vērtībām ir mainīta, pirms augšupielādes pierakstieties vēlreiz.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Saglabātie OAuth akreditācijas dati ir konfigurēti. Sāciet Google pierakstīšanos pirms profila atvēršanas vai augšupielādes.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Tika ignorēts nepilnīgs saglabātais OAuth ignorējums. Izmantojot iebūvēto UniTube konfigurāciju profilam un augšupielādēm.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Ir pieejama pārvaldīta OAuth konfigurācija. Sāciet Google pierakstīšanos pirms profila atvēršanas vai augšupielādes.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Saglabājiet OAuth akreditācijas datus un pēc tam sāciet Google pierakstīšanos pirms profila atvēršanas vai augšupielādes.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kods: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Verifikācijas kods ir beidzies. Notiek jauna koda pieprasīšana...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Ievadiet kodu šajā pārlūkprogrammā. Šis tālrunis gaidīs Google autorizāciju.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Jūsu iepriekšējais kods ir beidzies. Ievadiet jauno kodu šajā pārlūkprogrammā.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Citā tālrunī, planšetdatorā vai datorā ar pašreizējo pārlūkprogrammu apmeklējiet: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Gaida Google apstiprinājumu.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Augšupielāde ir atcelta. Daļēji augšupielādētā atsākamā sesija netika turpināta.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Notiek augšupielādes atcelšana...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Augšupielāde pabeigta. YouTube apstrādā videoklipu.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Augšupielāde pabeigta. Video ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Video aprakstā nedrīkst būt 5000 rakstzīmju vai mazāk.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Atlasiet video failu, kurā ir dati.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Atlasītais fails beidzās pirms norādītā garuma.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Pirms augšupielādes atlasiet video failu.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Atlasītais videoklips ir pārāk liels, lai to augšupielādētu.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Augšupielāde nevarēja sasniegt pakalpojumu YouTube. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube neatgrieza aizpildītu augšupielādes atbildi.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube neatgrieza atsākšanas augšupielādes vietu.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Atlasiet privātu, nerindotu vai publisku privātumu.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Augšupielādēts {0:N0} no {1:N0} baitiem ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Gatavs augšupielādei {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube augšupielāde atgriezta {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} baiti)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Video atlase tika atcelta.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Tiek sākta atsākta augšupielāde...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Augšupielādes noildze. Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Pirms augšupielādes ievadiet nosaukumu.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Videoklipa nosaukumā ir jābūt 100 vai mazāk rakstzīmēm.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Atlasiet atpazītu video failu.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Notiek videoklipa informācijas ielāde...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Publicēts {0} | {1:N0} skatījumi | ilgums {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Atskaņot lietotnē tiek atvērta YouTube oficiālā skatīšanās lapa mobilajām ierīcēm.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Atskaņošana tika sākta, taču tās metadatus nevarēja saglabāt tiešraides elementam.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Atskaņošana tika sākta, bet Windows neļāva atjaunināt tiešraides elementu.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Atskaņošana tika sākta, bet tiešraides elementu nevarēja atjaunināt.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Pieprasītais videoklips nav pieejams.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Nepieciešams video ID.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Īpašs paldies</value>
+  </data>
+</root>

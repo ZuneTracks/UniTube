@@ -14,8 +14,8 @@
                     <ColumnDefinition Width="Auto" />
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-                <Button Content="‹ BACK" Style="{StaticResource PhoneOutlineButtonStyle}" Click="BackButton_Click" VerticalAlignment="Center" />
-                <TextBlock Grid.Column="1" Text="channel details" Style="{StaticResource PhoneSectionTitleStyle}" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                <Button x:Uid="BackButton" Content="‹ BACK" Style="{StaticResource PhoneOutlineButtonStyle}" Click="BackButton_Click" VerticalAlignment="Center" />
+                <TextBlock x:Uid="ChannelDetailsHeader" Grid.Column="1" Text="channel details" Style="{StaticResource PhoneSectionTitleStyle}" VerticalAlignment="Center" HorizontalAlignment="Right" />
             </Grid>
         </Border>
         <Border Grid.Row="1" Background="{StaticResource PhoneAccentBrush}" />
@@ -37,7 +37,7 @@
                 </Border>
                 <Border Background="{StaticResource PhoneSurfaceBrush}" Padding="14">
                     <StackPanel>
-                        <TextBlock Text="about this channel" Style="{StaticResource PhoneSectionTitleStyle}" />
+                        <TextBlock x:Uid="ChannelAboutTitle" Text="about this channel" Style="{StaticResource PhoneSectionTitleStyle}" />
                         <TextBlock x:Name="DescriptionText" Foreground="{StaticResource PhoneSecondaryTextBrush}" Margin="0,8,0,0" TextWrapping="Wrap" />
                     </StackPanel>
                 </Border>

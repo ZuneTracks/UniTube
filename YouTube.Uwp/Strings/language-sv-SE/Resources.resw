@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>OFFENTLIG BLÄDDARE</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>INSTÄLLNINGAR</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>HEM</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>SÖKA</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORIER</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFIL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>upptäcka</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>De senaste populära videorna, i den klassiska telefonen-först-layouten.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>TRENDER NU</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Ladda populära videor för din region</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>populära videor</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Välj Populärt nu för att läsa in offentliga resultat.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>söka</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Hitta offentliga YouTube-videor med din API-nyckel som tillhandahålls av användaren.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Söktermer</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Sök på YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>SÖKA</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULÄR</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>OMRÅDE</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategorier</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Tryck på en kategori för att utöka dess aktuella populära videor. Tryck på den igen för att komprimera och välja en annan.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profil</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Kontodata tillgänglig via din autentiserade YouTube-anslutning.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>OM</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Åsidosätt Google API-nyckel</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Lämna tomt för att använda hanterad konfiguration</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ TILLBAKA</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>AVBRYT</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>om den här kanalen</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>kanalinformation</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>KLART</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Personliga referenser lagras endast i Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Beskrivning</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Valfritt</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>beskrivning</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Den här loggen registrerar appfel och OAuth-milstolpar. Inloggningsuppgifter, auktoriseringskoder och tokens är undantagna.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostik</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profil läser och ladda upp använder en Google TV och en OAuth-klient med begränsad ingång. Ingen omdirigerings-URI används. Hanterade lokala byggvärden förblir dolda; Att spara inloggningsuppgifter här åsidosätter dem.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google-konto</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Uppspelning i appen använder YouTubes officiella mobilvisningssida. Den här appen extraherar eller laddar inte ner mediawebbadresser.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>gillade videor</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>LADDA GILDA VIDEOR</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>LADDA FLERA GILDA VIDEOR</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>LADDA FLERA SPELLISTOR</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>LADDA FLERA VIDEOR MED SPELLISTA</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>LADDA FLERA PRENUMERATIONER</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>LADDA FLERA UPPLADADE VIDEOR</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Åsidosättande av OAuth-klient-ID med begränsad indata</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Lämna tomt för att använda hanterad konfiguration</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Åsidosättande av OAuth-klienthemlighet med begränsad indataenhet</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Lämna tomt för att använda hanterad konfiguration</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Spara användaruppgifter och starta sedan Google-inloggning. Verifieringskoden nedan skrivs in på en annan enhet; den här appen öppnar aldrig ett inloggningsformulär. Logga in igen efter den här uppdateringen för att ge profilen läsåtkomst.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ÖPPNA KANAL</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ÖPPNA I BLÄDDARE</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>spelare</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>SPELA I APPEN</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>spellistor</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>spellistvideor</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Sekretess</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>privat</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>En begränsad API-nyckel används endast för skrivskyddade YouTube Data API v3-anrop. Hanterade lokala byggvärden förblir dolda; att spara här åsidosätter dem.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>offentlig dataåtkomst</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>offentliga</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>UPPDATERA</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>UPPDATERA PROFIL</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Säkert läge använder YouTubes strikta SafeSearch-inställning för sökningar. Den tillhandahåller inte YouTube Kids-katalogen eller filtrerar populära, kategori- och kontoflöden.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>säkert läge</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Använd strikt SafeSearch för offentliga videosökningar</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>SPARA API-NYCKEL</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>SPARA LOGG</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>SPARA LEGENDOMAR</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Ingen video har valts.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>VÄLJ VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>inställningar</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>STARTA GOOGLE LOGGA IN</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>LOGGA UT</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>BÖRJA UPPLADDNING</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>prenumerationer</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Titel</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Krävs</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>onoterad</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Tittahistorik och Titta senare är inte exponerade som läsbara v3-samlingar. UniTube efterliknar eller märker inte dem fel.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>stöds inte av YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>uppladdade videor</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>ladda upp</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Välj en lokal video och ladda sedan upp den via ditt auktoriserade Google-konto.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>ladda upp video</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Redo att välja en video.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Uppladdningar kräver OAuth-inställningar och en slutförd Google-inloggning från Inställningar.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>LADDA UPP VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>videodetaljer</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>SE DIAGNOSTIK</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>SE PÅ YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0}-kategorier tillgängliga för {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Laddar kategorier...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Laddar {0}-videor...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} populära {1}-videor för {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Ett kanal-ID krävs.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Laddar kanalinformation...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} prenumeranter | {1:N0} videor | {2:N0} vyer</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Den begärda kanalen är inte tillgänglig.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>STÄNG</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube Data API kunde inte nås. Kontrollera nätverksanslutningen.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API-begäran tog timeout. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>okänt</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google-auktorisering gav ingen åtkomsttoken. Logga in igen.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Åtkomst till Google-konto är inte konfigurerad. Logga in innan du öppnar profil.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Lägg till en Google API-nyckel innan du använder offentliga YouTube Data API v3-funktioner.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Ett kanal-ID krävs.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Det autentiserade YouTube Data API returnerade ett ogiltigt svar. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTubes data-API returnerade ett ogiltigt svar. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Ett spellista-ID krävs.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 returnerade {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Skriv in text att söka efter.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Ett video-ID krävs.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnostikloggen har rensats.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnostikloggen sparad till {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Inga diagnostiska händelser har registrerats.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Sparandet av diagnostikloggen avbröts.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Det gick inte att spara diagnostikloggen (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Textfil</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Senast spelad</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Videometadata krävs för att uppdatera livepanelen.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Trendigt nu</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Trendigt nu ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>En populär videotitel krävs.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Googles enhetsauktorisering har löpt ut.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Googles enhetsauktorisering slutfördes inte: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Google-auktorisering måste slutföras igen innan uppladdning.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google-enhetsauktorisering kunde inte starta: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Ställ in ett OAuth-klient-ID för enhet med begränsad ingång innan du loggar in.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Ställ in OAuth-klienthemligheten för enheten med begränsad ingång innan du loggar in.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google avvisade OAuth-klienten för enheten med begränsad indata (invalid_client). Kontrollera klient-ID och klienthemlighet.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google avvisade OAuth-uppgifterna för enheten med begränsad inmatning (invalid_client). Kontrollera klient-ID och klienthemlighet.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Googles enhetsauktorisering returnerade ett ogiltigt svar.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google token-slutpunkt returnerade ett ogiltigt svar.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Googles enhetsauktorisering returnerade inte en användbar verifieringskod och webbadress.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google-tokens slutpunkt returnerade inte en åtkomsttoken.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Inget Google-konto är auktoriserat. Börja logga in först.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google begärde långsammare omröstning.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Det lagrade OAuth-tokenets utgångsdatum är felaktigt. Logga in igen.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Den lagrade OAuth-tokenen är felaktig. Logga in igen.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Uppdatering av Google-token misslyckades: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google-auktorisering slutförd, men Windows Credential Locker kunde inte spara token (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Spelaren i appen kunde inte ladda den här videon. Öppna den i webbläsaren istället.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Laddar den officiella YouTube-visningssidan...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Ett video-ID krävs för uppspelning i appen.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} videor</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Laddar populära videor...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} populära videoresultat.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} populära videoresultat. Windows tillät inte att livepanelen uppdaterades.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} populära videoresultat. Live-brickan visar nu toppresultatet.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} populära videoresultat. Livebrickan kunde inte uppdateras.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google gav inte detta konto åtkomst till profildata. Logga ut, starta Google-inloggning igen och godkänn YouTubes skrivskyddade omfattning.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} gillade videor laddade.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Begäran om gillade videoklipp kunde inte nås. Kontrollera nätverksanslutningen.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Begäran om gillade videoklipp togs ut. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profilen har laddats.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profilen kunde inte laddas under {0} (0x{1}). Öppna Diagnostik för mer information.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Läser in autentiserad profil...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Laddar gillade videor...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Läser in fler gillade videor...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Läser in fler spellistvideor...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Läser in fler uppladdade videor...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Laddar spellistvideor...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} prenumeranter | {1:N0} videor | {2:N0} vyer</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google returnerade ingen kanal för det auktoriserade kontot.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Inga gillade videor returnerades.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube tillhandahöll ingen uppladdningsspellista för den här kanalen.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} spellistor laddade. Välj en för att se dess videor.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Begäran om spellistor kunde inte nås. Kontrollera nätverksanslutningen.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Begäran om spellistor tog timeout. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} spellista videor laddade.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Det gick inte att nå begäran om videoklipp för spellistan. Kontrollera nätverksanslutningen.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Begäran om spellistvideor tog en tidsgräns. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Det autentiserade YouTube API kunde inte nås. Kontrollera nätverksanslutningen.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Den autentiserade YouTube-begäran tog timeout. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Välj Ladda gillade videor för att begära din gillasamling.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Välj en spellista ovan för att ladda dess videor.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanal</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>gillade videor</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>spellistor</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>spellistvideor</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>startar</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>prenumerationer</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>uppladdade videor</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0}-prenumerationer har laddats.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Begäran om prenumeration kunde inte nås. Kontrollera nätverksanslutningen.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Prenumerationsbegäran tog timeout. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Om det här kontot auktoriserades innan profilen lades till, logga in igen för att ge YouTube skrivskyddat omfång.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} uppladdade videor laddade.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Begäran om uppladdade videoklipp kunde inte nås. Kontrollera nätverksanslutningen.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Begäran om uppladdade videoklipp tog timeout. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Läser in regioner som stöds...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Det gick inte att läsa in regioner som stöds. Kontrollera nätverksanslutningen.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Det gick inte att läsa in regioner som stöds eftersom YouTube Data API-begäran tog timeout.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube returnerade inga regioner som stöds. Använder USA.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>USA</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Ange en API-nyckel eller använd Rensa API-nyckel.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Ett OAuth-klient-ID för enhet med begränsad indata krävs.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>En OAuth-klienthemlighet med begränsad indata krävs.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Söker...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} offentliga videoresultat.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Denna app är inte ansluten till Google eller YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Bygg {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube är en modern UWP-applikation för att surfa på YouTube via YouTubes offentliga API.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Utvecklad av:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Använder inbyggd UniTube-konfiguration för offentliga data. Att spara här åsidosätter det.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Ingen API-nyckel är konfigurerad.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Din API-nyckel lagras i Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google-auktorisering avbröts.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google-auktorisering slutförd. Profilläsningar och videouppladdningar är tillgängliga.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Koden upphör i {1:D2}:{2:D2}. Kollar Google varje {3} sekund.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google-auktorisering kunde inte kontakta tokenslutpunkten. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google-auktorisering har tagits bort. Starta Google-inloggning innan du öppnar profil eller laddar upp.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Ett Google-konto är auktoriserat för profilläsning och videouppladdning. Logga in igen om denna token är före profilen.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google-auktorisering misslyckades oväntat (0x{0}). Öppna Diagnostik efter att ha startat om appen.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Använder inbyggd UniTube-konfiguration för profil och uppladdningar. Starta Google-inloggning först.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>OAuth-uppgifter med begränsad indata har sparats. Om något av värdena ändras, logga in igen innan du laddar upp.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Sparade OAuth-uppgifter är konfigurerade. Starta Google-inloggning innan du öppnar profil eller laddar upp.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>En ofullständig sparad OAuth-åsidosättning ignorerades. Använder inbyggd UniTube-konfiguration för profil och uppladdningar.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Hanterad OAuth-konfiguration är tillgänglig. Starta Google-inloggning innan du öppnar profil eller laddar upp.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Spara OAuth-uppgifter och starta sedan Google-inloggning innan du öppnar profil eller laddar upp.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kod: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Verifieringskoden har löpt ut. Begär en ny kod...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Ange koden i den webbläsaren. Den här telefonen väntar på Google-auktorisering.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Din tidigare kod har upphört att gälla. Ange den nya koden i den webbläsaren.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>På en annan telefon, surfplatta eller dator med en aktuell webbläsare, besök: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Väntar på Googles godkännande.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Uppladdningen avbröts. Den delvis uppladdade återupptagbara sessionen fortsatte inte.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Avbryter uppladdning...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Uppladdningen slutförd. YouTube bearbetar videon.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Uppladdningen slutförd. Video-ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Videobeskrivningen måste innehålla 5 000 tecken eller färre.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Välj en videofil som innehåller data.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Den valda filen slutade före dess rapporterade längd.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Välj en videofil innan du laddar upp.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Det valda videoklippet är för stort för att laddas upp.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Uppladdningen kunde inte nå YouTube. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube returnerade inte ett slutfört uppladdningssvar.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube returnerade inte en plats för återuppladdning.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Välj privat, olistad eller offentlig integritet.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} av {1:N0} bytes uppladdade ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Klar att ladda upp {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube-uppladdning returnerade {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} byte)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Videoval avbröts.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Startar återupptagande uppladdning...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Uppladdningen tog timeout. Kontrollera nätverksanslutningen och försök igen.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Ange en titel innan du laddar upp.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Videotiteln måste vara 100 tecken eller färre.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Välj en igenkänd videofil.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Laddar videodetaljer...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Publicerat {0} | {1:N0} vyer | varaktighet {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Spela i appen öppnar YouTubes officiella mobilvisningssida.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Uppspelningen startade, men dess metadata kunde inte sparas för live-brickan.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Uppspelningen startade, men Windows tillät inte att livepanelen uppdaterades.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Uppspelningen startade, men livebrickan kunde inte uppdateras.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Den begärda videon är inte tillgänglig.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Ett video-ID krävs.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Särskilt tack</value>
+  </data>
+</root>

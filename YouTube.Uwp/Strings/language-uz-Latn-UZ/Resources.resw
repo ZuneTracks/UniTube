@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>OMAVCHI BRAUZER</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>SOZLAMALAR</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>UY</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>QIDIRISH</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORIYALAR</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFIL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>kashf qilish</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Klassik telefon tartibida eng so'nggi mashhur videolar.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>HOZIR TREND</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Mintaqangiz uchun mashhur videolarni yuklang</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>mashhur videolar</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Hammaga ochiq natijalarni yuklash uchun “Hozir trend”ni tanlang.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>qidirish</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Foydalanuvchi tomonidan taqdim etilgan API kaliti yordamida ommaviy YouTube videolarini toping.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Qidiruv shartlari</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>YouTube-dan qidiring</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>QIDIRISH</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>MASHXUR</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>MINTAQ</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>toifalar</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Tap a category to expand its current popular videos. Yigʻish va boshqasini tanlash uchun unga yana bosing.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profil</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Hisob maʼlumotlari autentifikatsiya qilingan YouTube ulanishingiz orqali mavjud.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>HAQIDA</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API kalitini bekor qilish</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Boshqariladigan konfiguratsiyadan foydalanish uchun bo'sh qoldiring</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ ORTAGA</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>BEKOR</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>bu kanal haqida</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>kanal tafsilotlari</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>TOZLASH</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Shaxsiy hisob ma'lumotlari faqat Windows Credential Locker-da saqlanadi.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Tavsif</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Ixtiyoriy</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>tavsifi</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Bu jurnal ilova xatolarini va OAuth bosqichlarini qayd qiladi. Hisob ma'lumotlari, avtorizatsiya kodlari va tokenlar bundan mustasno.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostika</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profilni oʻqish va yuklash uchun Google TV va cheklangan kirish qurilmasi OAuth mijozi ishlatiladi. Qayta yo'naltirish URI ishlatilmaydi. Boshqariladigan mahalliy qurilish qiymatlari yashirin qoladi; hisobga olish ma'lumotlarini bu erda saqlash ularni bekor qiladi.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google hisobi</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Ilova ichida ijro etish YouTubening rasmiy mobil tomosha sahifasidan foydalanadi. Bu ilova media URL manzillarini chiqarmaydi yoki yuklab olmaydi.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>yoqqan videolar</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>LAYK BULGAN VIDEOLARNI YUKLASH</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>KO'PROQ LIKE BOSGAN VIDEOLARNI YUKLASH</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>KO'PROQ Pleylistlarni YUKLASH</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>KO'PROQ Pleylist VIDEOLARINI YUKLASH</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>KO'PROQ OBUNALARNI YUKLASH</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>YUKLANGAN VIDEOLARNI YUKLASH</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Cheklangan kirish qurilmasi OAuth mijoz identifikatorini bekor qilish</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Boshqariladigan konfiguratsiyadan foydalanish uchun bo'sh qoldiring</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Cheklangan kirish qurilmasi OAuth mijoz sirini bekor qilish</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Boshqariladigan konfiguratsiyadan foydalanish uchun bo'sh qoldiring</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Hisob maʼlumotlarini saqlang, soʻngra Google tizimiga kirishni boshlang. Quyidagi tasdiqlash kodi boshqa qurilmaga kiritilgan; bu ilova hech qachon tizimga kirish formasini ochmaydi. Profilni oʻqishga ruxsat berish uchun ushbu yangilanishdan keyin qayta kiring.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>KANAL OCHISH</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>BRAUZERDA OCHISH</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>futbolchi</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>ILOVADA O‘YNASH</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>pleylistlar</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>pleylist videolari</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Maxfiylik</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>xususiy</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Cheklangan API kaliti faqat oʻqish uchun moʻljallangan YouTube Data API v3 qoʻngʻiroqlari uchun ishlatiladi. Boshqariladigan mahalliy qurilish qiymatlari yashirin qoladi; bu yerda saqlash ularni bekor qiladi.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>umumiy ma'lumotlarga kirish</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>ommaviy</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>YANGILASH</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>PROFILNI YANGILASH</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Xavfsiz rejim qidiruvlar uchun YouTubening qat'iy SafeSearch sozlamasidan foydalanadi. U YouTube Kids katalogini taqdim etmaydi yoki mashhur, toifa va hisob tasmalarini filtrlamaydi.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>xavfsiz rejim</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Ommaviy video qidiruvlar uchun qattiq SafeSearch-dan foydalaning</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>API KALİTNI SAQLASH</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>JURALNI SAQLASH</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>ISHLAB CHIQARISH maʼlumotlarini SAQLASH</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Hech qanday video tanlanmagan.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>VIDEONI TANLASH</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>sozlamalar</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>GOOGLE KIRISHNI BOSHLASH</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>RO'YZDAN CHIKISh</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>YUKLASHNI BOSHLASH</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>obunalar</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Sarlavha</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Majburiy</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>ro'yxatga kiritilmagan</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>“Tomosha tarixi” va “Keyinroq ko‘rish” o‘qilishi mumkin bo‘lgan v3 to‘plamlari sifatida ko‘rsatilmaydi. UniTube ularni taqlid qilmaydi yoki noto'g'ri belgilamaydi.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>YouTube Data API v3 tomonidan qo'llab-quvvatlanmaydi</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>yuklangan videolar</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>yuklash</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Mahalliy videoni tanlang, keyin uni vakolatli Google hisobingiz orqali yuklang.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>video yuklash</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Video tanlashga tayyor.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Yuklash uchun OAuth sozlamalari va Sozlamalar orqali toʻldirilgan Google hisobiga kirish talab qilinadi.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>VIDEO YUKLASH</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>video tafsilotlari</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>DIAGNOSTIKALARNI KOʻRISH</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>YOUTUBEDA KO'RING</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} toifalari {1} uchun mavjud.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Kategoriyalar yuklanmoqda...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} videolari yuklanmoqda...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{2} uchun {0:N0} mashhur {1} videolari.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Kanal identifikatori talab qilinadi.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Kanal tafsilotlari yuklanmoqda...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} obunachilari | {1:N0} videolari | {2:N0} ko'rishlar</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Soʻralgan kanal mavjud emas.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>YOPISH</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube Data API bilan bog‘lanib bo‘lmadi. Tarmoq ulanishini tekshiring.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API so‘rovi muddati tugadi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>noma'lum</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google avtorizatsiyasi kirish tokenini taqdim etmadi. Qaytadan kiring.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google hisobiga kirish sozlanmagan. Profilni ochishdan oldin tizimga kiring.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Umumiy YouTube Data API v3 funksiyalaridan foydalanishdan oldin Google API kalitini qoʻshing.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Kanal identifikatori talab qilinadi.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Tasdiqlangan YouTube Data API yaroqsiz javob qaytardi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API yaroqsiz javob qaytardi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Pleylist identifikatori talab qilinadi.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 {0} ({1}) ni qaytardi. {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Qidirish uchun matnni kiriting.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Video identifikatori talab qilinadi.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnostika jurnali tozalandi.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnostika jurnali {0} da saqlandi.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Diagnostik hodisalar qayd etilmagan.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Diagnostika jurnalini saqlash bekor qilindi.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Diagnostika jurnalini saqlab boʻlmadi (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Matn fayli</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Oxirgi o'yin</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Jonli plitkani yangilash uchun video metamaʼlumotlari talab qilinadi.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Hozir trend</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Hozir ommabop ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Ommaviy video sarlavhasi talab qilinadi.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google qurilmasi avtorizatsiyasi muddati tugadi.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google qurilmasini avtorizatsiya qilish tugallanmadi: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Yuklashdan oldin Google avtorizatsiyasi qayta tugallanishi kerak.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google qurilma avtorizatsiyasini ishga tushirib bo‘lmadi: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Kirishdan oldin cheklangan kirish qurilmasi OAuth mijoz identifikatorini sozlang.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Kirishdan oldin cheklangan kirish qurilmasi OAuth mijoz sirini sozlang.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google cheklangan kirish qurilmasi OAuth mijozini (invalid_client) rad etdi. Mijoz ID va mijoz sirini tekshiring.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google cheklangan kirish qurilmasi OAuth hisob ma'lumotlarini (invalid_client) rad etdi. Mijoz ID va mijoz sirini tekshiring.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google qurilma avtorizatsiyasi yaroqsiz javob qaytardi.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google token oxirgi nuqtasi yaroqsiz javob qaytardi.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google qurilma avtorizatsiyasi foydalanish mumkin boʻlgan tasdiqlash kodi va URL manzilini qaytarmadi.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google token oxirgi nuqtasi kirish tokenini qaytarmadi.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Hech qanday Google hisobiga ruxsat berilmagan. Avval tizimga kirishni boshlang.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google sekinroq ovoz berishni talab qildi.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Saqlangan OAuth tokenining amal qilish muddati noto‘g‘ri tuzilgan. Qaytadan kiring.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Saqlangan OAuth tokeni noto‘g‘ri tuzilgan. Qaytadan kiring.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google tokenini yangilash amalga oshmadi: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google avtorizatsiyasi tugallandi, lekin Windows Credential Locker tokenni saqlay olmadi (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Ilova ichidagi pleer bu videoni yuklay olmadi. Buning o'rniga uni brauzerda oching.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Rasmiy YouTube tomosha sahifasi yuklanmoqda...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Ilova ichida ijro etish uchun video identifikatori talab qilinadi.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} videolar</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Mashhur videolar yuklanmoqda...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} mashhur video natijalari.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} mashhur video natijalari. Windows jonli plitkani yangilashga ruxsat bermadi.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} mashhur video natijalari. Jonli plitka endi eng yuqori natijani ko'rsatadi.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} mashhur video natijalari. Jonli plitkani yangilab bo‘lmadi.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google ushbu hisob qaydnomasiga profil maʼlumotlariga kirishga ruxsat bermadi. Hisobdan chiqing, Google tizimiga qaytadan kirishni boshlang va YouTube faqat oʻqish imkoniyatini qabul qiling.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} yoqqan videolar yuklandi.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Yoqqan video so‘roviga erishib bo‘lmadi. Tarmoq ulanishini tekshiring.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Yoqqan videolar so‘rovi vaqti tugadi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profil yuklandi.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profil {0} (0x{1}) vaqtida yuklanmadi. Tafsilotlar uchun Diagnostics ilovasini oching.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Tasdiqlangan profil yuklanmoqda...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Yoqqan videolar yuklanmoqda...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Yana yoqqan videolar yuklanmoqda...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Boshqa pleylist videolari yuklanmoqda...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Yana yuklangan videolar yuklanmoqda...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Pleylist videolari yuklanmoqda...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} obunachilari | {1:N0} videolari | {2:N0} ko'rishlar</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google ruxsat berilgan hisob uchun hech qanday kanalni qaytarmadi.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Yoqqan videolar qaytarilmadi.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube bu kanal uchun yuklangan pleylistni taqdim etmadi.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} pleylistlari yuklandi. Videolarini ko'rish uchun birini tanlang.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Pleylistlar soʻroviga erishib boʻlmadi. Tarmoq ulanishini tekshiring.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Pleylistlar soʻrovi vaqti tugadi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} pleylist videolari yuklandi.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Pleylist videolari soʻroviga ulanib boʻlmadi. Tarmoq ulanishini tekshiring.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Pleylist videolari soʻrovi vaqti tugadi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Autentifikatsiya qilingan YouTube API bilan bog‘lanib bo‘lmadi. Tarmoq ulanishini tekshiring.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Tasdiqlangan YouTube so‘rovi muddati tugadi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Oʻzingiz yoqtirgan toʻplamni soʻrash uchun “Yoqqan videolarni yuklash” ni tanlang.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Videolarni yuklash uchun yuqoridagi pleylistni tanlang.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanal</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>yoqqan videolar</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>pleylistlar</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>pleylist videolari</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>boshlab</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>obunalar</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>yuklangan videolar</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} obunalari yuklandi.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Obuna soʻroviga erishib boʻlmadi. Tarmoq ulanishini tekshiring.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Obuna soʻrovi muddati tugadi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Agar bu hisob Profil qo‘shilishidan oldin ruxsat etilgan bo‘lsa, YouTube-ga faqat o‘qish uchun ruxsat berish uchun tizimga qayta kiring.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} yuklangan videolar yuklandi.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Yuklangan videolar so‘roviga ulanib bo‘lmadi. Tarmoq ulanishini tekshiring.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Yuklangan video so‘rovi muddati tugadi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Qo'llab-quvvatlanadigan hududlar yuklanmoqda...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Qo'llab-quvvatlanadigan hududlarni yuklab bo'lmadi. Tarmoq ulanishini tekshiring.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Qo‘llab-quvvatlanadigan hududlarni yuklab bo‘lmadi, chunki YouTube Data API so‘rovi vaqti tugadi.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube qoʻllab-quvvatlanadigan hududlarni qaytarmadi. Amerika Qo'shma Shtatlaridan foydalanish.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Amerika Qo'shma Shtatlari</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>API kalitini kiriting yoki Clear API kalitidan foydalaning.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Cheklangan kirish qurilmasi OAuth mijoz identifikatori talab qilinadi.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Cheklangan kirish qurilmasi OAuth mijoz siri talab qilinadi.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Qidirilmoqda...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} ommaviy video natijalari.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Bu ilova Google yoki YouTube bilan bog'liq emas.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>{0}.{1}.{2}.{3} qurish</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube — YouTube’ning ommaviy API’si orqali YouTube’ni ko‘rish uchun zamonaviy UWP ilovasi.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>tomonidan ishlab chiqilgan:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Umumiy ma'lumotlar uchun o'rnatilgan UniTube konfiguratsiyasidan foydalanish. Bu yerda saqlash uni bekor qiladi.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Hech qanday API kaliti sozlanmagan.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Sizning API kalitingiz Windows Credential Locker-da saqlanadi.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google avtorizatsiyasi bekor qilindi.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google avtorizatsiyasi tugallandi. Profilni o'qish va video yuklash mavjud.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} kodining amal qilish muddati {1:D2}:{2:D2} da tugaydi. Google har {3} soniyada tekshirilmoqda.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google avtorizatsiyasi token so‘nggi nuqtasi bilan bog‘lana olmadi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google avtorizatsiyasi olib tashlandi. Profilni ochish yoki yuklashdan oldin Google hisobiga kiring.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Profilni o'qish va video yuklash uchun Google hisobiga ruxsat berilgan. Agar bu token Profildan oldin boʻlsa, qayta kiring.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google avtorizatsiyasi kutilmaganda amalga oshmadi (0x{0}). Ilovani qayta ishga tushirgandan so'ng Diagnostics-ni oching.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Profil va yuklashlar uchun o'rnatilgan UniTube konfiguratsiyasidan foydalanish. Avval Google hisobiga kirishni boshlang.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Cheklangan kirish qurilmasi OAuth hisob maʼlumotlari saqlandi. Agar qiymatlardan biri o‘zgargan bo‘lsa, yuklashdan oldin tizimga qayta kiring.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Saqlangan OAuth hisob maʼlumotlari sozlangan. Profilni ochish yoki yuklashdan oldin Google hisobiga kiring.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Toʻliq boʻlmagan saqlangan OAuth bekor qilish eʼtiborga olinmadi. Profil va yuklashlar uchun o'rnatilgan UniTube konfiguratsiyasidan foydalanish.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Boshqariladigan OAuth konfiguratsiyasi mavjud. Profilni ochish yoki yuklashdan oldin Google hisobiga kiring.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>OAuth hisob maʼlumotlarini saqlang, soʻngra Profilni ochish yoki yuklashdan oldin Google tizimiga kiring.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kod: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Tasdiqlash kodi muddati tugagan. Yangi kod so‘ralmoqda...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Ushbu brauzerda kodni kiriting. Bu telefon Google avtorizatsiyasini kutadi.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Oldingi kodingiz muddati tugagan. Ushbu brauzerda yangi kodni kiriting.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Joriy brauzerga ega boshqa telefon, planshet yoki kompyuterda quyidagi manzilga tashrif buyuring: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Google ruxsati kutilmoqda.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Yuklash bekor qilindi. Qisman yuklangan davom ettiriladigan seans davom ettirilmadi.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Yuklash bekor qilinmoqda...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Yuklash tugallandi. YouTube videoni qayta ishlamoqda.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Yuklash tugallandi. Video identifikatori: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Video tavsifi 5000 yoki undan kam belgidan iborat boʻlishi kerak.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Ma'lumotlarni o'z ichiga olgan video faylni tanlang.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Tanlangan fayl muddatidan oldin tugadi.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Yuklashdan oldin video faylni tanlang.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Tanlangan video yuklash uchun juda katta.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Yuklash YouTube-ga kira olmadi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube tugallangan yuklash javobini qaytarmadi.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube qayta yuklanadigan joyni qaytarmadi.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Shaxsiy, roʻyxatga olinmagan yoki umumiy maxfiylikni tanlang.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} / {1:N0} bayt yuklandi ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>{0} yuklashga tayyor.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTubega yuklash {0} ({1}) qaytarildi. {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bayt)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Video tanlovi bekor qilindi.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Yuklash davom ettirilmoqda...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Yuklash vaqti tugadi. Tarmoq ulanishini tekshiring va qayta urinib ko'ring.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Yuklashdan oldin sarlavha kiriting.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Video sarlavhasi 100 yoki undan kam belgidan iborat boʻlishi kerak.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Taniqli video faylni tanlang.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Video tafsilotlari yuklanmoqda...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Chop etilgan: {0} | {1:N0} ko'rish | davomiyligi {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Ilovada oʻynash YouTubening rasmiy mobil tomosha sahifasini ochadi.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Ijro boshlandi, lekin uning metamaʼlumotlarini jonli plitka uchun saqlab boʻlmadi.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Ijro boshlandi, lekin Windows jonli plitani yangilashga ruxsat bermadi.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Ijro boshlandi, lekin jonli plitani yangilab bo‘lmadi.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Talab qilingan video mavjud emas.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Video identifikatori talab qilinadi.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Maxsus minnatdorchilik</value>
+  </data>
+</root>

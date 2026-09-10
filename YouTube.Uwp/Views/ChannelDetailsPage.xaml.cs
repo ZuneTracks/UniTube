@@ -25,24 +25,26 @@ namespace YouTube.Uwp.Views
             string channelId = e.Parameter as string;
             if (string.IsNullOrWhiteSpace(channelId))
             {
-                StatusText.Text = "A channel ID is required.";
+                StatusText.Text = Localizer.Get("ChannelDetails.ChannelIdRequired");
                 return;
             }
 
             try
             {
-                StatusText.Text = "Loading channel details...";
+                StatusText.Text = Localizer.Get("ChannelDetails.Loading");
                 ChannelDetails channel = await client.GetChannelAsync(channelId);
                 if (channel == null)
                 {
-                    StatusText.Text = "The requested channel is unavailable.";
+                    StatusText.Text = Localizer.Get("ChannelDetails.Unavailable");
                     return;
                 }
 
                 TitleText.Text = channel.Title;
-                MetadataText.Text = channel.SubscriberCount.ToString("N0", CultureInfo.CurrentCulture) + " subscribers | "
-                    + channel.VideoCount.ToString("N0", CultureInfo.CurrentCulture) + " videos | "
-                    + channel.ViewCount.ToString("N0", CultureInfo.CurrentCulture) + " views";
+                MetadataText.Text = Localizer.Format(
+                    "ChannelDetails.Metadata",
+                    channel.SubscriberCount,
+                    channel.VideoCount,
+                    channel.ViewCount);
                 DescriptionText.Text = channel.Description;
                 if (!string.IsNullOrWhiteSpace(channel.ThumbnailUrl))
                 {
@@ -61,7 +63,7 @@ namespace YouTube.Uwp.Views
             }
             catch (HttpRequestException)
             {
-                StatusText.Text = "The YouTube Data API could not be reached. Check the network connection.";
+                StatusText.Text = Localizer.Get("Common.ApiNetworkFailure");
             }
         }
 

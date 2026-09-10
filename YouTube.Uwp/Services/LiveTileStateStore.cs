@@ -41,7 +41,7 @@ namespace YouTube.Uwp.Services
         {
             if (video == null || string.IsNullOrWhiteSpace(video.Id) || string.IsNullOrWhiteSpace(video.Title))
             {
-                throw new ArgumentException("Video metadata is required to update the live tile.", "video");
+                throw new ArgumentException(Localizer.Get("LiveTile.MetadataRequired"), "video");
             }
 
             ApplicationDataContainer settings = ApplicationData.Current.LocalSettings;

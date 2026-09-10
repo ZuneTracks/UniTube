@@ -29,25 +29,29 @@ namespace YouTube.Uwp.Views
             string videoId = e.Parameter as string;
             if (string.IsNullOrWhiteSpace(videoId))
             {
-                StatusText.Text = "A video ID is required.";
+                StatusText.Text = Localizer.Get("VideoDetails.VideoIdRequired");
                 return;
             }
 
             try
             {
-                StatusText.Text = "Loading video details...";
+                StatusText.Text = Localizer.Get("VideoDetails.Loading");
                 video = await client.GetVideoAsync(videoId);
                 if (video == null)
                 {
-                    StatusText.Text = "The requested video is unavailable.";
+                    StatusText.Text = Localizer.Get("VideoDetails.Unavailable");
                     return;
                 }
 
                 TitleText.Text = video.Title;
                 ChannelText.Text = video.ChannelTitle;
-                MetadataText.Text = "Published " + (video.PublishedAt.HasValue ? video.PublishedAt.Value.ToString("u") : "unknown")
-                    + " | " + video.ViewCount.ToString("N0", CultureInfo.CurrentCulture) + " views"
-                    + " | duration " + video.Duration;
+                MetadataText.Text = Localizer.Format(
+                    "VideoDetails.Metadata",
+                    video.PublishedAt.HasValue
+                        ? video.PublishedAt.Value.ToString("g", CultureInfo.CurrentCulture)
+                        : Localizer.Get("Common.Unknown"),
+                    video.ViewCount,
+                    video.Duration);
                 DescriptionText.Text = video.Description;
                 if (!string.IsNullOrWhiteSpace(video.ThumbnailUrl))
                 {
@@ -55,7 +59,7 @@ namespace YouTube.Uwp.Views
                 }
 
                 PlayInAppButton.IsEnabled = true;
-                PlaybackStatusText.Text = "Play in app opens YouTube's official mobile watch page.";
+                PlaybackStatusText.Text = Localizer.Get("VideoDetails.PlayInAppStatus");
                 StatusText.Text = string.Empty;
             }
             catch (InvalidOperationException exception)
@@ -68,7 +72,7 @@ namespace YouTube.Uwp.Views
             }
             catch (HttpRequestException)
             {
-                StatusText.Text = "The YouTube Data API could not be reached. Check the network connection.";
+                StatusText.Text = Localizer.Get("Common.ApiNetworkFailure");
             }
         }
 
@@ -114,15 +118,15 @@ namespace YouTube.Uwp.Views
             }
             catch (UnauthorizedAccessException)
             {
-                PlaybackStatusText.Text = "Playback started, but Windows did not allow the live tile to update.";
+                PlaybackStatusText.Text = Localizer.Get("VideoDetails.TilePermissionFailure");
             }
             catch (System.Runtime.InteropServices.COMException)
             {
-                PlaybackStatusText.Text = "Playback started, but the live tile could not be updated.";
+                PlaybackStatusText.Text = Localizer.Get("VideoDetails.TileUpdateFailure");
             }
             catch (ArgumentException)
             {
-                PlaybackStatusText.Text = "Playback started, but its metadata could not be saved for the live tile.";
+                PlaybackStatusText.Text = Localizer.Get("VideoDetails.TileMetadataFailure");
             }
         }
     }

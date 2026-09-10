@@ -135,6 +135,50 @@ and Credential Locker resource names are separate from earlier
 `YouTubeReconstructed` development packages, so re-enter runtime configuration
 after installing UniTube.
 
+## Localization
+
+All app-authored UWP interface text is localized through the standard UWP
+layout `YouTube.Uwp\Strings\language-<specific-BCP-47-tag>\Resources.resw`.
+`language-` is the documented MakePRI folder qualifier; its suffix is the
+resource language. Every resource qualifier must be a canonical, specific
+Windows culture, never a neutral YouTube `i18nLanguages` code. There are 82
+package resource sets for the 87 source codes: four duplicate generic/specific
+pairs share one locale (`de`/`de-DE`, `en`/`en-US`, `es`/`es-ES`, and
+`pl`/`pl-PL`), and Burmese `my` has no Microsoft Store-supported package
+language. The complete machine-readable source-code-to-resource-locale
+catalog is `$youtubeLocaleMap` in
+[`tools\ValidateUwpResources.ps1`](tools/ValidateUwpResources.ps1).
+
+Notable canonical mappings are `az` → `az-Latn-AZ`, `no` → `nb-NO`, `pt` →
+`pt-BR`, `sr` → `sr-Cyrl-RS`, `sr-Latn` → `sr-Latn-RS`, `zh-CN` →
+`zh-Hans-CN`, `zh-HK` → `zh-Hant-HK`, and `zh-TW` → `zh-Hant-TW`. Existing
+regional source codes remain regional when valid. The default source codes `en`
+and `en-US` both use the one required
+`Strings\language-en-US\Resources.resw` set, matching `DefaultLanguage`.
+The legacy YouTube API code `iw`, when encountered upstream, is normalized to
+the standard `he` source code before this catalog is applied.
+XAML uses `x:Uid` property
+resources, while code-driven status, validation, dialog, and live-tile text uses
+the `Localizer` helper with semantic resource names. Video, channel, playlist,
+and region text returned by YouTube remains API content and is not translated by
+the app.
+
+When changing user-facing text, add its semantic key and English value to
+`Strings\language-en-US\Resources.resw`, use the matching XAML property convention
+(`.Text`, `.Content`, `.Header`, or `.PlaceholderText`), and add an accurate,
+nonempty native-language value for every existing locale resource. Keep each
+resource file's key set identical to `en-US`; do not add locale files without
+also registering them as exactly one `PRIResource` entry in
+`YouTube.Uwp.csproj` using the same
+`Strings\language-<specific-BCP-47-tag>\Resources.resw` path.
+Run
+`powershell -ExecutionPolicy Bypass -File .\tools\ValidateUwpResources.ps1`
+to validate independently; non-design-time MSBuild invocations run it before
+building. It verifies full YouTube catalog coverage, item/file mapping, specific
+canonical Windows BCP-47 qualifiers, qualifier uniqueness, per-file duplicate
+keys, and key parity with `en-US`. Preserve format placeholders such as `{0:N0}`
+exactly, because `Localizer.Format` applies them using the current culture.
+
 ## Implemented public API v3 mappings
 
 | App function | Official YouTube Data API v3 request |

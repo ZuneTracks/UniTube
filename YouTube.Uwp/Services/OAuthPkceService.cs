@@ -88,13 +88,13 @@ namespace YouTube.Uwp.Services
                     if (error == "invalid_client")
                     {
                         throw new OAuthException(
-                            "Google rejected the limited-input device OAuth client (invalid_client). Check the client ID and client secret.");
+                            Localizer.Get("OAuth.InvalidClient"));
                     }
 
-                    throw new OAuthException("Google device authorization could not start: " + error + ".");
+                    throw new OAuthException(Localizer.Format("OAuth.AuthorizationStartFailed", error));
                 }
 
-                JsonObject responseJson = ParseJson(content, "Google device authorization returned an invalid response.");
+                JsonObject responseJson = ParseJson(content, Localizer.Get("OAuth.InvalidDeviceAuthorizationResponse"));
                 string deviceCode = responseJson.GetNamedString("device_code", string.Empty);
                 string userCode = responseJson.GetNamedString("user_code", string.Empty);
                 string verificationUrl = responseJson.GetNamedString("verification_url", string.Empty);
@@ -108,7 +108,7 @@ namespace YouTube.Uwp.Services
                     || string.IsNullOrWhiteSpace(userCode)
                     || !Uri.TryCreate(verificationUrl, UriKind.Absolute, out verificationUri))
                 {
-                    throw new OAuthException("Google device authorization did not return a usable verification code and URL.");
+                    throw new OAuthException(Localizer.Get("OAuth.InvalidVerificationCodeResponse"));
                 }
 
                 return new DeviceAuthorizationInfo(
@@ -137,7 +137,7 @@ namespace YouTube.Uwp.Services
             while (DateTimeOffset.UtcNow < expiresAt)
             {
                 cancellationToken.ThrowIfCancellationRequested();
-                ReportProgress(progress, expiresAt, pollIntervalSeconds, "Waiting for Google approval.");
+                ReportProgress(progress, expiresAt, pollIntervalSeconds, Localizer.Get("Settings.WaitingForGoogleApproval"));
                 TimeSpan remaining = expiresAt - DateTimeOffset.UtcNow;
                 TimeSpan delay = remaining < TimeSpan.FromSeconds(pollIntervalSeconds)
                     ? remaining
@@ -165,7 +165,7 @@ namespace YouTube.Uwp.Services
 
                 if (response.Error == "authorization_pending")
                 {
-                    ReportProgress(progress, expiresAt, pollIntervalSeconds, "Waiting for Google approval.");
+                    ReportProgress(progress, expiresAt, pollIntervalSeconds, Localizer.Get("Settings.WaitingForGoogleApproval"));
                     continue;
                 }
 
@@ -173,7 +173,7 @@ namespace YouTube.Uwp.Services
                 {
                     pollIntervalSeconds += 5;
                     DiagnosticLog.Write("OAuth.Poll", "Google requested a slower polling interval.");
-                    ReportProgress(progress, expiresAt, pollIntervalSeconds, "Google requested slower polling.");
+                    ReportProgress(progress, expiresAt, pollIntervalSeconds, Localizer.Get("OAuth.SlowerPolling"));
                     continue;
                 }
 
@@ -186,10 +186,10 @@ namespace YouTube.Uwp.Services
                 if (response.Error == "invalid_client")
                 {
                     throw new OAuthException(
-                        "Google rejected the limited-input device OAuth credentials (invalid_client). Check the client ID and client secret.");
+                        Localizer.Get("OAuth.InvalidCredentials"));
                 }
 
-                throw new OAuthException("Google device authorization was not completed: " + response.Error + ".");
+                throw new OAuthException(Localizer.Format("OAuth.AuthorizationIncomplete", response.Error));
             }
 
             throw new DeviceAuthorizationExpiredException();
@@ -201,7 +201,7 @@ namespace YouTube.Uwp.Services
             OAuthToken token = ReadToken();
             if (token == null)
             {
-                throw new OAuthException("No Google account is authorized. Start sign-in first.");
+                throw new OAuthException(Localizer.Get("OAuth.NoAccountAuthorized"));
             }
 
             if (token.ExpiresAt > DateTimeOffset.UtcNow.AddMinutes(1) && !string.IsNullOrWhiteSpace(token.AccessToken))
@@ -211,7 +211,7 @@ namespace YouTube.Uwp.Services
 
             if (string.IsNullOrWhiteSpace(token.RefreshToken))
             {
-                throw new OAuthException("Google authorization needs to be completed again before uploading.");
+                throw new OAuthException(Localizer.Get("OAuth.AuthorizationMustBeRepeated"));
             }
 
             Dictionary<string, string> parameters = new Dictionary<string, string>();
@@ -237,7 +237,7 @@ namespace YouTube.Uwp.Services
                 cancellationToken))
             {
                 string content = await response.Content.ReadAsStringAsync();
-                JsonObject responseJson = ParseJson(content, "Google token endpoint returned an invalid response.");
+                JsonObject responseJson = ParseJson(content, Localizer.Get("OAuth.InvalidTokenResponse"));
                 if (!response.IsSuccessStatusCode)
                 {
                     return new DeviceTokenResponse(null, responseJson.GetNamedString("error", "unknown_error"));
@@ -261,10 +261,10 @@ namespace YouTube.Uwp.Services
                 string content = await response.Content.ReadAsStringAsync();
                 if (!response.IsSuccessStatusCode)
                 {
-                    throw new OAuthException("Google token refresh failed: " + content);
+                    throw new OAuthException(Localizer.Format("OAuth.TokenRefreshFailed", content));
                 }
 
-                return CreateToken(ParseJson(content, "Google token endpoint returned an invalid response."));
+                return CreateToken(ParseJson(content, Localizer.Get("OAuth.InvalidTokenResponse")));
             }
         }
 
@@ -273,7 +273,7 @@ namespace YouTube.Uwp.Services
             string accessToken = responseJson.GetNamedString("access_token", string.Empty);
             if (string.IsNullOrWhiteSpace(accessToken))
             {
-                throw new OAuthException("Google token endpoint did not return an access token.");
+                throw new OAuthException(Localizer.Get("OAuth.NoAccessToken"));
             }
 
             return new OAuthToken
@@ -289,13 +289,13 @@ namespace YouTube.Uwp.Services
             string clientId = configuration.OAuthClientId;
             if (string.IsNullOrWhiteSpace(clientId))
             {
-                throw new OAuthException("Set a limited-input device OAuth client ID before signing in.");
+                throw new OAuthException(Localizer.Get("OAuth.ClientIdRequired"));
             }
 
             string clientSecret = configuration.GetOAuthClientSecret();
             if (string.IsNullOrWhiteSpace(clientSecret))
             {
-                throw new OAuthException("Set the limited-input device OAuth client secret before signing in.");
+                throw new OAuthException(Localizer.Get("OAuth.ClientSecretRequired"));
             }
 
             DiagnosticLog.Write(
@@ -337,13 +337,13 @@ namespace YouTube.Uwp.Services
 
             if (string.IsNullOrWhiteSpace(accessToken) || string.IsNullOrWhiteSpace(expiryValue))
             {
-                throw new OAuthException("The stored OAuth token is malformed. Sign in again.");
+                throw new OAuthException(Localizer.Get("OAuth.StoredTokenMalformed"));
             }
 
             long expiresAt;
             if (!long.TryParse(expiryValue, out expiresAt))
             {
-                throw new OAuthException("The stored OAuth token expiration is malformed. Sign in again.");
+                throw new OAuthException(Localizer.Get("OAuth.StoredTokenExpirationMalformed"));
             }
 
             return new OAuthToken
@@ -372,9 +372,7 @@ namespace YouTube.Uwp.Services
             {
                 DiagnosticLog.WriteException("OAuth.TokenStore", exception);
                 throw new OAuthException(
-                    "Google authorization completed, but Windows Credential Locker could not save the token (0x"
-                    + exception.HResult.ToString("X8")
-                    + ").");
+                    Localizer.Format("OAuth.TokenSaveFailed", exception.HResult.ToString("X8")));
             }
         }
 
@@ -479,7 +477,7 @@ namespace YouTube.Uwp.Services
     public sealed class DeviceAuthorizationExpiredException : OAuthException
     {
         public DeviceAuthorizationExpiredException()
-            : base("Google device authorization expired.")
+            : base(Localizer.Get("OAuth.AuthorizationExpired"))
         {
         }
     }

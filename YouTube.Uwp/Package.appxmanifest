@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
   <!-- Associate this project with the Store before creating Store packages. The Store association must replace the development identity values. -->
-  <Identity Name="7907E48C.YourTubeBrowser" Publisher="CN=ZuneTracks" Version="1.6.7.6" />
-  <mp:PhoneIdentity PhoneProductId="9C3F44D1-BB5D-4F42-A477-415D167EF8A1" PhonePublisherId="D0D67887-805A-4B7B-9DB8-5A3E28E6D0D6" />
+  <Identity Name="ZuneTracks.UniTubeUWP" Publisher="CN=3ED86B18-5F5F-4AE0-AA9C-697B841F55A7" Version="1.6.8.0" />
+  <mp:PhoneIdentity PhoneProductId="5aacc6a0-87ca-457d-bc51-c823c10c9dab" PhonePublisherId="D0D67887-805A-4B7B-9DB8-5A3E28E6D0D6" />
   <Properties>
-    <DisplayName>UniTube Browser</DisplayName>
+    <DisplayName>UniTube UWP</DisplayName>
     <PublisherDisplayName>ZuneTracks</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -12,11 +12,11 @@
     <Resource Language="x-generate" />
   </Resources>
   <Dependencies>
-    <TargetDeviceFamily Name="Windows.Mobile" MinVersion="10.0.15063.0" MaxVersionTested="10.0.15063.0" />
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.15063.0" MaxVersionTested="10.0.15063.0" />
   </Dependencies>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="YouTube.Uwp.App">
-      <uap:VisualElements DisplayName="UniTube Browser" Description="A UWP browser and upload prototype for YouTube." BackgroundColor="transparent" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png">
+      <uap:VisualElements DisplayName="UniTube UWP" Description="A UWP browser and upload client for YouTube." BackgroundColor="transparent" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square310x310Logo="Assets\LargeTile.png" Square71x71Logo="Assets\SmallTile.png">
         </uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />

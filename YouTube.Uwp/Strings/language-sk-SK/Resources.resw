@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>VEREJNÝ PREHLIADAČ</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>NASTAVENIA</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>DOMOV</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>HĽADAŤ</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGÓRIE</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFIL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>objaviť</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Najnovšie populárne videá v klasickom rozložení pre telefón.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>V TRENDE TERAZ</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Načítajte obľúbené videá pre váš región</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>populárne videá</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Výberom položky Trendy teraz načítate verejné výsledky.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>hľadať</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Nájdite verejné videá YouTube pomocou kľúča API dodaného používateľom.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Hľadané výrazy</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Hľadajte na YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>HĽADAŤ</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULÁRNY</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>REGION</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategórie</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Klepnutím na kategóriu rozbalíte aktuálne obľúbené videá. Opätovným klepnutím naň zbalíte a vyberiete inú.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profilu</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Údaje účtu dostupné prostredníctvom vášho overeného pripojenia YouTube.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>O</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Prepísanie kľúča Google API</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Ak chcete použiť riadenú konfiguráciu, nechajte pole prázdne</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ SPÄŤ</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ZRUŠIŤ</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>o tomto kanáli</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>podrobnosti o kanáli</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>CLEAR</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Osobné prihlasovacie údaje sú uložené iba v systéme Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Popis</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Voliteľné</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>popis</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Tento denník zaznamenáva chyby aplikácie a míľniky protokolu OAuth. Poverenia, autorizačné kódy a tokeny sú vylúčené.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostika</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Na čítanie a nahrávanie profilu sa používa klient OAuth pre zariadenia Google TV a zariadenie s obmedzeným vstupom. Nepoužíva sa URI presmerovania. Hodnoty spravovaného lokálneho zostavenia zostávajú skryté; ukladanie poverení tu prepíše ich.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google účet</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Prehrávanie v aplikácii využíva oficiálnu mobilnú stránku prezerania videa YouTube. Táto aplikácia neextrahuje ani nesťahuje adresy URL médií.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>videá, ktoré sa vám páčia</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>NAČÍTAJTE VIDEÁ, ktoré sa vám páčia</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>NAČÍTAJTE SI VIAC VIDEÍ, KTORÉ SA ŤA PÁČIA</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>NAČÍTAŤ ĎALŠIE ZOZNAMY SKLADIEB</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>NAČÍTAJTE ĎALŠIE VIDEÁ ZOZNAMU SKLADIEB</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>NAČÍTAJTE SI ĎALŠIE PREDPLATNÉ</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>NAČÍTAJTE ĎALŠIE NAHRANÉ VIDEÁ</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Prepísanie ID klienta OAuth zariadenia s obmedzeným vstupom</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Ak chcete použiť riadenú konfiguráciu, nechajte pole prázdne</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Prepísanie tajného tajomstva klienta OAuth zariadenia s obmedzeným vstupom</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Ak chcete použiť riadenú konfiguráciu, nechajte pole prázdne</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Uložte poverenia a potom spustite prihlasovanie cez Google. Overovací kód uvedený nižšie sa zadáva na inom zariadení; táto aplikácia nikdy neotvorí prihlasovací formulár. Po tejto aktualizácii sa znova prihláste, aby ste profilu udelili prístup na čítanie.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>OTVORIŤ KANÁL</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>OTVORIŤ V PREHLIADAČI</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>hráč</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>HRAŤ V APLIKÁCII</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>zoznamy skladieb</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>zoznam videí</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Ochrana osobných údajov</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>súkromné</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Obmedzený kľúč API sa používa iba pre volania rozhrania YouTube Data API v3 iba na čítanie. Hodnoty spravovaného lokálneho zostavenia zostávajú skryté; ukladanie tu má prednosť pred nimi.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>verejný prístup k údajom</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>verejnosti</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>OBNOVIŤ</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>OBNOVIŤ PROFIL</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Núdzový režim používa na vyhľadávanie prísne nastavenie Bezpečného vyhľadávania služby YouTube. Neposkytuje katalóg YouTube Kids ani nefiltruje obľúbené informačné kanály, kanály kategórií a účtov.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>bezpečný režim</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Na verejné vyhľadávanie videí používajte prísne Bezpečné vyhľadávanie</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>ULOŽIŤ KĽÚČ API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ULOŽIŤ DENNÍK</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>ULOŽTE POVEDANIA</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Nie je vybraté žiadne video.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>VYBERTE VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>nastavenia</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ZAČAŤ PRIHLÁSENIE GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ODHLÁSIŤ SA</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ZAČAŤ NAHRÁVAŤ</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>predplatné</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Názov</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Povinné</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>neuvedené</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>História pozerania a Pozrieť neskôr nie sú vystavené ako čitateľné zbierky v3. UniTube ich nenapodobňuje ani nesprávne označuje.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>nepodporované rozhraním YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>nahrané videá</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>nahrať</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Vyberte miestne video a potom ho nahrajte prostredníctvom svojho autorizovaného účtu Google.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>odovzdať video</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Pripravené na výber videa.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Nahrávanie vyžaduje nastavenia OAuth a dokončené prihlásenie cez Google z Nastavenia.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>NAHRAŤ VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>podrobnosti o videu</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>ZOBRAZIŤ DIAGNOSTIKU</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>POZRITE SI NA YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>Kategórie {0:N0} sú k dispozícii pre {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Načítavajú sa kategórie...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Načítavajú sa videá {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} populárne {1} videá pre {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Vyžaduje sa ID kanála.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Načítavajú sa podrobnosti kanála...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>Predplatitelia {0:N0} | {1:N0} videá | Zobrazenia {2:N0}</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Požadovaný kanál nie je dostupný.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ZATVORTE</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>Rozhranie YouTube Data API sa nepodarilo získať. Skontrolujte sieťové pripojenie.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Časový limit žiadosti YouTube Data API vypršal. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>neznámy</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Autorizácia Google neposkytla prístupový token. Prihláste sa znova.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Prístup k účtu Google nie je nakonfigurovaný. Pred otvorením profilu sa prihláste.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Pred použitím verejných funkcií rozhrania YouTube Data API v3 pridajte kľúč rozhrania Google API.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Vyžaduje sa ID kanála.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Overené rozhranie YouTube Data API vrátilo neplatnú odpoveď. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>Rozhranie YouTube Data API vrátilo neplatnú odpoveď. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Vyžaduje sa ID zoznamu videí.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 vrátilo {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Zadajte text, ktorý chcete vyhľadať.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Vyžaduje sa ID videa.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnostický denník bol vymazaný.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnostický protokol uložený do {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Neboli zaznamenané žiadne diagnostické udalosti.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Ukladanie diagnostického denníka bolo zrušené.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Nepodarilo sa uložiť diagnostický denník (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Textový súbor</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Naposledy hrané</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Na aktualizáciu živej dlaždice sú potrebné metadáta videa.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Aktuálne trendy</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Aktuálne trendy ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Vyžaduje sa populárny názov videa.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Platnosť autorizácie zariadenia Google vypršala.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Autorizácia zariadenia Google nebola dokončená: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Pred odovzdaním je potrebné znova dokončiť autorizáciu Google.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Autorizáciu zariadenia Google sa nepodarilo spustiť: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Pred prihlásením nastavte ID klienta OAuth zariadenia s obmedzeným vstupom.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Pred prihlásením nastavte tajný kľúč klienta OAuth zariadenia s obmedzeným vstupom.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google odmietol klienta OAuth zariadenia s obmedzeným vstupom (invalid_client). Skontrolujte ID klienta a tajný kľúč klienta.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google odmietol poverenia OAuth zariadenia s obmedzeným vstupom (invalid_client). Skontrolujte ID klienta a tajný kľúč klienta.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Autorizácia zariadenia Google vrátila neplatnú odpoveď.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Koncový bod tokenu Google vrátil neplatnú odpoveď.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Autorizácia zariadenia Google nevrátila použiteľný overovací kód a webovú adresu.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Koncový bod tokenu Google nevrátil prístupový token.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Nie je autorizovaný žiadny účet Google. Najprv sa začnite prihlasovať.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google požiadal o pomalšie hlasovanie.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Platnosť uloženého tokenu OAuth má nesprávny formát. Prihláste sa znova.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Uložený token OAuth má nesprávny tvar. Prihláste sa znova.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Obnovenie tokenu Google zlyhalo: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Autorizácia Google bola dokončená, ale Windows Credential Locker nemohol uložiť token (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Prehrávač v aplikácii nemohol načítať toto video. Namiesto toho ho otvorte v prehliadači.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Načítava sa oficiálna stránka pozerania videa YouTube...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Na prehrávanie v aplikácii sa vyžaduje ID videa.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>Videá {0:N0}</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Načítavajú sa obľúbené videá...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} populárne video výsledky.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} populárne video výsledky. Systém Windows neumožnil aktualizáciu živej dlaždice.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} populárne video výsledky. Živá dlaždica teraz zobrazuje najlepší výsledok.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} populárne video výsledky. Živú dlaždicu nebolo možné aktualizovať.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Spoločnosť Google neudelila tomuto účtu prístup k údajom profilu. Odhláste sa, znova spustite prihlasovanie cez Google a prijmite rozsah služby YouTube iba na čítanie.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>Načítali sa videá, ktoré sa páčia {0:N0}.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Žiadosť o obľúbené videá sa nepodarilo dosiahnuť. Skontrolujte sieťové pripojenie.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Časový limit žiadosti o obľúbené videá vypršal. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profil bol načítaný.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profil sa nepodarilo načítať počas {0} (0x{1}). Podrobnosti nájdete v časti Diagnostika.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Načítava sa overený profil...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Načítavajú sa obľúbené videá...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Načítavajú sa ďalšie obľúbené videá...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Načítavajú sa ďalšie videá zo zoznamu videí...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Načítavajú sa ďalšie odovzdané videá...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Načítavajú sa videá zo zoznamu videí...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>Predplatitelia {0:N0} | {1:N0} videá | Zobrazenia {2:N0}</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google nevrátil žiadny kanál pre autorizovaný účet.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Neboli vrátené žiadne obľúbené videá.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>Služba YouTube neposkytla pre tento kanál zoznam nahraných videí.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>Načítané zoznamy skladieb {0:N0}. Vyberte jeden, ak chcete zobraziť jeho videá.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Žiadosť o zoznamy skladieb sa nepodarilo dosiahnuť. Skontrolujte sieťové pripojenie.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Časový limit žiadosti o zoznamy skladieb vypršal. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>Načítané videá zo zoznamu videí {0:N0}.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Žiadosť o zoznam videí nebola dosiahnutá. Skontrolujte sieťové pripojenie.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Časový limit žiadosti o zoznam videí vypršal. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Overené rozhranie YouTube API sa nepodarilo získať. Skontrolujte sieťové pripojenie.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Časový limit overenej žiadosti YouTube vypršal. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Ak chcete požiadať o zbierku, ktorá sa vám páči, vyberte možnosť Načítať obľúbené videá.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Ak chcete načítať videá, vyberte zoznam videí vyššie.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanál</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>videá, ktoré sa vám páčia</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>zoznamy skladieb</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>zoznam videí</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>počnúc</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>predplatné</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>nahrané videá</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>Načítané odbery {0:N0}.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Žiadosť o odbery nebola dosiahnutá. Skontrolujte sieťové pripojenie.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Časový limit žiadosti o odbery vypršal. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Ak bol tento účet autorizovaný pred pridaním profilu, znova sa prihláste a udeľte YouTube rozsah iba na čítanie.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>Načítané nahrané videá {0:N0}.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Žiadosť o nahrané videá sa nepodarilo dosiahnuť. Skontrolujte sieťové pripojenie.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Časový limit žiadosti o nahrané videá vypršal. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Načítavajú sa podporované oblasti...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Podporované oblasti sa nepodarilo načítať. Skontrolujte sieťové pripojenie.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Podporované oblasti sa nepodarilo načítať, pretože časový limit žiadosti YouTube Data API vypršal.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>Služba YouTube nevrátila žiadne podporované oblasti. Používanie Spojených štátov amerických.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Spojené štáty americké</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Zadajte kľúč API alebo použite Clear API key.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Vyžaduje sa ID klienta OAuth zariadenia s obmedzeným vstupom.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Vyžaduje sa tajný kľúč klienta OAuth zariadenia s obmedzeným vstupom.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Hľadá sa...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>Výsledky verejných videí {0:N0}.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Táto aplikácia nie je pridružená k spoločnosti Google ani YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Zostava {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube je moderná UWP aplikácia na prehliadanie YouTube cez verejné API YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Vyvinutý:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Používanie vstavanej konfigurácie UniTube pre verejné údaje. Uloženie tu prepíše.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Nie je nakonfigurovaný žiadny kľúč API.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Váš API kľúč je uložený v Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Autorizácia Google bola zrušená.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Autorizácia Google je dokončená. K dispozícii je čítanie profilu a nahrávanie videí.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>Platnosť kódu {0} vyprší o {1:D2}:{2:D2}. Kontrola Google každých {3} sekúnd.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Autorizácii Google sa nepodarilo kontaktovať koncový bod tokenu. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Autorizácia Google bola odstránená. Pred otvorením profilu alebo odovzdaním spustite prihlásenie do služby Google.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Účet Google je autorizovaný na čítanie profilu a nahrávanie videí. Ak tento token predchádza profilu, prihláste sa znova.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Autorizácia Google neočakávane zlyhala (0x{0}). Po reštartovaní aplikácie otvorte Diagnostiku.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Používanie vstavanej konfigurácie UniTube pre profil a nahrávanie. Najprv spustite prihlásenie cez Google.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Poverenia OAuth zariadenia s obmedzeným vstupom boli uložené. Ak sa niektorá z hodnôt zmenila, pred odovzdaním sa znova prihláste.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Uložené poverenia OAuth sú nakonfigurované. Pred otvorením profilu alebo odovzdaním spustite prihlásenie do služby Google.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Neúplné uložené prepísanie OAuth bolo ignorované. Používanie vstavanej konfigurácie UniTube pre profil a nahrávanie.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>K dispozícii je konfigurácia spravovaného protokolu OAuth. Pred otvorením profilu alebo odovzdaním spustite prihlásenie do služby Google.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Uložte poverenia OAuth a potom pred otvorením profilu alebo odovzdaním spustite prihlasovanie cez Google.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kód: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Platnosť overovacieho kódu vypršala. Požaduje sa nový kód...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Zadajte kód do tohto prehliadača. Tento telefón bude čakať na autorizáciu Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Platnosť vášho predchádzajúceho kódu vypršala. Zadajte nový kód do tohto prehliadača.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Na inom telefóne, tablete alebo počítači s aktuálnym prehliadačom navštívte: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Čaká sa na schválenie spoločnosťou Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Nahrávanie bolo zrušené. Čiastočne nahraná obnoviteľná relácia nepokračovala.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Ruší sa nahrávanie...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Nahrávanie dokončené. YouTube spracováva video.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Nahrávanie dokončené. ID videa: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Popis videa môže mať maximálne 5 000 znakov.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Vyberte video súbor, ktorý obsahuje údaje.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Vybraný súbor skončil pred nahlásenou dĺžkou.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Pred odovzdaním vyberte súbor videa.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Vybraté video je príliš veľké na odovzdanie.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Odovzdaný súbor sa nepodarilo preniesť na YouTube. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>Služba YouTube nevrátila dokončenú odpoveď na odovzdanie.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>Služba YouTube nevrátila miesto odovzdania, ktoré by bolo možné obnoviť.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Vyberte súkromné, neuvedené alebo verejné súkromie.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Nahrané {0:N0} z {1:N0} bajtov ({2:F0} %).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Pripravené na odovzdanie {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>Odovzdanie na YouTube sa vrátilo {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bajtov)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Výber videa bol zrušený.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Spúšťa sa obnoviteľné nahrávanie...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Časový limit nahrávania vypršal. Skontrolujte sieťové pripojenie a skúste to znova.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Pred odovzdaním zadajte názov.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Názov videa musí mať 100 znakov alebo menej.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Vyberte rozpoznaný videosúbor.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Načítavajú sa podrobnosti o videu...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Publikované {0} | {1:N0} zobrazenia | trvanie {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Hrať v aplikácii otvorí oficiálnu stránku prezerania videa YouTube pre mobilné zariadenia.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Prehrávanie sa začalo, ale jeho metadáta nebolo možné uložiť pre živú dlaždicu.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Prehrávanie sa spustilo, ale systém Windows neumožnil aktualizáciu živej dlaždice.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Prehrávanie sa spustilo, no aktuálnu dlaždicu nebolo možné aktualizovať.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Požadované video nie je k dispozícii.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Vyžaduje sa ID videa.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Osobitné poďakovanie</value>
+  </data>
+</root>

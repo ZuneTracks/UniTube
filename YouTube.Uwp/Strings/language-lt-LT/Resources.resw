@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>VIEŠA NARŠYKLĖ</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>NUSTATYMAI</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>NAMAI</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>PAIEŠKA</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORIJOS</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFILIS</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>atrasti</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Naujausi populiarūs vaizdo įrašai klasikiniu išdėstymu „pirmas telefonas“.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>TRENDAMI DABAR</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Įkelkite populiarius vaizdo įrašus savo regione</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>populiarūs vaizdo įrašai</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Pasirinkite Populiaru dabar, kad įkeltumėte viešus rezultatus.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>paieška</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Raskite viešus „YouTube“ vaizdo įrašus naudodami naudotojo pateiktą API raktą.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Paieškos terminai</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Ieškokite „YouTube“.</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>PAIEŠKA</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULIAUS</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>REGIONAS</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategorijas</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Bakstelėkite kategoriją, kad išplėstumėte dabartinius populiarius vaizdo įrašus. Bakstelėkite dar kartą, kad sutrauktumėte ir pasirinkite kitą.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profilį</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Paskyros duomenys pasiekiami naudojant autentifikuotą „YouTube“ ryšį.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>APIE</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>„Google“ API rakto nepaisymas</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Palikite tuščią, kad galėtumėte naudoti valdomą konfigūraciją</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ ATGAL</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ATŠAUKTI</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>apie šį kanalą</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>kanalo informacija</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>IŠVALYTI</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Asmeniniai kredencialai saugomi tik Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Aprašymas</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Neprivaloma</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>aprašymas</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Šiame žurnale įrašomos programų klaidos ir „OAuth“ etapai. Kredencialai, prieigos kodai ir prieigos raktai neįtraukiami.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostika</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profilis nuskaitomas ir įkeliamas naudojant „Google“ televizorių ir riboto įvesties įrenginio „OAuth“ klientą. Peradresavimo URI nenaudojamas. Valdomos vietinės versijos vertės lieka paslėptos; išsaugant kredencialus čia jų nepaisoma.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google paskyra</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Atkuriant programoje naudojamas oficialus „YouTube“ žiūrėjimo puslapis mobiliesiems. Ši programa neišskleidžia ir neatsisiunčia medijos URL.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>patiko vaizdo įrašai</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>Įkelti PATINKAUS VIDEO</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>ĮKELTI DAUGIAU PATINKAMI VIDEO</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>ĮKELITE DAUGIAU GROJARAŠČIŲ</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>ĮKELITE DAUGIAU GROJARAŠIO VAIZDO ĮRAŠŲ</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>Įkelti DAUGIAU PRENUMERACIJŲ</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>ĮKELITE DAUGIAU ĮKELTŲ VAIZDO ĮRAŠŲ</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Riboto įvesties įrenginio OAuth kliento ID nepaisymas</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Palikite tuščią, kad galėtumėte naudoti valdomą konfigūraciją</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Riboto įvesties įrenginio „OAuth“ kliento slaptojo slaptažodžio nepaisymas</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Palikite tuščią, kad galėtumėte naudoti valdomą konfigūraciją</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Išsaugokite kredencialus, tada pradėkite „Google“ prisijungimą. Toliau pateiktas patvirtinimo kodas įvestas kitame įrenginyje; ši programa niekada neatidaro prisijungimo formos. Po šio atnaujinimo prisijunkite dar kartą, kad suteiktumėte profilio skaitymo prieigą.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ATIDARYTI KANALĄ</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ATIDARYTI NARŠYKLĖJE</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>žaidėjas</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>ŽAISTI PROGRAMĖJE</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>grojaraščiai</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>grojaraščio vaizdo įrašai</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Privatumas</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>privatus</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Apribotas API raktas naudojamas tik skaitomiems „YouTube Data API v3“ skambučiams. Valdomos vietinės versijos vertės lieka paslėptos; taupymas čia jų nepaiso.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>prieiga prie viešųjų duomenų</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>viešas</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>ATNAUJINTI</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>ATNAUJINTI PROFILĮ</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Saugusis režimas paieškoms naudoja griežtą „YouTube“ saugios paieškos nustatymą. Jis nepateikia „YouTube Kids“ katalogo arba nefiltruoja populiarių, kategorijų ir paskyros sklaidos kanalų.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>saugus režimas</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Viešoms vaizdo įrašų paieškoms naudokite griežtą Saugią paiešką</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>IŠSAUGOTI API RAKTĄ</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>IŠSAUGOTI ŽURNALĄ</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>IŠSAUGOTI KREDENCIJUS</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Nepasirinktas joks vaizdo įrašas.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>PASIRINKTI VAIZDO ĮRAŠĄ</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>nustatymus</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>PRADĖTI PRIE „GOOGLE“ PRISIJUNGIMO</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>IŠSIJUNKITE</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>PRADĖTI ĮKELTI</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>prenumeratos</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Pavadinimas</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Privaloma</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>neįtrauktas į sąrašą</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Žiūrėjimo istorija ir Žiūrėti vėliau nėra rodomos kaip skaitomos v3 kolekcijos. „UniTube“ jų nemėgdžioja ir netinkamai ženklina.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>nepalaikoma YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>įkelti vaizdo įrašai</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>įkelti</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Pasirinkite vietinį vaizdo įrašą, tada įkelkite jį per įgaliotą „Google“ paskyrą.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>įkelti vaizdo įrašą</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Paruošta pasirinkti vaizdo įrašą.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Norint įkelti, reikalingi OAuth nustatymai ir baigtas „Google“ prisijungimas iš „Nustatymų“.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>ĮKELTI VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>vaizdo įrašo detalės</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>PERŽIŪRĖTI DIAGNOSTIKĄ</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>ŽIŪRĖKITE YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>Galimos {0:N0} kategorijos, skirtos {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Įkeliamos kategorijos...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Įkeliami {0} vaizdo įrašai...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} populiarūs {1} vaizdo įrašai, skirti {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Būtinas kanalo ID.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Įkeliama kanalo informacija...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} prenumeratoriai | {1:N0} vaizdo įrašai | {2:N0} rodiniai</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Prašomas kanalas nepasiekiamas.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>UŽDARYTI</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>Nepavyko pasiekti „YouTube“ duomenų API. Patikrinkite tinklo ryšį.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Baigėsi „YouTube“ duomenų API užklausos skirtasis laikas. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>nežinomas</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>„Google“ įgaliojimas nesuteikė prieigos prieigos rakto. Prisijunkite dar kartą.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>„Google“ paskyros prieiga nesukonfigūruota. Prisijunkite prieš atidarydami profilį.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Pridėkite „Google“ API raktą prieš naudodami viešąsias „YouTube Data API v3“ funkcijas.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Būtinas kanalo ID.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Autentifikuota „YouTube Data“ API pateikė neteisingą atsakymą. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>„YouTube“ duomenų API pateikė neteisingą atsakymą. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Būtinas grojaraščio ID.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>„YouTube Data API v3“ grąžino {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Įveskite tekstą, kurio norite ieškoti.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Būtinas vaizdo įrašo ID.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnostikos žurnalas išvalytas.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnostikos žurnalas išsaugotas {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Diagnostinių įvykių neužregistruota.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Diagnostikos žurnalo išsaugojimas atšauktas.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Nepavyko išsaugoti diagnostikos žurnalo (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Tekstinis failas</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Paskutinį kartą žaidė</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Norint atnaujinti tiesioginę plytelę, reikalingi vaizdo įrašo metaduomenys.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Dabar populiaru</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Dabar populiaru ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Būtinas populiaraus vaizdo įrašo pavadinimas.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Baigėsi „Google“ įrenginio prieigos teisė.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>„Google“ įrenginio prieigos teisė neužbaigta: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Prieš įkeliant, reikia dar kartą patvirtinti „Google“.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Nepavyko paleisti „Google“ įrenginio prieigos teisės: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Prieš prisijungdami nustatykite riboto įvesties įrenginio OAuth kliento ID.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Prieš prisijungdami nustatykite riboto įvesties įrenginio OAuth kliento paslaptį.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>„Google“ atmetė riboto įvesties įrenginio „OAuth“ klientą (negaliojantis_klientas). Patikrinkite kliento ID ir kliento paslaptį.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>„Google“ atmetė riboto įvesties įrenginio „OAuth“ kredencialus (negaliojantis_klientas). Patikrinkite kliento ID ir kliento paslaptį.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>„Google“ įrenginio prieigos teisė pateikė neteisingą atsakymą.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>„Google“ prieigos rakto galutinis taškas pateikė neteisingą atsakymą.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>„Google“ įrenginio prieigos teisė nepateikė tinkamo patvirtinimo kodo ir URL.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>„Google“ prieigos rakto galutinis taškas nepateikė prieigos prieigos rakto.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Jokia „Google“ paskyra nėra įgaliota. Pirmiausia pradėkite prisijungti.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>„Google“ paprašė lėtesnės apklausos.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Išsaugotas OAuth prieigos rakto galiojimo laikas yra netinkamai suformuotas. Prisijunkite dar kartą.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Išsaugotas OAuth prieigos raktas yra netinkamai suformuotas. Prisijunkite dar kartą.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Nepavyko atnaujinti „Google“ prieigos rakto: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>„Google“ prieigos teisė baigta, bet „Windows Credential Locker“ negalėjo išsaugoti prieigos rakto (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Programos grotuvas negalėjo įkelti šio vaizdo įrašo. Vietoj to atidarykite jį naršyklėje.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Įkeliamas oficialus „YouTube“ žiūrėjimo puslapis...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Vaizdo įrašo ID reikalingas norint atkurti programoje.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} vaizdo įrašai</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Įkeliami populiarūs vaizdo įrašai...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} populiarūs vaizdo įrašų rezultatai.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} populiarūs vaizdo įrašų rezultatai. „Windows“ neleido atnaujinti tiesioginės plytelės.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} populiarūs vaizdo įrašų rezultatai. Tiesioginė plytelė dabar rodo geriausią rezultatą.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} populiarūs vaizdo įrašų rezultatai. Nepavyko atnaujinti tiesioginės plytelės.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>„Google“ nesuteikė šiai paskyrai prieigos prie profilio duomenų. Atsijunkite, vėl paleiskite „Google“ prisijungimą ir sutikite su „YouTube“ tik skaitymo aprėptimi.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} patinka vaizdo įrašai įkelti.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Nepavyko pasiekti užklausos dėl vaizdo įrašų, kurie patinka. Patikrinkite tinklo ryšį.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Patinka vaizdo įrašų užklausos laikas. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profilis įkeltas.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Nepavyko įkelti profilio per {0} (0x{1}). Norėdami gauti daugiau informacijos, atidarykite diagnostiką.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Įkeliamas patvirtintas profilis...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Įkeliami patikę vaizdo įrašai...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Įkeliama daugiau patinkančių vaizdo įrašų...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Įkeliama daugiau grojaraščio vaizdo įrašų...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Įkeliami daugiau įkeltų vaizdo įrašų...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Įkeliami grojaraščio vaizdo įrašai...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} prenumeratoriai | {1:N0} vaizdo įrašai | {2:N0} rodiniai</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>„Google“ nepateikė jokio įgaliotos paskyros kanalo.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Patinkantys vaizdo įrašai nebuvo grąžinti.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>„YouTube“ nepateikė šio kanalo įkėlimų grojaraščio.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} grojaraščiai įkelti. Pasirinkite vieną, kad peržiūrėtumėte jo vaizdo įrašus.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Nepavyko pasiekti grojaraščių užklausos. Patikrinkite tinklo ryšį.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Baigėsi grojaraščių užklausos skirtasis laikas. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} grojaraščio vaizdo įrašai įkelti.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Nepavyko pasiekti grojaraščio vaizdo įrašų užklausos. Patikrinkite tinklo ryšį.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Baigėsi skirtasis grojaraščio vaizdo įrašų užklausos laikas. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Nepavyko pasiekti autentifikuotos „YouTube“ API. Patikrinkite tinklo ryšį.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Baigėsi autentifikuotos „YouTube“ užklausos skirtasis laikas. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Pasirinkite Įkelti patikusius vaizdo įrašus, kad pateiktumėte užklausą dėl patikusios kolekcijos.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Pasirinkite aukščiau esantį grojaraštį, kad įkeltumėte jo vaizdo įrašus.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanalas</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>patiko vaizdo įrašai</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>grojaraščiai</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>grojaraščio vaizdo įrašai</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>pradedant</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>prenumeratos</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>įkelti vaizdo įrašai</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} prenumeratos įkeltos.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Nepavyko pasiekti prenumeratos užklausos. Patikrinkite tinklo ryšį.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Baigėsi prenumeratos užklausos skirtasis laikas. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Jei ši paskyra buvo įgaliota prieš pridedant profilį, prisijunkite dar kartą, kad suteiktumėte „YouTube“ tik skaitymo sritį.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} įkelti vaizdo įrašai įkelti.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Nepavyko pasiekti įkeltų vaizdo įrašų užklausos. Patikrinkite tinklo ryšį.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Baigėsi įkeltų vaizdo įrašų užklausos skirtasis laikas. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Įkeliami palaikomi regionai...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Nepavyko įkelti palaikomų regionų. Patikrinkite tinklo ryšį.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Nepavyko įkelti palaikomų regionų, nes baigėsi „YouTube“ duomenų API užklausos skirtasis laikas.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>„YouTube“ nepateikė palaikomų regionų. Naudojant JAV.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Jungtinės Valstijos</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Įveskite API raktą arba naudokite Clear API raktą.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Būtinas riboto įvesties įrenginio OAuth kliento ID.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Reikalinga riboto įvesties įrenginio OAuth kliento paslaptis.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Ieškoma...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} viešų vaizdo įrašų rezultatai.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Ši programa nesusijusi su „Google“ ar „YouTube“.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Sukurti {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>„UniTube“ yra moderni UWP programa, skirta naršyti „YouTube“ per „YouTube“ viešąją API.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Sukūrė:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Integruotos UniTube konfigūracijos naudojimas viešiesiems duomenims. Išsaugojimas čia nepakeičiamas.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Nėra sukonfigūruotas API raktas.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Jūsų API raktas saugomas Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>„Google“ įgaliojimas atšauktas.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>„Google“ įgaliojimas baigtas. Galimas profilio skaitymas ir vaizdo įrašų įkėlimas.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Kodo galiojimo laikas baigiasi {1:D2}:{2:D2}. Tikrinama „Google“ kas {3} sekundes.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>„Google“ įgaliojimui nepavyko susisiekti su prieigos rakto galutiniu tašku. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>„Google“ įgaliojimas pašalintas. Pradėkite „Google“ prisijungimą prieš atidarydami profilį arba įkeldami.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>„Google“ paskyra yra įgaliota skaityti profilį ir įkelti vaizdo įrašus. Prisijunkite dar kartą, jei šis prieigos raktas buvo senesnis nei profilis.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>„Google“ autorizacija netikėtai nepavyko (0x{0}). Iš naujo paleidę programą atidarykite diagnostiką.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Integruotos UniTube konfigūracijos naudojimas profiliui ir įkėlimams. Pirmiausia paleiskite „Google“ prisijungimą.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Ribotos įvesties įrenginio OAuth kredencialai išsaugoti. Jei kuri nors reikšmė pasikeitė, prieš įkeldami prisijunkite dar kartą.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Išsaugoti OAuth kredencialai sukonfigūruoti. Pradėkite „Google“ prisijungimą prieš atidarydami profilį arba įkeldami.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Nepaisytas neužbaigtas išsaugotas OAuth nepaisymas. Integruotos UniTube konfigūracijos naudojimas profiliui ir įkėlimams.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Galima valdyti OAuth konfigūraciją. Pradėkite „Google“ prisijungimą prieš atidarydami profilį arba įkeldami.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Išsaugokite „OAuth“ kredencialus, tada pradėkite „Google“ prisijungimą prieš atidarydami profilį arba įkeldami.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kodas: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Baigėsi patvirtinimo kodas. Prašoma naujo kodo...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Įveskite kodą toje naršyklėje. Šis telefonas lauks „Google“ prieigos teisės.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Jūsų ankstesnis kodas baigėsi. Įveskite naują kodą toje naršyklėje.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Kitame telefone, planšetiniame kompiuteryje ar kompiuteryje su esama naršykle apsilankykite: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Laukiama Google patvirtinimo.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Įkėlimas atšauktas. Iš dalies įkelta atnaujinama sesija nebuvo tęsiama.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Atšaukiamas įkėlimas...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Įkėlimas baigtas. „YouTube“ apdoroja vaizdo įrašą.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Įkėlimas baigtas. Vaizdo įrašo ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Vaizdo įrašo aprašas turi būti 5 000 ar mažiau simbolių.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Pasirinkite vaizdo failą, kuriame yra duomenų.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Pasirinktas failas baigėsi anksčiau nei buvo pranešta.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Prieš įkeldami pasirinkite vaizdo failą.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Pasirinktas vaizdo įrašas per didelis, kad būtų galima įkelti.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Įkelti nepavyko pasiekti „YouTube“. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>„YouTube“ nepateikė užbaigto įkėlimo atsakymo.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>„YouTube“ nepateikė tęstinio įkėlimo vietos.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Pasirinkite privatų, neįtrauktą į sąrašą arba viešą privatumą.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Įkelta {0:N0} iš {1:N0} baitų ({2:F0} %).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Paruošta įkelti {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>„YouTube“ įkėlimas grąžino {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} baitai)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Vaizdo įrašo pasirinkimas atšauktas.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Pradedamas tęstinis įkėlimas...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Baigėsi įkėlimo laikas. Patikrinkite tinklo ryšį ir bandykite dar kartą.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Prieš įkeldami įveskite pavadinimą.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Vaizdo įrašo pavadinimas turi būti 100 ar mažiau simbolių.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Pasirinkite atpažintą vaizdo failą.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Įkeliama išsami vaizdo įrašo informacija...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Paskelbta {0} | {1:N0} peržiūros | trukmės {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Žaisti programoje atidaromas oficialus „YouTube“ mobiliesiems žiūrėjimo puslapis.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Atkūrimas pradėtas, bet jo metaduomenų nepavyko išsaugoti tiesioginei plytelei.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Atkūrimas prasidėjo, bet „Windows“ neleido atnaujinti tiesioginės plytelės.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Atkūrimas pradėtas, bet tiesioginės plytelės atnaujinti nepavyko.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Prašomas vaizdo įrašas nepasiekiamas.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Būtinas vaizdo įrašo ID.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Ypatinga padėka</value>
+  </data>
+</root>

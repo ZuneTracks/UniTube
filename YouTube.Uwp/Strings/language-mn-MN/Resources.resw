@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>НИЙТИЙН ХӨТӨЧ</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>Тохиргоо</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>ГЭР</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>ХАЙХ</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>АНГИЛАЛ</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFILE</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>нээх</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Хамгийн сүүлийн үеийн алдартай видеонууд, сонгодог утасны загвараар.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>ОДОО ТРЭНД БАЙНА</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Бүс нутгийнхаа алдартай видеог ачаал</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>алдартай видеонууд</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Нийтийн илэрцийг ачаалахын тулд "Одоо Тренд"-ийг сонго.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>хайх</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Хэрэглэгчийн өгсөн API түлхүүрээр нийтийн YouTube видеог олоорой.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Хайлтын нэр томъёо</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>YouTube хайх</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>ХАЙХ</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>АЛДАРТАЙ</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>БҮС</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>ангилал</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Одоогийн алдартай видеонуудыг өргөжүүлэхийн тулд категорийг товшино уу. Үүнийг дахин товшиж буулгаж, өөр зүйлийг сонгоно уу.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>профайл</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Бүртгэлийн өгөгдлийг таны баталгаажуулсан YouTube холболтоор дамжуулан авах боломжтой.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>ТУХАЙ</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API түлхүүрийг хүчингүй болгох</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Leave blank to use managed configuration</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ БУЦАХ</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>Цуцлах</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>энэ сувгийн талаар</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>channel details</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>CLEAR</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Хувийн итгэмжлэлүүдийг зөвхөн Windows Credential Locker-д хадгална.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Тодорхойлолт</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Нэмэлт</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>тайлбар</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Энэ бүртгэл нь програмын алдаа болон OAuth үе шатуудыг бүртгэдэг. Итгэмжлэх жуух бичиг, зөвшөөрлийн код, жетон оруулаагүй болно.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostics</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Профайлыг уншиж, байршуулахад Google ТВ болон хязгаарлагдмал оролтын төхөөрөмж OAuth клиент ашиглана. No redirect URI is used. Managed local build values remain hidden; saving credentials here overrides them.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google бүртгэл</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Апп дотор тоглуулах нь YouTube-н албан ёсны гар утасны үзэх хуудсыг ашигладаг. Энэ програм нь медиа URL-г задлах эсвэл татаж авахгүй.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>таалагдсан видеонууд</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>LOAD LIKED VIDEOS</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>ИЛҮҮ лайк дарсан ВИДЕО АТААРАЙ</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>LOAD MORE PLAYLISTS</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>LOAD MORE PLAYLIST VIDEOS</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>ИЛҮҮ ЗАХИАЛГАА АЧААРАЙ</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>LOAD MORE UPLOADED VIDEOS</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Limited-input device OAuth client ID override</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Leave blank to use managed configuration</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Хязгаарлагдмал оролтын төхөөрөмж OAuth клиентийн нууцыг хүчингүй болгох</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Leave blank to use managed configuration</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Итгэмжлэх жуух бичгээ хадгалаад Google-д нэвтэрнэ үү. Доорх баталгаажуулах кодыг өөр төхөөрөмж дээр оруулсан болно; Энэ програм хэзээ ч нэвтрэх маягтыг нээхгүй. Профайл унших эрхийг олгохын тулд энэ шинэчлэлтийн дараа дахин нэвтэрнэ үү.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>СУВАГ НЭЭЛТТЭЙ</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ХӨТӨЧ ДЭЭР НЭЭХ</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>тоглогч</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>АППД ТОГЛОО</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>тоглуулах жагсаалтууд</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>тоглуулах жагсаалтын видео</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Нууцлал</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>private</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Хязгаарлагдмал API түлхүүрийг зөвхөн унших боломжтой YouTube Data API v3 дуудлагад ашигладаг. Managed local build values remain hidden; saving here overrides them.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>олон нийтийн мэдээллийн хандалт</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>олон нийтийн</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>REFRESH</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>REFRESH PROFILE</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Аюулгүй горим нь хайлт хийхэд YouTube-н SafeSearch хатуу тохиргоог ашигладаг. Энэ нь YouTube Kids каталог эсвэл алдартай, категори, бүртгэлийн хангамжийг шүүдэггүй.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>аюулгүй горим</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Use strict SafeSearch for public video searches</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>SAVE API KEY</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ЛЭГЖ ХАДГАЛАХ</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>SAVE CREDENTIALS</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Сонгосон видео алга.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>SELECT VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>settings</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>START GOOGLE SIGN-IN</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>SIGN OUT</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>БАЙРШУУЛАХ</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>захиалга</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Гарчиг</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Шаардлагатай</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>unlisted</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Үзсэн түүх болон Дараа үзэх нь унших боломжтой v3 цуглуулга биш юм. UniTube does not emulate or mislabel them.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>YouTube Data API v3 дэмждэггүй</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>байршуулсан видеонууд</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>upload</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Орон нутгийн видеог сонгоод, зөвшөөрөгдсөн Google бүртгэлээрээ дамжуулан байршуулна уу.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>видео байршуулах</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Видео сонгоход бэлэн байна.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Байршуулахын тулд OAuth тохиргоо болон Тохиргооноос Google-д нэвтэрсэн байх шаардлагатай.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>ВИДЕО БАЙРШУУЛАХ</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>видео дэлгэрэнгүй</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>ОНОШЛОГО ХАРАХ</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>YOUTUBE ДЭЭР ҮЗЭЭРЭЙ</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} ангиллыг {1}-д ашиглах боломжтой.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Loading categories...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} видеог ачаалж байна...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{2}-д зориулсан {0:N0} алдартай {1} видео.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>A channel ID is required.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Сувгийн дэлгэрэнгүй мэдээллийг ачаалж байна...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} захиалагчид | {1:N0} видео | {2:N0} үзсэн</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Хүссэн суваг боломжгүй байна.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ХААХ</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube Data API-д холбогдох боломжгүй байна. Сүлжээний холболтыг шалгана уу.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API хүсэлтийн хугацаа дууссан. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>unknown</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google-ийн зөвшөөрөл нь хандалтын тэмдэг өгөөгүй. Sign in again.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google бүртгэлийн хандалтыг тохируулаагүй байна. Профайлыг нээхээс өмнө нэвтэрнэ үү.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Нийтийн YouTube Data API v3 функцийг ашиглахын өмнө Google API түлхүүр нэмнэ үү.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Сувгийн ID шаардлагатай.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Баталгаажсан YouTube Data API нь буруу хариулт өгсөн. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API нь буруу хариултыг буцаасан. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Тоглуулах жагсаалтын ID шаардлагатай.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 нь {0} ({1})-г буцаалаа. {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Хайх текстийг оруулна уу.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Видео ID шаардлагатай.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Оношлогооны бүртгэлийг устгасан.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Оношлогооны бүртгэлийг {0}-д хадгалсан.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Оношлогооны үйл явдал бүртгэгдээгүй байна.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Оношлогооны бүртгэлийг хадгалахыг цуцалсан.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Оношлогооны бүртгэлийг (0x{0}) хадгалж чадсангүй.</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Текст файл</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Хамгийн сүүлд тоглосон</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Шууд хавтанг шинэчлэхийн тулд видео мета өгөгдөл шаардлагатай.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Одоо тренд болж байна</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Одоо тренд болж байна ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Тренд болж буй видеоны гарчиг шаардлагатай.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google төхөөрөмжийн зөвшөөрлийн хугацаа дууссан.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google төхөөрөмжийн зөвшөөрөл дуусаагүй байна: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Байршуулахын өмнө Google-н зөвшөөрлийг дахин бөглөх шаардлагатай.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google төхөөрөмжийн зөвшөөрлийг эхлүүлж чадсангүй: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Нэвтрэхээсээ өмнө хязгаарлагдмал оролтын төхөөрөмж OAuth клиент ID-г тохируулна уу.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Нэвтрэхээсээ өмнө хязгаарлагдмал оролтын төхөөрөмжийн OAuth клиентийн нууцыг тохируулна уу.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google хязгаарлагдмал оролтын төхөөрөмж OAuth клиентээс (invalid_client) татгалзсан. Үйлчлүүлэгчийн ID болон үйлчлүүлэгчийн нууцыг шалгана уу.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google хязгаарлагдмал оролтын төхөөрөмжийн OAuth итгэмжлэлээс (invalid_client) татгалзсан. Үйлчлүүлэгчийн ID болон үйлчлүүлэгчийн нууцыг шалгана уу.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google төхөөрөмжийн зөвшөөрөл нь буруу хариу өгсөн.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google токен төгсгөлийн цэг буруу хариултыг буцаасан.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google төхөөрөмжийн зөвшөөрөл нь ашиглах боломжтой баталгаажуулах код болон URL-г буцаагаагүй.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google токен төгсгөлийн цэг нь хандалтын токеныг буцаагаагүй.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>No Google account is authorized. Start sign-in first.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google requested slower polling.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Хадгалсан OAuth токены хугацаа буруу хэлбэртэй байна. Дахин нэвтэрнэ үү.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Хадгалсан OAuth токен буруу хэлбэртэй байна. Sign in again.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google токеныг сэргээж чадсангүй: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google-н зөвшөөрөл дууссан боловч Windows Credential Locker жетоныг (0x{0}) хадгалж чадсангүй.</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Апп-доторх тоглуулагч энэ видеог ачаалж чадсангүй. Оронд нь хөтөч дээр нээнэ үү.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Loading the official YouTube watch page...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>A video ID is required for in-app playback.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} видеонууд</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Алдартай видеог ачаалж байна...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} алдартай видеоны үр дүн.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} алдартай видеоны үр дүн. Windows нь шууд хавтанг шинэчлэхийг зөвшөөрөөгүй.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} алдартай видеоны үр дүн. Шууд хавтан одоо дээд үр дүнг харуулж байна.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} алдартай видеоны үр дүн. Амьд хавтанг шинэчилж чадсангүй.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google энэ бүртгэлд профайлын өгөгдөлд хандах эрх өгөөгүй. Гараад, Google-д дахин нэвтэрч, YouTube-н зөвхөн унших боломжийг зөвшөөрнө үү.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} таалагдсан видеог ачааллаа.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>The liked videos request could not be reached. Сүлжээний холболтыг шалгана уу.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Таалагдсан видеоны хүсэлтийн хугацаа хэтэрсэн. Check the network connection and try again.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Профайл ачаалагдсан.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>{0} (0x{1}) үед профайлыг ачаалж чадсангүй. Дэлгэрэнгүй мэдээлэл авахын тулд Оношлогоог нээнэ үү.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Loading authenticated profile...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Таалагдсан видеог ачаалж байна...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Илүү олон таалагдсан видеог ачаалж байна...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Бусад тоглуулах жагсаалтын видеог ачаалж байна...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Илүү олон байршуулсан видеог ачаалж байна...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Тоглуулах жагсаалтын видеог ачаалж байна...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} захиалагчид | {1:N0} видео | {2:N0} үзсэн</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google зөвшөөрөгдсөн бүртгэлд ямар ч суваг буцаагаагүй.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Таалагдсан видеог буцааж өгөөгүй.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube энэ сувагт байршуулах тоглуулах жагсаалтыг өгөөгүй.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} тоглуулах жагсаалтыг ачааллаа. Видеог нь үзэхийн тулд нэгийг нь сонго.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Тоглуулах жагсаалтын хүсэлтэд хүрч чадсангүй. Сүлжээний холболтыг шалгана уу.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Тоглуулах жагсаалтын хүсэлтийн хугацаа хэтэрсэн. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} тоглуулах жагсаалтын видеог ачааллаа.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Тоглуулах жагсаалтын видео хүсэлтэд хүрч чадсангүй. Сүлжээний холболтыг шалгана уу.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Тоглуулах жагсаалтын видео хүсэлтийн хугацаа хэтэрсэн. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Баталгаажсан YouTube API-д холбогдож чадсангүй. Сүлжээний холболтыг шалгана уу.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Баталгаажсан YouTube хүсэлтийн хугацаа хэтэрсэн. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>"Таалагдсан видеонуудыг ачаалах" гэснийг сонгоод таалагдсан цуглуулгадаа хүсэлт гарга.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Видеог нь ачаалахын тулд дээрх тоглуулах жагсаалтыг сонгоно уу.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>суваг</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>таалагдсан видеонууд</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>тоглуулах жагсаалтууд</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>тоглуулах жагсаалтын видео</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>эхэлж байна</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>захиалга</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>байршуулсан видеонууд</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} захиалга ачаалагдсан.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Захиалгын хүсэлтэд хүрч чадсангүй. Сүлжээний холболтыг шалгана уу.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Захиалгын хүсэлтийн хугацаа дууссан. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Хэрэв энэ бүртгэл Профайл нэмэгдэхээс өмнө зөвшөөрөгдсөн бол YouTube-д зөвхөн унших боломжтой боломжийг олгохын тулд дахин нэвтэрнэ үү.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} байршуулсан видеог ачааллаа.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Байршуулсан видеоны хүсэлтэд хүрч чадсангүй. Сүлжээний холболтыг шалгана уу.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Байршуулсан видеоны хүсэлтийн хугацаа хэтэрсэн. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Дэмжигдсэн бүс нутгийг ачаалж байна...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Дэмжигдсэн бүсүүдийг ачаалж чадсангүй. Сүлжээний холболтыг шалгана уу.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>YouTube Data API хүсэлтийн хугацаа хэтэрсэн тул дэмжигдсэн бүсүүдийг ачаалж чадсангүй.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube дэмжигдсэн бүс нутгийг буцаагаагүй. АНУ-ыг ашиглаж байна.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>АНУ</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>API түлхүүр оруулах эсвэл Clear API түлхүүрийг ашиглана уу.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Хязгаарлагдмал оролтын төхөөрөмж OAuth клиент ID шаардлагатай.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Хязгаарлагдмал оролтын төхөөрөмж OAuth клиентийн нууц шаардлагатай.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Хайж байна...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} олон нийтийн видеоны үр дүн.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Энэ апп нь Google эсвэл YouTube-тэй холбоогүй.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>{0}.{1}.{2}.{3} бүтээх</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube нь YouTube-ийн нийтийн API-ээр дамжуулан YouTube-г үзэх орчин үеийн UWP програм юм.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Боловсруулсан:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Нийтийн өгөгдөлд суурилуулсан UniTube тохиргоог ашиглах. Энд хадгалах нь үүнийг хүчингүй болгодог.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>API түлхүүр тохируулаагүй байна.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Таны API түлхүүр Windows Credential Locker-д хадгалагдана.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google-н зөвшөөрлийг цуцалсан.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google-н зөвшөөрөл дууссан. Профайлыг унших, видео байршуулах боломжтой.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Кодын хугацаа {1:D2}:{2:D2}-д дуусна. {3} секунд тутамд Google-г шалгаж байна.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google-ийн зөвшөөрөл нь токен төгсгөлтэй холбогдож чадсангүй. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google-н зөвшөөрлийг устгасан. Профайлыг нээх эсвэл байршуулахаас өмнө Google-д нэвтэрнэ үү.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google бүртгэл нь профайлыг унших, видео байршуулах эрхтэй. Хэрэв энэ токен Профайлаас өмнө байгаа бол дахин нэвтэрнэ үү.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google-ийн зөвшөөрөл гэнэт бүтэлгүйтэв (0x{0}). Програмыг дахин эхлүүлсний дараа Оношлогоог нээнэ үү.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Профайл болон байршуулалтад суурилуулсан UniTube тохиргоог ашиглах. Эхлээд Google-д нэвтэрнэ үү.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Хязгаарлагдмал оролтын төхөөрөмжийн OAuth итгэмжлэлийг хадгалсан. Хэрэв аль нэг утга өөрчлөгдсөн бол байршуулахаас өмнө дахин нэвтэрнэ үү.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Хадгалсан OAuth итгэмжлэлүүдийг тохируулсан. Профайл нээх эсвэл байршуулахаас өмнө Google-д нэвтэрнэ үү.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Хадгалсан бүрэн бус OAuth хүчингүй болгохыг үл тоомсорлов. Профайл болон байршуулалтад суурилуулсан UniTube тохиргоог ашиглах.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Удирдах OAuth тохиргоо боломжтой. Профайл нээх эсвэл байршуулахаас өмнө Google-д нэвтэрнэ үү.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>OAuth итгэмжлэлүүдийг хадгалаад профайлыг нээх эсвэл байршуулахаас өмнө Google-д нэвтэрнэ үү.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Код: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Баталгаажуулах кодын хугацаа дууссан. Шинэ код хүсэж байна...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Энэ хөтөч дээр кодыг оруулна уу. Энэ утас Google-н зөвшөөрлийг хүлээх болно.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Таны өмнөх кодын хугацаа дууссан. Энэ хөтөч дээр шинэ кодыг оруулна уу.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Одоогийн хөтөчтэй өөр утас, таблет эсвэл компьютер дээр зочилно уу: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Google-н зөвшөөрлийг хүлээж байна.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Байршуулахыг цуцалсан. Хэсэгчилсэн байршуулсан үргэлжлүүлэх сессийг үргэлжлүүлээгүй.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Байршуулахыг цуцалж байна...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Байршуулж дууссан. YouTube видеог боловсруулж байна.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Байршуулж дууссан. Видео ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Видеоны тайлбар нь 5000 тэмдэгт буюу түүнээс бага байх ёстой.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Өгөгдөл агуулсан видео файлыг сонгоно уу.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Сонгосон файл нь мэдээлэгдсэн уртаас өмнө дууссан.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Байршуулахаасаа өмнө видео файлыг сонгоно уу.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Сонгосон видео байршуулахад хэтэрхий том байна.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Байршуулалт YouTube-д хүрч чадсангүй. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube бүрэн байршуулсан хариултыг буцаагаагүй.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube дахин байршуулах байршлыг буцааж өгөөгүй.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Хувийн, жагсаалтаас гадуур эсвэл нийтийн нууцлалыг сонгоно уу.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Байршуулсан {1:N0} байтаас {0:N0} ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>{0}-г байршуулахад бэлэн байна.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube-д байршуулсан {0} ({1}) буцаасан. {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} байт)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Видеоны сонголтыг цуцалсан.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Дахин байршуулах боломжтой...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Байршуулах хугацаа хэтэрсэн. Сүлжээний холболтыг шалгаад дахин оролдоно уу.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Байршуулахын өмнө гарчиг оруулна уу.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Видеоны гарчиг нь 100 тэмдэгт буюу түүнээс бага байх ёстой.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Хүлээн зөвшөөрөгдсөн видео файлыг сонгоно уу.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Видеоны дэлгэрэнгүйг ачаалж байна...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Нийтэлсэн {0} | {1:N0} үзсэн | үргэлжлэх хугацаа {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Апп дотор тоглуулах нь YouTube-ийн албан ёсны гар утасны үзэх хуудсыг нээнэ.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Дахин тоглуулж эхэлсэн боловч түүний мета өгөгдлийг шууд хавтанд хадгалах боломжгүй.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Дахин тоглуулж эхэлсэн боловч Windows шууд хавтанг шинэчлэхийг зөвшөөрөөгүй.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Дахин тоглуулж эхэлсэн боловч амьд хавтанг шинэчилж чадсангүй.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Хүссэн видео боломжгүй байна.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Видео ID шаардлагатай.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Онцгой талархал</value>
+  </data>
+</root>

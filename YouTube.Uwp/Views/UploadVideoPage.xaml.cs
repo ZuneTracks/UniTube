@@ -52,14 +52,14 @@ namespace YouTube.Uwp.Views
             StorageFile file = await picker.PickSingleFileAsync();
             if (file == null)
             {
-                ProgressText.Text = "Video selection was canceled.";
+                ProgressText.Text = Localizer.Get("Upload.SelectionCanceled");
                 return;
             }
 
             BasicProperties properties = await file.GetBasicPropertiesAsync();
             selectedFile = file;
-            SelectedFileText.Text = file.Name + " (" + properties.Size + " bytes)";
-            ProgressText.Text = "Ready to upload " + file.Name + ".";
+            SelectedFileText.Text = Localizer.Format("Upload.SelectedFile", file.Name, properties.Size);
+            ProgressText.Text = Localizer.Format("Upload.ReadyToUpload", file.Name);
         }
 
         private async void UploadButton_Click(object sender, RoutedEventArgs e)
@@ -72,7 +72,7 @@ namespace YouTube.Uwp.Views
             uploadCancellation = new CancellationTokenSource();
             SetUploadControls(false);
             UploadProgressBar.Value = 0;
-            ProgressText.Text = "Starting resumable upload...";
+            ProgressText.Text = Localizer.Get("Upload.Starting");
 
             try
             {
@@ -82,7 +82,7 @@ namespace YouTube.Uwp.Views
                     File = selectedFile,
                     Title = TitleBox.Text,
                     Description = DescriptionBox.Text,
-                    PrivacyStatus = privacyItem == null ? null : privacyItem.Content as string
+                    PrivacyStatus = privacyItem == null ? null : privacyItem.Tag as string
                 };
 
                 VideoUploadResult result = await uploadClient.UploadAsync(
@@ -90,18 +90,18 @@ namespace YouTube.Uwp.Views
                     new Progress<VideoUploadProgress>(UpdateProgress),
                     uploadCancellation.Token);
                 ProgressText.Text = string.IsNullOrWhiteSpace(result.VideoId)
-                    ? "Upload completed. YouTube is processing the video."
-                    : "Upload completed. Video ID: " + result.VideoId;
+                    ? Localizer.Get("Upload.CompletedProcessing")
+                    : Localizer.Format("Upload.CompletedWithVideoId", result.VideoId);
             }
             catch (TaskCanceledException)
             {
                 ProgressText.Text = uploadCancellation.IsCancellationRequested
-                    ? "Upload canceled. The partially uploaded resumable session was not continued."
-                    : "The upload timed out. Check the network connection and try again.";
+                    ? Localizer.Get("Upload.Canceled")
+                    : Localizer.Get("Upload.TimedOut");
             }
             catch (OperationCanceledException)
             {
-                ProgressText.Text = "Upload canceled. The partially uploaded resumable session was not continued.";
+                ProgressText.Text = Localizer.Get("Upload.Canceled");
             }
             catch (ArgumentException exception)
             {
@@ -117,7 +117,7 @@ namespace YouTube.Uwp.Views
             }
             catch (HttpRequestException)
             {
-                ProgressText.Text = "The upload could not reach YouTube. Check the network connection and try again.";
+                ProgressText.Text = Localizer.Get("Upload.NetworkFailure");
             }
             finally
             {
@@ -137,7 +137,7 @@ namespace YouTube.Uwp.Views
             if (uploadCancellation != null && !uploadCancellation.IsCancellationRequested)
             {
                 uploadCancellation.Cancel();
-                ProgressText.Text = "Canceling upload...";
+                ProgressText.Text = Localizer.Get("Upload.Canceling");
             }
         }
 
@@ -150,12 +150,11 @@ namespace YouTube.Uwp.Views
         private void UpdateProgress(VideoUploadProgress progress)
         {
             UploadProgressBar.Value = progress.Percentage;
-            ProgressText.Text = progress.BytesUploaded
-                + " of "
-                + progress.TotalBytes
-                + " bytes uploaded ("
-                + progress.Percentage.ToString("F0")
-                + "%).";
+            ProgressText.Text = Localizer.Format(
+                "Upload.Progress",
+                progress.BytesUploaded,
+                progress.TotalBytes,
+                progress.Percentage);
         }
     }
 }

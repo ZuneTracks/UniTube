@@ -96,7 +96,7 @@ namespace YouTube.Uwp.Services
         {
             if (string.IsNullOrWhiteSpace(query))
             {
-                throw new ArgumentException("Enter text to search for.", "query");
+                throw new ArgumentException(Localizer.Get("DataApi.SearchTextRequired"), "query");
             }
 
             Dictionary<string, string> parameters = CreatePageParameters(pageToken, maxResults);
@@ -221,7 +221,7 @@ namespace YouTube.Uwp.Services
         {
             if (string.IsNullOrWhiteSpace(videoId))
             {
-                throw new ArgumentException("A video ID is required.", "videoId");
+                throw new ArgumentException(Localizer.Get("DataApi.VideoIdRequired"), "videoId");
             }
 
             Dictionary<string, string> parameters = new Dictionary<string, string>();
@@ -264,7 +264,7 @@ namespace YouTube.Uwp.Services
         {
             if (string.IsNullOrWhiteSpace(channelId))
             {
-                throw new ArgumentException("A channel ID is required.", "channelId");
+                throw new ArgumentException(Localizer.Get("DataApi.ChannelIdRequired"), "channelId");
             }
 
             Dictionary<string, string> parameters = new Dictionary<string, string>();
@@ -360,7 +360,7 @@ namespace YouTube.Uwp.Services
         {
             if (string.IsNullOrWhiteSpace(playlistId))
             {
-                throw new ArgumentException("A playlist ID is required.", "playlistId");
+                throw new ArgumentException(Localizer.Get("DataApi.PlaylistIdRequired"), "playlistId");
             }
 
             Dictionary<string, string> parameters = CreatePageParameters(pageToken, maxResults);
@@ -418,7 +418,7 @@ namespace YouTube.Uwp.Services
             string apiKey = apiKeyProvider();
             if (string.IsNullOrWhiteSpace(apiKey))
             {
-                throw new InvalidOperationException("Add a Google API key before using public YouTube Data API v3 features.");
+                throw new InvalidOperationException(Localizer.Get("DataApi.ApiKeyRequired"));
             }
 
             parameters.Add("key", apiKey);
@@ -434,7 +434,7 @@ namespace YouTube.Uwp.Services
                 JsonObject responseBody;
                 if (!JsonObject.TryParse(content, out responseBody))
                 {
-                    throw new YouTubeApiResponseException("The YouTube Data API returned an invalid response. Check the network connection and try again.");
+                    throw new YouTubeApiResponseException(Localizer.Get("DataApi.InvalidPublicResponse"));
                 }
 
                 return responseBody;
@@ -447,13 +447,13 @@ namespace YouTube.Uwp.Services
         {
             if (accessTokenProvider == null)
             {
-                throw new OAuthException("Google account access is not configured. Sign in before opening Profile.");
+                throw new OAuthException(Localizer.Get("DataApi.AccountAccessNotConfigured"));
             }
 
             string accessToken = await accessTokenProvider();
             if (string.IsNullOrWhiteSpace(accessToken))
             {
-                throw new OAuthException("Google authorization did not provide an access token. Sign in again.");
+                throw new OAuthException(Localizer.Get("DataApi.AccessTokenMissing"));
             }
 
             Uri requestUri = BuildUri(resource, parameters);
@@ -471,7 +471,7 @@ namespace YouTube.Uwp.Services
                     JsonObject responseBody;
                     if (!JsonObject.TryParse(content, out responseBody))
                     {
-                        throw new YouTubeApiResponseException("The authenticated YouTube Data API returned an invalid response. Check the network connection and try again.");
+                        throw new YouTubeApiResponseException(Localizer.Get("DataApi.InvalidAuthenticatedResponse"));
                     }
 
                     return responseBody;
@@ -594,7 +594,7 @@ namespace YouTube.Uwp.Services
     public sealed class YouTubeApiException : Exception
     {
         public YouTubeApiException(HttpStatusCode statusCode, string responseBody)
-            : base("YouTube Data API v3 returned " + ((int)statusCode).ToString(CultureInfo.InvariantCulture) + " (" + statusCode + "). " + responseBody)
+            : base(Localizer.Format("DataApi.ResponseError", (int)statusCode, statusCode, responseBody))
         {
             StatusCode = statusCode;
         }

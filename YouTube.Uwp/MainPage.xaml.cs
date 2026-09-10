@@ -37,7 +37,7 @@ namespace YouTube.Uwp
             Categories = new ObservableCollection<VideoCategory>();
             Regions = new ObservableCollection<RegionOption>
             {
-                new RegionOption { Code = "US", Name = "United States" }
+                new RegionOption { Code = "US", Name = Localizer.Get("Regions.UnitedStates") }
             };
             Subscriptions = new ObservableCollection<SubscriptionSummary>();
             Playlists = new ObservableCollection<PlaylistSummary>();
@@ -90,10 +90,10 @@ namespace YouTube.Uwp
         {
             try
             {
-                PublicStatusText.Text = "Searching...";
+                PublicStatusText.Text = Localizer.Get("Search.Loading");
                 DataPage<VideoSummary> page = await client.SearchVideosAsync(SearchBox.Text, null, 25);
                 ReplaceResults(page);
-                PublicStatusText.Text = Results.Count + " public video results.";
+                PublicStatusText.Text = Localizer.Format("Search.Results", Results.Count);
             }
             catch (ArgumentException exception)
             {
@@ -113,11 +113,11 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                PublicStatusText.Text = "The YouTube Data API request timed out. Check the network connection and try again.";
+                PublicStatusText.Text = Localizer.Get("Common.ApiTimedOut");
             }
             catch (HttpRequestException)
             {
-                PublicStatusText.Text = "The YouTube Data API could not be reached. Check the network connection.";
+                PublicStatusText.Text = Localizer.Get("Common.ApiNetworkFailure");
             }
         }
 
@@ -125,12 +125,12 @@ namespace YouTube.Uwp
         {
             try
             {
-                PublicStatusText.Text = "Loading popular videos...";
-                HomeStatusText.Text = "Loading popular videos...";
+                PublicStatusText.Text = Localizer.Get("Popular.Loading");
+                HomeStatusText.Text = Localizer.Get("Popular.Loading");
                 DataPage<VideoSummary> page = await client.GetMostPopularVideosAsync(GetSelectedRegionCode(), null, 25);
                 ReplaceResults(page);
-                PublicStatusText.Text = Results.Count + " popular video results.";
-                HomeStatusText.Text = Results.Count + " popular video results.";
+                PublicStatusText.Text = Localizer.Format("Popular.Results", Results.Count);
+                HomeStatusText.Text = Localizer.Format("Popular.Results", Results.Count);
                 UpdateTrendingTile(page);
             }
             catch (InvalidOperationException exception)
@@ -150,12 +150,12 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                PublicStatusText.Text = "The YouTube Data API request timed out. Check the network connection and try again.";
+                PublicStatusText.Text = Localizer.Get("Common.ApiTimedOut");
                 HomeStatusText.Text = PublicStatusText.Text;
             }
             catch (HttpRequestException)
             {
-                PublicStatusText.Text = "The YouTube Data API could not be reached. Check the network connection.";
+                PublicStatusText.Text = Localizer.Get("Common.ApiNetworkFailure");
                 HomeStatusText.Text = PublicStatusText.Text;
             }
         }
@@ -170,15 +170,15 @@ namespace YouTube.Uwp
             try
             {
                 trendingTileService.Update(page.Items[0], GetSelectedRegionCode());
-                HomeStatusText.Text = Results.Count + " popular video results. The live tile now shows the top result.";
+                HomeStatusText.Text = Localizer.Format("Popular.TileUpdated", Results.Count);
             }
             catch (UnauthorizedAccessException)
             {
-                HomeStatusText.Text = Results.Count + " popular video results. Windows did not allow the live tile to update.";
+                HomeStatusText.Text = Localizer.Format("Popular.TilePermissionFailure", Results.Count);
             }
             catch (COMException)
             {
-                HomeStatusText.Text = Results.Count + " popular video results. The live tile could not be updated.";
+                HomeStatusText.Text = Localizer.Format("Popular.TileUpdateFailure", Results.Count);
             }
         }
 
@@ -223,13 +223,13 @@ namespace YouTube.Uwp
         {
             try
             {
-                RegionStatusText.Text = "Loading supported regions...";
+                RegionStatusText.Text = Localizer.Get("Regions.Loading");
                 IReadOnlyList<RegionOption> supportedRegions = await client.GetSupportedRegionsAsync();
                 string homeRegionCode = GetHomeRegionCode();
 
                 if (supportedRegions.Count == 0)
                 {
-                    RegionStatusText.Text = "YouTube did not return any supported regions. Using United States.";
+                    RegionStatusText.Text = Localizer.Get("Regions.NoneReturned");
                     return;
                 }
 
@@ -266,11 +266,11 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                RegionStatusText.Text = "Supported regions could not load because the YouTube Data API request timed out.";
+                RegionStatusText.Text = Localizer.Get("Regions.LoadTimedOut");
             }
             catch (HttpRequestException)
             {
-                RegionStatusText.Text = "Supported regions could not load. Check the network connection.";
+                RegionStatusText.Text = Localizer.Get("Regions.LoadNetworkFailure");
             }
         }
 
@@ -321,8 +321,8 @@ namespace YouTube.Uwp
             ProfileTitleText.Text = string.Empty;
             ProfileMetadataText.Text = string.Empty;
             ProfileDescriptionText.Text = string.Empty;
-            SelectedPlaylistText.Text = "playlist videos";
-            ProfileStatusText.Text = "Loading authenticated profile...";
+            SelectedPlaylistText.Text = Localizer.Get("PlaylistVideosHeading.Text");
+            ProfileStatusText.Text = Localizer.Get("Profile.Loading");
             SubscriptionsStatusText.Text = string.Empty;
             PlaylistsStatusText.Text = string.Empty;
             PlaylistVideosStatusText.Text = string.Empty;
@@ -336,23 +336,22 @@ namespace YouTube.Uwp
                 ChannelDetails channel = await authenticatedClient.GetMyChannelAsync();
                 if (channel == null)
                 {
-                    ProfileStatusText.Text = "Google returned no channel for the authorized account.";
+                    ProfileStatusText.Text = Localizer.Get("Profile.NoChannel");
                     return;
                 }
 
                 ProfileTitleText.Text = channel.Title;
-                ProfileMetadataText.Text = channel.SubscriberCount.ToString("N0")
-                    + " subscribers | "
-                    + channel.VideoCount.ToString("N0")
-                    + " videos | "
-                    + channel.ViewCount.ToString("N0")
-                    + " views";
+                ProfileMetadataText.Text = Localizer.Format(
+                    "Profile.Metadata",
+                    channel.SubscriberCount,
+                    channel.VideoCount,
+                    channel.ViewCount);
                 ProfileDescriptionText.Text = channel.Description;
 
                 uploadsPlaylistId = channel.UploadsPlaylistId;
                 if (string.IsNullOrWhiteSpace(uploadsPlaylistId))
                 {
-                    UploadedVideosStatusText.Text = "YouTube did not provide an uploads playlist for this channel.";
+                    UploadedVideosStatusText.Text = Localizer.Get("Profile.NoUploadsPlaylist");
                 }
                 else
                 {
@@ -367,7 +366,7 @@ namespace YouTube.Uwp
                     }
 
                     uploadedVideosNextPageToken = uploadedVideos.NextPageToken;
-                    UploadedVideosStatusText.Text = UploadedVideos.Count + " uploaded videos loaded.";
+                    UploadedVideosStatusText.Text = Localizer.Format("Profile.UploadedVideosLoaded", UploadedVideos.Count);
                 }
 
                 profileLoadStage = "subscriptions";
@@ -378,7 +377,7 @@ namespace YouTube.Uwp
                 }
 
                 subscriptionsNextPageToken = subscriptions.NextPageToken;
-                SubscriptionsStatusText.Text = Subscriptions.Count + " subscriptions loaded.";
+                SubscriptionsStatusText.Text = Localizer.Format("Profile.SubscriptionsLoaded", Subscriptions.Count);
 
                 profileLoadStage = "playlists";
                 DataPage<PlaylistSummary> playlists = await authenticatedClient.GetPlaylistsAsync(null, 25);
@@ -388,15 +387,15 @@ namespace YouTube.Uwp
                 }
 
                 playlistsNextPageToken = playlists.NextPageToken;
-                PlaylistsStatusText.Text = Playlists.Count + " playlists loaded. Select one to view its videos.";
-                PlaylistVideosStatusText.Text = "Select a playlist above to load its videos.";
-                LikedVideosStatusText.Text = "Select Load liked videos to request your liked collection.";
-                ProfileStatusText.Text = "Profile loaded.";
+                PlaylistsStatusText.Text = Localizer.Format("Profile.PlaylistsLoaded", Playlists.Count);
+                PlaylistVideosStatusText.Text = Localizer.Get("Profile.SelectPlaylist");
+                LikedVideosStatusText.Text = Localizer.Get("Profile.SelectLikedVideos");
+                ProfileStatusText.Text = Localizer.Get("Profile.Loaded");
                 profileLoaded = true;
             }
             catch (OAuthException exception)
             {
-                ProfileStatusText.Text = exception.Message + " If this account was authorized before Profile was added, sign in again to grant the YouTube read-only scope.";
+                ProfileStatusText.Text = Localizer.Format("Profile.TokenScopeMissing", exception.Message);
             }
             catch (InvalidOperationException exception)
             {
@@ -412,11 +411,11 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                ProfileStatusText.Text = "The authenticated YouTube request timed out. Check the network connection and try again.";
+                ProfileStatusText.Text = Localizer.Get("Profile.RequestTimedOut");
             }
             catch (HttpRequestException)
             {
-                ProfileStatusText.Text = "The authenticated YouTube API could not be reached. Check the network connection.";
+                ProfileStatusText.Text = Localizer.Get("Profile.RequestNetworkFailure");
             }
             catch (Exception exception)
             {
@@ -448,7 +447,7 @@ namespace YouTube.Uwp
                 }
 
                 subscriptionsNextPageToken = page.NextPageToken;
-                SubscriptionsStatusText.Text = Subscriptions.Count + " subscriptions loaded.";
+                SubscriptionsStatusText.Text = Localizer.Format("Profile.SubscriptionsLoaded", Subscriptions.Count);
             }
             catch (OAuthException exception)
             {
@@ -464,11 +463,11 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                SubscriptionsStatusText.Text = "The subscriptions request timed out. Check the network connection and try again.";
+                SubscriptionsStatusText.Text = Localizer.Get("Profile.SubscriptionsTimedOut");
             }
             catch (HttpRequestException)
             {
-                SubscriptionsStatusText.Text = "The subscriptions request could not be reached. Check the network connection.";
+                SubscriptionsStatusText.Text = Localizer.Get("Profile.SubscriptionsNetworkFailure");
             }
             catch (Exception exception)
             {
@@ -490,7 +489,7 @@ namespace YouTube.Uwp
             }
 
             profileRequestInProgress = true;
-            UploadedVideosStatusText.Text = "Loading more uploaded videos...";
+            UploadedVideosStatusText.Text = Localizer.Get("Profile.LoadingMoreUploadedVideos");
             UpdateProfileControls();
             try
             {
@@ -505,7 +504,7 @@ namespace YouTube.Uwp
                 }
 
                 uploadedVideosNextPageToken = page.NextPageToken;
-                UploadedVideosStatusText.Text = UploadedVideos.Count + " uploaded videos loaded.";
+                UploadedVideosStatusText.Text = Localizer.Format("Profile.UploadedVideosLoaded", UploadedVideos.Count);
             }
             catch (OAuthException exception)
             {
@@ -521,11 +520,11 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                UploadedVideosStatusText.Text = "The uploaded videos request timed out. Check the network connection and try again.";
+                UploadedVideosStatusText.Text = Localizer.Get("Profile.UploadedVideosTimedOut");
             }
             catch (HttpRequestException)
             {
-                UploadedVideosStatusText.Text = "The uploaded videos request could not be reached. Check the network connection.";
+                UploadedVideosStatusText.Text = Localizer.Get("Profile.UploadedVideosNetworkFailure");
             }
             catch (Exception exception)
             {
@@ -557,7 +556,7 @@ namespace YouTube.Uwp
                 }
 
                 playlistsNextPageToken = page.NextPageToken;
-                PlaylistsStatusText.Text = Playlists.Count + " playlists loaded. Select one to view its videos.";
+                PlaylistsStatusText.Text = Localizer.Format("Profile.PlaylistsLoaded", Playlists.Count);
             }
             catch (OAuthException exception)
             {
@@ -573,11 +572,11 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                PlaylistsStatusText.Text = "The playlists request timed out. Check the network connection and try again.";
+                PlaylistsStatusText.Text = Localizer.Get("Profile.PlaylistsTimedOut");
             }
             catch (HttpRequestException)
             {
-                PlaylistsStatusText.Text = "The playlists request could not be reached. Check the network connection.";
+                PlaylistsStatusText.Text = Localizer.Get("Profile.PlaylistsNetworkFailure");
             }
             catch (Exception exception)
             {
@@ -623,8 +622,8 @@ namespace YouTube.Uwp
 
             profileRequestInProgress = true;
             PlaylistVideosStatusText.Text = pageToken == null
-                ? "Loading playlist videos..."
-                : "Loading more playlist videos...";
+                ? Localizer.Get("Profile.LoadingPlaylistVideos")
+                : Localizer.Get("Profile.LoadingMorePlaylistVideos");
             UpdateProfileControls();
             try
             {
@@ -639,7 +638,7 @@ namespace YouTube.Uwp
                 }
 
                 playlistVideosNextPageToken = page.NextPageToken;
-                PlaylistVideosStatusText.Text = PlaylistVideos.Count + " playlist videos loaded.";
+                PlaylistVideosStatusText.Text = Localizer.Format("Profile.PlaylistVideosLoaded", PlaylistVideos.Count);
             }
             catch (OAuthException exception)
             {
@@ -655,11 +654,11 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                PlaylistVideosStatusText.Text = "The playlist videos request timed out. Check the network connection and try again.";
+                PlaylistVideosStatusText.Text = Localizer.Get("Profile.PlaylistVideosTimedOut");
             }
             catch (HttpRequestException)
             {
-                PlaylistVideosStatusText.Text = "The playlist videos request could not be reached. Check the network connection.";
+                PlaylistVideosStatusText.Text = Localizer.Get("Profile.PlaylistVideosNetworkFailure");
             }
             catch (Exception exception)
             {
@@ -698,8 +697,8 @@ namespace YouTube.Uwp
 
             profileRequestInProgress = true;
             LikedVideosStatusText.Text = pageToken == null
-                ? "Loading liked videos..."
-                : "Loading more liked videos...";
+                ? Localizer.Get("Profile.LoadingLikedVideos")
+                : Localizer.Get("Profile.LoadingMoreLikedVideos");
             UpdateProfileControls();
             try
             {
@@ -712,8 +711,8 @@ namespace YouTube.Uwp
 
                 likedVideosNextPageToken = page.NextPageToken;
                 LikedVideosStatusText.Text = LikedVideos.Count == 0
-                    ? "No liked videos were returned."
-                    : LikedVideos.Count + " liked videos loaded.";
+                    ? Localizer.Get("Profile.NoLikedVideos")
+                    : Localizer.Format("Profile.LikedVideosLoaded", LikedVideos.Count);
             }
             catch (OAuthException exception)
             {
@@ -729,11 +728,11 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                LikedVideosStatusText.Text = "The liked videos request timed out. Check the network connection and try again.";
+                LikedVideosStatusText.Text = Localizer.Get("Profile.LikedVideosTimedOut");
             }
             catch (HttpRequestException)
             {
-                LikedVideosStatusText.Text = "The liked videos request could not be reached. Check the network connection.";
+                LikedVideosStatusText.Text = Localizer.Get("Profile.LikedVideosNetworkFailure");
             }
             catch (Exception exception)
             {
@@ -806,7 +805,7 @@ namespace YouTube.Uwp
             if (exception.StatusCode == System.Net.HttpStatusCode.Forbidden
                 || exception.StatusCode == System.Net.HttpStatusCode.Unauthorized)
             {
-                return "Google did not grant this account access to profile data. Sign out, start Google sign-in again, and accept the YouTube read-only scope.";
+                return Localizer.Get("Profile.AccessDenied");
             }
 
             return exception.Message;
@@ -816,16 +815,40 @@ namespace YouTube.Uwp
         {
             string safeStage = string.IsNullOrWhiteSpace(stage) ? "unknown" : stage;
             DiagnosticLog.WriteException("Profile." + safeStage, exception);
-            statusText.Text = "Profile could not load during " + safeStage + " (0x"
-                + exception.HResult.ToString("X8")
-                + "). Open Diagnostics for details.";
+            statusText.Text = Localizer.Format(
+                "Profile.LoadFailed",
+                GetProfileStageName(safeStage),
+                exception.HResult.ToString("X8"));
+        }
+
+        private static string GetProfileStageName(string stage)
+        {
+            switch (stage)
+            {
+                case "starting":
+                    return Localizer.Get("Profile.StageStarting");
+                case "channel":
+                    return Localizer.Get("Profile.StageChannel");
+                case "uploaded videos":
+                    return Localizer.Get("Profile.StageUploadedVideos");
+                case "subscriptions":
+                    return Localizer.Get("Profile.StageSubscriptions");
+                case "playlists":
+                    return Localizer.Get("Profile.StagePlaylists");
+                case "playlist videos":
+                    return Localizer.Get("Profile.StagePlaylistVideos");
+                case "liked videos":
+                    return Localizer.Get("Profile.StageLikedVideos");
+                default:
+                    return Localizer.Get("Common.Unknown");
+            }
         }
 
         private async Task LoadCategoriesAsync()
         {
             try
             {
-                CategoryStatusText.Text = "Loading categories...";
+                CategoryStatusText.Text = Localizer.Get("Categories.Loading");
                 IReadOnlyList<VideoCategory> categories = await client.GetVideoCategoriesAsync(GetSelectedRegionCode());
                 Categories.Clear();
                 foreach (VideoCategory category in categories)
@@ -833,7 +856,7 @@ namespace YouTube.Uwp
                     Categories.Add(category);
                 }
 
-                CategoryStatusText.Text = Categories.Count + " categories available for " + GetRegionLabel() + ".";
+                CategoryStatusText.Text = Localizer.Format("Categories.Available", Categories.Count, GetRegionLabel());
             }
             catch (InvalidOperationException exception)
             {
@@ -849,11 +872,11 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                CategoryStatusText.Text = "The YouTube Data API request timed out. Check the network connection and try again.";
+                CategoryStatusText.Text = Localizer.Get("Common.ApiTimedOut");
             }
             catch (HttpRequestException)
             {
-                CategoryStatusText.Text = "The YouTube Data API could not be reached. Check the network connection.";
+                CategoryStatusText.Text = Localizer.Get("Common.ApiNetworkFailure");
             }
         }
 
@@ -888,10 +911,14 @@ namespace YouTube.Uwp
 
             try
             {
-                category.StatusMessage = "Loading " + category.Title + " videos...";
+                category.StatusMessage = Localizer.Format("Categories.LoadingVideos", category.Title);
                 DataPage<VideoSummary> page = await client.GetMostPopularVideosAsync(GetSelectedRegionCode(), category.Id, null, 25);
                 category.SetVideos(page.Items);
-                category.StatusMessage = category.Videos.Count + " popular " + category.Title + " videos for " + GetRegionLabel() + ".";
+                category.StatusMessage = Localizer.Format(
+                    "Categories.PopularVideos",
+                    category.Videos.Count,
+                    category.Title,
+                    GetRegionLabel());
             }
             catch (InvalidOperationException exception)
             {
@@ -907,11 +934,11 @@ namespace YouTube.Uwp
             }
             catch (TaskCanceledException)
             {
-                category.StatusMessage = "The YouTube Data API request timed out. Check the network connection and try again.";
+                category.StatusMessage = Localizer.Get("Common.ApiTimedOut");
             }
             catch (HttpRequestException)
             {
-                category.StatusMessage = "The YouTube Data API could not be reached. Check the network connection.";
+                category.StatusMessage = Localizer.Get("Common.ApiNetworkFailure");
             }
         }
 
@@ -960,7 +987,7 @@ namespace YouTube.Uwp
         private string GetRegionLabel()
         {
             RegionOption selectedRegion = FindRegion(SelectedRegionCode);
-            return selectedRegion == null ? "United States" : selectedRegion.Name;
+            return selectedRegion == null ? Localizer.Get("Regions.UnitedStates") : selectedRegion.Name;
         }
 
         private string GetSelectedRegionCode()

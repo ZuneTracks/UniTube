@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>KAMU TARAYICISI</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>AYARLAR</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>EV</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>ARAMAK</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORİLER</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFİL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>keşfetmek</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Klasik telefon öncelikli düzende en yeni popüler videolar.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>ŞİMDİ TREND</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Bölgeniz için popüler videoları yükleyin</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>popüler videolar</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Herkese açık sonuçları yüklemek için Şimdi Trend Olanlar'ı seçin.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>aramak</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Kullanıcı tarafından sağlanan API anahtarınızla herkese açık YouTube videolarını bulun.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Arama terimleri</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>YouTube'da ara</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>ARAMAK</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPÜLER</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>BÖLGE</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategoriler</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Mevcut popüler videolarını genişletmek için bir kategoriye dokunun. Daraltmak ve başka bir tane seçmek için tekrar dokunun.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profil</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Hesap verileri, kimliği doğrulanmış YouTube bağlantınız aracılığıyla kullanılabilir.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>HAKKINDA</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API anahtarını geçersiz kılma</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Yönetilen yapılandırmayı kullanmak için boş bırakın</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>BİRİM TÜP</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ GERİ</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>İPTAL</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>bu kanal hakkında</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>kanal ayrıntıları</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>TEMİZLE</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Kişisel kimlik bilgileri yalnızca Windows Kimlik Bilgileri Dolabı'nda saklanır.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Açıklama</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>İsteğe bağlı</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>açıklama</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Bu günlük, uygulama hatalarını ve OAuth aşamalarını kaydeder. Kimlik bilgileri, yetkilendirme kodları ve belirteçler hariçtir.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>teşhis</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profil okuma ve yükleme işlemleri, Google TV'leri ve sınırlı girişli cihaz OAuth istemcisini kullanır. Hiçbir yönlendirme URI'si kullanılmaz. Yönetilen yerel yapı değerleri gizli kalır; Kimlik bilgilerinin buraya kaydedilmesi bunları geçersiz kılar.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>Google hesabı</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Uygulama içi oynatma, YouTube'un resmi mobil izleme sayfasını kullanır. Bu uygulama medya URL'lerini çıkarmaz veya indirmez.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>beğenilen videolar</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>BEĞENİ VİDEOLARI YÜKLE</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>DAHA FAZLA BEĞENİ VİDEO YÜKLE</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>DAHA FAZLA ÇALMA LİSTESİ YÜKLE</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>DAHA FAZLA OYNATMA LİSTESİ VİDEOSU YÜKLEYİN</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>DAHA FAZLA ABONELİK YÜKLE</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>DAHA FAZLA YÜKLENEN VİDEO YÜKLE</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Sınırlı girişli cihaz OAuth istemci kimliğini geçersiz kılma</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Yönetilen yapılandırmayı kullanmak için boş bırakın</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Sınırlı girişli cihaz OAuth istemci sırrını geçersiz kılma</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Yönetilen yapılandırmayı kullanmak için boş bırakın</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Kimlik bilgilerini kaydedin ve ardından Google ile oturum açmayı başlatın. Aşağıdaki doğrulama kodu başka bir cihaza girildi; Bu uygulama hiçbir zaman oturum açma formunu açmaz. Profil okuma erişimi vermek için bu güncellemeden sonra tekrar oturum açın.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>KANALI AÇ</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>TARAYICIDA AÇ</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>oyuncu</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>UYGULAMADA OYNA</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>çalma listeleri</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>oynatma listesi videoları</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Gizlilik</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>özel</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Kısıtlanmış bir API anahtarı yalnızca salt okunur YouTube Veri API'si v3 çağrıları için kullanılır. Yönetilen yerel yapı değerleri gizli kalır; burada kaydetme bunları geçersiz kılar.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>kamu veri erişimi</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>kamu</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>YENİLE</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>PROFİLİ YENİLE</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Güvenli Mod, aramalar için YouTube'un katı Güvenli Arama ayarını kullanır. YouTube Çocuk kataloğunu sağlamaz veya popüler, kategori ve hesap yayınlarını filtrelemez.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>güvenli mod</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Herkese açık video aramaları için Güvenli Arama'yı sıkı şekilde kullanın</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>API ANAHTARINI KAYDET</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>GÜNLÜĞÜ KAYDET</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>KİMLİK BİLGİLERİNİ KAYDET</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Hiçbir video seçilmedi.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>VİDEO SEÇ</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>ayarlar</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>GOOGLE OTURUM AÇMAYA BAŞLAYIN</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>OTURUMU KAPAT</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>YÜKLEMEYİ BAŞLAT</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>abonelikler</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Başlık</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Gerekli</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>liste dışı</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>İzleme Geçmişi ve Daha Sonra İzle, okunabilir v3 koleksiyonları olarak gösterilmez. UniTube bunları taklit etmez veya yanlış etiketlemez.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>YouTube Veri API'sı v3 tarafından desteklenmiyor</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>yüklenen videolar</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>yükle</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Yerel bir video seçin ve ardından yetkili Google hesabınız aracılığıyla yükleyin.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>video yükle</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Bir video seçmeye hazır.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Yüklemeler için OAuth ayarları ve Ayarlar'dan Google'da oturum açma işleminin tamamlanmış olması gerekir.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>VİDEO YÜKLE</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>video ayrıntıları</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>TEŞHİSLERİ GÖRÜNTÜLEYİN</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>YOUTUBE'DA İZLEYİN</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{1} için {0:N0} kategorileri mevcuttur.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Kategoriler yükleniyor...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} videoları yükleniyor...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} {2} için popüler {1} videoları.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Kanal kimliği gerekli.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Kanal ayrıntıları yükleniyor...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} aboneleri | {1:N0} videoları | {2:N0} görüntüleme sayısı</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>İstenilen kanal kullanılamıyor.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>KAPAT</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube Veri API'sine ulaşılamadı. Ağ bağlantısını kontrol edin.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Veri API'sı isteği zaman aşımına uğradı. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>bilinmiyor</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google yetkilendirmesi bir erişim belirteci sağlamadı. Tekrar oturum açın.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google hesabı erişimi yapılandırılmadı. Profili açmadan önce oturum açın.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Herkese açık YouTube Veri API'sı v3 özelliklerini kullanmadan önce bir Google API anahtarı ekleyin.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Kanal kimliği gerekli.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Kimliği doğrulanmış YouTube Veri API'si geçersiz bir yanıt döndürdü. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Veri API'si geçersiz bir yanıt döndürdü. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Çalma listesi kimliği gerekli.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Veri API'si v3, {0} ({1}) değerini döndürdü. {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Aranacak metni girin.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Bir video kimliği gereklidir.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Tanılama günlüğü temizlendi.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Tanılama günlüğü {0}'e kaydedildi.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Hiçbir teşhis olayı kaydedilmedi.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Tanılama günlüğünün kaydedilmesi iptal edildi.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Tanılama günlüğü (0x{0}) kaydedilemedi.</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Metin dosyası</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Son oynanma</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Canlı kutucuğu güncellemek için video meta verileri gereklidir.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Şu anda trend</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Şu anda trend olan ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Trend olan bir video başlığı gerekli.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google cihaz yetkilendirmesinin süresi doldu.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google cihazı yetkilendirmesi tamamlanmadı: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Yüklemeden önce Google yetkilendirmesinin tekrar tamamlanması gerekiyor.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google cihaz yetkilendirmesi başlatılamadı: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Oturum açmadan önce sınırlı girişli bir cihaz OAuth istemci kimliği ayarlayın.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Oturum açmadan önce sınırlı girişli cihaz OAuth istemci sırrını ayarlayın.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google, sınırlı girişli cihaz OAuth istemcisini (invalid_client) reddetti. İstemci kimliğini ve istemci sırrını kontrol edin.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google, sınırlı girişli cihaz OAuth kimlik bilgilerini (invalid_client) reddetti. İstemci kimliğini ve istemci sırrını kontrol edin.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google cihaz yetkilendirmesi geçersiz bir yanıt döndürdü.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google belirteci uç noktası geçersiz bir yanıt döndürdü.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google cihaz yetkilendirmesi kullanılabilir bir doğrulama kodu ve URL döndürmedi.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google belirteci uç noktası bir erişim belirteci döndürmedi.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Hiçbir Google hesabı yetkili değil. İlk önce oturum açmaya başlayın.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google oylamanın daha yavaş yapılmasını talep etti.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Saklanan OAuth belirtecinin geçerlilik süresi hatalı biçimlendirilmiş. Tekrar oturum açın.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Saklanan OAuth jetonu hatalı biçimlendirilmiş. Tekrar oturum açın.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google jetonu yenileme başarısız oldu: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google yetkilendirmesi tamamlandı, ancak Windows Kimlik Bilgisi Dolabı belirteci (0x{0}) kaydedemedi.</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Uygulama içi oynatıcı bu videoyu yükleyemedi. Bunun yerine tarayıcıda açın.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Resmi YouTube izleme sayfası yükleniyor...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Uygulama içi oynatma için bir video kimliği gereklidir.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} videolar</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Popüler videolar yükleniyor...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} popüler video sonuçları.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} popüler video sonuçları. Windows canlı kutucuğun güncellenmesine izin vermedi.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} popüler video sonuçları. Canlı kutucuk artık en iyi sonucu gösteriyor.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} popüler video sonuçları. Canlı kutucuk güncellenemedi.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google bu hesaba profil verilerine erişim izni vermedi. Oturumu kapatın, Google'da oturum açmayı yeniden başlatın ve YouTube salt okunur kapsamını kabul edin.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} yüklenen videoları beğendi.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Beğenilen videolar isteğine ulaşılamadı. Ağ bağlantısını kontrol edin.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Beğenilen video isteği zaman aşımına uğradı. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profil yüklendi.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profil {0} (0x{1}) sırasında yüklenemedi. Ayrıntılar için Teşhis'i açın.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Kimliği doğrulanmış profil yükleniyor...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Beğenilen videolar yükleniyor...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Daha fazla beğenilen video yükleniyor...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Daha fazla oynatma listesi videosu yükleniyor...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Daha fazla yüklenen video yükleniyor...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Oynatma videoları yükleniyor...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} aboneleri | {1:N0} videoları | {2:N0} görüntüleme sayısı</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google, yetkili hesap için hiçbir kanal döndürmedi.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Beğenilen videolardan herhangi biri geri döndürülmedi.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube bu kanal için yükleme oynatma listesi sağlamadı.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} çalma listeleri yüklendi. Videolarını görüntülemek için birini seçin.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Çalma listeleri isteğine ulaşılamadı. Ağ bağlantısını kontrol edin.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Çalma listesi isteği zaman aşımına uğradı. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} oynatma listesi videoları yüklendi.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Oynatma listesi video isteğine ulaşılamadı. Ağ bağlantısını kontrol edin.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Oynatma listesi video isteği zaman aşımına uğradı. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Kimliği doğrulanmış YouTube API'sine ulaşılamadı. Ağ bağlantısını kontrol edin.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Kimliği doğrulanmış YouTube isteği zaman aşımına uğradı. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Beğendiğiniz koleksiyonunuzu istemek için Beğenilen videoları yükle'yi seçin.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Videolarını yüklemek için yukarıdan bir oynatma listesi seçin.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanal</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>beğenilen videolar</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>çalma listeleri</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>oynatma listesi videoları</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>başlangıç</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>abonelikler</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>yüklenen videolar</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} abonelikleri yüklendi.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Abonelik isteğine ulaşılamadı. Ağ bağlantısını kontrol edin.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Abonelik isteği zaman aşımına uğradı. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Bu hesap Profil eklenmeden önce yetkilendirilmişse YouTube'a salt okunur kapsamı vermek için tekrar oturum açın.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} yüklenen videolar yüklendi.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Yüklenen video isteğine ulaşılamadı. Ağ bağlantısını kontrol edin.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Yüklenen video isteği zaman aşımına uğradı. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Desteklenen bölgeler yükleniyor...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Desteklenen bölgeler yüklenemedi. Ağ bağlantısını kontrol edin.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>YouTube Veri API'sı isteği zaman aşımına uğradığı için desteklenen bölgeler yüklenemedi.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube desteklenen hiçbir bölgeyi döndürmedi. Amerika Birleşik Devletleri'ni kullanma.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Amerika Birleşik Devletleri</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Bir API anahtarı girin veya API anahtarını temizle'yi kullanın.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Sınırlı girişli bir cihaz OAuth istemci kimliği gereklidir.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Sınırlı girişli bir cihaz OAuth istemci sırrı gerekli.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Aranıyor...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} herkese açık video sonuçları.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Bu uygulamanın Google veya YouTube ile bağlantısı yoktur.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>{0}.{1}.{2}.{3}'i oluşturun</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube, YouTube'un genel API'si aracılığıyla YouTube'a göz atmak için kullanılan modern bir UWP uygulamasıdır.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Tarafından geliştirildi:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Genel veriler için yerleşik UniTube yapılandırmasını kullanma. Buraya kaydetmek onu geçersiz kılar.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Hiçbir API anahtarı yapılandırılmadı.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>API anahtarınız Windows Kimlik Bilgileri Dolabı'nda saklanır.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google yetkilendirmesi iptal edildi.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google yetkilendirmesi tamamlandı. Profil okumaları ve video yüklemeleri mevcuttur.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Kodunun süresi {1:D2}:{2:D2}'de sona erer. Google'ı her {3} saniyede bir kontrol ediyorum.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google yetkilendirmesi belirteç uç noktasıyla iletişim kuramadı. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google yetkilendirmesi kaldırıldı. Profili açmadan veya yükleme yapmadan önce Google ile oturum açmayı başlatın.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Profil okuma ve video yükleme için bir Google hesabına izin verilir. Bu belirteç Profil'den önceyse tekrar oturum açın.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google yetkilendirmesi beklenmedik bir şekilde başarısız oldu (0x{0}). Uygulamayı yeniden başlattıktan sonra Teşhis'i açın.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Profil ve yüklemeler için yerleşik UniTube yapılandırmasını kullanma. Önce Google ile oturum açmayı başlatın.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Sınırlı girişli cihaz OAuth kimlik bilgileri kaydedildi. Değerlerden herhangi biri değiştiyse yüklemeden önce tekrar oturum açın.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Kaydedilen OAuth kimlik bilgileri yapılandırıldı. Profili açmadan veya yükleme yapmadan önce Google ile oturum açmayı başlatın.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Eksik kaydedilmiş bir OAuth geçersiz kılma işlemi göz ardı edildi. Profil ve yüklemeler için yerleşik UniTube yapılandırmasını kullanma.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Yönetilen OAuth yapılandırması mevcuttur. Profili açmadan veya yükleme yapmadan önce Google ile oturum açmayı başlatın.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>OAuth kimlik bilgilerini kaydedin ve ardından Profili açmadan veya yükleme yapmadan önce Google ile oturum açmayı başlatın.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kod: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Doğrulama kodunun süresi doldu. Yeni bir kod isteniyor...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Kodu bu tarayıcıya girin. Bu telefon Google yetkilendirmesini bekleyecek.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Önceki kodunuzun süresi doldu. Yeni kodu bu tarayıcıya girin.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Geçerli bir tarayıcıya sahip başka bir telefon, tablet veya bilgisayarda şu adresi ziyaret edin: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Google'ın onayını bekliyorum.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Yükleme iptal edildi. Kısmen yüklenen devam ettirilebilir oturum devam ettirilmedi.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Yükleme iptal ediliyor...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Yükleme tamamlandı. YouTube videoyu işliyor.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Yükleme tamamlandı. Video kimliği: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Video açıklaması 5000 karakter veya daha az olmalıdır.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Veri içeren bir video dosyası seçin.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Seçilen dosya bildirilen uzunluğundan önce sona erdi.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Yüklemeden önce bir video dosyası seçin.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Seçilen video yüklenemeyecek kadar büyük.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Yükleme YouTube'a ulaşamadı. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube tamamlanmış bir yükleme yanıtı döndürmedi.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube, devam ettirilebilir bir yükleme konumu döndürmedi.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Özel, liste dışı veya genel gizliliği seçin.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Yüklenen {1:N0} baytın {0:N0}'i (%{2:F0}).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>{0}'i yüklemeye hazır.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube yüklemesi {0} ({1}) sonucunu döndürdü. {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bayt)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Video seçimi iptal edildi.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Devam ettirilebilir yükleme başlatılıyor...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Yükleme zaman aşımına uğradı. Ağ bağlantısını kontrol edin ve tekrar deneyin.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Yüklemeden önce bir başlık girin.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Video başlığı 100 karakter veya daha az olmalıdır.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Tanınmış bir video dosyası seçin.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Video ayrıntıları yükleniyor...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>{0} yayınlandı | {1:N0} görünümleri | süre {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Uygulamada Oynat, YouTube'un resmi mobil izleme sayfasını açar.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Oynatma başladı ancak meta verileri canlı döşeme için kaydedilemedi.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Kayıttan yürütme başladı ancak Windows canlı kutucuğun güncellenmesine izin vermedi.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Oynatma başladı ancak canlı döşeme güncellenemedi.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>İstenilen video kullanılamıyor.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Bir video kimliği gereklidir.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Özel teşekkürler</value>
+  </data>
+</root>

@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>PENYEMAK AWAM</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>TETAPAN</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>RUMAH</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>CARIAN</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORI</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFIL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>menemui</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Video popular terbaharu, dalam reka letak yang mengutamakan telefon klasik.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>TRENDING SEKARANG</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Muatkan video popular untuk wilayah anda</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>video popular</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Pilih Trend Sekarang untuk memuatkan hasil carian awam.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>cari</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Cari video YouTube awam dengan kunci API yang dibekalkan pengguna anda.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Istilah carian</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Cari di YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>CARIAN</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULAR</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>WILAYAH</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategori</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Ketik kategori untuk mengembangkan video popular semasanya. Ketik sekali lagi untuk runtuh dan pilih yang lain.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profil</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Data akaun tersedia melalui sambungan YouTube anda yang disahkan.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>TENTANG</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Gantikan kunci API Google</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Biarkan kosong untuk menggunakan konfigurasi terurus</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>BERSATU</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ KEMBALI</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>BATALKAN</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>tentang saluran ini</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>butiran saluran</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>JELAS</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Bukti kelayakan peribadi disimpan hanya dalam Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Penerangan</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Pilihan</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>penerangan</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Log ini merekodkan ralat apl dan pencapaian OAuth. Bukti kelayakan, kod kebenaran dan token dikecualikan.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostik</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profil membaca dan memuat naik menggunakan Google TV dan klien OAuth peranti input terhad. Tiada URI ubah hala digunakan. Nilai binaan tempatan terurus kekal tersembunyi; menyimpan bukti kelayakan di sini mengatasinya.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>akaun google</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Main balik dalam apl menggunakan halaman tontonan mudah alih rasmi YouTube. Apl ini tidak mengekstrak atau memuat turun URL media.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>video yang disukai</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>MUAT VIDEO SUKA</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>MUAT LEBIH BANYAK VIDEO SUKA</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>MUAT LAGI SENARAI MAIN</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>MUAT LAGI VIDEO SENARAI MAIN</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>MUAT LAGI LANGGANAN</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>MUAT LEBIH LAGI VIDEO YANG DIMUAT NAIK</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Gantikan ID klien OAuth peranti input terhad</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Biarkan kosong untuk menggunakan konfigurasi terurus</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Timpa rahsia pelanggan OAuth peranti input terhad</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Biarkan kosong untuk menggunakan konfigurasi terurus</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Simpan bukti kelayakan, kemudian mulakan log masuk Google. Kod pengesahan di bawah dimasukkan pada peranti lain; apl ini tidak pernah membuka borang log masuk. Log masuk semula selepas kemas kini ini untuk memberikan akses baca profil.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>BUKA SALURAN</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>BUKA DALAM PENYIARI SEMAK</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>pemain</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>MAIN DALAM APP</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>senarai main</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>video senarai main</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Privasi</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>persendirian</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Kunci API terhad hanya digunakan untuk panggilan API Data YouTube v3 baca sahaja. Nilai binaan tempatan terurus kekal tersembunyi; menyimpan di sini mengatasi mereka.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>capaian data awam</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>awam</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>SEGARKAN</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>SEMAKAN PROFIL</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Mod Selamat menggunakan tetapan SafeSearch ketat YouTube untuk carian. Ia tidak menyediakan katalog atau penapis YouTube Kids yang popular, kategori dan suapan akaun.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>mod selamat</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Gunakan SafeSearch yang ketat untuk carian video awam</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>SIMPAN KUNCI API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>SIMPAN LOG</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>SIMPAN KREDENTIAL</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Tiada video dipilih.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>PILIH VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>tetapan</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>MULAKAN LOG MASUK GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>DAFTAR KELUAR</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>MULAKAN MUAT NAIK</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>langganan</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Tajuk</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Diperlukan</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>tidak tersenarai</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Sejarah Tonton dan Tonton Kemudian tidak didedahkan sebagai koleksi v3 yang boleh dibaca. UniTube tidak meniru atau salah label mereka.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>tidak disokong oleh YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>video yang dimuat naik</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>muat naik</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Pilih video tempatan, kemudian muat naik melalui akaun Google anda yang dibenarkan.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>muat naik video</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Bersedia untuk memilih video.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Muat naik memerlukan tetapan OAuth dan log masuk Google yang lengkap daripada Tetapan.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>MUAT NAIK VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>butiran video</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>LIHAT DIAGNOSTIK</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>TONTON DI YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>Kategori {0:N0} tersedia untuk {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Memuatkan kategori...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Memuatkan video {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} video {1} popular untuk {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>ID saluran diperlukan.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Memuatkan butiran saluran...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>Pelanggan {0:N0} | Video {1:N0} | {2:N0} pandangan</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Saluran yang diminta tidak tersedia.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>TUTUP</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>API Data YouTube tidak dapat dicapai. Semak sambungan rangkaian.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Permintaan API Data YouTube tamat masa. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>tidak diketahui</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Keizinan Google tidak memberikan token akses. Log masuk semula.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Akses akaun Google tidak dikonfigurasikan. Log masuk sebelum membuka Profil.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Tambahkan kunci API Google sebelum menggunakan ciri API Data YouTube v3 awam.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>ID saluran diperlukan.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>API Data YouTube yang disahkan mengembalikan respons yang tidak sah. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>API Data YouTube mengembalikan respons yang tidak sah. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>ID senarai main diperlukan.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>API Data YouTube v3 mengembalikan {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Masukkan teks untuk dicari.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>ID video diperlukan.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Log diagnostik dikosongkan.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Log diagnostik disimpan ke {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Tiada peristiwa diagnostik telah direkodkan.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Menyimpan log diagnostik telah dibatalkan.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Tidak dapat menyimpan log diagnostik (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Fail teks</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Terakhir dimainkan</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Metadata video diperlukan untuk mengemas kini jubin langsung.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Trend kini</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Sohor kini ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Tajuk video sohor kini diperlukan.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Keizinan peranti Google tamat tempoh.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Keizinan peranti Google tidak selesai: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Keizinan Google perlu dilengkapkan semula sebelum memuat naik.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Keizinan peranti Google tidak dapat dimulakan: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Tetapkan ID klien OAuth peranti input terhad sebelum log masuk.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Tetapkan rahsia klien OAuth peranti input terhad sebelum log masuk.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google menolak klien OAuth peranti input terhad (invalid_client). Semak ID pelanggan dan rahsia pelanggan.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google menolak bukti kelayakan OAuth peranti input terhad (invalid_client). Semak ID pelanggan dan rahsia pelanggan.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Keizinan peranti Google mengembalikan respons yang tidak sah.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Titik akhir token Google mengembalikan respons yang tidak sah.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Keizinan peranti Google tidak mengembalikan kod pengesahan dan URL yang boleh digunakan.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Titik akhir token Google tidak mengembalikan token akses.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Tiada akaun Google dibenarkan. Mulakan log masuk dahulu.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google meminta pengundian yang lebih perlahan.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Tamat tempoh token OAuth yang disimpan adalah salah bentuk. Log masuk semula.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Token OAuth yang disimpan adalah salah bentuk. Log masuk semula.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Muat semula token Google gagal: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Keizinan Google selesai, tetapi Windows Credential Locker tidak dapat menyimpan token (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Pemain dalam apl tidak dapat memuatkan video ini. Bukanya dalam penyemak imbas sebaliknya.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Memuatkan halaman tontonan YouTube rasmi...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>ID video diperlukan untuk main balik dalam apl.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>Video {0:N0}</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Memuatkan video popular...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} hasil video popular.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} hasil video popular. Windows tidak membenarkan jubin langsung dikemas kini.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} hasil video popular. Jubin langsung kini menunjukkan hasil teratas.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} hasil video popular. Jubin langsung tidak dapat dikemas kini.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google tidak memberikan akaun ini akses kepada data profil. Log keluar, mulakan log masuk Google semula dan terima skop baca sahaja YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} menyukai video yang dimuatkan.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Permintaan video yang disukai tidak dapat dicapai. Semak sambungan rangkaian.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Permintaan video yang disukai telah tamat masa. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profil dimuatkan.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profil tidak dapat dimuatkan semasa {0} (0x{1}). Buka Diagnostik untuk mendapatkan butiran.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Memuatkan profil yang disahkan...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Memuatkan video yang disukai...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Memuatkan lebih banyak video yang disukai...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Memuatkan lebih banyak video senarai main...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Memuatkan lebih banyak video yang dimuat naik...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Memuatkan video senarai main...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>Pelanggan {0:N0} | Video {1:N0} | {2:N0} pandangan</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google tidak mengembalikan saluran untuk akaun yang dibenarkan.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Tiada video yang disukai dikembalikan.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube tidak menyediakan senarai main muat naik untuk saluran ini.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>Senarai main {0:N0} dimuatkan. Pilih satu untuk melihat videonya.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Permintaan senarai main tidak dapat dicapai. Semak sambungan rangkaian.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Permintaan senarai main telah tamat masa. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>Video senarai main {0:N0} dimuatkan.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Permintaan video senarai main tidak dapat dicapai. Semak sambungan rangkaian.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Permintaan video senarai main tamat masa. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>API YouTube yang disahkan tidak dapat dicapai. Semak sambungan rangkaian.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Permintaan YouTube yang disahkan telah tamat masa. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Pilih Muatkan video yang disukai untuk meminta koleksi yang anda sukai.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Pilih senarai main di atas untuk memuatkan videonya.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>saluran</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>video yang disukai</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>senarai main</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>video senarai main</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>bermula</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>langganan</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>video yang dimuat naik</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>Langganan {0:N0} dimuatkan.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Permintaan langganan tidak dapat dicapai. Semak sambungan rangkaian.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Permintaan langganan tamat masa. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Jika akaun ini dibenarkan sebelum Profil ditambahkan, log masuk sekali lagi untuk memberikan skop baca sahaja YouTube.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} memuat naik video dimuatkan.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Permintaan video yang dimuat naik tidak dapat dicapai. Semak sambungan rangkaian.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Permintaan video yang dimuat naik telah tamat masa. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Memuatkan kawasan yang disokong...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Kawasan yang disokong tidak dapat dimuatkan. Semak sambungan rangkaian.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Wilayah yang disokong tidak dapat dimuatkan kerana permintaan API Data YouTube tamat masa.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube tidak mengembalikan mana-mana wilayah yang disokong. Menggunakan Amerika Syarikat.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Amerika Syarikat</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Masukkan kunci API atau gunakan kunci API Kosongkan.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>ID klien OAuth peranti input terhad diperlukan.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Rahsia pelanggan OAuth peranti input terhad diperlukan.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Mencari...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} hasil video awam.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Apl ini tidak bergabung dengan Google atau YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Bina {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube ialah aplikasi UWP moden untuk menyemak imbas YouTube melalui API awam YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Dibangunkan oleh:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Menggunakan konfigurasi UniTube terbina dalam untuk data awam. Menyimpan di sini mengatasinya.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Tiada kunci API dikonfigurasikan.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Kunci API anda disimpan dalam Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Keizinan Google dibatalkan.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Keizinan Google selesai. Bacaan profil dan muat naik video tersedia.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>Kod {0} tamat tempoh dalam {1:D2}:{2:D2}. Menyemak Google setiap {3} saat.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Keizinan Google tidak dapat menghubungi titik akhir token. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Keizinan Google dialih keluar. Mulakan log masuk Google sebelum membuka Profil atau memuat naik.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Akaun Google dibenarkan untuk membaca profil dan muat naik video. Log masuk semula jika token ini mendahului Profil.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Keizinan Google gagal secara tidak dijangka (0x{0}). Buka Diagnostik selepas memulakan semula apl.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Menggunakan konfigurasi UniTube terbina dalam untuk Profil dan muat naik. Mulakan log masuk Google dahulu.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Bukti kelayakan OAuth peranti input terhad disimpan. Jika mana-mana nilai berubah, log masuk semula sebelum memuat naik.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Bukti kelayakan OAuth yang disimpan dikonfigurasikan. Mulakan log masuk Google sebelum membuka Profil atau memuat naik.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Pembatalan OAuth disimpan yang tidak lengkap telah diabaikan. Menggunakan konfigurasi UniTube terbina dalam untuk Profil dan muat naik.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Konfigurasi OAuth terurus tersedia. Mulakan log masuk Google sebelum membuka Profil atau memuat naik.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Simpan bukti kelayakan OAuth, kemudian mulakan log masuk Google sebelum membuka Profil atau memuat naik.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kod: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Kod pengesahan tamat tempoh. Meminta kod baharu...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Masukkan kod dalam penyemak imbas itu. Telefon ini akan menunggu kebenaran Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Kod anda sebelum ini telah tamat tempoh. Masukkan kod baharu dalam penyemak imbas itu.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Pada telefon, tablet atau komputer lain dengan penyemak imbas semasa, lawati: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Menunggu kelulusan Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Muat naik dibatalkan. Sesi boleh sambung yang dimuat naik sebahagiannya tidak diteruskan.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Membatalkan muat naik...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Muat naik selesai. YouTube sedang memproses video.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Muat naik selesai. ID Video: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Perihalan video mestilah 5000 aksara atau kurang.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Pilih fail video yang mengandungi data.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Fail yang dipilih ditamatkan sebelum panjangnya dilaporkan.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Pilih fail video sebelum memuat naik.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Video yang dipilih terlalu besar untuk dimuat naik.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Muat naik tidak dapat mencapai YouTube. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube tidak mengembalikan respons muat naik yang lengkap.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube tidak mengembalikan lokasi muat naik yang boleh disambung semula.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Pilih privasi peribadi, tidak tersenarai atau awam.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} daripada {1:N0} bait dimuat naik ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Sedia untuk memuat naik {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>Muat naik YouTube dikembalikan {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bait)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Pemilihan video telah dibatalkan.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Memulakan muat naik boleh disambung semula...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Muat naik tamat masa. Semak sambungan rangkaian dan cuba lagi.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Masukkan tajuk sebelum memuat naik.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Tajuk video mestilah 100 aksara atau kurang.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Pilih fail video yang diiktiraf.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Memuatkan butiran video...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Diterbitkan {0} | {1:N0} paparan | tempoh {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Main dalam apl membuka halaman tontonan mudah alih rasmi YouTube.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Main semula dimulakan, tetapi metadatanya tidak dapat disimpan untuk jubin langsung.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Main semula bermula, tetapi Windows tidak membenarkan jubin langsung dikemas kini.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Main semula dimulakan, tetapi jubin langsung tidak dapat dikemas kini.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Video yang diminta tidak tersedia.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>ID video diperlukan.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Penghargaan khas</value>
+  </data>
+</root>

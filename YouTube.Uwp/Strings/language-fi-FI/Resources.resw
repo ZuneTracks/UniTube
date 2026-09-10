@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>JULKINEN SELAIN</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>ASETUKSET</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>KOTIIN</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>HAKU</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORIAT</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFIILI</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>löytää</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Uusimmat suositut videot klassisessa puhelin ensin -asettelussa.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>TRENDAASI NYT</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Lataa alueellasi suosittuja videoita</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>suosittuja videoita</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Valitse Nousussa nyt ladataksesi julkiset tulokset.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>haku</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Etsi julkisia YouTube-videoita käyttäjän toimittaman API-avaimen avulla.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Hakutermit</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Hae YouTubesta</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>HAKU</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>SUOSITTU</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>ALUE</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>luokat</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Napauta luokkaa laajentaaksesi sen nykyisiä suosittuja videoita. Napauta sitä uudelleen tiivistääksesi ja valitaksesi toisen.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profiili</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Tilitiedot ovat saatavilla todennetun YouTube-yhteytesi kautta.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>TIETOJA</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API -avaimen ohitus</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Jätä tyhjäksi, jos haluat käyttää hallittuja määrityksiä</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ TAKAISIN</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>PERUUTA</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>tästä kanavasta</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>kanavan tiedot</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>TYHJENNÄ</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Henkilökohtaiset tunnistetiedot tallennetaan vain Windows Credential Lockeriin.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Kuvaus</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Valinnainen</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>kuvaus</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Tämä loki tallentaa sovellusvirheet ja OAuth-virstanpylväät. Tunnistetiedot, valtuutuskoodit ja tunnukset eivät sisälly.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostiikka</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profiilin lukemiseen ja lataamiseen käytetään Google TV:tä ja rajoitetun syöttölaitteen OAuth-asiakasohjelmaa. Uudelleenohjaus-URI:ta ei käytetä. Hallitut paikalliset koontiversiot pysyvät piilossa; valtuustietojen tallentaminen ohittaa ne.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google-tili</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Sovelluksen sisäinen toisto käyttää YouTuben virallista mobiilikatselusivua. Tämä sovellus ei pura tai lataa median URL-osoitteita.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>tykkäsi videoista</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>LATAA TYKKÄTYT VIDEOT</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>LATAA LISÄÄ TYKÄTYSTÄ VIDEOITA</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>LATAA LISÄÄ soittolistoja</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>LATAA LISÄÄ SOITTOLISTA VIDEOITA</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>LATAA LISÄÄ TILAUKSIA</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>LATAA LISÄÄ LADATUJA VIDEOITA</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Rajoitetun syöttölaitteen OAuth-asiakastunnuksen ohitus</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Jätä tyhjäksi, jos haluat käyttää hallittuja määrityksiä</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Rajoitettu syöttölaitteen OAuth-asiakassalaisuuden ohitus</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Jätä tyhjäksi, jos haluat käyttää hallittuja määrityksiä</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Tallenna tunnistetiedot ja aloita sitten Google-sisäänkirjautuminen. Alla oleva vahvistuskoodi on syötetty toisella laitteella; tämä sovellus ei koskaan avaa kirjautumislomaketta. Kirjaudu sisään uudelleen tämän päivityksen jälkeen, jotta voit myöntää profiilille lukuoikeudet.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>AVAA KANAVA</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>AVAA SELALAIMESSA</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>pelaaja</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>PELAA SOVELLUKSESSA</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>soittolistoja</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>soittolistan videoita</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Yksityisyys</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>yksityinen</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Rajoitettua API-avainta käytetään vain luku -tilassa oleviin YouTube Data API v3 -kutsuihin. Hallitut paikalliset koontiversiot pysyvät piilossa; täällä säästäminen ohittaa ne.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>pääsy julkisiin tietoihin</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>julkinen</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>PÄIVITYS</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>PÄIVITYS PROFIILI</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Vikasietotila käyttää hauissa YouTuben tiukkaa SafeSearch-asetusta. Se ei tarjoa YouTube Kids -luetteloa tai suodata suosittuja, luokka- ja tilisyötteitä.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>turvatilassa</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Käytä tiukkaa SafeSearchia julkisiin videohakuihin</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>TALLENNA API-AVAIN</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>TALLENNA LOKIA</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>TALLENNA KUNTATIEDOT</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Videota ei ole valittu.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>VALITSE VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>asetukset</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ALOITA GOOGLE KIRJAUDU</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>KIRJAUDU ULOS</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ALOITA LATAUS</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>tilauksia</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Otsikko</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Pakollinen</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>listaamaton</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Katseluhistoria ja Katso myöhemmin eivät ole luettavissa v3-kokoelmina. UniTube ei emuloi tai merkitse niitä väärin.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>ei tue YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>ladatut videot</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>lataa</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Valitse paikallinen video ja lataa se valtuutetun Google-tilisi kautta.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>lataa video</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Valmiina valitsemaan video.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Lataukset vaativat OAuth-asetukset ja valmiin Google-sisäänkirjautumisen asetuksista.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>LATAA VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>videon tiedot</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>KATSO DIAGNOSTIIKKA</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>KATSO YOUTUBESSA</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0}-luokat saatavilla mallille {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Ladataan luokkia...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Ladataan {0}-videoita...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} suosittuja {1}-videoita {2}:lle.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Kanavan tunnus vaaditaan.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Ladataan kanavan tietoja...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} tilaajat | {1:N0} videot | {2:N0} näkymät</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Pyydetty kanava ei ole käytettävissä.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>SULJE</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTuben datasovellusliittymään ei saada yhteyttä. Tarkista verkkoyhteys.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API -pyyntö aikakatkaistiin. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>tuntematon</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Googlen valtuutus ei antanut käyttöoikeustunnusta. Kirjaudu uudelleen sisään.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google-tilin käyttöoikeutta ei ole määritetty. Kirjaudu sisään ennen profiilin avaamista.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Lisää Google-sovellusliittymäavain ennen julkisten YouTube Data API v3 -ominaisuuksien käyttöä.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Kanavan tunnus vaaditaan.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Todennettu YouTube Data API palautti virheellisen vastauksen. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API palautti virheellisen vastauksen. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Soittolistan tunnus vaaditaan.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 palautti {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Kirjoita haettava teksti.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Videotunnus vaaditaan.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnostiikkaloki tyhjennetty.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnostiikkaloki tallennettu kohteeseen {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Diagnostisia tapahtumia ei ole tallennettu.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Diagnostiikkalokin tallennus peruutettiin.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Diagnostiikkalokia (0x{0}) ei voitu tallentaa.</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Tekstitiedosto</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Viimeksi pelattu</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Videon metatiedot tarvitaan live-ruudun päivittämiseen.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Nousussa nyt</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Nousussa nyt ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Nousussa olevan videon nimi vaaditaan.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google-laitteen valtuutus vanhentunut.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google-laitteen valtuutusta ei suoritettu loppuun: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Googlen valtuutus on suoritettava uudelleen ennen lataamista.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google-laitteen valtuutusta ei voitu käynnistää: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Aseta rajoitetun syöttölaitteen OAuth-asiakastunnus ennen sisäänkirjautumista.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Aseta rajoitetun syöttölaitteen OAuth-asiakassalaisuus ennen sisäänkirjautumista.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google hylkäsi rajoitetun syöttölaitteen OAuth-asiakkaan (invalid_client). Tarkista asiakastunnus ja asiakkaan salaisuus.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google hylkäsi rajoitetun syöttölaitteen OAuth-kirjautumistiedot (invalid_client). Tarkista asiakastunnus ja asiakkaan salaisuus.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google-laitteen valtuutus palautti virheellisen vastauksen.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google-tunnuksen päätepiste palautti virheellisen vastauksen.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Googlen laitteen valtuutus ei palauttanut käyttökelpoista vahvistuskoodia ja URL-osoitetta.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google-tunnuksen päätepiste ei palauttanut käyttöoikeustunnusta.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Google-tiliä ei ole valtuutettu. Aloita kirjautuminen ensin.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google pyysi hitaampaa äänestystä.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Tallennetun OAuth-tunnuksen vanheneminen on väärin muotoiltu. Kirjaudu uudelleen sisään.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Tallennettu OAuth-tunnus on väärin muotoiltu. Kirjaudu uudelleen sisään.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google-tunnuksen päivitys epäonnistui: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Googlen valtuutus suoritettu, mutta Windows Credential Locker ei voinut tallentaa tunnusta (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Sovelluksen sisäinen soitin ei voinut ladata tätä videota. Avaa se sen sijaan selaimessa.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Ladataan virallista YouTube-katselusivua...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Sovelluksen sisäiseen toistoon tarvitaan videotunnus.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} videoita</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Ladataan suosittuja videoita...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} suosittuja videotuloksia.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} suosittuja videotuloksia. Windows ei sallinut live-ruudun päivittämistä.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} suosittuja videotuloksia. Live-ruutu näyttää nyt huipputuloksen.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} suosittuja videotuloksia. Live-ruutua ei voitu päivittää.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google ei myöntänyt tälle tilille pääsyä profiilitietoihin. Kirjaudu ulos, aloita Google-sisäänkirjautuminen uudelleen ja hyväksy YouTuben vain luku -oikeus.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} tykkäysvideot ladattu.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Tykättyjen videoiden pyyntöön ei saatu yhteyttä. Tarkista verkkoyhteys.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Tykättyjen videoiden pyyntö aikakatkaistiin. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profiili ladattu.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profiilia ei voitu ladata {0} (0x{1}) aikana. Avaa Diagnostiikka saadaksesi lisätietoja.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Ladataan todennettua profiilia...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Ladataan tykättyjä videoita...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Ladataan lisää tykättyjä videoita...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Ladataan lisää soittolistavideoita...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Ladataan lisää ladattuja videoita...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Ladataan soittolistavideoita...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} tilaajat | {1:N0} videot | {2:N0} näkymät</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google ei palauttanut kanavaa valtuutetulle tilille.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Tykkäämiä videoita ei palautettu.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube ei toimittanut lataussoittolistaa tälle kanavalle.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0}-soittolistat ladattu. Valitse yksi nähdäksesi sen videot.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Soittolistapyyntöön ei saatu yhteyttä. Tarkista verkkoyhteys.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Soittolistapyyntö aikakatkaistiin. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0}-soittolistavideot ladattu.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Soittolistavideopyyntöön ei saatu yhteyttä. Tarkista verkkoyhteys.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Soittolistavideopyyntö aikakatkaistiin. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Todennettuun YouTube-sovellusliittymään ei saada yhteyttä. Tarkista verkkoyhteys.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Todennettu YouTube-pyyntö aikakatkaistiin. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Valitse Lataa tykättyjä videoita pyytääksesi kokoelmaasi.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Valitse ylhäältä soittolista ladataksesi sen videot.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanava</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>tykkäsi videoista</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>soittolistoja</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>soittolistan videoita</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>alkaa</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>tilauksia</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>ladatut videot</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0}-tilaukset ladattu.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Tilauspyyntöön ei saatu yhteyttä. Tarkista verkkoyhteys.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Tilauspyyntö aikakatkaistiin. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Jos tämä tili oli valtuutettu ennen profiilin lisäämistä, kirjaudu uudelleen sisään ja anna YouTubelle vain luku -oikeus.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ladatut videot ladattu.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Ladattujen videoiden pyyntöön ei saatu yhteyttä. Tarkista verkkoyhteys.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Ladattujen videoiden pyyntö aikakatkaistiin. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Ladataan tuettuja alueita...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Tuettuja alueita ei voitu ladata. Tarkista verkkoyhteys.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Tuetut alueet eivät voineet ladata, koska YouTube Data API -pyyntö aikakatkaistiin.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube ei palauttanut tuettuja alueita. Käyttää Yhdysvaltoja.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Yhdysvallat</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Anna API-avain tai käytä Tyhjennä API-avain.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Rajoitetun syöttölaitteen OAuth-asiakastunnus vaaditaan.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Rajoitetun syöttölaitteen OAuth-asiakassalaisuus vaaditaan.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Haetaan...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} julkiset videotulokset.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Tämä sovellus ei ole sidoksissa Googleen tai YouTubeen.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Koonti {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube on moderni UWP-sovellus YouTuben selaamiseen YouTuben julkisen sovellusliittymän kautta.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Kehittäjä:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Sisäänrakennetun UniTube-määrityksen käyttäminen julkisille tiedoille. Tallentaminen tänne ohittaa sen.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>API-avainta ei ole määritetty.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>API-avaimesi on tallennettu Windows Credential Lockeriin.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Googlen valtuutus peruutettu.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Googlen valtuutus suoritettu. Profiilin luku- ja videolataukset ovat saatavilla.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Koodi vanhenee kohdassa {1:D2}:{2:D2}. Tarkistetaan Googlea {3} sekunnin välein.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Googlen valtuutus ei saanut yhteyttä tunnuksen päätepisteeseen. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Googlen valtuutus poistettu. Aloita Google-sisäänkirjautuminen ennen profiilin avaamista tai lataamista.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google-tili on valtuutettu profiilien lukemiseen ja videoiden lataamiseen. Kirjaudu uudelleen sisään, jos tämä tunnus on ennen profiilia.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Googlen valtuutus epäonnistui odottamatta (0x{0}). Avaa Diagnostiikka sovelluksen uudelleenkäynnistyksen jälkeen.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Sisäänrakennetun UniTube-määrityksen käyttäminen profiilille ja latauksille. Käynnistä Google-sisäänkirjautuminen ensin.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Rajoitetun syöttölaitteen OAuth-kirjautumistiedot tallennettu. Jos jompikumpi arvo muuttuu, kirjaudu uudelleen sisään ennen lataamista.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Tallennetut OAuth-kirjautumistiedot on määritetty. Aloita Google-sisäänkirjautuminen ennen profiilin avaamista tai lataamista.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Epätäydellinen tallennettu OAuth-ohitus ohitettiin. Sisäänrakennetun UniTube-määrityksen käyttäminen profiilille ja latauksille.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Hallittu OAuth-määritys on saatavilla. Aloita Google-sisäänkirjautuminen ennen profiilin avaamista tai lataamista.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Tallenna OAuth-kirjautumistiedot ja aloita sitten Google-sisäänkirjautuminen ennen profiilin avaamista tai lataamista.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Koodi: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Vahvistuskoodi vanhentunut. Uutta koodia pyydetään...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Syötä koodi kyseiseen selaimeen. Tämä puhelin odottaa Googlen valtuutusta.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Edellinen koodisi on vanhentunut. Kirjoita uusi koodi kyseiseen selaimeen.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Käy toisella puhelimella, tabletilla tai tietokoneella, jossa on nykyinen selain, osoitteessa {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Odotetaan Googlen hyväksyntää.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Lataus peruttu. Osittain ladattua jatkettavaa istuntoa ei jatkettu.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Peruutetaan latausta...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Lataus valmis. YouTube käsittelee videota.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Lataus valmis. Videotunnus: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Videon kuvauksessa saa olla enintään 5 000 merkkiä.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Valitse dataa sisältävä videotiedosto.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Valittu tiedosto päättyi ennen ilmoitettua pituutta.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Valitse videotiedosto ennen lataamista.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Valittu video on liian suuri ladattavaksi.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Lataus ei päässyt YouTubeen. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube ei palauttanut täytettyä latausvastausta.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube ei palauttanut latauspaikkaa, jota voidaan jatkaa.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Valitse yksityinen, piilotettu tai julkinen yksityisyys.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0}/{1:N0} tavua ladattu ({2:F0} %).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Valmis lataamaan {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube-lataus palautti {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} tavua)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Videovalinta peruutettiin.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Aloitetaan jatkuvaa latausta...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Lataus aikakatkaistiin. Tarkista verkkoyhteys ja yritä uudelleen.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Kirjoita otsikko ennen lataamista.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Videon nimessä saa olla enintään 100 merkkiä.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Valitse tunnistettu videotiedosto.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Ladataan videon tietoja...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Julkaistu {0} | {1:N0} näkymät | kesto {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Play in app avaa YouTuben virallisen mobiilikatselusivun.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Toisto aloitettiin, mutta sen metatietoja ei voitu tallentaa live-ruudulle.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Toisto aloitettiin, mutta Windows ei sallinut live-ruudun päivittämistä.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Toisto aloitettiin, mutta live-ruutua ei voitu päivittää.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Pyydetty video ei ole saatavilla.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Videotunnus vaaditaan.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Erityiskiitokset</value>
+  </data>
+</root>

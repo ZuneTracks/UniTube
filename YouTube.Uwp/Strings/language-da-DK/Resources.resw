@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>OFFENTLIG BROWSER</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>INDSTILLINGER</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>HJEM</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>SØGE</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORIER</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFIL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>opdage</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>De seneste populære videoer i det klassiske telefon-først-layout.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>TRENDING NU</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Indlæs populære videoer for din region</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>populære videoer</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Vælg Trending nu for at indlæse offentlige resultater.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>søge</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Find offentlige YouTube-videoer med din brugerleverede API-nøgle.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Søgeord</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Søg på YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>SØGE</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULÆR</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>OMRÅDE</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategorier</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Tryk på en kategori for at udvide dens aktuelle populære videoer. Tryk på den igen for at skjule og vælge en anden.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profil</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Kontodata er tilgængelige via din godkendte YouTube-forbindelse.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>OM</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API nøgle tilsidesættelse</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Lad stå tomt for at bruge administreret konfiguration</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ TILBAGE</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ANNULLER</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>om denne kanal</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>kanal detaljer</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>KLAR</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Personlige legitimationsoplysninger gemmes kun i Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Beskrivelse</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Valgfrit</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>beskrivelse</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Denne log registrerer appfejl og OAuth-milepæle. Legitimationsoplysninger, autorisationskoder og tokens er udelukket.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostik</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profillæser og upload bruger en Google TV og en OAuth-klient med begrænset input. Der bruges ingen omdirigerings-URI. Administrerede lokale byggeværdier forbliver skjulte; lagring af legitimationsoplysninger her tilsidesætter dem.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google konto</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Afspilning i appen bruger YouTubes officielle mobilafspilningsside. Denne app udtrækker eller downloader ikke medie-URL'er.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>kunne lide videoer</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>INDLÆS VIDEOER, DU LIKES</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>LÆS FLERE LIKEDE VIDEOER</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>LÆS FLERE PLAYLISTER</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>LÆS FLERE VIDEOER TIL AFSPILLINGSLISTE</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>LÆS FLERE ABONNEMENTER</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>LÆS FLERE UPLOADDE VIDEOER</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Tilsidesættelse af OAuth-klient-id med begrænset input-enhed</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Lad stå tomt for at bruge administreret konfiguration</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Tilsidesættelse af OAuth-klienthemmelighed med begrænset input-enhed</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Lad stå tomt for at bruge administreret konfiguration</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Gem loginoplysninger, og start derefter Google-login. Bekræftelseskoden nedenfor indtastes på en anden enhed; denne app åbner aldrig en login-formular. Log ind igen efter denne opdatering for at give profil læseadgang.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ÅBN KANAL</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ÅBN I BROWSER</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>spiller</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>SPIL I APP</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>afspilningslister</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>afspilningsliste videoer</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Privatliv</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>privat</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>En begrænset API-nøgle bruges kun til skrivebeskyttede YouTube Data API v3-kald. Administrerede lokale byggeværdier forbliver skjulte; at gemme her tilsidesætter dem.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>offentlig dataadgang</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>offentlige</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>OPDATERING</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>OPDATERE PROFIL</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Fejlsikret tilstand bruger YouTubes strenge SafeSearch-indstilling til søgninger. Den leverer ikke YouTube Kids-kataloget eller filtrerer populære, kategori- og kontofeeds.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>sikker tilstand</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Brug strengt SafeSearch til offentlige videosøgninger</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>GEM API NØGLE</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>GEM LOG</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>GEM OPLYSNINGER</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Der er ikke valgt nogen video.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>VÆLG VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>indstillinger</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>START GOOGLE LOGIN</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>LOG UD</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>START UPLOAD</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>abonnementer</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Titel</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Påkrævet</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>unoteret</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Se historie og Se senere er ikke eksponeret som læsbare v3-samlinger. UniTube efterligner eller mærker dem ikke forkert.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>ikke understøttet af YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>uploadede videoer</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>upload</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Vælg en lokal video, og upload den derefter via din autoriserede Google-konto.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>upload video</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Klar til at vælge en video.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Uploads kræver OAuth-indstillinger og et gennemført Google-login fra Indstillinger.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>UPLOAD VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>video detaljer</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>SE DIAGNOSTIK</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>SE PÅ YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0}-kategorier tilgængelige for {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Indlæser kategorier...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Indlæser {0}-videoer...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} populære {1} videoer til {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Et kanal-id er påkrævet.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Indlæser kanaloplysninger...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} abonnenter | {1:N0} videoer | {2:N0} visninger</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Den anmodede kanal er ikke tilgængelig.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>LUK</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube Data API kunne ikke nås. Tjek netværksforbindelsen.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API-anmodningen fik timeout. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>ukendt</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google-autorisation gav ikke et adgangstoken. Log ind igen.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google-kontoadgang er ikke konfigureret. Log ind før du åbner profil.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Tilføj en Google API-nøgle, før du bruger offentlige YouTube Data API v3-funktioner.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Et kanal-id er påkrævet.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Den godkendte YouTube Data API returnerede et ugyldigt svar. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API returnerede et ugyldigt svar. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Et playliste-id er påkrævet.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 returnerede {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Indtast tekst for at søge efter.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Et video-id er påkrævet.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnostisk log ryddet.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnostisk log er gemt i {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Der er ikke registreret nogen diagnostiske hændelser.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Lagring af diagnosticeringsloggen blev annulleret.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Kunne ikke gemme diagnosticeringsloggen (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Tekstfil</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Sidst spillet</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Videometadata er påkrævet for at opdatere live-flisen.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Trending nu</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Trending nu ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>En populær videotitel er påkrævet.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google-enhedsgodkendelse udløb.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google-enhedsgodkendelse blev ikke fuldført: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Google-godkendelse skal fuldføres igen før upload.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google-enhedsgodkendelse kunne ikke starte: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Indstil et OAuth-klient-id for enheden med begrænset input, før du logger ind.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Indstil OAuth-klienthemmeligheden for enheden med begrænset input, før du logger på.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google afviste OAuth-klienten for enheden med begrænset input (invalid_client). Tjek klient-id'et og klienthemmeligheden.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google afviste OAuth-legitimationsoplysningerne for enheden med begrænset input (invalid_client). Tjek klient-id'et og klienthemmeligheden.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google-enhedsgodkendelse returnerede et ugyldigt svar.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google token-slutpunkt returnerede et ugyldigt svar.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google-enhedsautorisation returnerede ikke en brugbar bekræftelseskode og webadresse.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google-tokenendepunkt returnerede ikke et adgangstoken.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Ingen Google-konto er godkendt. Start med at logge ind først.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google anmodede om langsommere afstemning.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Udløbet af det gemte OAuth-token er forkert udformet. Log ind igen.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Det gemte OAuth-token er forkert udformet. Log ind igen.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google token-opdatering mislykkedes: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google-autorisation gennemført, men Windows Credential Locker kunne ikke gemme tokenet (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Afspilleren i appen kunne ikke indlæse denne video. Åbn den i browseren i stedet for.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Indlæser den officielle YouTube-afspilningsside...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Der kræves et video-id til afspilning i appen.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} videoer</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Indlæser populære videoer...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} populære videoresultater.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} populære videoresultater. Windows tillod ikke, at live-flisen blev opdateret.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} populære videoresultater. Live-flisen viser nu topresultatet.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} populære videoresultater. Live-flisen kunne ikke opdateres.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google gav ikke denne konto adgang til profildata. Log ud, start Google-login igen, og accepter YouTubes skrivebeskyttede omfang.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} kunne lide indlæste videoer.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Anmodningen om likede videoer kunne ikke nås. Tjek netværksforbindelsen.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Anmodningen om kunne lide videoer fik timeout. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profilen er indlæst.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profilen kunne ikke indlæses under {0} (0x{1}). Åbn Diagnostik for detaljer.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Indlæser godkendt profil...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Indlæser likes videoer...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Indlæser flere likes videoer...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Indlæser flere playlistevideoer...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Indlæser flere uploadede videoer...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Indlæser afspilningslistevideoer...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} abonnenter | {1:N0} videoer | {2:N0} visninger</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google returnerede ingen kanal for den autoriserede konto.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Ingen kunne lide videoer blev returneret.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube leverede ikke en upload-playliste til denne kanal.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} afspilningslister er indlæst. Vælg en for at se dens videoer.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Anmodningen om afspilningslister kunne ikke nås. Tjek netværksforbindelsen.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Afspilningslisteanmodningen fik timeout. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} afspilningsliste videoer indlæst.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Anmodningen om playlistevideoer kunne ikke nås. Tjek netværksforbindelsen.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Anmodningen om playlistevideoer fik timeout. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Den godkendte YouTube API kunne ikke nås. Tjek netværksforbindelsen.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Timeout for den godkendte YouTube-anmodning. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Vælg Indlæs likes videoer for at anmode om din like samling.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Vælg en afspilningsliste ovenfor for at indlæse dens videoer.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanal</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>kunne lide videoer</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>afspilningslister</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>afspilningsliste videoer</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>starter</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>abonnementer</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>uploadede videoer</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} abonnementer indlæst.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Anmodningen om abonnementer kunne ikke nås. Tjek netværksforbindelsen.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Der blev timeout for abonnementsanmodningen. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Hvis denne konto blev godkendt, før profilen blev tilføjet, skal du logge ind igen for at give YouTube skrivebeskyttet omfang.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} uploadede videoer indlæst.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Anmodningen om uploadede videoer kunne ikke nås. Tjek netværksforbindelsen.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Anmodningen om uploadede videoer fik timeout. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Indlæser understøttede områder...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Understøttede områder kunne ikke indlæses. Tjek netværksforbindelsen.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Understøttede områder kunne ikke indlæses, fordi YouTube Data API-anmodningen fik timeout.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube returnerede ikke nogen understøttede regioner. Brug af USA.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>USA</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Indtast en API-nøgle, eller brug Ryd API-nøgle.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Der kræves et OAuth-klient-id for enheden med begrænset input.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>En OAuth-klienthemmelighed for enheden med begrænset input er påkrævet.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Søger...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} offentlige videoresultater.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Denne app er ikke tilknyttet Google eller YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Byg {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube er en moderne UWP-applikation til at gennemse YouTube via YouTubes offentlige API.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Udviklet af:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Brug af indbygget UniTube-konfiguration til offentlige data. At gemme her tilsidesætter det.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Ingen API-nøgle er konfigureret.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Din API-nøgle er gemt i Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google-autorisation annulleret.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google-autorisation gennemført. Profillæsning og videoupload er tilgængelige.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0}-koden udløber i {1:D2}:{2:D2}. Tjek Google hvert {3} sekund.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google-autorisation kunne ikke kontakte token-slutpunktet. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google-autorisation fjernet. Start Google-login, før du åbner profil eller uploader.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>En Google-konto er godkendt til profillæsning og videoupload. Log ind igen, hvis dette token er før profilen.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google-godkendelse mislykkedes uventet (0x{0}). Åbn Diagnostik efter genstart af appen.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Brug af indbygget UniTube-konfiguration til profil og uploads. Start Google-login først.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>OAuth-legitimationsoplysninger med begrænset input-enhed blev gemt. Hvis en af ​​værdierne ændres, skal du logge ind igen før upload.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Gemte OAuth-legitimationsoplysninger er konfigureret. Start Google-login, før du åbner profil eller uploader.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>En ufuldstændig gemt OAuth-tilsidesættelse blev ignoreret. Brug af indbygget UniTube-konfiguration til profil og uploads.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Administreret OAuth-konfiguration er tilgængelig. Start Google-login, før du åbner profil eller uploader.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Gem OAuth-legitimationsoplysninger, og start derefter Google-login, før du åbner Profil eller uploader.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kode: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Bekræftelseskoden er udløbet. Anmoder om en ny kode...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Indtast koden i den browser. Denne telefon venter på Google-godkendelse.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Din tidligere kode er udløbet. Indtast den nye kode i den browser.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Besøg: {0} på en anden telefon, tablet eller computer med en aktuel browser</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Venter på Google-godkendelse.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Upload annulleret. Den delvist uploadede genoptagelige session blev ikke fortsat.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Annullerer upload...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Upload fuldført. YouTube behandler videoen.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Upload fuldført. Video-id: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Videobeskrivelsen skal være på 5000 tegn eller derunder.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Vælg en videofil, der indeholder data.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Den valgte fil sluttede før dens rapporterede længde.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Vælg en videofil før upload.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Den valgte video er for stor til at uploade.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Uploaden kunne ikke nå YouTube. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube returnerede ikke et fuldført uploadsvar.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube returnerede ikke en genoptagelig uploadplacering.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Vælg privat, skjult eller offentligt privatliv.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} af {1:N0} bytes uploadet ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Klar til at uploade {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube-upload returnerede {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bytes)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Videovalg blev annulleret.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Starter genoptagelig upload...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Uploadet timeout. Tjek netværksforbindelsen, og prøv igen.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Indtast en titel før upload.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Videotitlen skal være på 100 tegn eller derunder.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Vælg en genkendt videofil.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Indlæser videodetaljer...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Udgivet {0} | {1:N0} visninger | varighed {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Afspil i appen åbner YouTubes officielle mobilafspilningsside.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Afspilningen startede, men dens metadata kunne ikke gemmes til live-flisen.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Afspilningen startede, men Windows tillod ikke, at live-flisen blev opdateret.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Afspilningen startede, men live-flisen kunne ikke opdateres.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Den anmodede video er ikke tilgængelig.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Et video-id er påkrævet.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Særlig tak</value>
+  </data>
+</root>

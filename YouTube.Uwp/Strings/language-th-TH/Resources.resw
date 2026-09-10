@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>เบราว์เซอร์สาธารณะ</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>การตั้งค่า</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>บ้าน</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>ค้นหา</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>หมวดหมู่</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>ประวัติโดยย่อ</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>ค้นพบ</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>วิดีโอยอดนิยมล่าสุดในรูปแบบโทรศัพท์คลาสสิกเป็นหลัก</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>กำลังมาแรงตอนนี้</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>โหลดวิดีโอยอดนิยมสำหรับภูมิภาคของคุณ</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>วิดีโอยอดนิยม</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>เลือก เทรนด์ตอนนี้ เพื่อโหลดผลลัพธ์สาธารณะ</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>ค้นหา</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>ค้นหาวิดีโอ YouTube สาธารณะด้วยคีย์ API ที่ผู้ใช้ระบุ</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>คำค้นหา</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>ค้นหา YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>ค้นหา</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>เป็นที่นิยม</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>ภูมิภาค</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>หมวดหมู่</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>แตะหมวดหมู่เพื่อขยายวิดีโอยอดนิยมในปัจจุบัน แตะอีกครั้งเพื่อยุบและเลือกอันอื่น</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>ประวัติโดยย่อ</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>ข้อมูลบัญชีมีให้ผ่านการเชื่อมต่อ YouTube ที่ได้รับการรับรองความถูกต้องของคุณ</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>เกี่ยวกับ</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>การแทนที่คีย์ Google API</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>เว้นว่างไว้เพื่อใช้การกำหนดค่าที่มีการจัดการ</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>ยูนิทูป</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ กลับ</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ยกเลิก</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>เกี่ยวกับช่องนี้</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>รายละเอียดช่อง</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>ชัดเจน</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>ข้อมูลประจำตัวส่วนบุคคลจะถูกจัดเก็บไว้ใน Windows Credential Locker เท่านั้น</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>คำอธิบาย</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>ไม่จำเป็น</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>คำอธิบาย</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>บันทึกนี้จะบันทึกข้อผิดพลาดของแอปและเหตุการณ์สำคัญ OAuth ไม่รวมข้อมูลรับรอง รหัสอนุญาต และโทเค็น</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>การวินิจฉัย</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>โปรไฟล์อ่านและอัปโหลดโดยใช้ Google TV และไคลเอ็นต์ OAuth ของอุปกรณ์อินพุตที่จำกัด ไม่มีการใช้ URI การเปลี่ยนเส้นทาง ค่าบิลด์โลคัลที่ได้รับการจัดการยังคงซ่อนอยู่ การบันทึกข้อมูลประจำตัวที่นี่จะแทนที่ข้อมูลเหล่านี้</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>บัญชี Google</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>การเล่นในแอปใช้หน้าสำหรับดูบนมือถืออย่างเป็นทางการของ YouTube แอปนี้ไม่ได้แยกหรือดาวน์โหลด URL สื่อ</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>ชอบวิดีโอ</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>โหลดวิดีโอที่ชอบ</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>โหลดวิดีโอที่ชอบมากขึ้น</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>โหลดเพลย์ลิสต์เพิ่มเติม</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>โหลดวิดีโอเพลย์ลิสต์เพิ่มเติม</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>โหลดการสมัครสมาชิกเพิ่มเติม</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>โหลดวิดีโอที่อัปโหลดเพิ่มเติม</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>แทนที่รหัสไคลเอ็นต์ OAuth ของอุปกรณ์อินพุตแบบจำกัด</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>เว้นว่างไว้เพื่อใช้การกำหนดค่าที่มีการจัดการ</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>ลบล้างข้อมูลลับไคลเอ็นต์ OAuth ของอุปกรณ์อินพุตแบบจำกัด</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>เว้นว่างไว้เพื่อใช้การกำหนดค่าที่มีการจัดการ</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>บันทึกข้อมูลรับรอง จากนั้นเริ่มลงชื่อเข้าใช้ Google รหัสยืนยันด้านล่างถูกป้อนบนอุปกรณ์อื่น แอปนี้ไม่เคยเปิดแบบฟอร์มลงชื่อเข้าใช้เลย ลงชื่อเข้าใช้อีกครั้งหลังจากการอัปเดตนี้เพื่อให้สิทธิ์การเข้าถึงการอ่านโปรไฟล์</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>เปิดช่อง</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>เปิดในเบราว์เซอร์</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>ผู้เล่น</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>เล่นในแอป</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>เพลย์ลิสต์</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>เพลย์ลิสต์วิดีโอ</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>ความเป็นส่วนตัว</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>ส่วนตัว</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>คีย์ API แบบจำกัดจะใช้สำหรับการเรียก YouTube Data API v3 แบบอ่านอย่างเดียวเท่านั้น ค่าบิลด์โลคัลที่ได้รับการจัดการยังคงซ่อนอยู่ การบันทึกที่นี่จะแทนที่พวกเขา</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>การเข้าถึงข้อมูลสาธารณะ</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>สาธารณะ</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>รีเฟรช</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>รีเฟรชโปรไฟล์</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>โหมดปลอดภัยใช้การตั้งค่าการค้นหาปลอดภัยที่เข้มงวดของ YouTube สำหรับการค้นหา ไม่มีแคตตาล็อก YouTube Kids หรือตัวกรองยอดนิยม หมวดหมู่ และฟีดบัญชี</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>เซฟโหมด</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>ใช้การค้นหาปลอดภัยที่เข้มงวดสำหรับการค้นหาวิดีโอสาธารณะ</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>บันทึกคีย์ API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>บันทึกบันทึก</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>บันทึกข้อมูลรับรอง</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>ไม่ได้เลือกวิดีโอ</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>เลือกวิดีโอ</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>การตั้งค่า</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>เริ่มการลงชื่อเข้าใช้ GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ออกจากระบบ</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>เริ่มการอัปโหลด</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>การสมัครสมาชิก</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>ชื่อเรื่อง</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>จำเป็น</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>ไม่อยู่ในรายการ</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>ประวัติการดูและดูภายหลังจะไม่ถูกเปิดเผยเป็นคอลเลกชั่น v3 ที่อ่านได้ UniTube จะไม่เลียนแบบหรือติดป้ายกำกับผิด</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>ไม่รองรับ YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>วิดีโอที่อัปโหลด</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>อัปโหลด</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>เลือกวิดีโอท้องถิ่น จากนั้นอัปโหลดผ่านบัญชี Google ที่ได้รับอนุญาตของคุณ</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>อัปโหลดวิดีโอ</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>พร้อมเลือกวิดีโอ</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>การอัปโหลดต้องมีการตั้งค่า OAuth และการลงชื่อเข้าใช้ Google จากการตั้งค่า</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>อัปโหลดวิดีโอ</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>รายละเอียดวิดีโอ</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>ดูการวินิจฉัย</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>ดูบน YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>หมวดหมู่ {0:N0} มีให้สำหรับ {1}</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>กำลังโหลดหมวดหมู่...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>กำลังโหลดวิดีโอ {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} วิดีโอ {1} ยอดนิยมสำหรับ {2}</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>จำเป็นต้องมีรหัสช่อง</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>กำลังโหลดรายละเอียดช่อง...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>สมาชิก {0:N0} | วิดีโอ {1:N0} | จำนวนการดู {2:N0}</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>ช่องที่ร้องขอไม่พร้อมใช้งาน</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ปิด</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>ไม่สามารถเข้าถึง YouTube Data API ตรวจสอบการเชื่อมต่อเครือข่าย</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>คำขอ YouTube Data API หมดเวลา ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>ไม่ทราบ</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>การอนุญาตของ Google ไม่ได้ให้โทเค็นการเข้าถึง ลงชื่อเข้าใช้อีกครั้ง</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>ไม่ได้กำหนดค่าการเข้าถึงบัญชี Google ลงชื่อเข้าใช้ก่อนเปิดโปรไฟล์</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>เพิ่มคีย์ Google API ก่อนใช้ฟีเจอร์ YouTube Data API v3 สาธารณะ</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>จำเป็นต้องมีรหัสช่อง</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>API ข้อมูล YouTube ที่ได้รับการตรวจสอบสิทธิ์ส่งคืนการตอบกลับที่ไม่ถูกต้อง ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API ส่งคืนการตอบกลับที่ไม่ถูกต้อง ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>ต้องมีรหัสเพลย์ลิสต์</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 ส่งคืน {0} ({1}) {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>ป้อนข้อความที่จะค้นหา</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>ต้องมีรหัสวิดีโอ</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>ล้างบันทึกการวินิจฉัยแล้ว</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>บันทึกการวินิจฉัยบันทึกไว้ใน {0}</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>ไม่มีการบันทึกเหตุการณ์การวินิจฉัย</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>การบันทึกบันทึกการวินิจฉัยถูกยกเลิก</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>ไม่สามารถบันทึกบันทึกการวินิจฉัย (0x{0})</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>ไฟล์ข้อความ</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>เล่นล่าสุด</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>จำเป็นต้องมีข้อมูลเมตาของวิดีโอเพื่ออัปเดตไทล์สด</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>กำลังมาแรงตอนนี้</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>กำลังมาแรงตอนนี้ ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>จำเป็นต้องมีชื่อวิดีโอที่กำลังมาแรง</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>การให้สิทธิ์อุปกรณ์ Google หมดอายุแล้ว</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>การอนุญาตอุปกรณ์ Google ไม่เสร็จสมบูรณ์: {0}</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>ต้องทำการอนุญาตจาก Google อีกครั้งก่อนที่จะอัปโหลด</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>การอนุญาตอุปกรณ์ Google ไม่สามารถเริ่มได้: {0}</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>ตั้งค่ารหัสไคลเอ็นต์ OAuth ของอุปกรณ์อินพุตแบบจำกัดก่อนลงชื่อเข้าใช้</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>ตั้งค่ารหัสลับไคลเอ็นต์ OAuth ของอุปกรณ์อินพุตแบบจำกัดก่อนลงชื่อเข้าใช้</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google ปฏิเสธไคลเอ็นต์ OAuth ของอุปกรณ์อินพุตแบบจำกัด (invalid_client) ตรวจสอบรหัสไคลเอ็นต์และความลับไคลเอ็นต์</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google ปฏิเสธข้อมูลรับรอง OAuth ของอุปกรณ์ที่จำกัดการป้อนข้อมูล (invalid_client) ตรวจสอบรหัสไคลเอ็นต์และความลับไคลเอ็นต์</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>การให้สิทธิ์อุปกรณ์ Google ส่งคืนการตอบสนองที่ไม่ถูกต้อง</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>ปลายทางโทเค็นของ Google ส่งคืนการตอบกลับที่ไม่ถูกต้อง</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>การให้สิทธิ์อุปกรณ์ Google ไม่ได้ส่งคืนรหัสยืนยันและ URL ที่ใช้งานได้</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>จุดสิ้นสุดโทเค็นของ Google ไม่ได้ส่งคืนโทเค็นการเข้าถึง</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>ไม่มีการอนุญาตบัญชี Google เริ่มลงชื่อเข้าใช้ก่อน</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google ขอให้การสำรวจช้าลง</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>การหมดอายุของโทเค็น OAuth ที่เก็บไว้มีรูปแบบไม่ถูกต้อง ลงชื่อเข้าใช้อีกครั้ง</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>โทเค็น OAuth ที่เก็บไว้มีรูปแบบไม่ถูกต้อง ลงชื่อเข้าใช้อีกครั้ง</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>การรีเฟรชโทเค็นของ Google ล้มเหลว: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>การอนุญาตของ Google เสร็จสมบูรณ์ แต่ Windows Credential Locker ไม่สามารถบันทึกโทเค็นได้ (0x{0})</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>โปรแกรมเล่นในแอปไม่สามารถโหลดวิดีโอนี้ได้ เปิดในเบราว์เซอร์แทน</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>กำลังโหลดหน้าสำหรับดู YouTube อย่างเป็นทางการ...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>ต้องมีรหัสวิดีโอสำหรับการเล่นในแอป</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>วิดีโอ {0:N0}</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>กำลังโหลดวิดีโอยอดนิยม...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} ผลลัพธ์วิดีโอยอดนิยม</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} ผลลัพธ์วิดีโอยอดนิยม Windows ไม่อนุญาตให้อัพเดตไทล์สด</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} ผลลัพธ์วิดีโอยอดนิยม ตอนนี้ไทล์สดจะแสดงผลลัพธ์ด้านบนสุด</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} ผลลัพธ์วิดีโอยอดนิยม ไม่สามารถอัปเดตไทล์สดได้</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google ไม่อนุญาตให้บัญชีนี้เข้าถึงข้อมูลโปรไฟล์ ออกจากระบบ เริ่มลงชื่อเข้าใช้ Google อีกครั้ง และยอมรับขอบเขตแบบอ่านอย่างเดียวของ YouTube</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ชอบวิดีโอที่โหลดแล้ว</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>ไม่สามารถเข้าถึงคำขอวิดีโอที่ชอบได้ ตรวจสอบการเชื่อมต่อเครือข่าย</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>คำขอวิดีโอที่ชอบหมดเวลา ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>โหลดโปรไฟล์แล้ว</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>ไม่สามารถโหลดโปรไฟล์ระหว่าง {0} (0x{1}) เปิดการวินิจฉัยเพื่อดูรายละเอียด</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>กำลังโหลดโปรไฟล์ที่ได้รับการรับรองความถูกต้อง...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>กำลังโหลดวิดีโอที่ชอบ...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>กำลังโหลดวิดีโอที่ชอบเพิ่มเติม...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>กำลังโหลดวิดีโอเพลย์ลิสต์เพิ่มเติม...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>กำลังโหลดวิดีโอที่อัปโหลดเพิ่มเติม...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>กำลังโหลดวิดีโอเพลย์ลิสต์...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>สมาชิก {0:N0} | วิดีโอ {1:N0} | จำนวนการดู {2:N0}</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google ไม่ส่งคืนช่องทางสำหรับบัญชีที่ได้รับอนุญาต</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>ไม่มีการส่งคืนวิดีโอที่ชอบ</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube ไม่ได้จัดเตรียมเพลย์ลิสต์สำหรับการอัปโหลดสำหรับช่องนี้</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>โหลดเพลย์ลิสต์ {0:N0} แล้ว เลือกหนึ่งรายการเพื่อดูวิดีโอ</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>ไม่สามารถเข้าถึงคำขอเพลย์ลิสต์ได้ ตรวจสอบการเชื่อมต่อเครือข่าย</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>คำขอเพลย์ลิสต์หมดเวลา ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>โหลดวิดีโอเพลย์ลิสต์ {0:N0} แล้ว</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>ไม่สามารถเข้าถึงคำขอเพลย์ลิสต์วิดีโอได้ ตรวจสอบการเชื่อมต่อเครือข่าย</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>คำขอวิดีโอเพลย์ลิสต์หมดเวลา ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>ไม่สามารถเข้าถึง YouTube API ที่ผ่านการตรวจสอบสิทธิ์แล้ว ตรวจสอบการเชื่อมต่อเครือข่าย</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>คำขอ YouTube ที่ได้รับการตรวจสอบสิทธิ์หมดเวลา ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>เลือกโหลดวิดีโอที่ชอบเพื่อขอคอลเลกชันที่คุณชอบ</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>เลือกเพลย์ลิสต์ด้านบนเพื่อโหลดวิดีโอ</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>ช่อง</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>ชอบวิดีโอ</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>เพลย์ลิสต์</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>เพลย์ลิสต์วิดีโอ</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>เริ่มต้น</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>การสมัครสมาชิก</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>วิดีโอที่อัปโหลด</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>โหลดการสมัครสมาชิก {0:N0} แล้ว</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>ไม่สามารถเข้าถึงคำขอสมัครสมาชิกได้ ตรวจสอบการเชื่อมต่อเครือข่าย</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>คำขอสมัครสมาชิกหมดเวลา ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} หากบัญชีนี้ได้รับการอนุมัติก่อนที่จะเพิ่มโปรไฟล์ ให้ลงชื่อเข้าใช้อีกครั้งเพื่อให้สิทธิ์ขอบเขตอ่านอย่างเดียวของ YouTube</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} โหลดวิดีโอที่อัปโหลดแล้ว</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>ไม่สามารถเข้าถึงคำขอวิดีโอที่อัปโหลดได้ ตรวจสอบการเชื่อมต่อเครือข่าย</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>คำขอวิดีโอที่อัปโหลดหมดเวลา ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>กำลังโหลดภูมิภาคที่รองรับ...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>ไม่สามารถโหลดภูมิภาคที่รองรับได้ ตรวจสอบการเชื่อมต่อเครือข่าย</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>ภูมิภาคที่รองรับไม่สามารถโหลดได้เนื่องจากคำขอ YouTube Data API หมดเวลา</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube ไม่ได้ส่งคืนภูมิภาคที่รองรับ โดยใช้ประเทศสหรัฐอเมริกา</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>สหรัฐอเมริกา</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>ป้อนคีย์ API หรือใช้คีย์ Clear API</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>ต้องมีรหัสไคลเอ็นต์ OAuth ของอุปกรณ์อินพุตแบบจำกัด</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>ต้องมีรหัสลับไคลเอ็นต์ OAuth ของอุปกรณ์อินพุตแบบจำกัด</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>กำลังค้นหา...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} ผลลัพธ์วิดีโอสาธารณะ</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>แอปนี้ไม่มีส่วนเกี่ยวข้องกับ Google หรือ YouTube</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>สร้าง {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube เป็นแอปพลิเคชัน UWP ที่ทันสมัยสำหรับการเรียกดู YouTube ผ่าน API สาธารณะของ YouTube</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>พัฒนาโดย:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>การใช้การกำหนดค่า UniTube ในตัวสำหรับข้อมูลสาธารณะ การบันทึกที่นี่จะแทนที่มัน</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>ไม่มีการกำหนดค่าคีย์ API</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>รหัส API ของคุณถูกจัดเก็บไว้ใน Windows Credential Locker</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>การอนุญาตของ Google ถูกยกเลิก</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>การอนุญาตของ Google เสร็จสมบูรณ์ มีการอ่านโปรไฟล์และการอัปโหลดวิดีโอ</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>รหัส {0} จะหมดอายุใน {1:D2}:{2:D2} ตรวจสอบ Google ทุก ๆ {3} วินาที</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>การให้สิทธิ์ของ Google ไม่สามารถติดต่อปลายทางโทเค็นได้ ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>การอนุญาตของ Google ถูกลบออก เริ่มการลงชื่อเข้าใช้ Google ก่อนที่จะเปิดโปรไฟล์หรืออัปโหลด</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>บัญชี Google ได้รับอนุญาตให้อ่านโปรไฟล์และอัปโหลดวิดีโอ ลงชื่อเข้าใช้อีกครั้งหากโทเค็นนี้เกิดขึ้นก่อนโปรไฟล์</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>การอนุญาตของ Google ล้มเหลวโดยไม่คาดคิด (0x{0}) เปิดการวินิจฉัยหลังจากรีสตาร์ทแอป</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>การใช้การกำหนดค่า UniTube ในตัวสำหรับโปรไฟล์และการอัปโหลด เริ่มการลงชื่อเข้าใช้ Google ก่อน</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>บันทึกข้อมูลรับรอง OAuth ของอุปกรณ์อินพุตแบบจำกัดแล้ว หากค่าใดค่าหนึ่งเปลี่ยนแปลง ให้ลงชื่อเข้าใช้อีกครั้งก่อนอัปโหลด</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>มีการกำหนดค่าข้อมูลรับรอง OAuth ที่บันทึกไว้แล้ว เริ่มการลงชื่อเข้าใช้ Google ก่อนที่จะเปิดโปรไฟล์หรืออัปโหลด</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>การแทนที่ OAuth ที่บันทึกไว้ที่ไม่สมบูรณ์ถูกละเว้น การใช้การกำหนดค่า UniTube ในตัวสำหรับโปรไฟล์และการอัปโหลด</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>การกำหนดค่า OAuth ที่มีการจัดการพร้อมใช้งาน เริ่มการลงชื่อเข้าใช้ Google ก่อนที่จะเปิดโปรไฟล์หรืออัปโหลด</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>บันทึกข้อมูลรับรอง OAuth จากนั้นเริ่มลงชื่อเข้าใช้ Google ก่อนที่จะเปิดโปรไฟล์หรืออัปโหลด</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>รหัส: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>รหัสยืนยันหมดอายุ การขอรหัสใหม่...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>ป้อนรหัสในเบราว์เซอร์นั้น โทรศัพท์เครื่องนี้จะรอการอนุญาตจาก Google</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>รหัสก่อนหน้าของคุณหมดอายุแล้ว ป้อนรหัสใหม่ในเบราว์เซอร์นั้น</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>บนโทรศัพท์ แท็บเล็ต หรือคอมพิวเตอร์เครื่องอื่นที่มีเบราว์เซอร์ปัจจุบัน โปรดไปที่: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>กำลังรอการอนุมัติจาก Google</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>ยกเลิกการอัปโหลดแล้ว เซสชันดำเนินการต่อที่อัปโหลดบางส่วนไม่ได้ดำเนินต่อไป</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>กำลังยกเลิกการอัปโหลด...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>การอัปโหลดเสร็จสมบูรณ์ YouTube กำลังประมวลผลวิดีโอ</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>การอัปโหลดเสร็จสมบูรณ์ รหัสวิดีโอ: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>คำอธิบายวิดีโอต้องมีอักขระไม่เกิน 5,000 ตัว</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>เลือกไฟล์วิดีโอที่มีข้อมูล</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>ไฟล์ที่เลือกสิ้นสุดลงก่อนความยาวที่รายงาน</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>เลือกไฟล์วิดีโอก่อนอัปโหลด</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>วิดีโอที่เลือกมีขนาดใหญ่เกินกว่าจะอัปโหลดได้</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>การอัปโหลดไม่สามารถเข้าถึง YouTube ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube ไม่ตอบกลับการอัปโหลดที่เสร็จสมบูรณ์</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube ไม่ได้ส่งคืนตำแหน่งการอัปโหลดที่ดำเนินการต่อได้</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>เลือกความเป็นส่วนตัว ไม่อยู่ในรายการ หรือความเป็นส่วนตัวสาธารณะ</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} จำนวนไบต์ {1:N0} ที่อัปโหลด ({2:F0}%)</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>พร้อมอัพโหลด {0}</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>การอัปโหลดบน YouTube ส่งคืน {0} ({1}) {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} ไบต์)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>การเลือกวิดีโอถูกยกเลิก</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>กำลังเริ่มการอัปโหลดต่อ...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>การอัปโหลดหมดเวลา ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>ป้อนชื่อก่อนที่จะอัปโหลด</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>ชื่อวิดีโอต้องมีอักขระไม่เกิน 100 ตัว</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>เลือกไฟล์วิดีโอที่รู้จัก</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>กำลังโหลดรายละเอียดวิดีโอ...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>เผยแพร่แล้ว {0} | {1:N0} มุมมอง | ระยะเวลา {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>เล่นในแอปจะเปิดหน้าสำหรับดูบนมือถืออย่างเป็นทางการของ YouTube</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>เริ่มเล่นแล้ว แต่ไม่สามารถบันทึกข้อมูลเมตาสำหรับไทล์สดได้</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>เริ่มเล่นแล้ว แต่ Windows ไม่อนุญาตให้อัปเดตไทล์สด</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>เริ่มเล่นแล้ว แต่ไม่สามารถอัปเดตไทล์สดได้</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>วิดีโอที่ร้องขอไม่พร้อมใช้งาน</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>ต้องมีรหัสวิดีโอ</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>ขอขอบคุณเป็นพิเศษ</value>
+  </data>
+</root>

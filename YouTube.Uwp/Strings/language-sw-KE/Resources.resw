@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>KIvinjari CHA UMMA</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>MIPANGILIO</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>NYUMBANI</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>TAFUTA</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KAtegoria</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>WASIFU</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>gundua</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Video za hivi punde maarufu, katika mpangilio wa kwanza wa simu.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>INAYOTENDELEA SASA</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Pakia video maarufu kwa eneo lako</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>video maarufu</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Chagua Zinazovuma Sasa ili kupakia matokeo ya umma.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>tafuta</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Pata video za umma za YouTube kwa ufunguo wako wa API unaotolewa na mtumiaji.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Maneno ya utafutaji</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Tafuta YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>TAFUTA</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>MAARUFU</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>MKOA</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategoria</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Gusa kitengo ili kupanua video zake maarufu za sasa. Iguse tena ili ukunje na uchague nyingine.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>wasifu</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Data ya akaunti inapatikana kupitia muunganisho wako wa YouTube uliothibitishwa.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>KUHUSU</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Kubatilisha ufunguo wa API ya Google</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Acha wazi ili kutumia usanidi unaodhibitiwa</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNTUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ NYUMA</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>GHAIRI</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>kuhusu kituo hiki</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>maelezo ya kituo</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>WAZI</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Kitambulisho cha kibinafsi huhifadhiwa tu kwenye Locker ya Kitambulisho cha Windows.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Maelezo</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Hiari</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>maelezo</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Kumbukumbu hii hurekodi makosa ya programu na hatua muhimu za OAuth. Vitambulisho, misimbo ya uidhinishaji na tokeni hazijajumuishwa.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>uchunguzi</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Wasifu unasoma na kupakiwa tumia Google TV na mteja wa OAuth wa kifaa chenye pembejeo chache. Hakuna URI ya kuelekeza kwingine inatumika. Thamani za ujenzi wa ndani zinazodhibitiwa bado zimefichwa; kuhifadhi kitambulisho hapa kunazibatilisha.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>akaunti ya google</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Uchezaji wa ndani ya programu hutumia ukurasa rasmi wa kutazama wa YouTube wa simu ya mkononi. Programu hii haitoi au kupakua URL za midia.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>alipenda video</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>PAKIA VIDEO ZILIZOPENDWA</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>PAKIA VIDEO ZILIZOPENDWA ZAIDI</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>PAKIA ORODHA ZA KUCHEZA ZAIDI</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>PAKIA VIDEO ZA ORODHA YA KUCHEZWA</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>PAKIA USAILI ZAIDI</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>PAKIA VIDEO ZAIDI ZILIZOPAKIWA</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Ubatilishaji wa kitambulisho cha mteja cha OAuth cha kifaa chenye pembejeo chache</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Acha wazi ili kutumia usanidi unaodhibitiwa</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Ubatilishaji wa siri wa mteja wa kifaa cha kuingiza data cha OAuth</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Acha wazi ili kutumia usanidi unaodhibitiwa</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Hifadhi kitambulisho, kisha uanze kuingia kwenye Google. Nambari ya kuthibitisha iliyo hapa chini imeingizwa kwenye kifaa kingine; programu hii haifungui kamwe fomu ya kuingia. Ingia tena baada ya sasisho hili ili kutoa ufikiaji wa kusoma wasifu.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>FUNGUA KITUO</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>FUNGUA KATIKA KIvinjari</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>mchezaji</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>CHEZA KATIKA APP</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>orodha za kucheza</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>video za orodha ya kucheza</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Faragha</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>faragha</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Kitufe cha API kilichowekewa vikwazo kinatumika kwa simu za kusoma tu za API ya Data ya YouTube v3. Thamani za ujenzi wa ndani zinazodhibitiwa bado zimefichwa; kuokoa hapa kunazibatilisha.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>ufikiaji wa data ya umma</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>umma</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>UPYA</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>UPYA WASIFU</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Hali salama hutumia mipangilio madhubuti ya Utafutaji-Salama wa YouTube kwa utafutaji. Haitoi katalogi ya YouTube Kids au kichujio maarufu, kategoria na milisho ya akaunti.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>hali salama</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Tumia SafeSearch kali kwa utafutaji wa video za umma</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>HIFADHI UFUNGUO WA API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>HIFADHI LOG</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>HIFADHI VITAMBULISHO</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Hakuna video iliyochaguliwa.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>CHAGUA VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>mipangilio</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ANZA KUINGIA KWENYE GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ONDOKA</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ANZA KUPAKIA</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>usajili</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Kichwa</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Inahitajika</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>haijaorodheshwa</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Historia ya Ulichotazama na Tazama Baadaye hazionyeshwa kama mikusanyiko inayoweza kusomeka ya v3. UniTube haiziigi au kuziweka vibaya.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>haitumiki na YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>video zilizopakiwa</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>pakia</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Chagua video ya ndani, kisha uipakie kupitia akaunti yako ya Google iliyoidhinishwa.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>pakia video</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Tayari kuchagua video.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Upakiaji unahitaji mipangilio ya OAuth na kuingia kwenye Google kukamilika kutoka kwa Mipangilio.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>PAKIA VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>maelezo ya video</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>TAZAMA UCHUNGUZI</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>TAZAMA KWENYE YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>Aina za {0:N0} zinapatikana kwa {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Inapakia kategoria...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Inapakia video za {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>Video za {0:N0} maarufu za {1} za {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Kitambulisho cha kituo kinahitajika.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Inapakia maelezo ya kituo...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>Wasajili wa {0:N0} | video za {1:N0} | Maoni ya {2:N0}</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Kituo kilichoombwa hakipatikani.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>FUNGA</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>API ya Data ya YouTube haikuweza kufikiwa. Angalia muunganisho wa mtandao.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Muda wa ombi la API ya Data ya YouTube umekwisha. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>haijulikani</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Uidhinishaji wa Google haukutoa tokeni ya ufikiaji. Ingia tena.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Ufikiaji wa akaunti ya Google haujasanidiwa. Ingia kabla ya kufungua Wasifu.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Ongeza kitufe cha API ya Google kabla ya kutumia vipengele vya v3 vya API ya Data ya YouTube.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Kitambulisho cha kituo kinahitajika.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>API ya Data ya YouTube iliyothibitishwa ilileta jibu lisilo sahihi. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>API ya Data ya YouTube ilileta jibu lisilo sahihi. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Kitambulisho cha orodha ya kucheza kinahitajika.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 imerejeshwa {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Weka maandishi ili kutafuta.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Kitambulisho cha video kinahitajika.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Kumbukumbu ya uchunguzi imefutwa.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Kumbukumbu ya uchunguzi imehifadhiwa kwa {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Hakuna matukio ya uchunguzi ambayo yamerekodiwa.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Kuhifadhi kumbukumbu ya uchunguzi kumeghairiwa.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Haikuweza kuhifadhi kumbukumbu ya uchunguzi (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Faili ya maandishi</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Ilichezwa mara ya mwisho</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Metadata ya video inahitajika ili kusasisha kigae cha moja kwa moja.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Zinazovuma sasa</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Inavuma sasa ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Kichwa cha video inayovuma kinahitajika.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Muda wa idhini ya kifaa cha Google umekwisha.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Uidhinishaji wa kifaa cha Google haujakamilika: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Uidhinishaji wa Google unahitaji kukamilishwa tena kabla ya kupakia.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Uidhinishaji wa kifaa cha Google haukuweza kuanza: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Weka kitambulisho cha mteja cha kifaa cha kuingiza data chache cha OAuth kabla ya kuingia.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Weka siri ya mteja wa kifaa cha kuingiza data chache cha OAuth kabla ya kuingia.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google ilikataa kiteja cha OAuth cha kifaa cha kuingiza data chache (invalid_client). Angalia kitambulisho cha mteja na siri ya mteja.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google ilikataa hati tambulishi za OAuth za kifaa chenye uwezo mdogo wa kuingiza data (mteja_batili). Angalia kitambulisho cha mteja na siri ya mteja.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Uidhinishaji wa kifaa cha Google ulileta jibu lisilo sahihi.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Tokeni ya mwisho ya Google ilileta jibu lisilo sahihi.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Uidhinishaji wa kifaa cha Google haukurejesha nambari ya kuthibitisha na URL inayoweza kutumika.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Tokeni ya tokeni ya Google haikurejesha tokeni ya ufikiaji.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Hakuna akaunti ya Google iliyoidhinishwa. Anza kuingia kwanza.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google iliomba upigaji kura wa polepole.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Muda wa mwisho wa tokeni ya OAuth iliyohifadhiwa haujaundwa vizuri. Ingia tena.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Tokeni ya OAuth iliyohifadhiwa ina hitilafu. Ingia tena.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Imeshindwa kuonyesha upya tokeni ya Google: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Uidhinishaji wa Google umekamilika, lakini Windows Credential Locker haikuweza kuhifadhi tokeni (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Kichezaji cha ndani ya programu hakikuweza kupakia video hii. Fungua kwenye kivinjari badala yake.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Inapakia ukurasa rasmi wa kutazama wa YouTube...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Kitambulisho cha video kinahitajika kwa uchezaji wa ndani ya programu.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>Video za {0:N0}</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Inapakia video maarufu...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>Matokeo maarufu ya video ya {0:N0}.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>Matokeo maarufu ya video ya {0:N0}. Windows haikuruhusu kigae cha moja kwa moja kusasisha.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>Matokeo maarufu ya video ya {0:N0}. Kigae cha moja kwa moja sasa kinaonyesha matokeo ya juu.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>Matokeo maarufu ya video ya {0:N0}. Kigae cha moja kwa moja hakikuweza kusasishwa.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google haikuipa akaunti hii ufikiaji wa data ya wasifu. Ondoka, anza tena kuingia kwa Google, na ukubali upeo wa kusoma pekee wa YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ilipenda video zilizopakiwa.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Ombi la video ulizopenda halikufikiwa. Angalia muunganisho wa mtandao.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Muda wa ombi la video ulizopenda umekwisha. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Wasifu umepakiwa.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Wasifu haukuweza kupakia wakati wa {0} (0x{1}). Fungua Uchunguzi kwa maelezo.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Inapakia wasifu ulioidhinishwa...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Inapakia video zilizopendwa...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Inapakia video zaidi zinazopendwa...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Inapakia video zaidi za orodha ya kucheza...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Inapakia video zaidi zilizopakiwa...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Inapakia video za orodha ya kucheza...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>Wasajili wa {0:N0} | video za {1:N0} | Maoni ya {2:N0}</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google haikurejesha kituo kwa akaunti iliyoidhinishwa.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Hakuna video zilizopendwa zilizorejeshwa.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube haikutoa orodha ya kucheza ya vipakiwa kwa kituo hiki.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>Orodha za kucheza za {0:N0} zimepakiwa. Chagua moja ili kutazama video zake.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Ombi la orodha za kucheza halikuweza kufikiwa. Angalia muunganisho wa mtandao.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Muda wa ombi la orodha za kucheza umekwisha. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>Video za orodha ya kucheza za {0:N0} zimepakiwa.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Ombi la video za orodha ya kucheza halikuweza kufikiwa. Angalia muunganisho wa mtandao.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Muda wa ombi la video za orodha ya kucheza umekwisha. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>API ya YouTube iliyothibitishwa haikuweza kufikiwa. Angalia muunganisho wa mtandao.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Muda wa ombi la YouTube lililothibitishwa umekwisha. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Chagua Pakia video ulizopenda ili kuomba mkusanyiko uliopenda.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Chagua orodha ya kucheza hapo juu ili kupakia video zake.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kituo</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>alipenda video</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>orodha za kucheza</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>video za orodha ya kucheza</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>kuanzia</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>usajili</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>video zilizopakiwa</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>Usajili wa {0:N0} umepakiwa.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Ombi la usajili halikufikiwa. Angalia muunganisho wa mtandao.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Muda wa ombi la usajili umekwisha. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Ikiwa akaunti hii iliidhinishwa kabla ya Wasifu kuongezwa, ingia tena ili kutoa upeo wa kusoma pekee wa YouTube.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>Video zilizopakiwa za {0:N0} zimepakiwa.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Ombi la video zilizopakiwa halikuweza kufikiwa. Angalia muunganisho wa mtandao.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Muda wa ombi la video zilizopakiwa umekwisha. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Inapakia maeneo yanayotumika...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Mikoa inayotumika haikuweza kupakia. Angalia muunganisho wa mtandao.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Maeneo yanayotumika haikuweza kupakiwa kwa sababu muda wa ombi la API ya Data ya YouTube umekwisha.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube haikurejesha maeneo yoyote yanayotumika. Kwa kutumia Marekani.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Marekani</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Ingiza ufunguo wa API au utumie kitufe cha Futa API.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Kitambulisho cha mteja cha OAuth cha kifaa cha kuingiza data chache kinahitajika.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Siri ya mteja wa OAuth ya kifaa cha kuingiza data chache inahitajika.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Inatafuta...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>Matokeo ya video ya umma ya {0:N0}.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Programu hii haihusiani na Google au YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Jenga {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube ni programu ya kisasa ya UWP ya kuvinjari YouTube kupitia API ya umma ya YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Imetengenezwa na:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UWP ya UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Kwa kutumia usanidi wa UniTube uliojengewa ndani kwa data ya umma. Kuhifadhi hapa kunabatilisha.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Hakuna ufunguo wa API uliosanidiwa.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Ufunguo wako wa API umehifadhiwa kwenye Kifunga Kitambulisho cha Windows.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Uidhinishaji wa Google umeghairiwa.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Uidhinishaji wa Google umekamilika. Usomaji wa wasifu na upakiaji wa video unapatikana.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>Muda wa Msimbo wa {0} unaisha baada ya {1:D2}:{2:D2}. Kuangalia Google kila sekunde {3}.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Uidhinishaji wa Google haukuweza kuwasiliana na mwisho wa tokeni. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Uidhinishaji wa Google umeondolewa. Anzisha kuingia kwa Google kabla ya kufungua Wasifu au kupakia.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Akaunti ya Google imeidhinishwa kwa usomaji wa wasifu na upakiaji wa video. Ingia tena ikiwa tokeni hii inatanguliza Wasifu.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Uidhinishaji wa Google umeshindwa bila kutarajiwa (0x{0}). Fungua Uchunguzi baada ya kuanzisha upya programu.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Kwa kutumia usanidi wa UniTube uliojengewa ndani kwa Wasifu na upakiaji. Anzisha kuingia kwa Google kwanza.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Kitambulisho cha OAuth cha kifaa cha kuingiza data chache kimehifadhiwa. Ikiwa thamani yoyote itabadilika, ingia tena kabla ya kupakia.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Vitambulisho vya OAuth vilivyohifadhiwa vimesanidiwa. Anzisha kuingia kwa Google kabla ya kufungua Wasifu au kupakia.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Ubatilishaji wa OAuth ambao haujakamilika ulipuuzwa. Kwa kutumia usanidi wa UniTube uliojengewa ndani kwa Wasifu na upakiaji.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Usanidi wa OAuth unaosimamiwa unapatikana. Anzisha kuingia kwa Google kabla ya kufungua Wasifu au kupakia.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Hifadhi kitambulisho cha OAuth, kisha uanzishe kuingia kwa Google kabla ya kufungua Wasifu au kupakia.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kodi: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Muda wa kutumia nambari ya kuthibitisha umekwisha. Inaomba nambari mpya...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Ingiza msimbo katika kivinjari hicho. Simu hii itasubiri uidhinishaji wa Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Muda wa kutumia nambari yako ya kuthibitisha ulikwisha. Ingiza msimbo mpya katika kivinjari hicho.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Kwenye simu, kompyuta kibao au kompyuta nyingine iliyo na kivinjari cha sasa, tembelea: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Inasubiri idhini ya Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Upakiaji umeghairiwa. Kipindi ambacho kinaweza kupakiwa kwa kiasi fulani hakikuendelezwa.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Inaghairi upakiaji...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Upakiaji umekamilika. YouTube inachakata video.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Upakiaji umekamilika. Kitambulisho cha Video: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Maelezo ya video lazima yawe na vibambo 5000 au pungufu.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Chagua faili ya video ambayo ina data.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Faili iliyochaguliwa iliisha kabla ya urefu wake ulioripotiwa.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Chagua faili ya video kabla ya kupakia.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Video iliyochaguliwa ni kubwa sana kupakia.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Upakiaji haukuweza kufikia YouTube. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube haikurejesha jibu lililokamilishwa la upakiaji.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube haikurejesha eneo linaloweza kuendelea kupakiwa.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Chagua faragha, isiyoorodheshwa, au faragha ya umma.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} ya baiti {1:N0} imepakiwa ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Tayari kupakia {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>Upakiaji wa YouTube umerejeshwa {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} (baiti {1:N0})</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Uteuzi wa video umeghairiwa.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Inaanza kupakia upya...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Muda wa kupakia umeisha. Angalia muunganisho wa mtandao na ujaribu tena.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Weka kichwa kabla ya kupakia.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Kichwa cha video lazima kiwe na herufi 100 au chache zaidi.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Chagua faili ya video inayotambuliwa.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Inapakia maelezo ya video...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Imechapishwa {0} | Mionekano ya {1:N0} | muda {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Cheza katika programu hufungua ukurasa rasmi wa kutazama wa simu ya mkononi wa YouTube.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Uchezaji umeanza, lakini metadata yake haikuweza kuhifadhiwa kwa kigae cha moja kwa moja.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Uchezaji ulianza, lakini Windows haikuruhusu kigae cha moja kwa moja kusasisha.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Uchezaji umeanza, lakini kigae cha moja kwa moja hakikuweza kusasishwa.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Video iliyoombwa haipatikani.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Kitambulisho cha video kinahitajika.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Shukrani za pekee</value>
+  </data>
+</root>

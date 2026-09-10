@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>AVALIK BRUSER</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>SEADED</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>KODU</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>OTSI</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGOORIAD</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFIIL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>avastada</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Uusimad populaarsed videod klassikalises paigutuses – telefon esimene.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>PRAEGU TRENDID</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Laadige oma piirkonna populaarseid videoid</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>populaarsed videod</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Avalike tulemuste laadimiseks valige Kohe populaarsust koguv.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>otsida</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Otsige üles avalikke YouTube'i videoid oma kasutaja antud API-võtmega.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Otsinguterminid</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Otsige YouTube'ist</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>OTSI</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULAARNE</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>PIIRKOND</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategooriad</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Puudutage kategooriat, et laiendada selle praegusi populaarseid videoid. Puudutage seda uuesti ahendamiseks ja teise valimiseks.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profiil</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Kontoandmed on saadaval teie autentitud YouTube'i ühenduse kaudu.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>KOHTA</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API võtme alistamine</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Hallatud konfiguratsiooni kasutamiseks jätke väli tühjaks</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ TAGASI</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>TÜHISTA</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>selle kanali kohta</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>kanali üksikasjad</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>SELGE</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Isiklikud mandaadid salvestatakse ainult Windowsi mandaatide salves.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Kirjeldus</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Valikuline</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>kirjeldus</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>See logi salvestab rakenduse vead ja OAuthi verstapostid. Mandaadid, autoriseerimiskoodid ja märgid on välistatud.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostika</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profiili lugemiseks ja üleslaadimiseks kasutatakse Google'i telerite ja piiratud sisendiga seadme OAuthi klienti. Ümbersuunamise URI-d ei kasutata. Hallatud kohaliku ehituse väärtused jäävad peidetuks; mandaatide salvestamine siin alistab need.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>Google'i konto</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Rakendusesisene taasesitus kasutab YouTube'i ametlikku mobiilivaatamislehte. See rakendus ei ekstrakti ega laadi alla meediumi URL-e.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>meeldisid videod</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>LAADI MEELDIB VIDEOD</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>LAADI ROHKEM MEELDISID VIDEOID</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>LAADI ROHKEM ESITUSLOETELU</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>Laadige ROHKEM ESITUSLOENDI VIDEOID</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>LAADI ROHKEM TELLIMUSI</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>LAADI ROHKEM ÜLESLAATUD VIDEOD</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Piiratud sisendiga seadme OAuthi kliendi ID alistamine</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Hallatud konfiguratsiooni kasutamiseks jätke väli tühjaks</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Piiratud sisendiga seadme OAuthi kliendi salajase alistamine</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Hallatud konfiguratsiooni kasutamiseks jätke väli tühjaks</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Salvestage mandaadid, seejärel käivitage Google'i sisselogimine. Allolev kinnituskood sisestatakse teises seadmes; see rakendus ei ava kunagi sisselogimisvormi. Profiili lugemisõiguse andmiseks logige pärast seda värskendust uuesti sisse.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>AVA KANAL</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>AVA BRUSSERIS</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>mängija</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>MÄNGI RAKENDUSES</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>esitusloendeid</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>esitusloendi videod</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Privaatsus</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>privaatne</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Piiratud API-võtit kasutatakse ainult kirjutuskaitstud YouTube Data API v3 kõnede jaoks. Hallatud kohaliku ehituse väärtused jäävad peidetuks; siin salvestamine alistab need.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>juurdepääs avalikele andmetele</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>avalik</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>VÄRSKENDAMINE</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>VÄRSKENDA PROFIILI</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Turvarežiim kasutab otsingute jaoks YouTube'i ranget SafeSearchi seadet. See ei paku YouTube Kidsi kataloogi ega filtreeri populaarseid, kategooria- ega kontovooge.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>turvarežiim</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Kasutage avalike videootsingute jaoks ranget SafeSearchi</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>SALVESTA API VÕTI</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>SALVESTA LOGI</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>SALVESTA MANDAAT</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Ühtegi videot pole valitud.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>VALI VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>seaded</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ALUSTAGE GOOGLE'I SISSElogimist</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>LOGI VÄLJA</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ALUSTA ÜLESLAADIMIST</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>tellimused</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Pealkiri</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Nõutav</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>noteerimata</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Vaatamiste ajalugu ja Vaata hiljem ei avaldata loetavate v3 kogudena. UniTube ei jäljenda ega märgista neid valesti.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>YouTube Data API v3 ei toeta</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>üles laaditud videod</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>üles laadida</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Valige kohalik video ja laadige see üles oma volitatud Google'i konto kaudu.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>video üles laadida</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Valmis video valima.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Üleslaadimiseks on vaja OAuthi seadeid ja Google'i sisselogimist jaotises Seaded.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>LAADI ÜLES VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>video üksikasjad</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>VAATA DIAGNOSTIKAT</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>VAATA YOUTUBE'IS</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} kategooriad on saadaval {1} jaoks.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Kategooriate laadimine...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} videote laadimine...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} populaarsed {1} videod {2} jaoks.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Kanali ID on nõutav.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Kanali üksikasjade laadimine...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} tellijad | {1:N0} videod | {2:N0} vaated</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Taotletud kanal pole saadaval.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>SULGE</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube'i andmete API-ga ei õnnestunud ühendust saada. Kontrollige võrguühendust.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API päring aegus. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>teadmata</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google'i volitus ei andnud juurdepääsuluba. Logige uuesti sisse.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google'i konto juurdepääs pole konfigureeritud. Enne profiili avamist logige sisse.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Enne avalike YouTube Data API v3 funktsioonide kasutamist lisage Google API võti.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Kanali ID on nõutav.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Autentitud YouTube Data API andis kehtetu vastuse. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube'i andmete API andis vale vastuse. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Esitusloendi ID on nõutav.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 tagastas {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Sisesta otsimiseks tekst.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Vaja on video ID-d.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnostikalogi kustutati.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnostikalogi salvestati {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Diagnostilisi sündmusi pole registreeritud.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Diagnostikalogi salvestamine tühistati.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Diagnostikalogi (0x{0}) ei saanud salvestada.</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Tekstifail</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Viimati mängitud</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Reaalajas paani värskendamiseks on vaja video metaandmeid.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Hetkel trendikas</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Hetkel populaarsust koguv ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Populaarsust koguv video pealkiri on nõutav.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google'i seadme autoriseerimine aegus.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google'i seadme autoriseerimist ei lõpetatud: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Enne üleslaadimist tuleb Google'i autoriseerimine uuesti lõpule viia.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google'i seadme autoriseerimist ei saanud käivitada: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Enne sisselogimist määrake piiratud sisendiga seadme OAuthi kliendi ID.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Enne sisselogimist määrake piiratud sisendiga seadme OAuthi kliendi saladus.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google lükkas tagasi piiratud sisendiga seadme OAuthi kliendi (invalid_client). Kontrollige kliendi ID-d ja kliendi saladust.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google lükkas tagasi piiratud sisendiga seadme OAuthi volikirjad (invalid_client). Kontrollige kliendi ID-d ja kliendi saladust.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google'i seadme autoriseerimine andis kehtetu vastuse.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google'i loa lõpp-punkt andis kehtetu vastuse.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google'i seadme autoriseerimine ei tagastanud kasutatavat kinnituskoodi ja URL-i.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google'i loa lõpp-punkt ei tagastanud juurdepääsuluba.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Ükski Google'i konto pole volitatud. Alustage esmalt sisselogimist.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google taotles aeglasemat küsitlust.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Salvestatud OAuthi loa aegumiskuupäev on valesti vormindatud. Logige uuesti sisse.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Salvestatud OAuthi luba on valesti vormindatud. Logige uuesti sisse.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google'i märgi värskendamine ebaõnnestus: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google'i autoriseerimine on lõpule viidud, kuid Windowsi mandaatide lukustus ei saanud luba (0x{0}) salvestada.</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Rakendusesisene pleier ei saanud seda videot laadida. Avage see hoopis brauseris.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>YouTube'i ametliku vaatamislehe laadimine...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Rakendusesiseseks taasesitamiseks on vaja video ID-d.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} videod</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Populaarsete videote laadimine...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} populaarsed videotulemused.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} populaarsed videotulemused. Windows ei lubanud reaalajas paani värskendada.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} populaarsed videotulemused. Reaalajas paan näitab nüüd parimat tulemust.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} populaarsed videotulemused. Reaalajas paani ei saanud värskendada.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google ei andnud sellele kontole juurdepääsu profiiliandmetele. Logige välja, käivitage uuesti Google'i sisselogimine ja nõustuge YouTube'i kirjutuskaitstud ulatusega.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} meeldinud videod on laaditud.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Meeldinud videote taotlusele ei õnnestunud vastata. Kontrollige võrguühendust.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Meeldinud videote taotlus aegus. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profiil laaditud.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profiili ei saanud {0} (0x{1}) ajal laadida. Üksikasjade vaatamiseks avage Diagnostika.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Autentitud profiili laadimine...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Meeldinud videote laadimine...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Rohkemate meeldinud videote laadimine...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Rohkemate esitusloendivideote laadimine...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Rohkemate üleslaaditud videote laadimine...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Esitusloendi videote laadimine...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} tellijad | {1:N0} videod | {2:N0} vaated</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google ei tagastanud volitatud konto jaoks ühtegi kanalit.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Meeldinud videoid ei tagastatud.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube ei pakkunud selle kanali jaoks üleslaadimiste esitusloendit.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} esitusloendid on laaditud. Valige üks, et vaadata selle videoid.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Esitusloendite päringut ei õnnestunud saavutada. Kontrollige võrguühendust.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Esitusloendite taotlus aegus. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} esitusloendi videod on laaditud.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Esitusloendi videote päringule ei õnnestunud jõuda. Kontrollige võrguühendust.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Esitusloendi videotaotlus aegus. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Autentitud YouTube API-ga ei õnnestunud ühendust saada. Kontrollige võrguühendust.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Autenditud YouTube'i taotlus aegus. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Meeldinud kogu taotlemiseks valige Laadi meeldinud videod.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Valige ülalt esitusloend selle videote laadimiseks.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanal</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>meeldisid videod</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>esitusloendeid</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>esitusloendi videod</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>alustades</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>tellimused</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>üles laaditud videod</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} tellimused on laaditud.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Tellimistaotlusega ei õnnestunud ühendust saada. Kontrollige võrguühendust.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Tellimustaotlus aegus. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Kui see konto oli volitatud enne profiili lisamist, logige YouTube'i kirjutuskaitstud ulatuse andmiseks uuesti sisse.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} üleslaaditud videod on laaditud.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Üleslaaditud videote taotlusele ei õnnestunud jõuda. Kontrollige võrguühendust.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Üleslaaditud videotaotlus aegus. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Toetatud piirkondade laadimine...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Toetatud piirkondi ei saanud laadida. Kontrollige võrguühendust.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Toetatud piirkondi ei saanud laadida, kuna YouTube'i andmete API päring aegus.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube ei tagastanud ühtegi toetatud piirkonda. Kasutades Ameerika Ühendriike.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Ameerika Ühendriigid</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Sisestage API-võti või kasutage API-võtme kustutamist.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Vaja on piiratud sisendiga seadme OAuthi kliendi ID-d.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Vaja on piiratud sisendiga seadme OAuthi kliendi saladust.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Otsimine...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} avalikud videotulemused.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>See rakendus ei ole seotud Google'i ega YouTube'iga.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Järg {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube on kaasaegne UWP rakendus YouTube'i avaliku API kaudu YouTube'i sirvimiseks.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Välja töötanud:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Sisseehitatud UniTube'i konfiguratsiooni kasutamine avalike andmete jaoks. Siin salvestamine alistab selle.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>API-võtit pole konfigureeritud.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Teie API võti on salvestatud Windows Credential Lockerisse.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google'i autoriseerimine tühistati.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google'i autoriseerimine on lõpetatud. Saadaval on profiili lugemised ja videote üleslaadimine.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Kood aegub {1:D2}:{2:D2}. Google'i kontrollimine iga {3} sekundi järel.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google'i volitus ei saanud loa lõpp-punktiga ühendust. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google'i volitus eemaldati. Enne profiili avamist või üleslaadimist alustage Google'i sisselogimist.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google'i konto on volitatud profiili lugemiseks ja videote üleslaadimiseks. Logige uuesti sisse, kui see tunnus on profiilist varasem.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google'i autoriseerimine ebaõnnestus ootamatult (0x{0}). Pärast rakenduse taaskäivitamist avage Diagnostika.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Sisseehitatud UniTube'i konfiguratsiooni kasutamine profiili ja üleslaadimiste jaoks. Esmalt käivitage Google'i sisselogimine.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Piiratud sisendiga seadme OAuthi mandaat on salvestatud. Kui kumbki väärtus muutub, logige enne üleslaadimist uuesti sisse.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Salvestatud OAuthi mandaadid on konfigureeritud. Enne profiili avamist või üleslaadimist alustage Google'i sisselogimist.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Mittetäielikku salvestatud OAuthi alistamist ignoreeriti. Sisseehitatud UniTube'i konfiguratsiooni kasutamine profiili ja üleslaadimiste jaoks.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Hallatud OAuthi konfiguratsioon on saadaval. Enne profiili avamist või üleslaadimist alustage Google'i sisselogimist.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Salvestage OAuthi mandaadid, seejärel käivitage enne profiili avamist või üleslaadimist Google'isse sisselogimine.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kood: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Kinnituskood aegus. Uue koodi taotlemine...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Sisestage kood sellesse brauserisse. See telefon ootab Google'i volitust.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Teie eelmine kood aegus. Sisestage sellesse brauserisse uus kood.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Teises praeguse brauseriga telefonis, tahvelarvutis või arvutis külastage aadressi {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Google'i kinnituse ootel.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Üleslaadimine tühistati. Osaliselt üleslaaditud jätkatavat seanssi ei jätkatud.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Üleslaadimise tühistamine...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Üleslaadimine lõpetatud. YouTube töötleb videot.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Üleslaadimine lõpetatud. Video ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Video kirjeldus peab olema 5000 tähemärki või vähem.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Valige andmeid sisaldav videofail.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Valitud fail lõppes enne teatatud pikkust.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Valige enne üleslaadimist videofail.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Valitud video on üleslaadimiseks liiga suur.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Üleslaadimine ei jõudnud YouTube'i. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube ei tagastanud täidetud üleslaadimisvastust.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube ei tagastanud jätkatavat üleslaadimiskohta.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Valige privaatne, registriväline või avalik privaatsus.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} {1:N0} baitidest on üles laaditud ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>{0} üleslaadimiseks valmis.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube'i üleslaadimine tagastas {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} baiti)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Video valik tühistati.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Jätkatava üleslaadimise alustamine...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Üleslaadimine aegus. Kontrollige võrguühendust ja proovige uuesti.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Enne üleslaadimist sisestage pealkiri.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Video pealkiri peab olema 100 tähemärki või vähem.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Valige tuvastatud videofail.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Video üksikasjade laadimine...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Avaldatud {0} | {1:N0} vaated | kestus {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Rakenduses esitamine avab YouTube'i ametliku mobiilivaatamislehe.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Taasesitus algas, kuid selle metaandmeid ei saanud reaalajas paani jaoks salvestada.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Taasesitus algas, kuid Windows ei lubanud reaalajas paani värskendada.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Taasesitus algas, kuid reaalajas paani ei saanud värskendada.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Taotletud video pole saadaval.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Vaja on video ID-d.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Erilised tänusõnad</value>
+  </data>
+</root>

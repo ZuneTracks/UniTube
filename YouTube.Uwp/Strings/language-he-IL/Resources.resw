@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>דפדפן ציבורי</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>הגדרות</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>בַּיִת</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>לְחַפֵּשׂ</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>קטגוריות</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>פּרוֹפִיל</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>לְגַלוֹת</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>הסרטונים הפופולריים האחרונים, בפריסה הקלאסית של הטלפון הראשון.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>בטרנד עכשיו</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>טען סרטונים פופולריים עבור האזור שלך</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>סרטונים פופולריים</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>בחר 'מועדף עכשיו' כדי לטעון תוצאות ציבוריות.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>לְחַפֵּשׂ</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>מצא סרטוני YouTube ציבוריים עם מפתח ה-API שסופק על ידי המשתמש.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>מונחי חיפוש</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>חפש ביוטיוב</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>לְחַפֵּשׂ</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>פּוֹפּוּלָרִי</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>אֵזוֹר</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>קטגוריות</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>הקש על קטגוריה כדי להרחיב את הסרטונים הפופולריים הנוכחיים שלה. הקש עליו שוב כדי לכווץ ולבחור אחר.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>פּרוֹפִיל</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>נתוני חשבון זמינים דרך חיבור YouTube המאומת שלך.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>אודות</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>ביטול מפתח של Google API</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>השאר ריק כדי להשתמש בתצורה מנוהלת</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ חזרה</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ביטול</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>על הערוץ הזה</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>פרטי הערוץ</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>נקה</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>אישורים אישיים מאוחסנים רק ב-Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>תיאור</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>אופציונלי</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>תיאור</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>יומן זה מתעד שגיאות באפליקציה ואבני דרך של OAuth. אישורים, קודי הרשאה ואסימונים אינם נכללים.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>אבחון</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>קריאת פרופיל והעלאה משתמשים ב-Google TVs ולקוח OAuth עם קלט מוגבל. לא נעשה שימוש ב-URI להפניה מחדש. ערכי בנייה מקומיים מנוהלים נשארים מוסתרים; שמירת אישורים כאן עוקפת אותם.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>חשבון גוגל</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>הפעלה בתוך האפליקציה משתמשת בדף הצפייה הרשמי של YouTube לנייד. אפליקציה זו אינה מחלצת או מורידה כתובות אתרים של מדיה.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>אהב סרטונים</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>טען סרטוני 'אהבתי'</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>טען עוד סרטוני לייק</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>טען עוד פלייליסטים</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>טען עוד סרטוני פלייליסט</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>טען עוד מינויים</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>טען עוד סרטונים שהועלו</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>עקיפה של מזהה לקוח של OAuth במכשיר עם קלט מוגבל</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>השאר ריק כדי להשתמש בתצורה מנוהלת</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>עקיפה סודית של לקוח OAuth במכשיר עם קלט מוגבל</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>השאר ריק כדי להשתמש בתצורה מנוהלת</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>שמור אישורים ולאחר מכן התחל את הכניסה של Google. קוד האימות שלהלן מוזן במכשיר אחר; אפליקציה זו אף פעם לא פותחת טופס כניסה. היכנס שוב לאחר עדכון זה כדי להעניק גישת קריאה לפרופיל.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>פתח את הערוץ</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>פתח בדפדפן</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>שחקן</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>שחק באפליקציה</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>רשימות השמעה</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>סרטוני פלייליסט</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>פרטיות</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>פרטי</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>מפתח API מוגבל משמש רק לקריאה בלבד של YouTube Data API v3. ערכי בנייה מקומיים מנוהלים נשארים מוסתרים; השמירה כאן עוקפת אותם.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>גישה לנתונים ציבוריים</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>ציבורי</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>רענן</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>רענן פרופיל</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>מצב בטוח משתמש בהגדרה הקפדנית של חיפוש בטוח של YouTube עבור חיפושים. הוא אינו מספק את הקטלוג של YouTube Kids או מסנן עדכונים פופולריים, קטגוריות וחשבונות.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>מצב בטוח</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>השתמש בחיפוש בטוח קפדני עבור חיפושי וידאו ציבוריים</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>שמור מפתח API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>שמור יומן</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>שמור אישורים</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>לא נבחר סרטון.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>בחר סרטון</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>הגדרות</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>התחל בכניסה לגוגל</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>צא</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>התחל את ההעלאה</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>מנויים</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>כותרת</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>חובה</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>לא רשום</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>היסטוריית צפייה וצפה מאוחר יותר אינם נחשפים כאוספי v3 קריאים. UniTube אינו מחקה או מתייג אותם בצורה שגויה.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>לא נתמך על ידי YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>סרטונים שהועלו</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>להעלות</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>בחר סרטון מקומי ולאחר מכן העלה אותו דרך חשבון Google המורשה שלך.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>להעלות סרטון</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>מוכן לבחור סרטון.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>העלאות דורשות הגדרות OAuth וכניסה מלאה של Google מההגדרות.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>העלה סרטון</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>פרטי סרטון</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>צפה באבחון</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>צפו ב-YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>קטגוריות {0:N0} זמינות עבור {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>טוען קטגוריות...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>טוען סרטוני {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>סרטוני {0:N0} פופולריים {1} עבור {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>נדרש מזהה ערוץ.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>טוען את פרטי הערוץ...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>מנויי {0:N0} | סרטוני {1:N0} | צפיות {2:N0}</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>הערוץ המבוקש אינו זמין.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>סגור</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>לא ניתן היה להגיע ל-YouTube Data API. בדוק את חיבור הרשת.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>תם הזמן הקצוב לבקשת YouTube Data API. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>לא ידוע</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>הרשאת Google לא סיפקה אסימון גישה. היכנס שוב.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>הגישה לחשבון Google אינה מוגדרת. היכנס לפני פתיחת הפרופיל.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>הוסף מפתח של Google API לפני השימוש בתכונות הציבוריות של YouTube Data API v3.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>נדרש מזהה ערוץ.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>ממשק YouTube Data API המאומת החזיר תגובה לא חוקית. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>ממשק ה-API של הנתונים של YouTube החזיר תגובה לא חוקית. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>נדרש מזהה רשימת השמעה.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 החזיר {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>הזן טקסט לחיפוש.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>נדרש מזהה וידאו.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>יומן האבחון נמחק.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>יומן אבחון נשמר ב-{0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>לא נרשמו אירועי אבחון.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>שמירת יומן האבחון בוטלה.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>לא ניתן לשמור את יומן האבחון (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>קובץ טקסט</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>שיחק לאחרונה</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>נדרשים מטא נתונים של וידאו כדי לעדכן את האריח החי.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>מגמה עכשיו</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>פופולרי עכשיו ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>נדרשת שם סרטון פופולרי.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>פג תוקף ההרשאה למכשיר Google.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>הרשאת מכשיר Google לא הושלמה: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>יש להשלים שוב את ההרשאה של Google לפני ההעלאה.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>לא הייתה אפשרות להתחיל הרשאת מכשיר Google: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>הגדר מזהה לקוח OAuth של מכשיר עם קלט מוגבל לפני הכניסה.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>הגדר את סוד לקוח OAuth של התקן מוגבל בקלט לפני הכניסה.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google דחתה את לקוח OAuth של מכשיר קלט מוגבל (invalid_client). בדוק את מזהה הלקוח ואת סוד הלקוח.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google דחתה את אישורי ה-OAuth של מכשיר קלט מוגבל (invalid_client). בדוק את מזהה הלקוח ואת סוד הלקוח.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>הרשאת מכשיר Google החזירה תגובה לא חוקית.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>נקודת הקצה של אסימון Google החזירה תגובה לא חוקית.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>הרשאת מכשיר Google לא החזירה קוד אימות וכתובת אתר שמיש.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>נקודת הקצה של אסימון Google לא החזירה אסימון גישה.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>אין חשבון Google מורשה. התחל תחילה בכניסה.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>גוגל ביקשה סקר איטי יותר.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>תפוגה של אסימון OAuth המאוחסן פגומה. היכנס שוב.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>אסימון ה-OAuth המאוחסן פגום. היכנס שוב.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>רענון אסימון Google נכשל: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>ההרשאה של Google הושלמה, אך Windows Credential Locker לא הצליח לשמור את האסימון (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>הנגן בתוך האפליקציה לא הצליח לטעון את הסרטון הזה. פתח אותו בדפדפן במקום.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>טוען את דף הצפייה הרשמי של YouTube...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>נדרש מזהה וידאו להפעלה בתוך האפליקציה.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>סרטוני {0:N0}</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>טוען סרטונים פופולריים...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>תוצאות וידאו פופולריות של {0:N0}.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>תוצאות וידאו פופולריות של {0:N0}. חלונות לא אפשרו את עדכון האריח החי.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>תוצאות וידאו פופולריות של {0:N0}. האריח החי מציג כעת את התוצאה העליונה.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>תוצאות וידאו פופולריות של {0:N0}. לא ניתן היה לעדכן את האריח החי.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google לא העניקה לחשבון זה גישה לנתוני פרופיל. צא, התחל שוב את הכניסה ל-Google וקבל את ההיקף לקריאה בלבד של YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} אהב סרטונים שנטענו.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>לא ניתן היה להגיע לבקשת הסרטונים שאהבתי. בדוק את חיבור הרשת.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>תם הזמן הקצוב לבקשת סרטונים שאהבתי. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>הפרופיל נטען.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>לא ניתן היה לטעון את הפרופיל במהלך {0} (0x{1}). פתח את אבחון לפרטים.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>טוען פרופיל מאומת...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>טוען סרטוני 'אהבתי'...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>טוען עוד סרטונים שאוהבים...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>טוען סרטוני פלייליסט נוספים...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>טוען עוד סרטונים שהועלו...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>טוען סרטוני פלייליסט...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>מנויי {0:N0} | סרטוני {1:N0} | צפיות {2:N0}</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google לא החזירה שום ערוץ עבור החשבון המורשה.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>לא הוחזרו סרטונים שאהבתי.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube לא סיפק פלייליסט העלאות לערוץ הזה.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>רשימות השמעה {0:N0} נטענו. בחר אחד כדי לצפות בסרטונים שלו.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>לא ניתן היה להגיע לבקשת הפלייליסטים. בדוק את חיבור הרשת.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>תם הזמן הקצוב לבקשת הפלייליסטים. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>סרטונים בפלייליסט {0:N0} נטענו.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>לא ניתן היה להגיע לבקשת הסרטונים בפלייליסט. בדוק את חיבור הרשת.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>תם הזמן הקצוב לבקשת הסרטונים בפלייליסט. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>לא ניתן היה להגיע לממשק ה-API המאומת של YouTube. בדוק את חיבור הרשת.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>תם הזמן הקצוב לבקשת YouTube המאומתת. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>בחר טען סרטונים שאהבתי כדי לבקש את אוסף הלייקים שלך.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>בחר רשימת השמעה למעלה כדי לטעון את הסרטונים שלה.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>ערוץ</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>אהב סרטונים</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>רשימות השמעה</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>סרטוני פלייליסט</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>מתחיל</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>מנויים</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>סרטונים שהועלו</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>מינויים של {0:N0} נטענו.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>לא ניתן היה להשיג את בקשת המנויים. בדוק את חיבור הרשת.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>תם הזמן הקצוב לבקשת המנויים. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} אם חשבון זה אושר לפני הוספת הפרופיל, היכנס שוב כדי להעניק את היקף קריאה בלבד של YouTube.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} הועלו סרטונים.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>לא ניתן היה להגיע לבקשת הסרטונים שהועלו. בדוק את חיבור הרשת.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>תם הזמן הקצוב לבקשת הסרטונים שהועלו. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>טוען אזורים נתמכים...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>לא ניתן היה לטעון אזורים נתמכים. בדוק את חיבור הרשת.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>האזורים הנתמכים לא הצליחו לטעון כי תם הזמן הקצוב לבקשת הנתונים של YouTube Data API.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube לא החזיר אף אזור נתמך. שימוש בארצות הברית.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>ארצות הברית</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>הזן מפתח API או השתמש במפתח Clear API.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>נדרש מזהה לקוח של OAuth עם קלט מוגבל.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>נדרש סוד לקוח OAuth של התקן קלט מוגבל.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>מחפש...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>תוצאות וידאו ציבוריות {0:N0}.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>אפליקציה זו אינה מזוהה עם Google או YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>בניית {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube הוא אפליקציית UWP מודרנית לגלישה ב-YouTube דרך ה-API הציבורי של YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>פותח על ידי:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>שימוש בתצורת UniTube מובנית עבור נתונים ציבוריים. שמירה כאן עוקפת את זה.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>לא הוגדר מפתח API.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>מפתח ה-API שלך מאוחסן ב-Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>הרשאת Google בוטלה.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>ההרשאה של Google הושלמה. קריאות פרופיל והעלאות סרטונים זמינים.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>קוד {0} יפוג ב-{1:D2}:{2:D2}. בודק את גוגל כל {3} שניות.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>הרשאת Google לא הצליחה ליצור קשר עם נקודת הקצה האסימון. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>הרשאת Google הוסרה. התחל את הכניסה של Google לפני פתיחת פרופיל או העלאה.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>חשבון Google מורשה לקריאת פרופיל ולהעלאת סרטונים. היכנס שוב אם האסימון הזה קדם לפרופיל.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>הרשאת Google נכשלה באופן בלתי צפוי (0x{0}). פתח את אבחון לאחר הפעלה מחדש של האפליקציה.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>שימוש בתצורת UniTube מובנית עבור פרופיל והעלאות. התחל תחילה את הכניסה ל-Google.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>אישורי OAuth של מכשיר עם קלט מוגבל נשמרו. אם אחד מהערכים השתנה, היכנס שוב לפני ההעלאה.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>אישורי OAuth שמורים מוגדרים. התחל את הכניסה של Google לפני פתיחת פרופיל או העלאה.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>התעלמה מעקיפה לא הושלמה של OAuth. שימוש בתצורת UniTube מובנית עבור פרופיל והעלאות.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>תצורת OAuth מנוהלת זמינה. התחל את הכניסה של Google לפני פתיחת פרופיל או העלאה.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>שמור את פרטי הכניסה של OAuth, ולאחר מכן התחל את הכניסה של Google לפני פתיחת פרופיל או העלאה.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>קוד: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>תוקף קוד האימות פג. מבקש קוד חדש...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>הזן את הקוד באותו דפדפן. הטלפון הזה ימתין לאישור Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>הקוד הקודם שלך פג. הזן את הקוד החדש בדפדפן זה.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>בטלפון, טאבלט או מחשב אחר עם דפדפן נוכחי, בקר ב: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>מחכה לאישור גוגל.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>ההעלאה בוטלה. ההפעלה הניתנת לחידוש שהעלתה חלקית לא נמשכה.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>מבטל העלאה...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>ההעלאה הושלמה. YouTube מעבד את הסרטון.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>ההעלאה הושלמה. מזהה וידאו: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>תיאור הסרטון חייב להכיל 5000 תווים או פחות.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>בחר קובץ וידאו המכיל נתונים.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>הקובץ שנבחר הסתיים לפני אורכו המדווח.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>בחר קובץ וידאו לפני ההעלאה.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>הסרטון שנבחר גדול מדי להעלאה.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>ההעלאה לא הצליחה להגיע ל-YouTube. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube לא החזיר תגובה שהושלמה להעלאה.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube לא החזיר מיקום העלאה שניתן לחדש.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>בחר פרטיות פרטית, לא רשומה או פרטיות ציבורית.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} של {1:N0} בתים שהועלו ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>מוכן להעלות {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>העלאת YouTube החזירה {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} בתים)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>בחירת הסרטון בוטלה.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>מתחיל העלאה הניתנת לחידוש...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>תם הזמן הקצוב להעלאה. בדוק את חיבור הרשת ונסה שוב.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>הזן כותרת לפני ההעלאה.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>כותרת הסרטון חייבת להכיל 100 תווים או פחות.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>בחר קובץ וידאו מוכר.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>טוען פרטי סרטון...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>פורסם {0} | {1:N0} צפיות | משך {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>הפעלה באפליקציה פותחת את דף הצפייה הרשמי של YouTube לנייד.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>ההפעלה החלה, אך לא ניתן היה לשמור את המטא נתונים שלו עבור האריח החי.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>ההשמעה החלה, אך Windows לא אפשרה את עדכון האריח החי.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>ההפעלה החלה, אך לא ניתן היה לעדכן את האריח החי.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>הסרטון המבוקש אינו זמין.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>נדרש מזהה וידאו.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>תודות מיוחדות</value>
+  </data>
+</root>

@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>متصفح عام</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>إعدادات</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>بيت</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>يبحث</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>فئات</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>حساب تعريفي</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>يكتشف</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>أحدث مقاطع الفيديو الشائعة، بتنسيق الهاتف الكلاسيكي أولاً.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>تتجه الآن</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>قم بتحميل مقاطع الفيديو الشائعة لمنطقتك</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>مقاطع فيديو شعبية</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>اختر Trending Now لتحميل النتائج العامة.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>يبحث</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>ابحث عن مقاطع فيديو عامة على YouTube باستخدام مفتاح API الذي يوفره المستخدم.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>مصطلحات البحث</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>ابحث في يوتيوب</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>يبحث</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>شائع</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>منطقة</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>فئات</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>اضغط على فئة لتوسيع مقاطع الفيديو الشائعة الحالية. اضغط عليه مرة أخرى لطي واختيار آخر.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>حساب تعريفي</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>بيانات الحساب متاحة من خلال اتصال YouTube المعتمد.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>حول</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>تجاوز مفتاح Google API</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>اتركه فارغًا لاستخدام التكوين المُدار</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ العودة</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>إلغاء</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>حول هذه القناة</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>تفاصيل القناة</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>واضح</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>يتم تخزين بيانات الاعتماد الشخصية فقط في Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>الوصف</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>اختياري</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>الوصف</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>يسجل هذا السجل أخطاء التطبيق ومعالم OAuth. يتم استبعاد بيانات الاعتماد ورموز التفويض والرموز المميزة.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>التشخيص</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>تستخدم قراءة الملف الشخصي وتحميله أجهزة Google TV وعميل OAuth لجهاز الإدخال المحدود. لا يتم استخدام URI لإعادة التوجيه. تظل قيم البناء المحلية المُدارة مخفية؛ حفظ بيانات الاعتماد هنا يتجاوزها.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>حساب جوجل</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>يستخدم التشغيل داخل التطبيق صفحة المشاهدة الرسمية للجوال على YouTube. لا يقوم هذا التطبيق باستخراج أو تنزيل عناوين URL للوسائط.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>مقاطع الفيديو التي أعجبتني</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>قم بتحميل مقاطع الفيديو التي أعجبتك</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>قم بتحميل المزيد من مقاطع الفيديو التي أعجبتك</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>تحميل المزيد من قوائم التشغيل</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>قم بتحميل المزيد من مقاطع الفيديو الخاصة بقائمة التشغيل</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>تحميل المزيد من الاشتراكات</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>قم بتحميل المزيد من مقاطع الفيديو التي تم تحميلها</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>تجاوز معرف عميل OAuth لجهاز الإدخال المحدود</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>اتركه فارغًا لاستخدام التكوين المُدار</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>تجاوز سر عميل OAuth لجهاز الإدخال المحدود</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>اتركه فارغًا لاستخدام التكوين المُدار</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>احفظ بيانات الاعتماد، ثم ابدأ تسجيل الدخول إلى Google. تم إدخال رمز التحقق أدناه على جهاز آخر؛ لا يفتح هذا التطبيق أبدًا نموذج تسجيل الدخول. قم بتسجيل الدخول مرة أخرى بعد هذا التحديث لمنح حق الوصول لقراءة الملف الشخصي.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>قناة مفتوحة</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>فتح في المتصفح</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>لاعب</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>العب في التطبيق</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>قوائم التشغيل</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>مقاطع فيديو قائمة التشغيل</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>الخصوصية</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>خاص</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>يتم استخدام مفتاح API المقيد فقط لمكالمات YouTube Data API v3 للقراءة فقط. تظل قيم البناء المحلية المُدارة مخفية؛ الحفظ هنا يتجاوزهم.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>الوصول إلى البيانات العامة</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>عام</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>تحديث</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>تحديث الملف الشخصي</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>يستخدم الوضع الآمن إعداد البحث الآمن الصارم في YouTube لعمليات البحث. ولا يوفر كتالوج YouTube Kids أو يقوم بتصفية خلاصات الحسابات والفئات والحسابات الشائعة.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>الوضع الآمن</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>استخدم البحث الآمن الصارم لعمليات البحث عن مقاطع الفيديو العامة</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>حفظ مفتاح API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>حفظ السجل</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>حفظ بيانات الاعتماد</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>لم يتم تحديد أي فيديو.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>حدد الفيديو</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>الإعدادات</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ابدأ تسجيل الدخول إلى Google</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>تسجيل الخروج</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ابدأ التحميل</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>الاشتراكات</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>العنوان</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>مطلوب</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>غير مدرج</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>لا يتم عرض سجل المشاهدة والمشاهدة لاحقًا كمجموعات v3 قابلة للقراءة. UniTube لا يحاكيها أو يخطئ في تسميتها.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>غير مدعوم من YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>مقاطع الفيديو التي تم تحميلها</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>تحميل</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>حدد مقطع فيديو محليًا، ثم قم بتحميله من خلال حساب Google المعتمد الخاص بك.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>تحميل الفيديو</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>جاهز لاختيار مقطع فيديو.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>تتطلب التحميلات إعدادات OAuth وتسجيل الدخول الكامل إلى Google من الإعدادات.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>تحميل الفيديو</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>تفاصيل الفيديو</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>عرض التشخيص</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>شاهد على يوتيوب</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>فئات {0:N0} متاحة لـ {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>جارٍ تحميل الفئات...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>جارٍ تحميل مقاطع فيديو {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} مقاطع فيديو {1} الشهيرة لـ {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>مطلوب معرف القناة.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>جارٍ تحميل تفاصيل القناة...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>مشتركي {0:N0} | فيديوهات {1:N0} | مشاهدات {2:N0}</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>القناة المطلوبة غير متاحة.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>إغلاق</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>تعذر الوصول إلى YouTube Data API. تحقق من اتصال الشبكة.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>انتهت مهلة طلب YouTube Data API. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>غير معروف</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>لم يوفر ترخيص Google رمز وصول. قم بتسجيل الدخول مرة أخرى.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>لم يتم تكوين الوصول إلى حساب Google. قم بتسجيل الدخول قبل فتح الملف الشخصي.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>أضف مفتاح Google API قبل استخدام ميزات YouTube Data API v3 العامة.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>مطلوب معرف القناة.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>أعادت واجهة برمجة تطبيقات بيانات YouTube المصادق عليها استجابة غير صالحة. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>عرضت YouTube Data API استجابة غير صالحة. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>معرف قائمة التشغيل مطلوب.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>أعاد YouTube Data API v3 {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>أدخل النص للبحث عنه.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>مطلوب معرف الفيديو.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>تم مسح سجل التشخيص.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>تم حفظ سجل التشخيص في {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>لم يتم تسجيل أي أحداث تشخيصية.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>تم إلغاء حفظ سجل التشخيص.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>تعذر حفظ سجل التشخيص (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>ملف نصي</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>لعبت آخر مرة</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>البيانات الوصفية للفيديو مطلوبة لتحديث اللوحة المباشرة.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>تتجه الآن</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>تتجه الآن ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>مطلوب عنوان فيديو شائع.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>انتهت صلاحية ترخيص جهاز Google.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>لم يكتمل ترخيص جهاز Google: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>يجب إكمال ترخيص Google مرة أخرى قبل التحميل.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>تعذر بدء ترخيص جهاز Google: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>قم بتعيين معرف عميل OAuth لجهاز الإدخال المحدود قبل تسجيل الدخول.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>قم بتعيين سر عميل OAuth لجهاز الإدخال المحدود قبل تسجيل الدخول.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>رفضت Google عميل OAuth لجهاز الإدخال المحدود (invalid_client). التحقق من معرف العميل وسر العميل.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>رفضت Google بيانات اعتماد OAuth لجهاز الإدخال المحدود (invalid_client). التحقق من معرف العميل وسر العميل.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>أعاد ترخيص جهاز Google استجابة غير صالحة.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>أعادت نقطة نهاية الرمز المميز لـ Google استجابة غير صالحة.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>لم يُرجع ترخيص جهاز Google رمز التحقق وعنوان URL القابلين للاستخدام.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>لم تُرجع نقطة نهاية الرمز المميز لـ Google رمز الوصول.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>لا يوجد حساب Google مصرح به. ابدأ تسجيل الدخول أولاً.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>طلبت Google إجراء اقتراع أبطأ.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>انتهاء صلاحية رمز OAuth المميز المخزن غير صحيح. قم بتسجيل الدخول مرة أخرى.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>رمز OAuth المُخزن غير صحيح. قم بتسجيل الدخول مرة أخرى.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>فشل تحديث رمز Google المميز: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>اكتمل تفويض Google، ولكن تعذر على Windows Credential Locker حفظ الرمز المميز (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>لم يتمكن المشغل داخل التطبيق من تحميل هذا الفيديو. افتحه في المتصفح بدلاً من ذلك.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>جارٍ تحميل صفحة المشاهدة الرسمية على YouTube...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>معرف الفيديو مطلوب للتشغيل داخل التطبيق.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>فيديوهات {0:N0}</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>جارٍ تحميل مقاطع الفيديو الشائعة...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>نتائج الفيديو الشهيرة {0:N0}.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>نتائج الفيديو الشهيرة {0:N0}. لم يسمح Windows بتحديث البلاط المباشر.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>نتائج الفيديو الشهيرة {0:N0}. يُظهر البلاط المباشر الآن النتيجة العليا.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>نتائج الفيديو الشهيرة {0:N0}. لا يمكن تحديث البلاط المباشر.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>لم تمنح Google هذا الحساب حق الوصول إلى بيانات الملف الشخصي. قم بتسجيل الخروج، وابدأ تسجيل الدخول إلى Google مرة أخرى، واقبل نطاق YouTube للقراءة فقط.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} أحب مقاطع الفيديو التي تم تحميلها.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>تعذر الوصول إلى طلب مقاطع الفيديو التي تم الإعجاب بها. تحقق من اتصال الشبكة.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>انتهت مهلة طلب مقاطع الفيديو التي أعجبتك. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>تم تحميل الملف الشخصي.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>تعذر تحميل ملف التعريف أثناء {0} (0x{1}). افتح التشخيص للحصول على التفاصيل.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>جارٍ تحميل ملف التعريف الذي تمت مصادقته...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>جارٍ تحميل مقاطع الفيديو التي أعجبتني...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>جارٍ تحميل المزيد من مقاطع الفيديو التي أعجبتني...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>جارٍ تحميل المزيد من مقاطع الفيديو في قائمة التشغيل...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>جارٍ تحميل المزيد من مقاطع الفيديو التي تم تحميلها...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>جارٍ تحميل مقاطع الفيديو في قائمة التشغيل...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>مشتركي {0:N0} | فيديوهات {1:N0} | مشاهدات {2:N0}</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>لم تُرجع Google أي قناة للحساب المعتمد.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>لم يتم إرجاع أي مقاطع فيديو أعجبت بها.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>لم يقدم YouTube قائمة تشغيل للتحميلات لهذه القناة.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>تم تحميل قوائم التشغيل {0:N0}. اختر واحدًا لعرض مقاطع الفيديو الخاصة به.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>لا يمكن الوصول إلى طلب قوائم التشغيل. تحقق من اتصال الشبكة.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>انتهت مهلة طلب قوائم التشغيل. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>تم تحميل مقاطع فيديو قائمة التشغيل {0:N0}.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>تعذر الوصول إلى طلب مقاطع الفيديو الخاصة بقائمة التشغيل. تحقق من اتصال الشبكة.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>انتهت مهلة طلب مقاطع الفيديو الخاصة بقائمة التشغيل. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>تعذر الوصول إلى واجهة برمجة تطبيقات YouTube المصادق عليها. تحقق من اتصال الشبكة.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>انتهت مهلة طلب YouTube الذي تمت مصادقته. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>حدد تحميل مقاطع الفيديو المفضلة لطلب مجموعتك المفضلة.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>حدد قائمة التشغيل أعلاه لتحميل مقاطع الفيديو الخاصة بها.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>قناة</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>مقاطع الفيديو التي أعجبتني</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>قوائم التشغيل</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>مقاطع فيديو قائمة التشغيل</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>البدء</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>الاشتراكات</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>مقاطع الفيديو التي تم تحميلها</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>تم تحميل اشتراكات {0:N0}.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>لا يمكن الوصول إلى طلب الاشتراكات. تحقق من اتصال الشبكة.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>انتهت مهلة طلب الاشتراكات. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} إذا تم ترخيص هذا الحساب قبل إضافة الملف الشخصي، فقم بتسجيل الدخول مرة أخرى لمنح نطاق YouTube للقراءة فقط.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>تم تحميل مقاطع الفيديو التي تم تحميلها بواسطة {0:N0}.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>تعذر الوصول إلى طلب مقاطع الفيديو التي تم تحميلها. تحقق من اتصال الشبكة.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>انتهت مهلة طلب مقاطع الفيديو التي تم تحميلها. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>جارٍ تحميل المناطق المدعومة...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>تعذر تحميل المناطق المدعومة. تحقق من اتصال الشبكة.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>تعذر تحميل المناطق المدعومة نظرًا لانتهاء مهلة طلب YouTube Data API.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>لم يُرجع YouTube أي مناطق مدعومة. باستخدام الولايات المتحدة.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>الولايات المتحدة</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>أدخل مفتاح API أو استخدم مفتاح Clear API.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>مطلوب معرف عميل OAuth لجهاز الإدخال المحدود.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>مطلوب سر عميل OAuth لجهاز الإدخال المحدود.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>جارٍ البحث...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>نتائج الفيديو العامة {0:N0}.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>لا يرتبط هذا التطبيق بجوجل أو يوتيوب.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>بناء {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube هو تطبيق UWP حديث لتصفح YouTube عبر واجهة برمجة تطبيقات YouTube العامة.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>تم تطويره بواسطة:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>يوني تيوب يو دبليو بي</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>استخدام تكوين UniTube المدمج للبيانات العامة. الحفظ هنا يلغي ذلك.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>لم يتم تكوين أي مفتاح API.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>يتم تخزين مفتاح API الخاص بك في Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>تم إلغاء ترخيص Google.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>اكتمل ترخيص Google. تتوفر قراءات الملف الشخصي وتحميل الفيديو.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>تنتهي صلاحية رمز {0} في {1:D2}:{2:D2}. التحقق من جوجل كل ثانية {3}.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>تعذر على ترخيص Google الاتصال بنقطة نهاية الرمز المميز. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>تمت إزالة ترخيص Google. ابدأ تسجيل الدخول إلى Google قبل فتح الملف الشخصي أو التحميل.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>حساب Google مخول لقراءة الملف الشخصي وتحميل الفيديو. قم بتسجيل الدخول مرة أخرى إذا كان هذا الرمز المميز يسبق الملف الشخصي.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>فشل ترخيص Google بشكل غير متوقع (0x{0}). افتح التشخيص بعد إعادة تشغيل التطبيق.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>استخدام تكوين UniTube المدمج لملف التعريف والتحميلات. ابدأ تسجيل الدخول إلى Google أولاً.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>تم حفظ بيانات اعتماد OAuth لجهاز الإدخال المحدود. إذا تغيرت أي من القيمتين، قم بتسجيل الدخول مرة أخرى قبل التحميل.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>تم تكوين بيانات اعتماد OAuth المحفوظة. ابدأ تسجيل الدخول إلى Google قبل فتح الملف الشخصي أو التحميل.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>تم تجاهل تجاوز OAuth المحفوظ غير المكتمل. استخدام تكوين UniTube المدمج لملف التعريف والتحميلات.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>يتوفر تكوين OAuth المُدار. ابدأ تسجيل الدخول إلى Google قبل فتح الملف الشخصي أو التحميل.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>احفظ بيانات اعتماد OAuth، ثم ابدأ تسجيل الدخول إلى Google قبل فتح الملف الشخصي أو التحميل.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>الرمز: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>انتهت صلاحية رمز التحقق. طلب كود جديد...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>أدخل الرمز في هذا المتصفح. سينتظر هذا الهاتف الحصول على إذن Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>انتهت صلاحية الرمز السابق الخاص بك. أدخل الرمز الجديد في هذا المتصفح.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>على هاتف أو جهاز لوحي أو كمبيوتر آخر مزود بمتصفح حالي، تفضل بزيارة: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>في انتظار موافقة جوجل.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>تم إلغاء التحميل. لم تتم متابعة الجلسة القابلة للاستئناف التي تم تحميلها جزئيًا.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>جارٍ إلغاء التحميل...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>اكتمل التحميل. يقوم YouTube بمعالجة الفيديو.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>اكتمل التحميل. معرف الفيديو: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>يجب أن يكون وصف الفيديو 5000 حرف أو أقل.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>حدد ملف فيديو يحتوي على بيانات.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>انتهى الملف المحدد قبل طوله المبلغ عنه.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>حدد ملف فيديو قبل التحميل.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>الفيديو المحدد كبير جدًا بحيث لا يمكن تحميله.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>تعذر على التحميل الوصول إلى YouTube. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>لم يُرجع موقع YouTube استجابة التحميل المكتملة.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>لم يُرجع YouTube موقع التحميل القابل للاستئناف.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>حدد الخصوصية الخاصة أو غير المدرجة أو العامة.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>تم تحميل {0:N0} من وحدات البايت {1:N0} ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>جاهز للتحميل {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>تم عرض التحميل على YouTube {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} بايت)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>تم إلغاء اختيار الفيديو.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>بدء التحميل القابل للاستئناف...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>انتهت مهلة التحميل. تحقق من اتصال الشبكة وحاول مرة أخرى.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>أدخل عنوانا قبل التحميل.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>يجب أن يكون عنوان الفيديو 100 حرف أو أقل.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>حدد ملف فيديو تم التعرف عليه.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>جارٍ تحميل تفاصيل الفيديو...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>تم النشر {0} | مشاهدات {1:N0} | المدة {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>يؤدي التشغيل في التطبيق إلى فتح صفحة المشاهدة الرسمية للجوال على YouTube.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>بدأ التشغيل، ولكن تعذر حفظ بيانات التعريف الخاصة به للإطار المباشر.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>بدأ التشغيل، لكن Windows لم يسمح بتحديث اللوحة المباشرة.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>بدأ التشغيل، ولكن تعذر تحديث المربع المباشر.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>الفيديو المطلوب غير متوفر.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>مطلوب معرف الفيديو.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>شكر خاص</value>
+  </data>
+</root>

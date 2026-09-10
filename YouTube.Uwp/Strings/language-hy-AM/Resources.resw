@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>ՀԱՆՐԱՅԻՆ ԲՐԱՈՒԶԵՐ</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>ԿԱՐԳԱՎՈՐՈՒՄՆԵՐ</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>ՏՈՒՆ</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>ՈՐՈՆՈՒՄ</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>ԿԱՐԳԵՐ</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>ՊՐՈՖԻԼ</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>բացահայտել</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Վերջին հանրաճանաչ տեսանյութերը դասական հեռախոսի առաջին դասավորությամբ:</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>Թրենդային ՀԻՄԱ</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Ներբեռնեք հայտնի տեսանյութեր ձեր տարածաշրջանի համար</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>հայտնի տեսանյութեր</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Ընտրեք Թրենդային հիմա՝ հանրային արդյունքները բեռնելու համար:</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>որոնում</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Գտեք YouTube-ի հանրային տեսանյութեր ձեր օգտատիրոջ կողմից տրամադրված API բանալիով:</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Որոնման տերմիններ</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Որոնել YouTube-ում</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>ՈՐՈՆՈՒՄ</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>ՀԱՅԱՍՏԱՆԻ</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>ՏԱՐԱԾԱՇՐՋԱՆ</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>կատեգորիաներ</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Հպեք կատեգորիայի՝ ներկայիս հայտնի տեսանյութերը ընդլայնելու համար: Կրկին հպեք այն՝ ծալելու համար և ընտրեք մեկ ուրիշը:</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>պրոֆիլը</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Հաշվի տվյալները հասանելի են ձեր վավերացված YouTube կապի միջոցով:</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>ՄԱՍԻՆ</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API ստեղնի վերացում</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Թողեք դատարկ՝ կառավարվող կոնֆիգուրացիան օգտագործելու համար</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ ՀԵՏ</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ՉԵՂԱՐԿԵԼ</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>այս ալիքի մասին</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>ալիքի մանրամասները</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>ՄԱՍՆԱԼ</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Անձնական հավատարմագրերը պահվում են միայն Windows Credential Locker-ում:</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Նկարագրություն</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Ընտրովի</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>նկարագրությունը</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Այս գրանցամատյանը գրանցում է հավելվածի սխալները և OAuth-ի նշաձողերը: Հավատարմագրերը, թույլտվության կոդերը և նշանները բացառված են:</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>ախտորոշում</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Պրոֆիլի ընթերցումները և վերբեռնումները օգտագործում են Google TV-ներ և սահմանափակ մուտքային սարքի OAuth հաճախորդ: Վերահղման URI չի օգտագործվում: Կառավարվող տեղական կառուցման արժեքները մնում են թաքնված. Այստեղ հավատարմագրերը պահելը վերացնում է դրանք:</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google հաշիվ</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Հավելվածում նվագարկումն օգտագործում է YouTube-ի բջջային դիտման պաշտոնական էջը: Այս հավելվածը չի հանում կամ ներբեռնում մեդիա URL-ներ:</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>հավանել են տեսանյութերը</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>Բեռնել Հավանած ՏԵՍԱՆՅՈՒԹԵՐԸ</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>Բեռնել ԱՎԵԼԻ Հավանած ՏԵՍԱՆՅՈՒԹԵՐԸ</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>ԲԵՌՆԵԼ ԱՅԼ ՆՎԵՐԱՑԱՆԿՆԵՐ</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>ԲԵՌՆԵԼ ԱՅԼ ՆՎԵՐԱՑԱՆԿ ՏԵՍԱՆՅՈՒԹԵՐ</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>Բեռնել ԱՎԵԼԻ ԲԱԺԱՆՈՐԴԱԳՐՈՒԹՅՈՒՆՆԵՐ</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>Բեռնել ԱՎԵԼԻ ԲԵՌՆՎԱԾ ՏԵՍԱՆՅՈՒԹԵՐ</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Սահմանափակ մուտքային սարքի OAuth հաճախորդի ID-ի վերացում</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Թողեք դատարկ՝ կառավարվող կոնֆիգուրացիան օգտագործելու համար</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Սահմանափակ մուտքագրման սարքի OAuth հաճախորդի գաղտնիքի վերացում</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Թողեք դատարկ՝ կառավարվող կոնֆիգուրացիան օգտագործելու համար</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Պահպանեք հավատարմագրերը, այնուհետև սկսեք Google-ի մուտքը: Ստորև բերված հաստատման կոդը մուտքագրված է մեկ այլ սարքի վրա. այս հավելվածը երբեք մուտքի ձև չի բացում: Այս թարմացումից հետո նորից մուտք գործեք՝ պրոֆիլին կարդալու թույլտվություն տրամադրելու համար:</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ԲԱՑ ԱԼԻՔ</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ԲԱՑԵԼ ԲՐԱՈՒՍԵՐՈՒՄ</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>խաղացող</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>ԽԱՂԱՑԵԼ ՀԱՎԵԼՎԱԾՈՒՄ</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>երգացանկեր</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>տեսացանկի տեսանյութեր</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Գաղտնիություն</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>մասնավոր</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Սահմանափակ API բանալի օգտագործվում է միայն կարդալու համար YouTube Data API v3 զանգերի համար: Կառավարվող տեղական կառուցման արժեքները մնում են թաքնված. այստեղ խնայողությունը գերակայում է նրանց:</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>հանրային տվյալների հասանելիություն</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>հանրային</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>ԹԱՐՄԱՑՆԵԼ</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>ԹԱՐՄԱՑՆԵԼ ՊՐՈՖԻԼԸ</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Անվտանգ ռեժիմը որոնումների համար օգտագործում է YouTube-ի խիստ SafeSearch կարգավորումը: Այն չի տրամադրում YouTube Kids-ի կատալոգը կամ զտիչը հանրաճանաչ, կատեգորիայի և հաշվի հոսքերը:</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>անվտանգ ռեժիմ</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Օգտագործեք խիստ SafeSearch-ը հանրային տեսանյութերի որոնումների համար</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>ՊԱՀՊԱՆԵԼ API ԲԱՆԱԼԸ</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ՊԱՀՊԱՆԵԼ ՄԱՏԵՆԸ</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>ՊԱՀՊԱՆԵՔ ՀԱՎԱՏԱՐՄԱՆՆԵՐԸ</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Տեսանյութ ընտրված չէ:</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>ԸՆՏՐԵԼ ՏԵՍԱՆՅՈՒԹ</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>կարգավորումները</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ՍԿՍԵԼ GOOGLE ՄՈՒՏՔԸ</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ԴՈՒՐՍ ԵՔ</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ՍԿՍԵԼ ԲԵՌՆՈՒՄԸ</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>բաժանորդագրություններ</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Վերնագիր</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Պահանջվում է</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>չցուցակված</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Դիտումների պատմությունը և Դիտել ավելի ուշ չեն ցուցադրվում որպես ընթեռնելի v3 հավաքածուներ: UniTube-ը չի ընդօրինակում կամ սխալ պիտակավորում դրանք:</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>չի աջակցվում YouTube Data API v3-ի կողմից</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>վերբեռնված տեսանյութեր</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>վերբեռնել</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Ընտրեք տեղական տեսանյութ, ապա վերբեռնեք այն ձեր լիազորված Google հաշվի միջոցով:</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>վերբեռնել տեսանյութ</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Պատրաստ է ընտրել տեսանյութ:</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Վերբեռնումների համար պահանջվում են OAuth-ի կարգավորումներ և Google-ի ավարտված մուտք Կարգավորումներից:</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>ՎԵՐԲԵՐԵԼ ՏԵՍԱՆՅՈՒԹ</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>տեսանյութի մանրամասները</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>ԴԻՏԵՔ ԴԻԳՆՈՍՏԻԿԱ</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>ԴԻՏԵՔ YOUTUBE-ում</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} կատեգորիաները հասանելի են {1}-ի համար:</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Կատեգորիաների բեռնում...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} տեսանյութերի բեռնում...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} հայտնի {1} տեսանյութեր {2}-ի համար:</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Ալիքի ID-ն անհրաժեշտ է:</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Ալիքի մանրամասների բեռնում...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} բաժանորդներ | {1:N0} տեսանյութեր | {2:N0} դիտումներ</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Հարցվող ալիքն անհասանելի է:</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ՓԱԿԵԼ</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>Չհաջողվեց միանալ YouTube Data API-ին: Ստուգեք ցանցային կապը:</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API-ի հարցումը սպառվել է: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>անհայտ</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google-ի թույլտվությունը մուտքի նշան չի տրամադրել: Նորից մուտք գործեք:</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google հաշվի մուտքը կազմաձևված չէ: Մուտք գործեք նախքան պրոֆիլը բացելը:</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Ավելացրեք Google API բանալի նախքան YouTube Data API v3 հանրային գործառույթներն օգտագործելը:</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Ալիքի ID-ն անհրաժեշտ է:</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Նույնականացված YouTube Data API-ն անվավեր պատասխան է վերադարձրել: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API-ն անվավեր պատասխան է վերադարձրել: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Պահանջվում է երգացանկի ID:</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 վերադարձվել է {0} ({1}): {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Մուտքագրեք տեքստը որոնման համար:</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Պահանջվում է վիդեո ID:</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Ախտորոշիչ գրանցամատյանը ջնջվել է:</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Ախտորոշիչ մատյանը պահվել է {0}-ում:</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Ախտորոշիչ իրադարձություններ չեն գրանցվել։</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Ախտորոշման մատյան պահելը չեղարկվել է:</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Չհաջողվեց պահպանել ախտորոշիչ մատյանը (0x{0}):</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Տեքստային ֆայլ</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Վերջին խաղը</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Տեսանյութի մետատվյալները պահանջվում են կենդանի սալիկը թարմացնելու համար:</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Թրենդային այժմ</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Թրենդային այժմ ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Թրենդային տեսանյութի վերնագիր է պահանջվում:</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google սարքի թույլտվության ժամկետը սպառվել է:</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google սարքի թույլտվությունը չի ավարտվել՝ {0}:</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Վերբեռնելուց առաջ Google-ի թույլտվությունը պետք է նորից լրացվի:</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google սարքի թույլտվությունը չհաջողվեց սկսել՝ {0}:</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Նախքան մուտք գործելը սահմանեք սահմանափակ մուտքագրման սարքի OAuth հաճախորդի ID:</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Սահմանեք սահմանափակ մուտքագրման սարքի OAuth հաճախորդի գաղտնիքը նախքան մուտք գործելը:</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google-ը մերժեց սահմանափակ մուտքագրման սարքի OAuth հաճախորդը (invalid_client): Ստուգեք հաճախորդի ID-ն և հաճախորդի գաղտնիքը:</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google-ը մերժեց սահմանափակ մուտքագրման սարքի OAuth հավատարմագրերը (invalid_client): Ստուգեք հաճախորդի ID-ն և հաճախորդի գաղտնիքը:</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google սարքի թույլտվությունը վերադարձրեց անվավեր պատասխան:</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google նշանի վերջնակետը վերադարձրեց անվավեր պատասխան:</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google սարքի թույլտվությունը չի վերադարձրել օգտագործելի հաստատման կոդը և URL-ը:</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google նշանի վերջնակետը մուտքի նշան չի վերադարձրել:</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Ոչ մի Google հաշիվ լիազորված չէ: Նախ սկսեք մուտք գործել:</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google-ն ավելի դանդաղ հարցում է խնդրել:</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Պահված OAuth նշանի ժամկետի ավարտը սխալ է: Նորից մուտք գործեք:</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Պահված OAuth նշանը սխալ ձևավորված է: Նորից մուտք գործեք:</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google նշանի թարմացումը ձախողվեց՝ {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google-ի թույլտվությունն ավարտվեց, սակայն Windows Credential Locker-ը չկարողացավ պահպանել նշանը (0x{0}):</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Ներծրագրի նվագարկիչը չկարողացավ բեռնել այս տեսանյութը: Փոխարենը բացեք այն բրաուզերում:</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>YouTube-ի դիտման պաշտոնական էջը բեռնվում է...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Հավելվածում նվագարկելու համար անհրաժեշտ է տեսանյութի ID:</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} տեսանյութեր</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Հանրաճանաչ տեսանյութերի բեռնում...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} հանրաճանաչ վիդեո արդյունքներ:</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} հանրաճանաչ վիդեո արդյունքներ: Windows-ը թույլ չտվեց թարմացնել կենդանի սալիկը:</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} հանրաճանաչ վիդեո արդյունքներ: Կենդանի սալիկն այժմ ցույց է տալիս լավագույն արդյունքը:</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} հանրաճանաչ վիդեո արդյունքներ: Ուղիղ սալիկը չհաջողվեց թարմացնել:</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google-ը այս հաշվին հասանելիություն չի տվել պրոֆիլի տվյալներին: Դուրս եկեք, նորից սկսեք Google-ի մուտքը և ընդունեք YouTube-ի միայն կարդալու շրջանակը:</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0}-ը հավանեց տեսանյութերը բեռնված:</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Հավանած տեսանյութերի հարցումը չհաջողվեց հասնել: Ստուգեք ցանցային կապը:</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Հավանած տեսանյութերի հարցումը սպառվել է: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Պրոֆիլը բեռնված է:</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Պրոֆիլը չհաջողվեց բեռնել {0} (0x{1}) ժամանակ: Մանրամասների համար բացեք Diagnostics-ը:</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Նույնականացված պրոֆիլը բեռնվում է...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Հավանած տեսանյութերի բեռնում...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Ավելի շատ հավանած տեսանյութերի բեռնում...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Տեսացանկի այլ տեսանյութերի բեռնում...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Ավելի շատ վերբեռնված տեսանյութերի բեռնում...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Տեսացանկի տեսանյութերի բեռնում...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} բաժանորդներ | {1:N0} տեսանյութեր | {2:N0} դիտումներ</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google-ը լիազորված հաշվի համար ալիք չի վերադարձրել:</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Հավանած տեսանյութեր չեն վերադարձվել:</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube-ը չի տրամադրել վերբեռնումների տեսացանկ այս ալիքի համար:</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} երգացանկերը բեռնված են: Ընտրեք մեկը՝ դրա տեսանյութերը դիտելու համար:</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Չհաջողվեց հասնել տեսացանկերի հարցումին: Ստուգեք ցանցային կապը:</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Երգացանկերի հարցումը սպառվել է: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} տեսացանկի տեսանյութերը բեռնված են:</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Տեսացանկի տեսանյութերի հարցումը չհաջողվեց հասնել: Ստուգեք ցանցային կապը:</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Տեսացանկի տեսանյութերի հարցումը սպառվել է: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Չհաջողվեց միանալ վավերացված YouTube API-ին: Ստուգեք ցանցային կապը:</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>YouTube-ի վավերացված հարցումը սպառվել է: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Ընտրեք Բեռնել հավանած տեսանյութերը՝ ձեր հավանած հավաքածուն խնդրելու համար:</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Ընտրեք վերևում գտնվող տեսացանկը՝ դրա տեսանյութերը բեռնելու համար:</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>ալիք</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>հավանել են տեսանյութերը</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>երգացանկեր</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>տեսացանկի տեսանյութեր</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>սկսած</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>բաժանորդագրություններ</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>վերբեռնված տեսանյութեր</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} բաժանորդագրությունները բեռնված են:</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Չհաջողվեց հասնել բաժանորդագրությունների հայտին: Ստուգեք ցանցային կապը:</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Բաժանորդագրությունների հարցումը սպառվել է: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Եթե այս հաշիվը լիազորված է եղել նախքան Պրոֆիլի ավելացումը, նորից մուտք գործեք՝ YouTube-ի միայն կարդալու շրջանակը տրամադրելու համար:</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} վերբեռնված տեսանյութերը բեռնված են:</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Վերբեռնված տեսանյութերի հարցումը չհաջողվեց հասնել: Ստուգեք ցանցային կապը:</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Վերբեռնված տեսանյութերի հարցումը սպառվել է: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Աջակցվող տարածաշրջանների բեռնում...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Աջակցվող շրջանները չհաջողվեց բեռնել: Ստուգեք ցանցային կապը:</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Աջակցվող տարածաշրջանները չհաջողվեց բեռնել, քանի որ YouTube Data API-ի հարցումը սպառվել է:</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube-ը չի վերադարձրել ոչ մի աջակցվող տարածաշրջան: Օգտագործելով Միացյալ Նահանգները.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Միացյալ Նահանգներ</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Մուտքագրեք API բանալի կամ օգտագործեք Մաքրել API ստեղնը:</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Պահանջվում է սահմանափակ մուտքային սարքի OAuth հաճախորդի ID:</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Պահանջվում է սահմանափակ մուտքագրման սարքի OAuth հաճախորդի գաղտնիք:</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Որոնում...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} հրապարակային տեսահոլովակների արդյունքներ:</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Այս հավելվածը կապված չէ Google-ի կամ YouTube-ի հետ:</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Կառուցել {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube-ը ժամանակակից UWP հավելված է՝ YouTube-ի հանրային API-ի միջոցով զննարկելու համար:</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Մշակված է:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Օգտագործելով ներկառուցված UniTube կոնֆիգուրացիա հանրային տվյալների համար: Այստեղ պահելը վերացնում է այն:</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Ոչ մի API բանալի կազմաձևված չէ:</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Ձեր API բանալին պահվում է Windows Credential Locker-ում:</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google-ի թույլտվությունը չեղարկվել է:</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google-ի թույլտվությունն ավարտված է: Հասանելի են պրոֆիլների ընթերցումներ և տեսանյութերի վերբեռնումներ:</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} կոդը սպառվում է {1:D2}:{2:D2}-ում: Google-ի ստուգում ամեն {3} վայրկյան:</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google-ի թույլտվությունը չկարողացավ կապվել նշանի վերջնական կետի հետ: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google-ի թույլտվությունը հեռացվել է: Նախքան պրոֆիլը բացելը կամ վերբեռնելը, սկսեք մուտք գործել Google-ում:</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google հաշիվը լիազորված է պրոֆիլի ընթերցումների և տեսանյութերի վերբեռնման համար: Նորից մուտք գործեք, եթե այս նշանը նախորդել է պրոֆիլին:</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google-ի թույլտվությունն անսպասելիորեն ձախողվեց (0x{0}): Հավելվածը վերագործարկելուց հետո բացեք Diagnostics-ը:</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Օգտագործելով ներկառուցված UniTube կոնֆիգուրացիան պրոֆիլի և վերբեռնումների համար: Նախ սկսեք Google-ի մուտքը:</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Սահմանափակ մուտքագրման սարքի OAuth հավատարմագրերը պահվեցին: Եթե ​​որևէ արժեք փոխվել է, վերբեռնելուց առաջ նորից մուտք գործեք:</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Պահված OAuth հավատարմագրերը կազմաձևված են: Նախքան պրոֆիլը բացելը կամ վերբեռնելը, սկսեք մուտք գործել Google-ում:</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Թերի պահպանված OAuth-ի փոխարինումն անտեսվել է: Օգտագործելով ներկառուցված UniTube կոնֆիգուրացիան պրոֆիլի և վերբեռնումների համար:</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Կառավարվող OAuth կազմաձևումը հասանելի է: Նախքան պրոֆիլը բացելը կամ վերբեռնելը, սկսեք մուտք գործել Google-ում:</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Պահպանեք OAuth-ի հավատարմագրերը, այնուհետև սկսեք Google-ի մուտքը նախքան պրոֆիլը բացելը կամ վերբեռնելը:</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Կոդ՝ {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Հաստատման կոդը ժամկետանց է: Նոր կոդ պահանջվում է...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Մուտքագրեք կոդը այդ բրաուզերում: Այս հեռախոսը կսպասի Google-ի թույլտվությանը:</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Ձեր նախորդ ծածկագիրը ժամկետանց է: Մուտքագրեք նոր կոդը այդ բրաուզերում:</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Ընթացիկ դիտարկիչով մեկ այլ հեռախոսի, պլանշետի կամ համակարգչի վրա այցելեք՝ {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Սպասում է Google-ի հաստատմանը:</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Վերբեռնումը չեղարկվել է: Մասամբ վերբեռնված վերսկսվող նիստը չշարունակվեց:</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Վերբեռնումը չեղարկվում է...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Վերբեռնումն ավարտված է: YouTube-ը մշակում է տեսանյութը։</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Վերբեռնումն ավարտված է: Տեսանյութի ID՝ {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Տեսանյութի նկարագրությունը պետք է լինի 5000 նիշ կամ ավելի քիչ:</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Ընտրեք վիդեո ֆայլ, որը պարունակում է տվյալներ:</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Ընտրված ֆայլն ավարտվել է իր հաղորդված երկարությունից առաջ:</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Վերբեռնելուց առաջ ընտրեք վիդեո ֆայլ:</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Ընտրված տեսանյութը չափազանց մեծ է վերբեռնելու համար:</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Վերբեռնումը չհաջողվեց հասնել YouTube-ին: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube-ը չի վերադարձրել վերբեռնման ավարտված պատասխանը:</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube-ը վերսկսվող վերբեռնման վայրը չի վերադարձրել:</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Ընտրեք անձնական, չցուցակված կամ հանրային գաղտնիություն:</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Վերբեռնված {0:N0} {1:N0} բայթ ({2:F0}%):</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Պատրաստ է վերբեռնել {0}:</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube-ի վերբեռնումը վերադարձվել է {0} ({1}): {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} բայթ)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Տեսանյութի ընտրությունը չեղարկվել է:</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Սկսվում է վերսկսվող վերբեռնումը...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Վերբեռնման ժամանակը սպառվել է: Ստուգեք ցանցային կապը և նորից փորձեք:</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Վերբեռնելուց առաջ մուտքագրեք վերնագիր:</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Տեսանյութի անվանումը պետք է լինի 100 նիշ կամ ավելի քիչ:</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Ընտրեք ճանաչված վիդեո ֆայլ:</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Տեսանյութի մանրամասների բեռնում...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Հրատարակված է {0} | {1:N0} դիտումներ | տեւողությունը {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Play in հավելվածում բացվում է YouTube-ի բջջային դիտման պաշտոնական էջը:</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Նվագարկումը սկսվեց, բայց դրա մետատվյալները չհաջողվեց պահել ուղիղ սալիկի համար:</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Նվագարկումը սկսվեց, բայց Windows-ը թույլ չտվեց թարմացնել կենդանի սալիկը:</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Նվագարկումը սկսվեց, բայց կենդանի սալիկը չհաջողվեց թարմացնել:</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Պահանջվող տեսանյութն անհասանելի է:</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Պահանջվում է վիդեո ID:</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Հատուկ շնորհակալություն</value>
+  </data>
+</root>

@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>OPINBER VAFRI</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>STILLINGAR</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>HEIM</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>LEIT</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>FLOKKAR</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFÍL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>uppgötva</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Nýjustu vinsælu myndböndin, í klassísku útliti símans fyrst.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>Í TRENDING NÚNA</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Hladdu vinsæl myndbönd fyrir þitt svæði</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>vinsæl myndbönd</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Veldu Vinsælt núna til að hlaða opinberum niðurstöðum.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>leit</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Finndu opinber YouTube myndbönd með API lyklinum þínum sem notandi útvegaði þér.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Leitarorð</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Leitaðu á YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>LEIT</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>VINSÆL</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>SVÆÐI</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>flokkum</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Pikkaðu á flokk til að stækka núverandi vinsæl vídeó hans. Pikkaðu aftur á það til að draga saman og veldu annað.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>prófíl</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Reikningsgögn tiltæk í gegnum staðfestu YouTube tenginguna þína.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>UM</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Hnekkingar Google API lykla</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Skildu eftir autt til að nota stýrðar stillingar</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ TIL baka</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>HÆTTA við</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>um þessa rás</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>upplýsingar um rásina</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>Hreinsa</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Persónuleg skilríki eru aðeins geymd í Windows persónuskilríkisskápnum.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Lýsing</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Valfrjálst</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>lýsingu</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Þessi annál skráir forritavillur og OAuth áfanga. Skilríki, heimildarkóðar og tákn eru undanskilin.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>greiningar</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Prófíllestur og upphleðsla notar Google sjónvörp og OAuth biðlara með takmörkuðu inntaki. Engin tilvísunar-URI er notuð. Stýrð staðbundin byggingargildi eru enn falin; vistun skilríkja hér hnekkir þeim.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google reikning</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Spilun í forriti notar opinbera áhorfssíðu YouTube fyrir farsíma. Þetta app dregur ekki út eða hleður niður vefslóðum.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>líkaði við myndbönd</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>HLAÐA MYNDBAND sem líkar við</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>HLAÐAÐU FLEIRI myndbönd sem líkað er við</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>HLAÐAÐU FLEIRI SPIGLISTA</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>HLAÐAÐU FLEIRI MYNDBANDI VIÐSLÍKULISTA</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>HLAÐU FLEIRI ÁSKRIFT</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>HLAÐAÐU FLEIRI UPPLÆÐUM MYNDBANDI</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Hnekkt OAuth biðlaraauðkenni með takmörkuðu inntaki</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Skildu eftir autt til að nota stýrðar stillingar</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Hnekking á leyndarmáli OAuth biðlara með takmörkuðu inntakstæki</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Skildu eftir autt til að nota stýrðar stillingar</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Vistaðu skilríki og ræstu síðan Google innskráningu. Staðfestingarkóði hér að neðan er sleginn inn í öðru tæki; þetta app opnar aldrei innskráningareyðublað. Skráðu þig inn aftur eftir þessa uppfærslu til að veita prófíl lesaðgang.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>OPNA RÁS</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>OPNA Í VAFA</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>leikmaður</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>SPILAÐU Í APP</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>lagalista</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>spilunarlista myndbönd</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Persónuvernd</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>einkaaðila</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Takmarkaður API lykill er aðeins notaður fyrir skrifvarið YouTube Data API v3 símtöl. Stýrð staðbundin byggingargildi eru enn falin; sparnaður hér hnekkir þeim.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>aðgangur almennings að gögnum</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>almennings</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>UPPFÆRSLA</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>UPPFÆRSLA PROFÍL</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Örugg stilling notar strangar SafeSearch stillingar YouTube fyrir leit. Það veitir ekki YouTube Kids vörulista eða sía vinsæla, flokka og reikningsstrauma.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>öruggur háttur</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Notaðu stranga SafeSearch fyrir opinbera vídeóleit</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>SAVE API LYKILL</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>SPARA LOG</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>SPARAÐU SKIPTI</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Ekkert myndband valið.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>VELDU MYNDBAND</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>stillingar</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>BYRJAÐU GOOGLE INNskráningu</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>SKRÁÐU ÚT</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>BYRJA HLAÐA</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>áskriftum</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Titill</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Áskilið</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>óskráð</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Horfasögu og Horfa síðar eru ekki afhjúpuð sem læsileg v3 söfn. UniTube does not emulate or mislabel them.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>unsupported by YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>hlaðið upp myndböndum</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>hlaða upp</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Veldu staðbundið myndband og hladdu því síðan upp í gegnum viðurkennda Google reikninginn þinn.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>hlaða upp myndbandi</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Tilbúinn til að velja myndband.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Upphleðslur krefjast OAuth stillinga og fullgerðrar Google innskráningar frá stillingum.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>HLAÐA VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>upplýsingar um myndbandið</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>SKOÐA GREININGU</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>HORFA Á YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} flokkar í boði fyrir {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Hleður flokkum...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Hleður {0} myndböndum...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} vinsæl {1} myndbönd fyrir {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Rásaauðkenni er krafist.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Hleður rásarupplýsingum...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} áskrifendur | {1:N0} myndbönd | {2:N0} skoðanir</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>The requested channel is unavailable.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>LOKAÐ</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>The YouTube Data API could not be reached. Check the network connection.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>The YouTube Data API request timed out. Check the network connection and try again.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>óþekkt</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google heimild gaf ekki aðgangslykil. Skráðu þig inn aftur.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google account access is not configured. Sign in before opening Profile.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Bættu við Google API lykli áður en þú notar opinbera YouTube Data API v3 eiginleika.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Rásaauðkenni er krafist.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Staðfesta YouTube Data API skilaði ógildu svari. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API skilaði ógildu svari. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Auðkenni lagalista er krafist.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 skilaði {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Sláðu inn texta til að leita að.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Auðkenni myndbands er krafist.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Greiningarskrá hreinsuð.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Greiningarskrá vistuð í {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Engir greiningaratburðir hafa verið skráðir.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Hætt var við að vista greiningarskrána.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Ekki tókst að vista greiningarskrána (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Textaskrá</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Síðast spilað</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Vídeólýsigögn eru nauðsynleg til að uppfæra lifandi flísar.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Vinsælt núna</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Vinsælt núna ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Áskilið er vinsælt vídeótitil.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google tækisheimild rann út.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google tækisheimild var ekki lokið: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Ljúka þarf við Google heimild aftur áður en hlaðið er upp.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google tækisheimild gat ekki ræst: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Stilltu OAuth biðlaraauðkenni tækis með takmörkuðu inntaki áður en þú skráir þig inn.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Stilltu OAuth biðlara leyndarmál tækisins með takmörkuðu inntaki áður en þú skráir þig inn.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google hafnaði OAuth biðlara tækisins með takmarkað inntak (invalid_client). Athugaðu auðkenni viðskiptavinarins og leyndarmál viðskiptavinarins.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google hafnaði OAuth-skilríkjum tækisins með takmörkuðu inntaki (ógildur_viðskiptavinur). Athugaðu auðkenni viðskiptavinarins og leyndarmál viðskiptavinarins.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google tækisheimild skilaði ógildu svari.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Endpunktur Google tákns skilaði ógildu svari.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google tækisheimild skilaði ekki nothæfum staðfestingarkóða og vefslóð.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Endapunktur Google tákns skilaði ekki aðgangslykil.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Enginn Google reikningur hefur heimild. Byrjaðu innskráningu fyrst.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google óskaði eftir hægari skoðanakönnun.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Útrunnið á geymdum OAuth-táknum er rangt. Skráðu þig inn aftur.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Vistað OAuth auðkenni er gallað. Skráðu þig inn aftur.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Uppfærsla Google tákns mistókst: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google heimild lokið, en Windows Credential Locker gat ekki vistað táknið (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Spilarinn í forritinu gat ekki hlaðið þessu myndbandi. Opnaðu það í vafranum í staðinn.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Hleður opinberu áhorfssíðu YouTube...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Myndbandsauðkenni er krafist fyrir spilun í forriti.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} myndbönd</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Hleður vinsæl vídeó...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} vinsælar myndbandsniðurstöður.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} vinsælar myndbandsniðurstöður. Windows leyfði ekki lifandi flísinni að uppfæra.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} vinsælar myndbandsniðurstöður. Lifandi spjaldið sýnir nú efstu niðurstöðuna.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} vinsælar myndbandsniðurstöður. Ekki var hægt að uppfæra lifandi flísinn.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google veitti þessum reikningi ekki aðgang að prófílgögnum. Skráðu þig út, byrjaðu Google innskráningu aftur og samþykktu skrifvarið umfang YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} líkaði við myndbönd hlaðin.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Ekki tókst að ná í beiðni um líkuð vídeó. Athugaðu nettenginguna.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Beiðni um líkuð vídeó rann út á tíma. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Prófíll hlaðinn.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Snið gat ekki hlaðið meðan á {0} (0x{1}) stóð. Opnaðu Diagnostics fyrir frekari upplýsingar.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Hleður staðfestan prófíl...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Hleður myndskeiðum sem líkar við...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Hleður fleiri myndböndum sem líkað er við...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Hleður fleiri spilunarlistamyndböndum...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Hleður fleiri upphlöðnum vídeóum...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Hleður myndskeiðum á spilunarlista...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} áskrifendur | {1:N0} myndbönd | {2:N0} skoðanir</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google skilaði engri rás fyrir viðurkennda reikninginn.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Engum vídeóum sem líkað var við var skilað.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube gaf ekki upp spilunarlista fyrir þessa rás.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} spilunarlistar hlaðnir. Veldu einn til að skoða myndbönd þess.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Ekki náðist í beiðni um spilunarlista. Athugaðu nettenginguna.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Beiðni um spilunarlista rann út á tíma. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} spilunarlista myndbönd hlaðin.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Ekki tókst að ná í beiðni um myndskeið á spilunarlistanum. Athugaðu nettenginguna.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Beiðni um spilunarlista myndskeiða rann út á tíma. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Ekki tókst að ná í staðfesta YouTube API. Athugaðu nettenginguna.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Staðfesta YouTube beiðnin rann út á tíma. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Veldu Hlaða líkað myndböndum til að biðja um safn sem þér líkaði við.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Veldu spilunarlista hér að ofan til að hlaða myndböndum hans.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>rás</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>líkaði við myndbönd</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>lagalista</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>spilunarlista myndbönd</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>byrja</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>áskriftum</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>hlaðið upp myndböndum</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} áskriftir hlaðnar.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Ekki tókst að ná í áskriftarbeiðnina. Athugaðu nettenginguna.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Áskriftarbeiðnin rann út á tíma. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Ef þessi reikningur var heimilaður áður en prófílnum var bætt við skaltu skrá þig inn aftur til að veita YouTube skrifvarið svigrúm.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} hlaðið upp myndböndum.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Ekki tókst að ná í beiðni um hlaðið vídeó. Athugaðu nettenginguna.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Beiðni um hlaðið vídeó rann út á tíma. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Hleður studdum svæðum...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Ekki tókst að hlaða studdum svæðum. Athugaðu nettenginguna.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Ekki tókst að hlaða studdum svæðum vegna þess að YouTube Data API beiðni rann út á tíma.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube skilaði engum studdum svæðum. Að nota Bandaríkin.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Bandaríkin</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Sláðu inn API lykil eða notaðu Hreinsa API lykil.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>OAuth biðlaraauðkenni tækis með takmörkuðu inntaki er krafist.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Áskilið er OAuth biðlaraleyndarmál tækis með takmörkuðu inntaki.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Leitar...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} opinberar myndbandsniðurstöður.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Þetta app er ekki tengt Google eða YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Byggja {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube er nútímalegt UWP forrit til að vafra um YouTube í gegnum opinbera API YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Þróað af:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Notar innbyggða UniTube uppsetningu fyrir opinber gögn. Að vista hér hnekkir því.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Enginn API lykill er stilltur.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>API lykillinn þinn er geymdur í Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google heimild afturkölluð.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google heimild lokið. Prófíllestur og upphleðsla myndskeiða eru í boði.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Kóði rennur út í {1:D2}:{2:D2}. Athugar Google á {3} sekúndu fresti.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google heimild gat ekki haft samband við endapunkt táknsins. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google heimild fjarlægð. Byrjaðu Google innskráningu áður en þú opnar prófíl eða hleður upp.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google reikningur hefur heimild til að lesa prófíl og hlaða upp myndskeiðum. Skráðu þig inn aftur ef þetta tákn er á undan prófílnum.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google heimild mistókst óvænt (0x{0}). Opnaðu Diagnostics eftir að þú hefur endurræst forritið.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Notar innbyggða UniTube stillingu fyrir prófíl og upphleðslur. Byrjaðu Google innskráningu fyrst.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>OAuth-skilríki með takmörkuðu inntaki vistuð. Ef annað hvort gildið hefur breyst skaltu skrá þig inn aftur áður en þú hleður upp.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Vistað OAuth skilríki eru stillt. Byrjaðu Google innskráningu áður en þú opnar prófíl eða hleður upp.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Ófullnægjandi vistað OAuth hnekking var hunsuð. Notar innbyggða UniTube stillingu fyrir prófíl og upphleðslur.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Stýrð OAuth stilling er í boði. Byrjaðu Google innskráningu áður en þú opnar prófíl eða hleður upp.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Vistaðu OAuth skilríki og ræstu síðan Google innskráningu áður en þú opnar prófíl eða hleður upp.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kóði: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Staðfestingarkóði rann út. Óskað eftir nýjum kóða...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Sláðu inn kóðann í þeim vafra. Þessi sími mun bíða eftir Google heimild.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Fyrri kóðinn þinn rann út. Sláðu inn nýja kóðann í þeim vafra.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Í öðrum síma, spjaldtölvu eða tölvu með núverandi vafra skaltu fara á: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Bíður eftir samþykki Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Hætt við upphleðslu. Ekki var haldið áfram með endurupptökulotu að hluta til.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Hættir við upphleðslu...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Upphleðslu lokið. YouTube er að vinna úr myndbandinu.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Upphleðslu lokið. Auðkenni myndbands: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Lýsing myndbandsins verður að vera 5000 stafir eða færri.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Veldu myndbandsskrá sem inniheldur gögn.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Valin skrá endaði áður en lengd hennar var tilkynnt.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Veldu myndbandsskrá áður en þú hleður upp.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Valið myndband er of stórt til að hlaða upp.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Upphleðslan náði ekki til YouTube. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube skilaði ekki fullkláruðu upphleðslusvari.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube skilaði ekki upphleðslustað sem hægt er að halda áfram.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Veldu einkalíf, óskráð eða opinbert næði.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} af {1:N0} bætum hlaðið upp ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Tilbúinn til að hlaða upp {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube upphleðsla skilaði {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bæti)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Hætt var við val á myndbandi.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Byrjar að endurhlaða upphleðslu...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Upphleðslan rann út á tíma. Athugaðu nettenginguna og reyndu aftur.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Sláðu inn titil áður en þú hleður upp.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Titill myndbandsins verður að vera 100 stafir eða færri.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Veldu viðurkennda myndbandsskrá.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Hleður vídeóupplýsingum...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Gefið út {0} | {1:N0} skoðanir | lengd {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Spila í appi opnar opinbera áhorfssíðu YouTube fyrir farsíma.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Spilun hófst en ekki var hægt að vista lýsigögn þess fyrir lifandi flísinn.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Spilun hófst en Windows leyfði ekki lifandi flísinni að uppfærast.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Spilun hófst en ekki var hægt að uppfæra lifandi flísinn.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Umbeðið myndband er ekki tiltækt.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Auðkenni myndbands er krafist.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Sérstakar þakkir</value>
+  </data>
+</root>

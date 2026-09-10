@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>TRÌNH DUYỆT CÔNG CỘNG</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>CÀI ĐẶT</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>TRANG CHỦ</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>TÌM KIẾM</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>THỂ LOẠI</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>HỒ SƠ</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>phát hiện</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Các video phổ biến mới nhất, có bố cục cổ điển ưu tiên điện thoại.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>XU HƯỚNG NGAY BÂY GIỜ</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Tải các video phổ biến cho khu vực của bạn</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>video phổ biến</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Chọn Thịnh hành ngay để tải kết quả công khai.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>tìm kiếm</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Tìm video YouTube công khai bằng khóa API do người dùng cung cấp.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Cụm từ tìm kiếm</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Tìm kiếm YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>TÌM KIẾM</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>PHỔ BIẾN</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>VÙNG ĐẤT</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>Thể loại</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Nhấn vào một danh mục để mở rộng các video phổ biến hiện tại của danh mục đó. Nhấn vào nó một lần nữa để thu gọn và chọn một cái khác.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>hồ sơ</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Dữ liệu tài khoản có sẵn thông qua kết nối YouTube đã được xác thực của bạn.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>GIỚI THIỆU</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Ghi đè khóa Google API</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Để trống để sử dụng cấu hình được quản lý</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>ĐƠN VỊ</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ TRỞ LẠI</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>HỦY</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>về kênh này</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>chi tiết kênh</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>RÕ RÀNG</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Thông tin xác thực cá nhân chỉ được lưu trữ trong Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Mô tả</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Tùy chọn</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>mô tả</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Nhật ký này ghi lại các lỗi ứng dụng và các mốc quan trọng của OAuth. Thông tin xác thực, mã ủy quyền và mã thông báo bị loại trừ.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>chẩn đoán</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Việc đọc và tải lên hồ sơ sử dụng ứng dụng khách OAuth của Google TV và thiết bị đầu vào có giới hạn. Không có URI chuyển hướng nào được sử dụng. Các giá trị bản dựng cục bộ được quản lý vẫn bị ẩn; lưu thông tin xác thực ở đây sẽ ghi đè chúng.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>tài khoản google</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Tính năng phát lại trong ứng dụng sử dụng trang xem chính thức trên thiết bị di động của YouTube. Ứng dụng này không trích xuất hoặc tải xuống URL phương tiện.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>video thích</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>TẢI VIDEO THÍCH</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>TẢI THÊM VIDEO ĐƯỢC THÍCH</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>TẢI THÊM DANH SÁCH PHÁT</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>TẢI THÊM DANH SÁCH PHÁT VIDEO</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>TẢI THÊM ĐĂNG KÝ</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>TẢI THÊM VIDEO ĐÃ TẢI LÊN</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Ghi đè ID ứng dụng khách OAuth của thiết bị đầu vào có giới hạn</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Để trống để sử dụng cấu hình được quản lý</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Ghi đè bí mật máy khách OAuth của thiết bị đầu vào có giới hạn</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Để trống để sử dụng cấu hình được quản lý</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Lưu thông tin đăng nhập, sau đó bắt đầu đăng nhập bằng Google. Mã xác minh bên dưới được nhập trên thiết bị khác; ứng dụng này không bao giờ mở biểu mẫu đăng nhập. Đăng nhập lại sau bản cập nhật này để cấp quyền truy cập đọc hồ sơ.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>MỞ KÊNH</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>MỞ TRÊN TRÌNH DUYỆT</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>người chơi</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>CHƠI TRONG ỨNG DỤNG</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>danh sách phát</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>danh sách phát video</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Quyền riêng tư</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>riêng tư</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Khóa API bị hạn chế chỉ được sử dụng cho lệnh gọi API dữ liệu YouTube phiên bản 3 chỉ đọc. Các giá trị bản dựng cục bộ được quản lý vẫn bị ẩn; lưu ở đây sẽ ghi đè chúng.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>truy cập dữ liệu công cộng</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>công khai</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>LÀM MỚI</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>LÀM MỚI HỒ SƠ</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Chế độ An toàn sử dụng cài đặt Tìm kiếm An toàn nghiêm ngặt của YouTube cho các tìm kiếm. Nó không cung cấp danh mục YouTube Kids hoặc bộ lọc các nguồn cấp dữ liệu phổ biến, danh mục và tài khoản.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>chế độ an toàn</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Sử dụng tính năng Tìm kiếm an toàn nghiêm ngặt để tìm kiếm video công khai</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>LƯU KHÓA API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>LƯU NHẬT KÝ</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>LƯU THÔNG TIN XÁC NHẬN</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Không có video nào được chọn.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>CHỌN VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>cài đặt</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>BẮT ĐẦU ĐĂNG NHẬP GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ĐĂNG NHẬP</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>BẮT ĐẦU TẢI LÊN</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>đăng ký</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Tiêu đề</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Bắt buộc</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>không niêm yết</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Lịch sử xem và Xem sau không được hiển thị dưới dạng bộ sưu tập v3 có thể đọc được. UniTube không mô phỏng hoặc dán nhãn sai cho chúng.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>không được API dữ liệu YouTube v3 hỗ trợ</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>video đã tải lên</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>tải lên</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Chọn một video cục bộ, sau đó tải video đó lên thông qua tài khoản Google được ủy quyền của bạn.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>tải video lên</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Sẵn sàng để chọn một video.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Tải lên yêu cầu cài đặt OAuth và đăng nhập Google hoàn tất từ Cài đặt.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>TẢI VIDEO LÊN</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>chi tiết video</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>XEM CHẨN ĐOÁN</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>XEM TRÊN YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>Các danh mục {0:N0} có sẵn cho {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Đang tải danh mục...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Đang tải video {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} video {1} phổ biến dành cho {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Cần có ID kênh.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Đang tải chi tiết kênh...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>Người đăng ký {0:N0} | Video {1:N0} | lượt xem {2:N0}</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Kênh được yêu cầu không khả dụng.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ĐÓNG</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>Không thể truy cập API dữ liệu YouTube. Kiểm tra kết nối mạng.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Yêu cầu API dữ liệu YouTube đã hết thời gian chờ. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>không rõ</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Ủy quyền của Google không cung cấp mã thông báo truy cập. Đăng nhập lại.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Quyền truy cập tài khoản Google chưa được định cấu hình. Đăng nhập trước khi mở Hồ sơ.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Thêm khóa API Google trước khi sử dụng các tính năng API dữ liệu YouTube phiên bản 3 công khai.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Cần có ID kênh.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>API dữ liệu YouTube đã xác thực đã trả về phản hồi không hợp lệ. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>API dữ liệu YouTube trả về phản hồi không hợp lệ. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Cần có ID danh sách phát.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>API dữ liệu YouTube v3 trả về {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Nhập văn bản để tìm kiếm.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Cần có ID video.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Đã xóa nhật ký chẩn đoán.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Nhật ký chẩn đoán được lưu vào {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Không có sự kiện chẩn đoán nào được ghi lại.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Việc lưu nhật ký chẩn đoán đã bị hủy.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Không thể lưu nhật ký chẩn đoán (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>tập tin văn bản</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Chơi lần cuối</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Cần có siêu dữ liệu video để cập nhật ô trực tiếp.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Đang thịnh hành</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Đang thịnh hành ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Tiêu đề video thịnh hành là bắt buộc.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Ủy quyền thiết bị Google đã hết hạn.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Ủy quyền thiết bị Google chưa được hoàn thành: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Cần phải hoàn tất lại ủy quyền của Google trước khi tải lên.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Ủy quyền thiết bị Google không thể khởi động: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Đặt ID ứng dụng khách OAuth của thiết bị đầu vào có giới hạn trước khi đăng nhập.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Đặt bí mật ứng dụng khách OAuth của thiết bị đầu vào có giới hạn trước khi đăng nhập.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google đã từ chối ứng dụng khách OAuth của thiết bị đầu vào có giới hạn (invalid_client). Kiểm tra ID khách hàng và bí mật khách hàng.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google đã từ chối thông tin xác thực OAuth của thiết bị đầu vào có giới hạn (invalid_client). Kiểm tra ID khách hàng và bí mật khách hàng.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Ủy quyền thiết bị của Google đã trả lại phản hồi không hợp lệ.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Điểm cuối mã thông báo của Google trả về phản hồi không hợp lệ.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Ủy quyền thiết bị của Google không trả lại mã và URL xác minh có thể sử dụng được.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Điểm cuối mã thông báo Google không trả lại mã thông báo truy cập.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Không có tài khoản Google nào được ủy quyền. Bắt đầu đăng nhập trước.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google yêu cầu bỏ phiếu chậm hơn.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Hết hạn mã thông báo OAuth được lưu trữ không đúng định dạng. Đăng nhập lại.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Mã thông báo OAuth được lưu trữ không đúng định dạng. Đăng nhập lại.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Làm mới mã thông báo Google không thành công: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Ủy quyền của Google đã hoàn tất nhưng Windows Credential Locker không thể lưu mã thông báo (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Trình phát trong ứng dụng không thể tải video này. Thay vào đó hãy mở nó trong trình duyệt.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Đang tải trang xem YouTube chính thức...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Cần có ID video để phát lại trong ứng dụng.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>video {0:N0}</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Đang tải các video phổ biến...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>Kết quả video phổ biến {0:N0}.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>Kết quả video phổ biến {0:N0}. Windows không cho phép cập nhật ô trực tiếp.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>Kết quả video phổ biến {0:N0}. Ô trực tiếp hiện hiển thị kết quả hàng đầu.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>Kết quả video phổ biến {0:N0}. Không thể cập nhật ô trực tiếp.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google không cấp cho tài khoản này quyền truy cập vào dữ liệu hồ sơ. Đăng xuất, bắt đầu đăng nhập lại vào Google và chấp nhận phạm vi chỉ đọc của YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} đã tải video thích.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Không thể đạt được yêu cầu video đã thích. Kiểm tra kết nối mạng.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Yêu cầu video thích đã hết thời gian chờ. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Đã tải hồ sơ.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Hồ sơ không thể tải trong {0} (0x{1}). Mở Chẩn đoán để biết chi tiết.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Đang tải hồ sơ được xác thực...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Đang tải video đã thích...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Đang tải thêm video thích...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Đang tải thêm danh sách video...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Đang tải thêm video đã tải lên...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Đang tải video danh sách phát...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>Người đăng ký {0:N0} | Video {1:N0} | lượt xem {2:N0}</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google không trả lại kênh nào cho tài khoản được ủy quyền.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Không có video thích nào được trả lại.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube không cung cấp danh sách phát tải lên cho kênh này.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>Đã tải danh sách phát {0:N0}. Chọn một để xem video của nó.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Không thể đạt được yêu cầu danh sách phát. Kiểm tra kết nối mạng.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Yêu cầu danh sách phát đã hết thời gian chờ. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>Đã tải video danh sách phát {0:N0}.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Không thể đạt được yêu cầu video danh sách phát. Kiểm tra kết nối mạng.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Yêu cầu video danh sách phát đã hết thời gian chờ. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Không thể truy cập API YouTube đã xác thực. Kiểm tra kết nối mạng.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Yêu cầu YouTube được xác thực đã hết thời gian chờ. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Chọn Tải video đã thích để yêu cầu bộ sưu tập bạn thích.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Chọn danh sách phát ở trên để tải video của danh sách đó.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kênh</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>video thích</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>danh sách phát</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>danh sách phát video</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>bắt đầu</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>đăng ký</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>video đã tải lên</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>Đã tải đăng ký {0:N0}.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Không thể đạt được yêu cầu đăng ký. Kiểm tra kết nối mạng.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Yêu cầu đăng ký đã hết thời gian chờ. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Nếu tài khoản này được ủy quyền trước khi thêm Hồ sơ, hãy đăng nhập lại để cấp phạm vi chỉ đọc cho YouTube.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} tải video đã tải lên.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Không thể đạt được yêu cầu video đã tải lên. Kiểm tra kết nối mạng.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Yêu cầu video đã tải lên đã hết thời gian chờ. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Đang tải các khu vực được hỗ trợ...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Không thể tải các khu vực được hỗ trợ. Kiểm tra kết nối mạng.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Không thể tải các khu vực được hỗ trợ vì yêu cầu API dữ liệu YouTube đã hết thời gian chờ.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube không trả lại bất kỳ khu vực được hỗ trợ nào. Sử dụng Hoa Kỳ.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Hoa Kỳ</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Nhập khóa API hoặc sử dụng khóa API rõ ràng.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Cần có ID ứng dụng khách OAuth của thiết bị đầu vào có giới hạn.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Cần có bí mật ứng dụng khách OAuth của thiết bị đầu vào có giới hạn.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Đang tìm kiếm...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>Kết quả video công khai {0:N0}.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Ứng dụng này không liên kết với Google hoặc YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Xây dựng {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube là một ứng dụng UWP hiện đại để duyệt YouTube thông qua API công khai của YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Được phát triển bởi:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Sử dụng cấu hình UniTube tích hợp cho dữ liệu công cộng. Việc lưu ở đây sẽ ghi đè lên nó.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Không có khóa API nào được định cấu hình.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Khóa API của bạn được lưu trữ trong Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Ủy quyền của Google đã bị hủy.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Ủy quyền của Google đã hoàn tất. Đọc hồ sơ và tải lên video có sẵn.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>Mã {0} hết hạn vào {1:D2}:{2:D2}. Kiểm tra Google mỗi giây {3}.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Ủy quyền của Google không thể liên hệ với điểm cuối mã thông báo. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Ủy quyền của Google đã bị xóa. Bắt đầu đăng nhập Google trước khi mở Hồ sơ hoặc tải lên.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Tài khoản Google được ủy quyền để đọc hồ sơ và tải video lên. Đăng nhập lại nếu mã thông báo này có trước Hồ sơ.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Ủy quyền của Google không thành công đột ngột (0x{0}). Mở Chẩn đoán sau khi khởi động lại ứng dụng.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Sử dụng cấu hình UniTube tích hợp cho Hồ sơ và tải lên. Bắt đầu đăng nhập bằng Google trước.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Đã lưu thông tin xác thực OAuth của thiết bị đầu vào có giới hạn. Nếu một trong hai giá trị thay đổi, hãy đăng nhập lại trước khi tải lên.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Thông tin đăng nhập OAuth đã lưu được định cấu hình. Bắt đầu đăng nhập Google trước khi mở Hồ sơ hoặc tải lên.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Ghi đè OAuth được lưu chưa hoàn chỉnh đã bị bỏ qua. Sử dụng cấu hình UniTube tích hợp cho Hồ sơ và tải lên.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Đã có sẵn cấu hình OAuth được quản lý. Bắt đầu đăng nhập Google trước khi mở Hồ sơ hoặc tải lên.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Lưu thông tin xác thực OAuth, sau đó bắt đầu đăng nhập bằng Google trước khi mở Hồ sơ hoặc tải lên.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Mã số: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Mã xác minh đã hết hạn. Đang yêu cầu mã mới...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Nhập mã vào trình duyệt đó. Điện thoại này sẽ chờ sự cho phép của Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Mã trước đó của bạn đã hết hạn. Nhập mã mới vào trình duyệt đó.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Trên điện thoại, máy tính bảng hoặc máy tính khác có trình duyệt hiện tại, hãy truy cập: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Đang chờ sự chấp thuận của Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Đã hủy tải lên. Phiên tiếp tục được tải lên một phần đã không được tiếp tục.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Đang hủy tải lên...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Tải lên đã hoàn tất. YouTube đang xử lý video.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Tải lên đã hoàn tất. ID video: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Mô tả video phải có 5000 ký tự trở xuống.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Chọn tệp video có chứa dữ liệu.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Tệp đã chọn đã kết thúc trước độ dài được báo cáo.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Chọn một tập tin video trước khi tải lên.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Video đã chọn quá lớn để tải lên.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Nội dung tải lên không thể truy cập YouTube. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube không trả lại phản hồi tải lên hoàn chỉnh.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube không trả lại vị trí tải lên có thể tiếp tục.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Chọn quyền riêng tư riêng tư, không công khai hoặc công khai.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Đã tải lên {0:N0} trong số {1:N0} byte ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Sẵn sàng tải lên {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>Nội dung tải lên YouTube trả về {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} byte)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Lựa chọn video đã bị hủy.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Đang bắt đầu tiếp tục tải lên...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Đã hết thời gian tải lên. Hãy kiểm tra kết nối mạng và thử lại.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Nhập tiêu đề trước khi tải lên.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Tiêu đề video phải có 100 ký tự trở xuống.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Chọn một tập tin video được công nhận.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Đang tải chi tiết video...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Đã xuất bản {0} | {1:N0} lượt xem | thời lượng {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Phát trong ứng dụng sẽ mở trang xem chính thức trên thiết bị di động của YouTube.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Quá trình phát lại đã bắt đầu nhưng không thể lưu siêu dữ liệu cho ô trực tiếp.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Quá trình phát lại đã bắt đầu nhưng Windows không cho phép cập nhật ô trực tiếp.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Đã bắt đầu phát lại nhưng không thể cập nhật ô trực tiếp.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Video được yêu cầu không có sẵn.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Cần có ID video.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Lời cảm ơn đặc biệt</value>
+  </data>
+</root>

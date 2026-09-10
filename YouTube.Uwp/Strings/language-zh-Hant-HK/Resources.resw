@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>公共瀏覽器</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>主頁</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>搜尋</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>類別</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>個人資料</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>發現</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>最新熱門視頻，採用經典的手機優先佈局。</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>現在流行</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>加載您所在地區的熱門視頻</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>熱門視頻</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>選擇“立即趨勢”以載入公共結果。</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>搜尋</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>使用用戶提供的 API 金鑰來尋找公共 YouTube 影片。</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>搜尋詞</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>搜尋 YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>搜尋</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>熱門</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>地區</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>類別</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>點擊一個類別即可擴展其當前熱門影片。再次點擊它即可折疊並選擇另一個。</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>個人資料</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>可透過經過驗證的 YouTube 連線取得帳戶資料。</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>關於</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API 金鑰覆蓋</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>留空以使用託管配置</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UniTube</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>← 返回</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>關於這個頻道</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>頻道詳情</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>清除</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>個人憑證僅儲存在 Windows Credential Locker 中。</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>描述</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>可選</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>描述</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>此日誌記錄應用程式錯誤和 OAuth 里程碑。憑證、授權碼和令牌不包括在內。</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>診斷</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>設定檔讀取和上傳使用 Google TV 和有限輸入裝置 OAuth 用戶端。不使用重定向 URI。託管的本機建置值仍然隱藏；在這裡保存憑證會覆蓋它們。</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>谷歌帳戶</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>應用程式內播放使用 YouTube 的官方行動觀看頁面。此應用程式不會提取或下載媒體 URL。</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>喜歡的視頻</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>載入喜歡的視頻</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>加載更多喜歡的視頻</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>載入更多播放列表</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>載入更多播放清單視頻</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>載入更多訂閱</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>載入更多已上傳的視頻</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>有限輸入設備 OAuth 用戶端 ID 覆蓋</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>留空以使用託管配置</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>有限輸入設備 OAuth 用戶端金鑰覆蓋</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>留空以使用託管配置</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>儲存憑證，然後啟動 Google 登入。以下驗證碼是在其他裝置上輸入的；這個應用程式永遠不會開啟登入表單。在此更新後再次登入以授予設定檔讀取權限。</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>開放通路</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>在瀏覽器中開啟</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>玩家</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>在應用程式中玩</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>播放清單</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>播放清單視頻</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>隱私</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>私人的</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>受限 API 金鑰僅用於只讀 YouTube 資料 API v3 呼叫。託管的本機建置值仍然隱藏；在這裡保存會覆蓋它們。</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>公共資料存取</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>公開的</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>重新整理</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>刷新個人資料</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>安全模式使用 YouTube 嚴格的安全搜尋設定進行搜尋。它不提供 YouTube Kids 目錄或過濾熱門、類別和帳戶供稿。</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>安全模式</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>使用嚴格的安全搜索進行公共視頻搜索</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>保存 API 金鑰</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>保存日誌</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>保存憑證</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>未選擇影片。</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>選擇影片</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>開始谷歌登入</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>退出</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>開始上傳</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>訂閱</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>標題</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>必填</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>未上市的</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>觀看歷史記錄和稍後觀看不會作為可讀的 v3 集合公開。 UniTube 不會模仿或錯誤標記它們。</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>YouTube 資料 API v3 不支持</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>上傳的影片</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>上傳</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>選擇本地視頻，然後透過您授權的 Google 帳戶上傳。</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>上傳影片</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>準備好選擇影片。</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>上傳需要 OAuth 設定並透過「設定」完成 Google 登入。</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>上傳影片</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>影片詳情</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>查看診斷</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>在 YouTube 上觀看</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} 類別適用於 {1}。</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>正在載入類別...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>正在載入{0} 影片...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} {2} 的熱門 {1} 影片。</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>需要通道 ID。</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>正在加載頻道詳細資訊...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} 訂閱者 | {1:N0} 影片 | {2:N0} 瀏覽次數</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>請求的頻道不可用。</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>無法存取 YouTube 資料 API。檢查網路連線。</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube 資料 API 請求逾時。檢查網路連線並重試。</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>未知</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google 授權未提供存取令牌。再次登入。</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>未配置 Google 帳戶存取權限。打開個人資料之前先登入。</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>在使用公共 YouTube 資料 API v3 功能之前新增 Google API 金鑰。</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>需要通道 ID。</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>經過身份驗證的 YouTube 資料 API 傳回了無效回應。檢查網路連線並重試。</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube 資料 API 傳回了無效回應。檢查網路連線並重試。</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>需要播放清單 ID。</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube 資料 API v3 回傳了 {0} ({1})。 {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>輸入要搜尋的文字。</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>需要視訊 ID。</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>診斷日誌已清除。</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>診斷日誌儲存到 {0}。</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>沒有記錄任何診斷事件。</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>儲存診斷日誌已取消。</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>無法儲存診斷日誌 (0x{0})。</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>文字檔案</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>最後玩過</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>更新動態圖塊需要視訊元資料。</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>現在流行</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>現在流行 ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>需要一個熱門影片標題。</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google 裝置授權已過期。</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google 裝置授權未完成：{0}。</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>上傳前需再次完成Google授權。</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google 裝置授權無法啟動：{0}。</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>登入前設定限制輸入裝置 OAuth 用戶端 ID。</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>登入前設定有限輸入設備 OAuth 用戶端金鑰。</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google 拒絕了有限輸入裝置 OAuth 用戶端 (invalid_client)。檢查客戶端 ID 和客戶端金鑰。</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google 拒絕了有限輸入裝置 OAuth 憑證 (invalid_client)。檢查客戶端 ID 和客戶端金鑰。</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google 裝置授權回傳無效回應。</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google 令牌端點傳回無效回應。</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google 裝置授權未傳回可用的驗證碼和 URL。</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google 令牌端點未傳回存取權杖。</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>沒有授權 Google 帳戶。首先開始登入。</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google 要求放慢輪詢速度。</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>儲存的 OAuth 令牌過期格式不正確。再次登入。</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>儲存的 OAuth 令牌格式錯誤。再次登入。</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google 令牌刷新失敗：{0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google 授權已完成，但 Windows Credential Locker 無法儲存令牌 (0x{0})。</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>應用程式內播放器無法載入該影片。而是在瀏覽器中打開它。</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>正在加載官方 YouTube 觀看頁面...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>應用程式內播放需要影片 ID。</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} 視頻</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>正在加載熱門影片...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} 熱門影片結果。</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} 熱門影片結果。 Windows 不允許更新動態磁貼。</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} 熱門影片結果。活動圖塊現在顯示頂部結果。</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} 熱門影片結果。無法更新動態磁貼。</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google 未授予此帳戶存取個人資料資料的權限。退出，再次啟動 Google 登錄，並接受 YouTube 唯讀範圍。</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} 喜歡已載入的影片。</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>無法滿足點讚影片請求。檢查網路連線。</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>讚影片請求超時。檢查網路連線並重試。</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>設定檔已載入。</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>在 {0} (0x{1}) 期間無法載入設定檔。開啟診斷以了解詳細資訊。</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>正在載入經過身份驗證的設定檔...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>正在加載喜歡的影片...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>正在加載更多喜歡的視頻...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>正在加載更多播放清單影片...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>正在加載更多上傳的影片...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>正在載入播放清單影片...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} 訂閱者 | {1:N0} 影片 | {2:N0} 瀏覽次數</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google 沒有傳回授權帳戶的頻道。</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>沒有返回喜歡的視頻。</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube 並未提供該頻道的上傳播放清單。</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} 播放清單已載入。選擇其中一個來觀看其視頻。</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>無法達到播放清單請求。檢查網路連線。</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>播放清單請求逾時。檢查網路連線並重試。</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} 播放清單影片已載入。</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>無法達到播放清單影片請求。檢查網路連線。</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>播放清單影片請求逾時。檢查網路連線並重試。</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>無法存取經過身份驗證的 YouTube API。檢查網路連線。</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>經過身份驗證的 YouTube 請求逾時。檢查網路連線並重試。</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>選擇載入喜歡的影片以要求您喜歡的收藏。</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>選擇上面的播放清單以載入其影片。</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>頻道</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>喜歡的視頻</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>播放清單</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>播放清單視頻</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>開始</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>訂閱</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>上傳的影片</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} 訂閱已載入。</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>無法達到訂閱請求。檢查網路連線。</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>訂閱請求逾時。檢查網路連線並重試。</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} 如果此帳號在新增個人資料之前已獲得授權，請重新登入以授予 YouTube 唯讀範圍。</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} 上傳的影片已載入。</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>無法達到上傳影片的請求。檢查網路連線。</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>上傳影片請求逾時。檢查網路連線並重試。</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>正在加載支援的區域...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>無法載入支援的區域。檢查網路連線。</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>由於 YouTube 資料 API 請求逾時，無法載入受支援的區域。</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube 未返回任何受支援的區域。使用美國。</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>美國</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>輸入 API 金鑰或使用清除 API 金鑰。</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>需要有限輸入設備 OAuth 客戶端 ID。</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>需要有限輸入裝置 OAuth 用戶端金鑰。</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>正在尋找...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} 公開影片結果。</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>此應用程式不隸屬於 Google 或 YouTube。</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>建構 {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube 是一款現代 UWP 應用程序，用於透過 YouTube 的公共 API 瀏覽 YouTube。</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>開發者：</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>使用內建 UniTube 配置來取得公共資料。在這裡保存會覆蓋它。</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>未配置 API 金鑰。</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>您的 API 金鑰儲存在 Windows Credential Locker 中。</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google 授權已取消。</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>谷歌授權完成。可以讀取個人資料和上傳影片。</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} 代碼將於 {1:D2}:{2:D2} 到期。每隔 {3} 秒檢查一次 Google。</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google 授權無法聯繫令牌端點。檢查網路連線並重試。</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>谷歌授權已刪除。在開啟個人資料或上傳之前啟動 Google 登入。</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google 帳戶有權讀取個人資料和上傳影片。如果此令牌早於個人資料，請重新登入。</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google 授權意外失敗 (0x{0})。重新啟動應用程式後打開診斷。</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>使用內建 UniTube 設定進行設定檔和上傳。首先啟動 Google 登入。</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>已儲存有限輸入設備 OAuth 憑證。如果任一值發生更改，請在上傳前重新登入。</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>已儲存的 OAuth 憑證已配置。在開啟個人資料或上傳之前啟動 Google 登入。</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>忽略不完整儲存的 OAuth 覆蓋。使用內建 UniTube 設定進行設定檔和上傳。</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>託管 OAuth 配置可用。在開啟個人資料或上傳之前啟動 Google 登入。</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>儲存 OAuth 憑證，然後在開啟個人資料或上傳之前啟動 Google 登入。</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>代碼: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>驗證碼已過期。請求新代碼...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>在該瀏覽器中輸入代碼。此手機將等待 Google 授權。</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>您之前的代碼已過期。在該瀏覽器中輸入新代碼。</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>在另一部裝有目前瀏覽器的手機、平板電腦或電腦上，存取：{0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>等待谷歌批准。</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>上傳已取消。部分上傳的可恢復工作階段未繼續。</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>正在取消上傳...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>上傳完成。 YouTube 正在處理該影片。</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>上傳完成。影片ID：{0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>影片描述不得超過 5000 個字元。</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>選擇包含資料的視訊檔案。</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>所選文件在其報告的長度之前結束。</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>上傳前選擇影片檔。</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>所選影片太大，無法上傳。</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>上傳無法到達 YouTube。檢查網路連線並重試。</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube 沒有回傳完整的上傳回應。</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube 未返回可恢復上傳位置。</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>選擇私人、不公開或公共隱私。</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>已上傳 {0:N0} 個位元組，共 {1:N0} 個位元組 ({2:F0}%)。</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>準備上傳{0}。</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube 上傳回傳了 {0} ({1})。 {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0}（{1:N0} 位元組）</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>視訊選擇已取消。</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>開始斷點續傳...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>上傳超時。檢查網路連線並重試。</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>上傳前輸入標題。</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>影片標題不得超過 100 個字元。</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>選擇已識別的視訊檔案。</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>正在加載視頻詳細信息...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>已發布 {0} | {1:N0} 次觀看 |持續時間{2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>在應用程式中播放可開啟 YouTube 的官方行動觀看頁面。</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>播放已開始，但無法為活動磁貼儲存其元資料。</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>播放已開始，但 Windows 不允許更新動態磁貼。</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>播放已開始，但無法更新即時磁貼。</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>請求的視訊不可用。</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>需要視訊 ID。</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>特別鳴謝</value>
+  </data>
+</root>

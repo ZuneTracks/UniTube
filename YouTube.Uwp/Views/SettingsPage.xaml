@@ -14,25 +14,25 @@
                     <ColumnDefinition Width="Auto" />
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-                <Button Content="‹ BACK" Style="{StaticResource PhoneOutlineButtonStyle}" Click="BackButton_Click" VerticalAlignment="Center" />
-                <TextBlock Grid.Column="1" Text="settings" Style="{StaticResource PhoneSectionTitleStyle}" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                <Button x:Uid="BackButton" Content="‹ BACK" Style="{StaticResource PhoneOutlineButtonStyle}" Click="BackButton_Click" VerticalAlignment="Center" />
+                <TextBlock x:Uid="SettingsTitle" Grid.Column="1" Text="settings" Style="{StaticResource PhoneSectionTitleStyle}" VerticalAlignment="Center" HorizontalAlignment="Right" />
             </Grid>
         </Border>
         <Border Grid.Row="1" Background="{StaticResource PhoneAccentBrush}" />
         <ScrollViewer Grid.Row="2">
             <StackPanel Margin="16,18,16,28">
-                <TextBlock Text="settings" Style="{StaticResource PhonePageTitleStyle}" />
-                <TextBlock Text="Personal credentials are stored only in Windows Credential Locker." Style="{StaticResource PhoneMetadataStyle}" Margin="0,2,0,18" TextWrapping="Wrap" />
-                <Button Content="ABOUT" Style="{StaticResource PhoneOutlineButtonStyle}" Click="AboutButton_Click" HorizontalAlignment="Left" Margin="0,0,0,14" />
+                <TextBlock x:Uid="SettingsTitle" Text="settings" Style="{StaticResource PhonePageTitleStyle}" />
+                <TextBlock x:Uid="CredentialStorageDescription" Text="Personal credentials are stored only in Windows Credential Locker." Style="{StaticResource PhoneMetadataStyle}" Margin="0,2,0,18" TextWrapping="Wrap" />
+                <Button x:Uid="AboutButton" Content="ABOUT" Style="{StaticResource PhoneOutlineButtonStyle}" Click="AboutButton_Click" HorizontalAlignment="Left" Margin="0,0,0,14" />
 
                 <Border Background="{StaticResource PhoneSurfaceBrush}" Padding="14" Margin="0,0,0,14">
                     <StackPanel>
-                        <TextBlock Text="public data access" Style="{StaticResource PhoneSectionTitleStyle}" />
-                        <TextBlock Text="A restricted API key is used only for read-only YouTube Data API v3 calls. Managed local build values remain hidden; saving here overrides them." Style="{StaticResource PhoneMetadataStyle}" Margin="0,4,0,8" TextWrapping="Wrap" />
-                        <PasswordBox x:Name="ApiKeyBox" Style="{StaticResource PhonePasswordBoxStyle}" Header="Google API key override" PlaceholderText="Leave blank to use managed configuration" />
+                        <TextBlock x:Uid="PublicDataAccessTitle" Text="public data access" Style="{StaticResource PhoneSectionTitleStyle}" />
+                        <TextBlock x:Uid="PublicDataAccessDescription" Text="A restricted API key is used only for read-only YouTube Data API v3 calls. Managed local build values remain hidden; saving here overrides them." Style="{StaticResource PhoneMetadataStyle}" Margin="0,4,0,8" TextWrapping="Wrap" />
+                        <PasswordBox x:Uid="ApiKeyBox" x:Name="ApiKeyBox" Style="{StaticResource PhonePasswordBoxStyle}" Header="Google API key override" PlaceholderText="Leave blank to use managed configuration" />
                         <StackPanel Orientation="Horizontal">
-                            <Button Content="SAVE API KEY" Style="{StaticResource PhoneActionButtonStyle}" Click="SaveApiKeyButton_Click" />
-                            <Button Content="CLEAR" Style="{StaticResource PhoneOutlineButtonStyle}" Click="ClearApiKeyButton_Click" />
+                            <Button x:Uid="SaveApiKeyButton" Content="SAVE API KEY" Style="{StaticResource PhoneActionButtonStyle}" Click="SaveApiKeyButton_Click" />
+                            <Button x:Uid="ClearButton" Content="CLEAR" Style="{StaticResource PhoneOutlineButtonStyle}" Click="ClearApiKeyButton_Click" />
                         </StackPanel>
                         <TextBlock x:Name="ApiKeyStatusText" Style="{StaticResource PhoneMetadataStyle}" Margin="0,8,0,0" TextWrapping="Wrap" />
                     </StackPanel>
@@ -40,31 +40,31 @@
 
                 <Border Background="{StaticResource PhoneSurfaceBrush}" Padding="14" Margin="0,0,0,14">
                     <StackPanel>
-                        <TextBlock Text="safe mode" Style="{StaticResource PhoneSectionTitleStyle}" />
-                        <ToggleSwitch x:Name="SafeModeToggle" Header="Use strict SafeSearch for public video searches" Toggled="SafeModeToggle_Toggled" />
-                        <TextBlock Text="Safe Mode uses YouTube's strict SafeSearch setting for searches. It does not provide the YouTube Kids catalog or filter popular, category, and account feeds." Style="{StaticResource PhoneMetadataStyle}" Margin="0,4,0,0" TextWrapping="Wrap" />
+                        <TextBlock x:Uid="SafeModeTitle" Text="safe mode" Style="{StaticResource PhoneSectionTitleStyle}" />
+                        <ToggleSwitch x:Uid="SafeModeToggle" x:Name="SafeModeToggle" Header="Use strict SafeSearch for public video searches" Toggled="SafeModeToggle_Toggled" />
+                        <TextBlock x:Uid="SafeModeDescription" Text="Safe Mode uses YouTube's strict SafeSearch setting for searches. It does not provide the YouTube Kids catalog or filter popular, category, and account feeds." Style="{StaticResource PhoneMetadataStyle}" Margin="0,4,0,0" TextWrapping="Wrap" />
                     </StackPanel>
                 </Border>
 
                 <Border Background="{StaticResource PhoneSurfaceBrush}" Padding="14">
                     <StackPanel>
-                        <TextBlock Text="google account" Style="{StaticResource PhoneSectionTitleStyle}" />
-                        <TextBlock Text="Profile reads and upload use a Google TVs and limited-input device OAuth client. No redirect URI is used. Managed local build values remain hidden; saving credentials here overrides them." Style="{StaticResource PhoneMetadataStyle}" Margin="0,4,0,8" TextWrapping="Wrap" />
-                        <TextBox x:Name="OAuthClientIdBox" Style="{StaticResource PhoneTextBoxStyle}" Header="Limited-input device OAuth client ID override" PlaceholderText="Leave blank to use managed configuration" />
-                        <PasswordBox x:Name="OAuthClientSecretBox" Style="{StaticResource PhonePasswordBoxStyle}" Header="Limited-input device OAuth client secret override" PlaceholderText="Leave blank to use managed configuration" />
-                        <TextBlock Text="Save credentials, then start Google sign-in. The verification code below is entered on another device; this app never opens a sign-in form. Sign in again after this update to grant profile read access." Style="{StaticResource PhoneMetadataStyle}" Margin="0,2,0,8" TextWrapping="Wrap" />
+                        <TextBlock x:Uid="GoogleAccountTitle" Text="google account" Style="{StaticResource PhoneSectionTitleStyle}" />
+                        <TextBlock x:Uid="GoogleAccountDescription" Text="Profile reads and upload use a Google TVs and limited-input device OAuth client. No redirect URI is used. Managed local build values remain hidden; saving credentials here overrides them." Style="{StaticResource PhoneMetadataStyle}" Margin="0,4,0,8" TextWrapping="Wrap" />
+                        <TextBox x:Uid="OAuthClientIdBox" x:Name="OAuthClientIdBox" Style="{StaticResource PhoneTextBoxStyle}" Header="Limited-input device OAuth client ID override" PlaceholderText="Leave blank to use managed configuration" />
+                        <PasswordBox x:Uid="OAuthClientSecretBox" x:Name="OAuthClientSecretBox" Style="{StaticResource PhonePasswordBoxStyle}" Header="Limited-input device OAuth client secret override" PlaceholderText="Leave blank to use managed configuration" />
+                        <TextBlock x:Uid="OAuthInstructions" Text="Save credentials, then start Google sign-in. The verification code below is entered on another device; this app never opens a sign-in form. Sign in again after this update to grant profile read access." Style="{StaticResource PhoneMetadataStyle}" Margin="0,2,0,8" TextWrapping="Wrap" />
                         <Grid>
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="Auto" />
                                 <RowDefinition Height="Auto" />
                             </Grid.RowDefinitions>
                             <StackPanel Orientation="Horizontal">
-                                <Button Content="SAVE CREDENTIALS" Style="{StaticResource PhoneActionButtonStyle}" Click="SaveOAuthSettingsButton_Click" />
-                                <Button x:Name="SignInButton" Content="START GOOGLE SIGN-IN" Style="{StaticResource PhoneOutlineButtonStyle}" Click="SignInButton_Click" />
+                                <Button x:Uid="SaveOAuthSettingsButton" Content="SAVE CREDENTIALS" Style="{StaticResource PhoneActionButtonStyle}" Click="SaveOAuthSettingsButton_Click" />
+                                <Button x:Uid="SignInButton" x:Name="SignInButton" Content="START GOOGLE SIGN-IN" Style="{StaticResource PhoneOutlineButtonStyle}" Click="SignInButton_Click" />
                             </StackPanel>
                             <StackPanel Grid.Row="1" Orientation="Horizontal">
-                                <Button x:Name="CancelAuthorizationButton" Content="CANCEL" Style="{StaticResource PhoneOutlineButtonStyle}" Click="CancelAuthorizationButton_Click" IsEnabled="False" />
-                                <Button x:Name="SignOutButton" Content="SIGN OUT" Style="{StaticResource PhoneOutlineButtonStyle}" Click="SignOutButton_Click" />
+                                <Button x:Uid="CancelButton" x:Name="CancelAuthorizationButton" Content="CANCEL" Style="{StaticResource PhoneOutlineButtonStyle}" Click="CancelAuthorizationButton_Click" IsEnabled="False" />
+                                <Button x:Uid="SignOutButton" x:Name="SignOutButton" Content="SIGN OUT" Style="{StaticResource PhoneOutlineButtonStyle}" Click="SignOutButton_Click" />
                             </StackPanel>
                         </Grid>
                         <TextBlock x:Name="VerificationUrlText" Style="{StaticResource PhoneMetadataStyle}" Margin="0,8,0,0" TextWrapping="Wrap" />
@@ -75,7 +75,7 @@
                 </Border>
 
                 <StackPanel Margin="0,12,0,0">
-                    <Button Content="VIEW DIAGNOSTICS" Style="{StaticResource PhoneOutlineButtonStyle}" Click="DiagnosticsButton_Click" HorizontalAlignment="Left" />
+                    <Button x:Uid="ViewDiagnosticsButton" Content="VIEW DIAGNOSTICS" Style="{StaticResource PhoneOutlineButtonStyle}" Click="DiagnosticsButton_Click" HorizontalAlignment="Left" />
                 </StackPanel>
             </StackPanel>
         </ScrollViewer>

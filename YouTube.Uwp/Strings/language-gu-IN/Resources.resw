@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>પબ્લિક બ્રાઉઝર</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>સેટિંગ્સ</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>ઘર</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>શોધો</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>શ્રેણીઓ</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>પ્રોફાઇલ</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>શોધો</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>નવીનતમ લોકપ્રિય વિડિઓઝ, ક્લાસિક ફોન-પ્રથમ લેઆઉટમાં.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>અત્યારે વલણમાં છે</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>તમારા પ્રદેશ માટે લોકપ્રિય વિડિઓઝ લોડ કરો</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>લોકપ્રિય વિડિઓઝ</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>સાર્વજનિક પરિણામો લોડ કરવા માટે હવે ટ્રેન્ડિંગ પસંદ કરો.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>શોધ</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>તમારી વપરાશકર્તા દ્વારા પૂરી પાડવામાં આવેલ API કી વડે સાર્વજનિક YouTube વિડિઓઝ શોધો.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>શોધ શબ્દો</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>YouTube શોધો</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>શોધો</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>લોકપ્રિય</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>પ્રદેશ</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>શ્રેણીઓ</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>કેટેગરીના વર્તમાન લોકપ્રિય વીડિયોને વિસ્તૃત કરવા માટે તેના પર ટૅપ કરો. સંકુચિત કરવા માટે તેને ફરીથી ટેપ કરો અને બીજું પસંદ કરો.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>પ્રોફાઇલ</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>તમારા પ્રમાણિત YouTube કનેક્શન દ્વારા એકાઉન્ટ ડેટા ઉપલબ્ધ છે.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>વિશે</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API કી ઓવરરાઇડ</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>વ્યવસ્થાપિત ગોઠવણીનો ઉપયોગ કરવા માટે ખાલી છોડો</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ પાછા</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>રદ કરો</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>આ ચેનલ વિશે</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>ચેનલ વિગતો</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>સાફ કરો</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>વ્યક્તિગત ઓળખપત્રો ફક્ત Windows ઓળખપત્ર લોકરમાં સંગ્રહિત થાય છે.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>વર્ણન</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>વૈકલ્પિક</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>વર્ણન</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>આ લોગ એપ્લિકેશન ભૂલો અને OAuth માઇલસ્ટોન્સ રેકોર્ડ કરે છે. ઓળખપત્રો, અધિકૃતતા કોડ અને ટોકન્સ બાકાત છે.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>ડાયગ્નોસ્ટિક્સ</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>પ્રોફાઇલ વાંચે છે અને અપલોડ કરે છે તે Google TV અને મર્યાદિત-ઇનપુટ ઉપકરણ OAuth ક્લાયંટનો ઉપયોગ કરે છે. કોઈ રીડાયરેક્ટ URI નો ઉપયોગ થતો નથી. સંચાલિત સ્થાનિક બિલ્ડ મૂલ્યો છુપાયેલા રહે છે; અહીં ઓળખપત્રો સાચવવાથી તેમને ઓવરરાઇડ કરે છે.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>ગૂગલ એકાઉન્ટ</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>ઇન-એપ પ્લેબેક YouTube ના અધિકૃત મોબાઇલ વોચ પેજનો ઉપયોગ કરે છે. આ એપ્લિકેશન મીડિયા URL ને એક્સ્ટ્રેક્ટ અથવા ડાઉનલોડ કરતી નથી.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>વિડિઓઝ ગમ્યા</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>ગમેલા વિડિયોઝ લોડ કરો</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>વધુ પસંદ કરેલા વિડિયોઝ લોડ કરો</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>વધુ પ્લેલિસ્ટ લોડ કરો</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>વધુ પ્લેલિસ્ટ વીડિયો લોડ કરો</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>વધુ સબ્સ્ક્રિપ્શન્સ લોડ કરો</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>વધુ અપલોડ કરેલા વીડિયો લોડ કરો</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>મર્યાદિત-ઇનપુટ ઉપકરણ OAuth ક્લાયંટ ID ઓવરરાઇડ</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>વ્યવસ્થાપિત ગોઠવણીનો ઉપયોગ કરવા માટે ખાલી છોડો</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>મર્યાદિત-ઇનપુટ ઉપકરણ OAuth ક્લાયંટ ગુપ્ત ઓવરરાઇડ</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>વ્યવસ્થાપિત ગોઠવણીનો ઉપયોગ કરવા માટે ખાલી છોડો</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>ઓળખપત્રો સાચવો, પછી Google સાઇન-ઇન શરૂ કરો. નીચે આપેલ ચકાસણી કોડ અન્ય ઉપકરણ પર દાખલ કરેલ છે; આ એપ્લિકેશન ક્યારેય સાઇન-ઇન ફોર્મ ખોલતી નથી. પ્રોફાઇલ વાંચવાની ઍક્સેસ આપવા માટે આ અપડેટ પછી ફરી સાઇન ઇન કરો.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ચેનલ ખોલો</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>બ્રાઉઝરમાં ખોલો</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>ખેલાડી</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>એપ્લિકેશનમાં રમો</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>પ્લેલિસ્ટ</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>પ્લેલિસ્ટ વિડિઓઝ</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>ગોપનીયતા</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>ખાનગી</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>પ્રતિબંધિત API કીનો ઉપયોગ ફક્ત વાંચવા માટે જ YouTube ડેટા API v3 કૉલ્સ માટે થાય છે. સંચાલિત સ્થાનિક બિલ્ડ મૂલ્યો છુપાયેલા રહે છે; અહીં બચત તેમને ઓવરરાઇડ કરે છે.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>જાહેર ડેટા એક્સેસ</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>જાહેર</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>તાજું કરો</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>પ્રોફાઇલ રિફ્રેશ કરો</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>સલામત મોડ શોધ માટે YouTube ની કડક સલામત શોધ સેટિંગનો ઉપયોગ કરે છે. તે YouTube Kids કૅટેલોગ અથવા ફિલ્ટર લોકપ્રિય, કૅટેગરી અને એકાઉન્ટ ફીડ્સ પ્રદાન કરતું નથી.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>સલામત મોડ</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>સાર્વજનિક વિડિઓ શોધ માટે સખત સલામત શોધનો ઉપયોગ કરો</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>API કી સાચવો</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>સેવ લોગ</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>ઓળખપત્રો સાચવો</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>કોઈ વિડિયો પસંદ કર્યો નથી.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>વિડિઓ પસંદ કરો</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>સેટિંગ્સ</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>GOOGLE સાઇન-ઇન શરૂ કરો</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>સાઇન આઉટ કરો</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>અપલોડ કરવાનું શરૂ કરો</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>સબ્સ્ક્રિપ્શન્સ</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>શીર્ષક</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>જરૂરી છે</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>અસૂચિબદ્ધ</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>ઇતિહાસ જુઓ અને પછી જુઓ વાંચી શકાય તેવા v3 સંગ્રહો તરીકે ખુલ્લા નથી. UniTube તેમનું અનુકરણ કરતું નથી અથવા ખોટું લેબલ કરતું નથી.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>YouTube ડેટા API v3 દ્વારા અસમર્થિત</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>અપલોડ કરેલા વીડિયો</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>અપલોડ કરો</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>સ્થાનિક વિડિયો પસંદ કરો, પછી તેને તમારા અધિકૃત Google એકાઉન્ટ દ્વારા અપલોડ કરો.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>વિડિયો અપલોડ કરો</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>વિડિઓ પસંદ કરવા માટે તૈયાર.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>અપલોડ્સ માટે OAuth સેટિંગ્સ અને સેટિંગ્સમાંથી પૂર્ણ કરેલ Google સાઇન-ઇન જરૂરી છે.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>વિડિયો અપલોડ કરો</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>વિડિઓ વિગતો</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>ડાયગ્નોસ્ટિક્સ જુઓ</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>યુટ્યુબ પર જુઓ</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} શ્રેણીઓ {1} માટે ઉપલબ્ધ છે.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>શ્રેણીઓ લોડ કરી રહ્યું છે...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} વિડિઓઝ લોડ કરી રહ્યું છે...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} {2} માટે લોકપ્રિય {1} વિડિઓઝ.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>ચેનલ ID જરૂરી છે.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>ચેનલ વિગતો લોડ કરી રહ્યું છે...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} સબ્સ્ક્રાઇબર્સ | {1:N0} વિડિઓઝ | {2:N0} દૃશ્યો</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>વિનંતી કરેલ ચેનલ અનુપલબ્ધ છે.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>બંધ</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube ડેટા API સુધી પહોંચી શકાયું નથી. નેટવર્ક કનેક્શન તપાસો.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube ડેટા API વિનંતીનો સમય સમાપ્ત થયો. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>અજ્ઞાત</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google અધિકૃતતાએ ઍક્સેસ ટોકન પ્રદાન કર્યું નથી. ફરીથી સાઇન ઇન કરો.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google એકાઉન્ટ ઍક્સેસ ગોઠવેલ નથી. પ્રોફાઇલ ખોલતા પહેલા સાઇન ઇન કરો.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>સાર્વજનિક YouTube ડેટા API v3 સુવિધાઓનો ઉપયોગ કરતા પહેલા Google API કી ઉમેરો.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>ચેનલ ID જરૂરી છે.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>અધિકૃત YouTube ડેટા API એ અમાન્ય પ્રતિસાદ આપ્યો. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube ડેટા API એ અમાન્ય પ્રતિસાદ આપ્યો. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>પ્લેલિસ્ટ ID જરૂરી છે.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube ડેટા API v3 પરત કર્યું {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>શોધવા માટે ટેક્સ્ટ દાખલ કરો.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>વિડિઓ ID જરૂરી છે.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>ડાયગ્નોસ્ટિક લૉગ સાફ કર્યો.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>ડાયગ્નોસ્ટિક લૉગ {0} પર સાચવ્યો.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>કોઈ ડાયગ્નોસ્ટિક ઇવેન્ટ્સ રેકોર્ડ કરવામાં આવી નથી.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>ડાયગ્નોસ્ટિક લૉગ સાચવવાનું રદ કરવામાં આવ્યું હતું.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>ડાયગ્નોસ્ટિક લૉગ (0x{0}) સાચવી શકાયો નથી.</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>ટેક્સ્ટ ફાઇલ</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>છેલ્લે રમ્યા</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>લાઇવ ટાઇલ અપડેટ કરવા માટે વિડિયો મેટાડેટા જરૂરી છે.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>હાલમાં વલણમાં છે</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>અત્યારે વલણમાં છે ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>ટ્રેન્ડિંગ વિડિઓ શીર્ષક આવશ્યક છે.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google ઉપકરણ અધિકૃતતા સમાપ્ત થઈ.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google ઉપકરણ અધિકૃતતા પૂર્ણ થઈ ન હતી: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>અપલોડ કરતા પહેલા Google અધિકૃતતા ફરીથી પૂર્ણ કરવાની જરૂર છે.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google ઉપકરણ અધિકૃતતા શરૂ થઈ શકી નથી: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>સાઇન ઇન કરતા પહેલા મર્યાદિત-ઇનપુટ ઉપકરણ OAuth ક્લાયંટ ID સેટ કરો.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>સાઇન ઇન કરતા પહેલા મર્યાદિત-ઇનપુટ ઉપકરણ OAuth ક્લાયંટ સિક્રેટ સેટ કરો.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google એ મર્યાદિત-ઇનપુટ ઉપકરણ OAuth ક્લાયંટ (અમાન્ય_ક્લાયન્ટ) ને નકારી કાઢ્યું. ક્લાયંટ આઈડી અને ક્લાયંટ સિક્રેટ તપાસો.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google એ મર્યાદિત-ઇનપુટ ઉપકરણ OAuth ઓળખપત્રોને નકારી કાઢ્યું (અમાન્ય_ક્લાયન્ટ). ક્લાયંટ આઈડી અને ક્લાયંટ સિક્રેટ તપાસો.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google ઉપકરણ અધિકૃતતાએ અમાન્ય પ્રતિસાદ આપ્યો.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google ટોકન એન્ડપોઇન્ટે અમાન્ય પ્રતિસાદ આપ્યો.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google ઉપકરણ અધિકૃતતાએ ઉપયોગી ચકાસણી કોડ અને URL પરત કર્યા નથી.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google ટોકન એન્ડપોઇન્ટે ઍક્સેસ ટોકન પરત કર્યું નથી.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>કોઈ Google એકાઉન્ટ અધિકૃત નથી. પહેલા સાઇન ઇન કરવાનું શરૂ કરો.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google એ ધીમા મતદાનની વિનંતી કરી.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>સંગ્રહિત OAuth ટોકન સમાપ્તિ દૂષિત છે. ફરીથી સાઇન ઇન કરો.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>સંગ્રહિત OAuth ટોકન દૂષિત છે. ફરીથી સાઇન ઇન કરો.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google ટોકન રિફ્રેશ નિષ્ફળ થયું: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google અધિકૃતતા પૂર્ણ થઈ, પરંતુ Windows Credential Locker ટોકન (0x{0}) સાચવી શક્યું નથી.</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>એપ્લિકેશનમાં પ્લેયર આ વિડિઓ લોડ કરી શક્યું નથી. તેના બદલે તેને બ્રાઉઝરમાં ખોલો.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>અધિકૃત YouTube જોવાનું પૃષ્ઠ લોડ કરી રહ્યું છે...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>એપ્લિકેશનમાં પ્લેબેક માટે વિડિઓ ID જરૂરી છે.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} વિડિઓઝ</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>લોકપ્રિય વિડિઓઝ લોડ કરી રહ્યું છે...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} લોકપ્રિય વિડિઓ પરિણામો.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} લોકપ્રિય વિડિઓ પરિણામો. વિન્ડોઝે લાઇવ ટાઇલને અપડેટ કરવાની મંજૂરી આપી નથી.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} લોકપ્રિય વિડિઓ પરિણામો. લાઇવ ટાઇલ હવે ટોચનું પરિણામ દર્શાવે છે.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} લોકપ્રિય વિડિઓ પરિણામો. લાઇવ ટાઇલ અપડેટ કરી શકાઈ નથી.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google એ આ એકાઉન્ટને પ્રોફાઇલ ડેટાની ઍક્સેસની મંજૂરી આપી નથી. સાઇન આઉટ કરો, ફરીથી Google સાઇન-ઇન શરૂ કરો અને YouTube ફક્ત વાંચવા માટેના અવકાશને સ્વીકારો.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ને ગમેલા વિડીયો લોડ કર્યા.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>પસંદ કરેલ વિડિઓઝ વિનંતિ સુધી પહોંચી શકાયું નથી. નેટવર્ક કનેક્શન તપાસો.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>પસંદ કરેલ વિડિઓઝની વિનંતીનો સમય સમાપ્ત થયો. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>પ્રોફાઇલ લોડ થઈ.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>{0} (0x{1}) દરમિયાન પ્રોફાઇલ લોડ થઈ શકી નથી. વિગતો માટે ડાયગ્નોસ્ટિક્સ ખોલો.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>પ્રમાણિત પ્રોફાઇલ લોડ કરી રહ્યું છે...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>પસંદ કરેલ વિડિઓઝ લોડ કરી રહ્યું છે...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>વધુ પસંદ કરેલ વિડિઓઝ લોડ કરી રહ્યાં છીએ...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>વધુ પ્લેલિસ્ટ વિડિઓઝ લોડ કરી રહ્યું છે...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>વધુ અપલોડ કરેલા વીડિયો લોડ કરી રહ્યાં છીએ...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>પ્લેલિસ્ટ વિડિઓઝ લોડ કરી રહ્યું છે...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} સબ્સ્ક્રાઇબર્સ | {1:N0} વિડિઓઝ | {2:N0} દૃશ્યો</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google એ અધિકૃત એકાઉન્ટ માટે કોઈ ચેનલ પરત કરી નથી.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>કોઈ પસંદ કરેલ વિડિઓ પરત કરવામાં આવી ન હતી.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube આ ચેનલ માટે અપલોડ પ્લેલિસ્ટ પ્રદાન કરતું નથી.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} પ્લેલિસ્ટ લોડ થઈ. તેના વીડિયો જોવા માટે એક પસંદ કરો.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>પ્લેલિસ્ટ વિનંતી સુધી પહોંચી શકાયું નથી. નેટવર્ક કનેક્શન તપાસો.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>પ્લેલિસ્ટ વિનંતીનો સમય સમાપ્ત થયો. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} પ્લેલિસ્ટ વિડિઓઝ લોડ થયા.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>પ્લેલિસ્ટ વિડિઓઝ વિનંતિ સુધી પહોંચી શકાયું નથી. નેટવર્ક કનેક્શન તપાસો.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>પ્લેલિસ્ટ વિડિઓઝ વિનંતીનો સમય સમાપ્ત થયો. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>પ્રમાણિત YouTube API સુધી પહોંચી શકાયું નથી. નેટવર્ક કનેક્શન તપાસો.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>પ્રમાણિત YouTube વિનંતીનો સમય સમાપ્ત થયો. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>તમારા પસંદ કરેલા સંગ્રહની વિનંતી કરવા માટે પસંદ કરેલ વિડિઓ લોડ કરો પસંદ કરો.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>તેની વિડિઓઝ લોડ કરવા માટે ઉપરની પ્લેલિસ્ટ પસંદ કરો.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>ચેનલ</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>વિડિઓઝ ગમ્યા</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>પ્લેલિસ્ટ</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>પ્લેલિસ્ટ વિડિઓઝ</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>શરૂ કરી રહ્યા છીએ</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>સબ્સ્ક્રિપ્શન્સ</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>અપલોડ કરેલા વીડિયો</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} સબ્સ્ક્રિપ્શન્સ લોડ થયા.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>સબ્સ્ક્રિપ્શન વિનંતી સુધી પહોંચી શકાયું નથી. નેટવર્ક કનેક્શન તપાસો.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>સબ્સ્ક્રિપ્શન વિનંતીનો સમય સમાપ્ત થયો. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} જો પ્રોફાઇલ ઉમેરવામાં આવે તે પહેલાં આ એકાઉન્ટ અધિકૃત હતું, તો YouTube ને ફક્ત વાંચવા માટેનો અવકાશ આપવા માટે ફરીથી સાઇન ઇન કરો.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} અપલોડ કરેલા વીડિયો લોડ કર્યા.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>અપલોડ કરેલ વિડીયો વિનંતિ પહોંચી શકાઈ નથી. નેટવર્ક કનેક્શન તપાસો.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>અપલોડ કરેલી વિડિઓઝની વિનંતીનો સમય સમાપ્ત થયો. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>સમર્થિત પ્રદેશો લોડ કરી રહ્યાં છે...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>સમર્થિત પ્રદેશો લોડ કરી શક્યા નથી. નેટવર્ક કનેક્શન તપાસો.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>YouTube ડેટા API વિનંતીનો સમય સમાપ્ત થવાને કારણે સમર્થિત પ્રદેશો લોડ થઈ શક્યા નથી.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube એ કોઈપણ સમર્થિત પ્રદેશો પરત કર્યા નથી. યુનાઇટેડ સ્ટેટ્સનો ઉપયોગ કરીને.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>યુનાઇટેડ સ્ટેટ્સ</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>API કી દાખલ કરો અથવા Clear API કીનો ઉપયોગ કરો.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>મર્યાદિત-ઇનપુટ ઉપકરણ OAuth ક્લાયંટ ID જરૂરી છે.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>મર્યાદિત-ઇનપુટ ઉપકરણ OAuth ક્લાયંટ સિક્રેટ આવશ્યક છે.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>શોધી રહ્યાં છીએ...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} સાર્વજનિક વિડિઓ પરિણામો.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>આ એપ્લિકેશન Google અથવા YouTube સાથે જોડાયેલી નથી.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>{0}.{1}.{2}.{3} બનાવો</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube એ YouTube ના સાર્વજનિક API દ્વારા YouTube બ્રાઉઝ કરવા માટેની આધુનિક UWP એપ્લિકેશન છે.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>આના દ્વારા વિકસિત:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>સાર્વજનિક ડેટા માટે બિલ્ટ-ઇન UniTube રૂપરેખાંકનનો ઉપયોગ કરવો. અહીં સાચવવું તેને ઓવરરાઇડ કરે છે.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>કોઈ API કી ગોઠવેલ નથી.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>તમારી API કી Windows ઓળખપત્ર લોકરમાં સંગ્રહિત છે.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google અધિકૃતતા રદ કરી.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google અધિકૃતતા પૂર્ણ. પ્રોફાઇલ વાંચન અને વિડિઓ અપલોડ ઉપલબ્ધ છે.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} કોડ {1:D2}:{2:D2} માં સમાપ્ત થાય છે. દરેક {3} સેકન્ડમાં Google તપાસી રહ્યાં છીએ.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google અધિકૃતતા ટોકન એન્ડપોઇન્ટનો સંપર્ક કરી શકી નથી. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google અધિકૃતતા દૂર કરી. પ્રોફાઇલ ખોલતા અથવા અપલોડ કરતા પહેલા Google સાઇન-ઇન શરૂ કરો.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google એકાઉન્ટ પ્રોફાઇલ વાંચવા અને વિડિઓ અપલોડ માટે અધિકૃત છે. ફરી સાઇન ઇન કરો જો આ ટોકન પ્રોફાઈલની પહેલાની છે.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google અધિકૃતતા અણધારી રીતે નિષ્ફળ થઈ (0x{0}). એપ્લિકેશનને ફરીથી પ્રારંભ કર્યા પછી ડાયગ્નોસ્ટિક્સ ખોલો.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>પ્રોફાઇલ અને અપલોડ્સ માટે બિલ્ટ-ઇન UniTube રૂપરેખાંકનનો ઉપયોગ કરીને. પહેલા Google સાઇન-ઇન શરૂ કરો.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>મર્યાદિત-ઇનપુટ ઉપકરણ OAuth ઓળખપત્રો સાચવ્યાં. જો કોઈ એક મૂલ્ય બદલાયું હોય, તો અપલોડ કરતા પહેલા ફરીથી સાઇન ઇન કરો.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>સાચવેલ OAuth ઓળખપત્રો ગોઠવેલ છે. પ્રોફાઇલ ખોલતા પહેલા અથવા અપલોડ કરતા પહેલા Google સાઇન-ઇન શરૂ કરો.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>અપૂર્ણ સાચવેલ OAuth ઓવરરાઇડને અવગણવામાં આવ્યું હતું. પ્રોફાઇલ અને અપલોડ્સ માટે બિલ્ટ-ઇન UniTube રૂપરેખાંકનનો ઉપયોગ કરીને.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>સંચાલિત OAuth ગોઠવણી ઉપલબ્ધ છે. પ્રોફાઇલ ખોલતા પહેલા અથવા અપલોડ કરતા પહેલા Google સાઇન-ઇન શરૂ કરો.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>OAuth ઓળખપત્રો સાચવો, પછી પ્રોફાઇલ ખોલતા પહેલા અથવા અપલોડ કરતા પહેલા Google સાઇન-ઇન શરૂ કરો.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>કોડ: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>ચકાસણી કોડ સમાપ્ત થયો. નવા કોડની વિનંતી કરી રહ્યાં છીએ...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>તે બ્રાઉઝરમાં કોડ દાખલ કરો. આ ફોન Google અધિકૃતતાની રાહ જોશે.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>તમારા પહેલાના કોડની સમયસીમા સમાપ્ત થઈ ગઈ છે. તે બ્રાઉઝરમાં નવો કોડ દાખલ કરો.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>વર્તમાન બ્રાઉઝર સાથે બીજા ફોન, ટેબ્લેટ અથવા કમ્પ્યુટર પર, મુલાકાત લો: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Google મંજૂરીની રાહ જોઈ રહ્યાં છીએ.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>અપલોડ રદ કર્યું. આંશિક રીતે અપલોડ કરેલ ફરી શરૂ કરી શકાય તેવું સત્ર ચાલુ રાખવામાં આવ્યું ન હતું.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>અપલોડ રદ કરી રહ્યાં છીએ...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>અપલોડ પૂર્ણ થયું. YouTube વિડિઓ પર પ્રક્રિયા કરી રહ્યું છે.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>અપલોડ પૂર્ણ થયું. વિડિઓ ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>વિડિયો વર્ણન 5000 કે તેથી ઓછા અક્ષરોનું હોવું જોઈએ.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>એક વિડિઓ ફાઇલ પસંદ કરો જેમાં ડેટા હોય.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>પસંદ કરેલ ફાઇલ તેની જાણ કરેલ લંબાઈ પહેલા સમાપ્ત થઈ.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>અપલોડ કરતા પહેલા વિડિઓ ફાઇલ પસંદ કરો.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>પસંદ કરેલ વિડિઓ અપલોડ કરવા માટે ખૂબ મોટી છે.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>અપલોડ YouTube સુધી પહોંચી શક્યું નથી. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube એ પૂર્ણ અપલોડ પ્રતિસાદ પરત કર્યો નથી.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube એ ફરી શરૂ કરી શકાય તેવું અપલોડ સ્થાન પરત કર્યું નથી.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>ખાનગી, અસૂચિબદ્ધ અથવા જાહેર ગોપનીયતા પસંદ કરો.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>અપલોડ કરેલ {1:N0} બાઇટ્સમાંથી {0:N0} ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>{0} અપલોડ કરવા માટે તૈયાર.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube અપલોડે {0} ({1}) પરત કર્યું. {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} બાઇટ્સ)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>વિડિઓ પસંદગી રદ કરવામાં આવી હતી.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>ફરી શરૂ કરી શકાય તેવું અપલોડ શરૂ કરી રહ્યાં છીએ...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>અપલોડનો સમય સમાપ્ત થયો. નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>અપલોડ કરતા પહેલા શીર્ષક દાખલ કરો.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>વિડિયો શીર્ષક 100 કે તેથી ઓછા અક્ષરોનું હોવું જોઈએ.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>માન્ય વિડિઓ ફાઇલ પસંદ કરો.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>વિડિઓ વિગતો લોડ કરી રહ્યું છે...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>પ્રકાશિત {0} | {1:N0} દૃશ્યો | સમયગાળો {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>ઍપમાં પ્લે કરવાથી YouTubeનું અધિકૃત મોબાઇલ વૉચ પેજ ખુલે છે.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>પ્લેબેક શરૂ થયું, પરંતુ તેનો મેટાડેટા લાઇવ ટાઇલ માટે સાચવી શકાયો નથી.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>પ્લેબેક શરૂ થયું, પરંતુ વિન્ડોઝે લાઇવ ટાઇલને અપડેટ કરવાની મંજૂરી આપી નથી.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>પ્લેબેક શરૂ થયું, પરંતુ લાઇવ ટાઇલ અપડેટ કરી શકાઈ નથી.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>વિનંતી કરેલ વિડિઓ અનુપલબ્ધ છે.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>વિડિઓ ID જરૂરી છે.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>વિશેષ આભાર</value>
+  </data>
+</root>

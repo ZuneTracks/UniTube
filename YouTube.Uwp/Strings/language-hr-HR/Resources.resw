@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>JAVNI PREGLEDNIK</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>POSTAVKE</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>DOM</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>PRETRAŽIVANJE</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGORIJE</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFIL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>otkriti</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Najnoviji popularni videozapisi, u klasičnom izgledu za telefone.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>SADA U TRENDU</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Učitajte popularne videozapise za svoju regiju</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>popularni video zapisi</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Odaberite Trending Now za učitavanje javnih rezultata.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>pretraživanje</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Pronađite javne YouTube videozapise pomoću API ključa koji ste unijeli od korisnika.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Pojmovi za pretraživanje</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Pretraži YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>PRETRAŽIVANJE</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULARAN</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>REGIJA</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategorije</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Dodirnite kategoriju da proširite trenutačno popularne videozapise. Dodirnite ga ponovo da biste ga saželi i odabrali drugi.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profil</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Podaci o računu dostupni su putem vaše autentificirane YouTube veze.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>O TOME</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Nadjačavanje ključa Google API-ja</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Ostavite prazno za korištenje upravljane konfiguracije</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ NATRAG</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>OTKAZI</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>o ovom kanalu</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>detalji kanala</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>ČISTO</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Osobne vjerodajnice pohranjuju se samo u Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Opis</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Neobavezno</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>opis</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Ovaj dnevnik bilježi pogreške aplikacije i OAuth prekretnice. Vjerodajnice, autorizacijski kodovi i tokeni nisu uključeni.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>dijagnostika</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profil čita i prenosi pomoću OAuth klijenta Google TV-a i uređaja s ograničenim unosom. Ne koristi se URI za preusmjeravanje. Vrijednosti upravljane lokalne izgradnje ostaju skrivene; spremanje vjerodajnica ovdje nadjačava ih.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google račun</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Reprodukcija unutar aplikacije koristi YouTubeovu službenu mobilnu stranicu za gledanje. Ova aplikacija ne izdvaja niti preuzima URL-ove medija.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>svidjeli su se videozapisi</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>UČITAJ VIDEOZAPASE KOJI SE SVIĐAJU</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>UČITAJ JOŠ VIDEOZAPISA KOJI SE SVIĐAJU</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>UČITAJ JOŠ POPISA ZA REPRODUKCIJU</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>UČITAJ VIŠE VIDEOZAPISA ZA REPRODUKCIJU</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>UČITAJ JOŠ PRETPLATA</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>UČITAJ JOŠ PRENOSENIH VIDEOZAPISA</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Nadjačavanje OAuth klijentskog ID-a uređaja s ograničenim unosom</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Ostavite prazno za korištenje upravljane konfiguracije</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Nadjačavanje OAuth klijentske tajne uređaja s ograničenim unosom</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Ostavite prazno za korištenje upravljane konfiguracije</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Spremite vjerodajnice, a zatim pokrenite prijavu na Google. Kontrolni kod u nastavku je unesen na drugom uređaju; ova aplikacija nikada ne otvara obrazac za prijavu. Prijavite se ponovno nakon ovog ažuriranja da biste odobrili pristup čitanju profila.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>OTVORI KANAL</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>OTVORI U PREGLEDNIKU</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>igrač</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>IGRAJ U APL</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>popisi za reprodukciju</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>popis videozapisa</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Privatnost</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>privatni</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Ograničeni API ključ koristi se samo za pozive YouTube Data API v3 samo za čitanje. Vrijednosti upravljane lokalne izgradnje ostaju skrivene; spremanje ih ovdje nadjačava.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>pristup javnim podacima</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>javni</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>OSVJEŽI</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>OSVJEŽI PROFIL</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Siguran način rada koristi YouTubeovu strogu postavku SafeSearch za pretraživanja. Ne pruža katalog YouTube Kids niti filtrira popularne feedove, kategorije i račune.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>siguran način rada</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Koristite strogu SafeSearch za javna pretraživanja videozapisa</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>SPREMI API KLJUČ</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>SPREMI DNEVNIK</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>SPREMITE VJERODAVNICE</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Nije odabran nijedan video.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>ODABERI VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>postavke</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>POKRENITE PRIJAVU NA GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ODJAVA</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>POČNI PRENOS</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>pretplate</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Naslov</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Obavezno</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>nepopisan na popisu</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Povijest gledanja i Gledanje kasnije nisu izložene kao čitljive zbirke v3. UniTube ih ne oponaša niti ih pogrešno označava.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>ne podržava YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>učitanih videozapisa</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>učitati</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Odaberite lokalni videozapis, a zatim ga prenesite putem svog ovlaštenog Google računa.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>učitaj video</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Spremni za odabir videa.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Prijenosi zahtijevaju postavke OAutha i dovršenu prijavu na Google iz postavki.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>PRENESI VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>video detalji</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>POGLEDAJTE DIJAGNOSTIKU</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>GLEDAJTE NA YOUTUBEU</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} kategorije dostupne za {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Učitavanje kategorija...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Učitavanje {0} videozapisa...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} popularni {1} videozapisi za {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Potreban je ID kanala.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Učitavanje pojedinosti kanala...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} pretplatnici | {1:N0} video zapisi | Pregledi {2:N0}</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Traženi kanal nije dostupan.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ZATVORI</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube Data API nije dostupan. Provjerite mrežnu vezu.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Zahtjev za YouTube Data API istekao je. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>nepoznato</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google autorizacija nije dala pristupni token. Prijavite se ponovno.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Pristup Google računu nije konfiguriran. Prijavite se prije otvaranja profila.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Dodajte Google API ključ prije upotrebe javnih značajki YouTube Data API v3.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Potreban je ID kanala.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Autentificirani YouTube Data API vratio je nevažeći odgovor. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API vratio je nevažeći odgovor. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Potreban je ID popisa za reprodukciju.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 vratio je {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Unesite tekst za pretraživanje.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Potreban je ID videozapisa.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Dijagnostički dnevnik je izbrisan.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Dijagnostički dnevnik spremljen u {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Nisu zabilježeni nikakvi dijagnostički događaji.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Spremanje dijagnostičkog dnevnika je otkazano.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Nije moguće spremiti dijagnostički dnevnik (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Tekstna datoteka</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Zadnje igrano</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Za ažuriranje žive pločice potrebni su metapodaci videozapisa.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Trenutačno</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Trenutno u trendu ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Potreban je naslov videozapisa u trendu.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Autorizacija Google uređaja je istekla.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Autorizacija Google uređaja nije dovršena: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Google autorizaciju potrebno je ponovno dovršiti prije učitavanja.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Autorizacija Google uređaja nije mogla započeti: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Prije prijave postavite OAuth ID klijenta uređaja s ograničenim unosom.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Postavite OAuth klijentsku tajnu uređaja s ograničenim unosom prije prijave.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google je odbio OAuth klijent uređaja s ograničenim unosom (invalid_client). Provjerite ID klijenta i tajnu klijenta.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google je odbio OAuth vjerodajnice uređaja s ograničenim unosom (invalid_client). Provjerite ID klijenta i tajnu klijenta.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Autorizacija Google uređaja vratila je nevažeći odgovor.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Krajnja točka Google tokena vratila je nevažeći odgovor.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google autorizacija uređaja nije vratila upotrebljiv kontrolni kod i URL.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Krajnja točka Google tokena nije vratila pristupni token.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Nijedan Google račun nije ovlašten. Prvo započnite prijavu.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google je zatražio sporije glasanje.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Istek pohranjenog OAuth tokena je neispravan. Prijavite se ponovno.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Pohranjeni OAuth token je neispravan. Prijavite se ponovno.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Osvježavanje Google tokena nije uspjelo: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google autorizacija je dovršena, ali Windows Credential Locker nije mogao spremiti token (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Player unutar aplikacije nije mogao učitati ovaj videozapis. Umjesto toga otvorite ga u pregledniku.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Učitavanje službene YouTube stranice za gledanje...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Za reprodukciju unutar aplikacije potreban je ID videozapisa.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} videozapisi</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Učitavanje popularnih videozapisa...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} popularni video rezultati.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} popularni video rezultati. Windows nije dopustio ažuriranje žive pločice.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} popularni video rezultati. Živa pločica sada prikazuje najbolji rezultat.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} popularni video rezultati. Živa pločica nije se mogla ažurirati.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google ovom računu nije odobrio pristup podacima profila. Odjavite se, ponovno pokrenite Google prijavu i prihvatite YouTubeov opseg samo za čitanje.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} su učitani videozapisi koji su im se svidjeli.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Zahtjev za sviđanje videozapisa nije dosegnut. Provjerite mrežnu vezu.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Zahtjev za lajkane videozapise istekao je. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profil je učitan.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profil se nije mogao učitati tijekom {0} (0x{1}). Za detalje otvorite Dijagnostiku.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Učitavanje provjerenog profila...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Učitavanje videozapisa koji su vam se svidjeli...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Učitavanje više videozapisa koji su vam se svidjeli...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Učitavanje više videozapisa popisa za reprodukciju...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Učitavanje više prenesenih videozapisa...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Učitavanje videozapisa popisa za reprodukciju...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} pretplatnici | {1:N0} video zapisi | Pregledi {2:N0}</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google nije vratio nijedan kanal za ovlašteni račun.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Nije vraćen nijedan videozapis koji vam se sviđa.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube nije ponudio popis za reprodukciju prijenosa za ovaj kanal.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} popisi za reprodukciju su učitani. Odaberite jedan da biste pogledali njegove videozapise.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Nije bilo moguće doći do zahtjeva za popise za reprodukciju. Provjerite mrežnu vezu.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Isteklo je vrijeme zahtjeva za popise za reprodukciju. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>Učitani su videozapisi {0:N0} popisa za reprodukciju.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Zahtjev za popis videozapisa nije dostupan. Provjerite mrežnu vezu.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Zahtjev za videozapise za reprodukciju istekao je. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Nije moguće doći do provjerenog YouTube API-ja. Provjerite mrežnu vezu.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Isteklo je vrijeme za autentificirani YouTube zahtjev. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Odaberite Učitaj videozapise koji vam se sviđaju da biste zatražili kolekciju da vam se sviđaju.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Odaberite gornji popis za reprodukciju da biste učitali njegove videozapise.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>kanal</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>svidjeli su se videozapisi</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>popisi za reprodukciju</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>popis videozapisa</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>počevši</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>pretplate</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>učitanih videozapisa</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} pretplate su učitane.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Zahtjev za pretplatu nije bio dostupan. Provjerite mrežnu vezu.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Zahtjev za pretplatu je istekao. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Ako je ovaj račun bio autoriziran prije dodavanja profila, prijavite se ponovno kako biste YouTubeu dodijelili opseg samo za čitanje.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} preneseni videozapisi učitani.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Zahtjev za prenesene videozapise nije dostupan. Provjerite mrežnu vezu.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Zahtjev za prenesene videozapise istekao je. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Učitavanje podržanih regija...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Podržane regije nisu se mogle učitati. Provjerite mrežnu vezu.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Podržane regije nisu se mogle učitati jer je zahtjev YouTube Data API istekao.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube nije vratio nijednu podržanu regiju. Korištenje Sjedinjenih Država.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Sjedinjene Države</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Unesite API ključ ili upotrijebite Clear API ključ.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Potreban je OAuth ID klijenta uređaja s ograničenim unosom.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Potrebna je klijentska tajna OAuth uređaja s ograničenim unosom.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Pretraživanje...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} javni video rezultati.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Ova aplikacija nije povezana s Googleom ili YouTubeom.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Build {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube je moderna UWP aplikacija za pregledavanje YouTubea putem YouTube javnog API-ja.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Razvio:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Korištenje ugrađene UniTube konfiguracije za javne podatke. Spremanje ovdje ga nadjačava.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>API ključ nije konfiguriran.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Vaš API ključ pohranjen je u Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google autorizacija je otkazana.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google autorizacija dovršena. Dostupno je čitanje profila i prijenos videozapisa.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Kod ističe za {1:D2}:{2:D2}. Provjeravam Google svakih {3} sekundi.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google autorizacija nije mogla kontaktirati krajnju točku tokena. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Googleova autorizacija uklonjena. Pokrenite prijavu na Google prije otvaranja profila ili prijenosa.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google račun ovlašten je za čitanje profila i prijenos videozapisa. Prijavite se ponovno ako ovaj token postoji prije Profila.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google autorizacija neočekivano nije uspjela (0x{0}). Otvorite Dijagnostiku nakon ponovnog pokretanja aplikacije.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Korištenje ugrađene UniTube konfiguracije za profil i prijenose. Prvo započnite prijavu na Google.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Spremljene OAuth vjerodajnice uređaja s ograničenim unosom. Ako se bilo koja vrijednost promijenila, ponovno se prijavite prije učitavanja.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Spremljene OAuth vjerodajnice su konfigurirane. Pokrenite prijavu na Google prije otvaranja profila ili prijenosa.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Nepotpuno spremljeno nadjačavanje OAutha je zanemareno. Korištenje ugrađene UniTube konfiguracije za profil i prijenose.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Dostupna je konfiguracija upravljanog OAutha. Pokrenite prijavu na Google prije otvaranja profila ili prijenosa.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Spremite OAuth vjerodajnice, a zatim pokrenite prijavu na Google prije otvaranja profila ili prijenosa.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Šifra: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Kontrolni kod je istekao. Traženje novog koda...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Unesite kod u tom pregledniku. Ovaj telefon će čekati Google autorizaciju.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Vaš prethodni kôd je istekao. Unesite novi kod u tom pregledniku.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Na drugom telefonu, tabletu ili računalu s trenutačnim preglednikom posjetite: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Čeka Googleovo odobrenje.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Prijenos je otkazan. Djelomično prenesena nastavljiva sesija nije nastavljena.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Otkazivanje prijenosa...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Prijenos dovršen. YouTube obrađuje video.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Prijenos dovršen. ID videozapisa: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Opis videozapisa mora imati 5000 znakova ili manje.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Odaberite video datoteku koja sadrži podatke.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Odabrana datoteka završila je prije prijavljene duljine.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Odaberite video datoteku prije učitavanja.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Odabrani videozapis je prevelik za prijenos.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Prijenos nije mogao doći do YouTubea. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube nije vratio odgovor o dovršenom prijenosu.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube nije vratio lokaciju za nastavak prijenosa.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Odaberite privatnu, nenavedenu ili javnu privatnost.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Učitano {0:N0} od {1:N0} bajtova ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Spremno za učitavanje {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube prijenos vratio {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bajtova)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Odabir videozapisa je otkazan.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Pokretanje nastavka prijenosa...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Prijenos je istekao. Provjerite mrežnu vezu i pokušajte ponovno.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Unesite naslov prije učitavanja.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Naslov videozapisa mora sadržavati 100 znakova ili manje.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Odaberite prepoznatu video datoteku.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Učitavanje pojedinosti o videozapisu...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Objavljeno {0} | {1:N0} pregleda | trajanje {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Play in app otvara YouTubeovu službenu mobilnu stranicu za gledanje.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Reprodukcija je započela, ali njezini metapodaci nisu mogli biti spremljeni za živu pločicu.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Reprodukcija je započela, ali Windows nije dopuštao ažuriranje žive pločice.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Reprodukcija je započela, ali pločica uživo nije se mogla ažurirati.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Traženi videozapis nije dostupan.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Potreban je ID videozapisa.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Posebne zahvale</value>
+  </data>
+</root>

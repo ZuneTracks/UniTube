@@ -100,7 +100,7 @@ namespace YouTube.Uwp.Services
         {
             if (string.IsNullOrWhiteSpace(apiKey))
             {
-                throw new ArgumentException("Enter an API key or use Clear API key.", "apiKey");
+                throw new ArgumentException(Localizer.Get("Runtime.ApiKeyRequired"), "apiKey");
             }
 
             SecureCredentialStore.Write(ApiKeyResource, ApiKeyUserName, apiKey.Trim());
@@ -150,12 +150,12 @@ namespace YouTube.Uwp.Services
         {
             if (string.IsNullOrWhiteSpace(clientId))
             {
-                throw new ArgumentException("A limited-input device OAuth client ID is required.", "clientId");
+                throw new ArgumentException(Localizer.Get("Runtime.OAuthClientIdRequired"), "clientId");
             }
 
             if (string.IsNullOrWhiteSpace(clientSecret))
             {
-                throw new ArgumentException("A limited-input device OAuth client secret is required.", "clientSecret");
+                throw new ArgumentException(Localizer.Get("Runtime.OAuthClientSecretRequired"), "clientSecret");
             }
 
             string normalizedClientId = clientId.Trim();

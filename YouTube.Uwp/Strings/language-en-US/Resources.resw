@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>PUBLIC BROWSER</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>SETTINGS</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>HOME</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>SEARCH</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>CATEGORIES</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFILE</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>discover</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>The latest popular videos, in the classic phone-first layout.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>TRENDING NOW</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Load popular videos for your region</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>popular videos</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Choose Trending Now to load public results.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>search</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Find public YouTube videos with your user-supplied API key.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Search terms</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Search YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>SEARCH</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULAR</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>REGION</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>categories</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Tap a category to expand its current popular videos. Tap it again to collapse and choose another.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profile</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Account data available through your authenticated YouTube connection.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>ABOUT</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API key override</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Leave blank to use managed configuration</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ BACK</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>CANCEL</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>about this channel</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>channel details</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>CLEAR</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Personal credentials are stored only in Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Optional</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>description</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>This log records app errors and OAuth milestones. Credentials, authorization codes, and tokens are excluded.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnostics</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Profile reads and upload use a Google TVs and limited-input device OAuth client. No redirect URI is used. Managed local build values remain hidden; saving credentials here overrides them.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google account</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>In-app playback uses YouTube's official mobile watch page. This app does not extract or download media URLs.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>liked videos</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>LOAD LIKED VIDEOS</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>LOAD MORE LIKED VIDEOS</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>LOAD MORE PLAYLISTS</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>LOAD MORE PLAYLIST VIDEOS</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>LOAD MORE SUBSCRIPTIONS</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>LOAD MORE UPLOADED VIDEOS</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Limited-input device OAuth client ID override</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Leave blank to use managed configuration</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Limited-input device OAuth client secret override</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Leave blank to use managed configuration</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Save credentials, then start Google sign-in. The verification code below is entered on another device; this app never opens a sign-in form. Sign in again after this update to grant profile read access.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>OPEN CHANNEL</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>OPEN IN BROWSER</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>player</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>PLAY IN APP</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>playlists</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>playlist videos</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Privacy</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>private</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>A restricted API key is used only for read-only YouTube Data API v3 calls. Managed local build values remain hidden; saving here overrides them.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>public data access</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>public</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>REFRESH</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>REFRESH PROFILE</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Safe Mode uses YouTube's strict SafeSearch setting for searches. It does not provide the YouTube Kids catalog or filter popular, category, and account feeds.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>safe mode</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Use strict SafeSearch for public video searches</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>SAVE API KEY</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>SAVE LOG</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>SAVE CREDENTIALS</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>No video selected.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>SELECT VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>settings</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>START GOOGLE SIGN-IN</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>SIGN OUT</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>START UPLOAD</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>subscriptions</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Required</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>unlisted</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Watch History and Watch Later are not exposed as readable v3 collections. UniTube does not emulate or mislabel them.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>unsupported by YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>uploaded videos</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>upload</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Select a local video, then upload it through your authorized Google account.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>upload video</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Ready to select a video.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Uploads require OAuth settings and a completed Google sign-in from Settings.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>UPLOAD VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>video details</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>VIEW DIAGNOSTICS</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>WATCH ON YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} categories available for {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Loading categories...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Loading {0} videos...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} popular {1} videos for {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>A channel ID is required.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Loading channel details...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} subscribers | {1:N0} videos | {2:N0} views</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>The requested channel is unavailable.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>CLOSE</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>The YouTube Data API could not be reached. Check the network connection.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>The YouTube Data API request timed out. Check the network connection and try again.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>unknown</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google authorization did not provide an access token. Sign in again.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google account access is not configured. Sign in before opening Profile.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Add a Google API key before using public YouTube Data API v3 features.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>A channel ID is required.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>The authenticated YouTube Data API returned an invalid response. Check the network connection and try again.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>The YouTube Data API returned an invalid response. Check the network connection and try again.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>A playlist ID is required.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 returned {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Enter text to search for.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>A video ID is required.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnostic log cleared.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnostic log saved to {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>No diagnostic events have been recorded.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Saving the diagnostic log was canceled.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Could not save the diagnostic log (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Text file</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Last played</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Video metadata is required to update the live tile.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Trending now</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Trending now ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>A trending video title is required.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google device authorization expired.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google device authorization was not completed: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Google authorization needs to be completed again before uploading.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google device authorization could not start: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Set a limited-input device OAuth client ID before signing in.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Set the limited-input device OAuth client secret before signing in.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google rejected the limited-input device OAuth client (invalid_client). Check the client ID and client secret.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google rejected the limited-input device OAuth credentials (invalid_client). Check the client ID and client secret.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google device authorization returned an invalid response.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google token endpoint returned an invalid response.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google device authorization did not return a usable verification code and URL.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google token endpoint did not return an access token.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>No Google account is authorized. Start sign-in first.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google requested slower polling.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>The stored OAuth token expiration is malformed. Sign in again.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>The stored OAuth token is malformed. Sign in again.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google token refresh failed: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google authorization completed, but Windows Credential Locker could not save the token (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>The in-app player could not load this video. Open it in the browser instead.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Loading the official YouTube watch page...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>A video ID is required for in-app playback.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} videos</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Loading popular videos...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} popular video results.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} popular video results. Windows did not allow the live tile to update.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} popular video results. The live tile now shows the top result.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} popular video results. The live tile could not be updated.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google did not grant this account access to profile data. Sign out, start Google sign-in again, and accept the YouTube read-only scope.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} liked videos loaded.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>The liked videos request could not be reached. Check the network connection.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>The liked videos request timed out. Check the network connection and try again.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profile loaded.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Profile could not load during {0} (0x{1}). Open Diagnostics for details.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Loading authenticated profile...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Loading liked videos...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Loading more liked videos...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Loading more playlist videos...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Loading more uploaded videos...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Loading playlist videos...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} subscribers | {1:N0} videos | {2:N0} views</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google returned no channel for the authorized account.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>No liked videos were returned.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube did not provide an uploads playlist for this channel.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} playlists loaded. Select one to view its videos.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>The playlists request could not be reached. Check the network connection.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>The playlists request timed out. Check the network connection and try again.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} playlist videos loaded.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>The playlist videos request could not be reached. Check the network connection.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>The playlist videos request timed out. Check the network connection and try again.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>The authenticated YouTube API could not be reached. Check the network connection.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>The authenticated YouTube request timed out. Check the network connection and try again.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Select Load liked videos to request your liked collection.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Select a playlist above to load its videos.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>channel</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>liked videos</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>playlists</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>playlist videos</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>starting</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>subscriptions</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>uploaded videos</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} subscriptions loaded.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>The subscriptions request could not be reached. Check the network connection.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>The subscriptions request timed out. Check the network connection and try again.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} If this account was authorized before Profile was added, sign in again to grant the YouTube read-only scope.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} uploaded videos loaded.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>The uploaded videos request could not be reached. Check the network connection.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>The uploaded videos request timed out. Check the network connection and try again.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Loading supported regions...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Supported regions could not load. Check the network connection.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Supported regions could not load because the YouTube Data API request timed out.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube did not return any supported regions. Using United States.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>United States</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Enter an API key or use Clear API key.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>A limited-input device OAuth client ID is required.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>A limited-input device OAuth client secret is required.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Searching...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} public video results.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>This app is not affiliated with Google or YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Build {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube is a modern UWP application for browsing YouTube via YouTube's public API.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Developed by:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Using built-in UniTube configuration for public data. Saving here overrides it.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>No API key is configured.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Your API key is stored in Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google authorization canceled.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google authorization completed. Profile reads and video uploads are available.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Code expires in {1:D2}:{2:D2}. Checking Google every {3} seconds.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google authorization could not contact the token endpoint. Check the network connection and try again.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google authorization removed. Start Google sign-in before opening Profile or uploading.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>A Google account is authorized for profile reads and video uploads. Sign in again if this token predates Profile.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google authorization failed unexpectedly (0x{0}). Open Diagnostics after restarting the app.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Using built-in UniTube configuration for Profile and uploads. Start Google sign-in first.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Limited-input device OAuth credentials saved. If either value changed, sign in again before uploading.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Saved OAuth credentials are configured. Start Google sign-in before opening Profile or uploading.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>An incomplete saved OAuth override was ignored. Using built-in UniTube configuration for Profile and uploads.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Managed OAuth configuration is available. Start Google sign-in before opening Profile or uploading.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Save OAuth credentials, then start Google sign-in before opening Profile or uploading.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Code: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Verification code expired. Requesting a new code...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Enter the code in that browser. This phone will wait for Google authorization.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Your previous code expired. Enter the new code in that browser.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>On another phone, tablet, or computer with a current browser, visit: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Waiting for Google approval.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Upload canceled. The partially uploaded resumable session was not continued.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Canceling upload...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Upload completed. YouTube is processing the video.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Upload completed. Video ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>The video description must be 5000 characters or fewer.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Select a video file that contains data.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>The selected file ended before its reported length.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Select a video file before uploading.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>The selected video is too large to upload.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>The upload could not reach YouTube. Check the network connection and try again.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube did not return a completed upload response.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube did not return a resumable upload location.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Select private, unlisted, or public privacy.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} of {1:N0} bytes uploaded ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Ready to upload {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube upload returned {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bytes)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Video selection was canceled.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Starting resumable upload...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>The upload timed out. Check the network connection and try again.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Enter a title before uploading.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>The video title must be 100 characters or fewer.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Select a recognized video file.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Loading video details...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Published {0} | {1:N0} views | duration {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Play in app opens YouTube's official mobile watch page.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Playback started, but its metadata could not be saved for the live tile.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Playback started, but Windows did not allow the live tile to update.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Playback started, but the live tile could not be updated.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>The requested video is unavailable.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>A video ID is required.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Special Thanks</value>
+  </data>
+</root>

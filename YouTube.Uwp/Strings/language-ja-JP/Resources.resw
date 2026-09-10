@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>パブリックブラウザ</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>家</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>カテゴリー</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>プロフィール</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>発見する</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>最新の人気ビデオを、古典的なスマートフォンファーストのレイアウトでご覧いただけます。</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>今のトレンド</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>お住まいの地域で人気の動画をロードする</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>人気のビデオ</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>[Trending Now] を選択して公開結果を読み込みます。</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>ユーザーが指定した API キーを使用して、公開されている YouTube ビデオを検索します。</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>検索用語</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>YouTube を検索</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>人気のある</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>地域</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>カテゴリ</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>カテゴリをタップして、その現在の人気ビデオを展開します。もう一度タップすると折りたたまれ、別のものを選択できます。</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>プロフィール</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>認証された YouTube 接続を通じてアカウント データを利用できます。</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>について</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google APIキーのオーバーライド</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>管理された構成を使用する場合は空白のままにします</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>ユニチューブ</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>« 戻る</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>このチャンネルについて</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>チャンネルの詳細</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>クリア</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>個人の資格情報は Windows Credential Locker にのみ保存されます。</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>説明</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>オプション</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>説明</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>このログには、アプリのエラーと OAuth マイルストーンが記録されます。資格情報、認証コード、トークンは除外されます。</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>診断</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>プロファイルの読み取りとアップロードには、Google TV と入力が制限されたデバイスの OAuth クライアントを使用します。リダイレクト URI は使用されません。管理されたローカル ビルド値は非表示のままです。ここで資格情報を保存すると、資格情報が上書きされます。</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>Googleアカウント</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>アプリ内再生には YouTube の公式モバイル視聴ページを使用します。このアプリはメディア URL を抽出またはダウンロードしません。</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>ビデオが好きだった</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>気に入った動画をロードする</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>気に入った動画をもっと読み込む</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>さらにプレイリストをロードする</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>さらにプレイリストビデオをロードする</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>さらにサブスクリプションをロードする</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>アップロードされたビデオをさらに読み込む</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>入力制限のあるデバイスの OAuth クライアント ID のオーバーライド</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>管理された構成を使用する場合は空白のままにします</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>入力が制限されたデバイスの OAuth クライアント シークレットのオーバーライド</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>管理された構成を使用する場合は空白のままにします</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>認証情報を保存し、Google サインインを開始します。以下の確認コードは別のデバイスで入力されています。このアプリはサインイン フォームを開くことはありません。この更新後に再度サインインして、プロファイルの読み取りアクセスを許可します。</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>チャンネルを開く</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ブラウザで開く</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>プレーヤー</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>アプリでプレイする</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>プレイリスト</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>プレイリストビデオ</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>プライバシー</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>プライベート</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>制限付き API キーは、読み取り専用の YouTube Data API v3 呼び出しにのみ使用されます。管理されたローカル ビルド値は非表示のままです。ここで保存するとそれらが上書きされます。</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>パブリックデータへのアクセス</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>公共の</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>リフレッシュ</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>プロファイルを更新</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>セーフ モードでは、YouTube の厳格なセーフサーチ設定を検索に使用します。 YouTube Kids カタログやフィルターの人気フィード、カテゴリフィード、アカウントフィードは提供しません。</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>セーフモード</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>公開ビデオ検索には厳密なセーフサーチを使用する</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>APIキーを保存</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ログの保存</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>認証情報の保存</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>ビデオが選択されていません。</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>ビデオを選択</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>Google サインインを開始する</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>サインアウト</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>アップロードを開始</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>サブスクリプション</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>タイトル</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>必須</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>非上場</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Watch History と Watch Later は、読み取り可能な v3 コレクションとして公開されません。 UniTube は、それらをエミュレートしたり、誤ったラベルを付けたりしません。</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>YouTube Data API v3 ではサポートされていません</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>アップロードされたビデオ</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>アップロード</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>ローカルビデオを選択し、承認された Google アカウントを通じてアップロードします。</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>ビデオをアップロードする</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>ビデオを選択する準備ができました。</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>アップロードには、OAuth 設定と、設定からの完了した Google サインインが必要です。</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>ビデオをアップロードする</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>ビデオの詳細</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>診断を見る</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>YouTubeで見る</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0}カテゴリは{1}でご利用いただけます。</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>カテゴリを読み込んでいます...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} ビデオを読み込み中...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} {2} の人気の {1} 動画。</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>チャンネルIDは必須です。</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>チャンネルの詳細を読み込んでいます...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} 購読者 | {1:N0} ビデオ | {2:N0} ビュー</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>要求されたチャンネルは利用できません。</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>閉じる</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube Data API にアクセスできませんでした。ネットワーク接続を確認してください。</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube Data API リクエストがタイムアウトしました。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>不明</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google 認証ではアクセス トークンが提供されませんでした。再度サインインします。</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google アカウントへのアクセスが設定されていません。プロフィールを開く前にサインインしてください。</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>YouTube Data API v3 の公開機能を使用する前に、Google API キーを追加してください。</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>チャンネルIDは必須です。</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>認証された YouTube Data API が無効な応答を返しました。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API が無効な応答を返しました。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>プレイリストIDが必要です。</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 は {0} ({1}) を返しました。 {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>検索するテキストを入力します。</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>ビデオIDが必要です。</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>診断ログがクリアされました。</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>診断ログは {0} に保存されます。</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>診断イベントは記録されていません。</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>診断ログの保存がキャンセルされました。</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>診断ログ (0x{0}) を保存できませんでした。</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>テキストファイル</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>最後にプレイした</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>ライブ タイルを更新するにはビデオ メタデータが必要です。</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>今のトレンド</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>現在のトレンド ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>トレンド動画のタイトルは必須です。</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google デバイスの認証が期限切れになりました。</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google デバイスの認証が完了していません: {0}。</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>アップロードする前に再度Google認証を完了する必要があります。</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google デバイス認証を開始できませんでした: {0}。</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>サインインする前に、入力制限付きデバイスの OAuth クライアント ID を設定します。</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>サインインする前に、入力制限付きデバイスの OAuth クライアント シークレットを設定します。</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google は、入力制限のあるデバイスの OAuth クライアント (invalid_client) を拒否しました。クライアントIDとクライアントシークレットを確認してください。</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google は、入力が制限されたデバイスの OAuth 認証情報 (invalid_client) を拒否しました。クライアントIDとクライアントシークレットを確認してください。</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google デバイス認証が無効な応答を返しました。</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google トークン エンドポイントが無効な応答を返しました。</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Google デバイスの認証では、使用可能な確認コードと URL が返されませんでした。</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google トークン エンドポイントがアクセス トークンを返しませんでした。</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Google アカウントが承認されていません。まずサインインを開始します。</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google はより遅いポーリングを要求しました。</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>保存された OAuth トークンの有効期限が不正です。再度サインインします。</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>保存された OAuth トークンの形式が不正です。再度サインインします。</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google トークンの更新に失敗しました: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google 認証は完了しましたが、Windows Credential Locker がトークン (0x{0}) を保存できませんでした。</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>アプリ内プレーヤーはこのビデオを読み込むことができませんでした。代わりにブラウザで開きます。</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>公式 YouTube 視聴ページを読み込んでいます...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>アプリ内再生にはビデオIDが必要です。</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} ビデオ</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>人気の動画を読み込み中...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} 人気の動画結果。</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} 人気の動画結果。 Windows ではライブ タイルの更新が許可されていませんでした。</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} 人気の動画結果。ライブ タイルに上位の結果が表示されるようになりました。</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} 人気の動画結果。ライブ タイルを更新できませんでした。</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google はこのアカウントにプロフィール データへのアクセスを許可していません。サインアウトし、Google サインインを再度開始し、YouTube 読み取り専用スコープを受け入れます。</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} の「いいね！」動画が読み込まれました。</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>「いいね！」ビデオのリクエストに到達できませんでした。ネットワーク接続を確認してください。</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>「いいね！」ビデオのリクエストがタイムアウトしました。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>プロファイルがロードされました。</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>{0} (0x{1}) 中にプロファイルをロードできませんでした。詳細については、「診断」を開いてください。</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>認証されたプロファイルをロードしています...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>気に入った動画を読み込み中...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>気に入った動画をさらに読み込んでいます...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>さらにプレイリストビデオを読み込んでいます...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>さらにアップロードされたビデオを読み込んでいます...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>プレイリストビデオを読み込み中...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} 購読者 | {1:N0} ビデオ | {2:N0} ビュー</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google は、承認されたアカウントに対してチャンネルを返しませんでした。</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>「いいね」をした動画は返されませんでした。</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube はこのチャンネルのアップロード プレイリストを提供していませんでした。</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} プレイリストがロードされました。ビデオを表示するには、いずれかを選択します。</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>プレイリストリクエストに到達できませんでした。ネットワーク接続を確認してください。</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>プレイリストリクエストがタイムアウトしました。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} プレイリストビデオが読み込まれました。</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>プレイリストビデオリクエストに到達できませんでした。ネットワーク接続を確認してください。</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>プレイリストビデオリクエストがタイムアウトしました。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>認証された YouTube API にアクセスできませんでした。ネットワーク接続を確認してください。</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>認証された YouTube リクエストがタイムアウトしました。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>「いいね！」したビデオをロードを選択して、「いいね！」したコレクションをリクエストします。</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>上のプレイリストを選択して、そのビデオをロードします。</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>チャンネル</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>ビデオが好きだった</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>プレイリスト</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>プレイリストビデオ</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>始めます</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>サブスクリプション</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>アップロードされたビデオ</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} サブスクリプションが読み込まれました。</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>購読リクエストに到達できませんでした。ネットワーク接続を確認してください。</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>サブスクリプションリクエストがタイムアウトしました。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} プロフィールが追加される前にこのアカウントが承認されていた場合は、再度サインインして YouTube に読み取り専用スコープを付与します。</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} アップロードされたビデオが読み込まれました。</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>アップロードされたビデオのリクエストに到達できませんでした。ネットワーク接続を確認してください。</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>アップロードされたビデオのリクエストがタイムアウトしました。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>サポートされているリージョンを読み込んでいます...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>サポートされている領域を読み込むことができませんでした。ネットワーク接続を確認してください。</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>YouTube Data API リクエストがタイムアウトしたため、サポートされているリージョンを読み込むことができませんでした。</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube はサポートされている地域を返しませんでした。米国を使用。</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>米国</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>API キーを入力するか、クリア API キーを使用します。</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>入力が制限されたデバイスの OAuth クライアント ID が必要です。</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>入力が制限されたデバイスの OAuth クライアント シークレットが必要です。</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>検索中...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} 公開ビデオの結果。</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>このアプリはGoogleやYouTubeとは提携していません。</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>{0}.{1}.{2}.{3} をビルドする</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube は、YouTube のパブリック API を介して YouTube を閲覧するための最新の UWP アプリケーションです。</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>開発者:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>公開データに組み込みの UniTube 構成を使用します。ここで保存すると上書きされます。</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>API キーが設定されていません。</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>API キーは Windows Credential Locker に保存されます。</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Googleの認証がキャンセルされました。</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Googleの認証が完了しました。プロフィールの読み取りとビデオのアップロードが可能です。</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} コードは {1:D2}:{2:D2} で期限切れになります。 {3} 秒ごとに Google をチェックしています。</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google 認証がトークン エンドポイントに接続できませんでした。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Googleの認証が削除されました。プロフィールを開いたりアップロードしたりする前に、Google サインインを開始してください。</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Google アカウントには、プロフィールの読み取りとビデオのアップロードが許可されています。このトークンがプロファイルよりも古い場合は、再度サインインします。</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google 認証が予期せず失敗しました (0x{0})。アプリを再起動した後、診断を開きます。</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>プロファイルとアップロードに組み込みの UniTube 構成を使用します。まず Google サインインを開始します。</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>入力が制限されたデバイスの OAuth 資格情報が保存されました。いずれかの値が変更された場合は、アップロードする前に再度サインインしてください。</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>保存された OAuth 認証情報が設定されます。プロフィールを開いたりアップロードしたりする前に、Google サインインを開始してください。</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>不完全に保存された OAuth オーバーライドは無視されました。プロファイルとアップロードに組み込みの UniTube 構成を使用します。</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>マネージド OAuth 構成が利用可能です。プロフィールを開いたりアップロードしたりする前に、Google サインインを開始してください。</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>OAuth 認証情報を保存し、プロフィールを開いたりアップロードしたりする前に Google サインインを開始します。</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>コード: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>認証コードの有効期限が切れました。新しいコードをリクエストしています...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>そのブラウザにコードを入力します。この電話は Google の承認を待ちます。</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>以前のコードの有効期限が切れました。そのブラウザに新しいコードを入力します。</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>現在のブラウザを使用している別の携帯電話、タブレット、またはコンピュータで、{0} にアクセスしてください。</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Googleの承認を待っています。</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>アップロードがキャンセルされました。部分的にアップロードされた再開可能なセッションは続行されませんでした。</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>アップロードをキャンセルしています...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>アップロードが完了しました。 YouTube がビデオを処理しています。</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>アップロードが完了しました。ビデオID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>動画の説明は 5000 文字以下にする必要があります。</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>データを含むビデオ ファイルを選択します。</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>選択したファイルは、報告された長さの前に終了しました。</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>アップロードする前にビデオ ファイルを選択してください。</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>選択したビデオは大きすぎるためアップロードできません。</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>アップロードは YouTube に到達できませんでした。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube は完了したアップロード応答を返しませんでした。</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube は再開可能なアップロード場所を返しませんでした。</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>非公開、非公開、または公開のプライバシーを選択します。</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0}/{1:N0} バイトがアップロードされました ({2:F0}%)。</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>{0} をアップロードする準備ができました。</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube アップロードでは {0} ({1}) が返されました。 {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} バイト)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>ビデオの選択がキャンセルされました。</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>再開可能なアップロードを開始しています...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>アップロードがタイムアウトしました。ネットワーク接続を確認して、再試行してください。</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>アップロードする前にタイトルを入力してください。</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>動画のタイトルは 100 文字以下にする必要があります。</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>認識されたビデオ ファイルを選択します。</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>ビデオの詳細を読み込んでいます...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>公開日: {0} | {1:N0} ビュー |期間{2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>アプリで再生すると、YouTube の公式モバイル視聴ページが開きます。</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>再生は開始されましたが、ライブ タイルのメタデータを保存できませんでした。</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>再生は開始されましたが、Windows ではライブ タイルの更新が許可されませんでした。</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>再生は開始されましたが、ライブ タイルを更新できませんでした。</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>要求されたビデオは利用できません。</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>ビデオIDが必要です。</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>特別な感謝</value>
+  </data>
+</root>

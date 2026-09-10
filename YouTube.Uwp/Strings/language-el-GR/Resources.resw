@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>PUBLIC Browser</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>ΡΥΘΜΙΣΕΙΣ</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>ΣΠΙΤΙ</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>ΕΡΕΥΝΑ</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>ΚΑΤΗΓΟΡΙΕΣ</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>ΠΡΟΦΙΛ</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>ανακαλύπτω</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Τα πιο πρόσφατα δημοφιλή βίντεο, στην κλασική διάταξη του τηλεφώνου.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>ΤΑΣΗ ΤΩΡΑ</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Φορτώστε δημοφιλή βίντεο για την περιοχή σας</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>δημοφιλή βίντεο</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Επιλέξτε Trending Now για να φορτώσετε δημόσια αποτελέσματα.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>έρευνα</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Βρείτε δημόσια βίντεο YouTube με το κλειδί API που παρέχεται από τον χρήστη.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Όροι αναζήτησης</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Αναζήτηση στο YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>ΕΡΕΥΝΑ</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>ΔΗΜΟΦΙΛΗΣ</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>ΠΕΡΙΟΧΗ</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>κατηγορίες</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Πατήστε μια κατηγορία για να επεκτείνετε τα τρέχοντα δημοφιλή βίντεό της. Πατήστε το ξανά για σύμπτυξη και επιλέξτε άλλο.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>προφίλ</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Τα δεδομένα λογαριασμού είναι διαθέσιμα μέσω της επαληθευμένης σύνδεσής σας στο YouTube.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>ΠΕΡΙΠΟΥ</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Παράκαμψη κλειδιού Google API</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Αφήστε το κενό για να χρησιμοποιήσετε τη διαχειριζόμενη διαμόρφωση</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ ΕΠΙΣΤΡΟΦΗ</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ΑΚΥΡΩΣΗ</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>σχετικά με αυτό το κανάλι</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>λεπτομέρειες καναλιού</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>ΚΑΘΑΡΙΣΤΟ</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Τα προσωπικά διαπιστευτήρια αποθηκεύονται μόνο στο Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Περιγραφή</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Προαιρετικό</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>περιγραφή</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Αυτό το αρχείο καταγραφής καταγράφει σφάλματα εφαρμογής και ορόσημα OAuth. Τα διαπιστευτήρια, οι κωδικοί εξουσιοδότησης και τα διακριτικά εξαιρούνται.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>διαγνωστικά</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Η ανάγνωση και η μεταφόρτωση προφίλ χρησιμοποιούν πρόγραμμα-πελάτη Google TVs και συσκευή περιορισμένης εισόδου OAuth. Δεν χρησιμοποιείται URI ανακατεύθυνσης. Οι διαχειριζόμενες τοπικές τιμές κατασκευής παραμένουν κρυφές. Η αποθήκευση διαπιστευτηρίων εδώ τα παρακάμπτει.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>λογαριασμό google</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Η αναπαραγωγή εντός εφαρμογής χρησιμοποιεί την επίσημη σελίδα παρακολούθησης του YouTube για κινητά. Αυτή η εφαρμογή δεν εξάγει ούτε κατεβάζει διευθύνσεις URL πολυμέσων.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>βίντεο που άρεσαν</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>ΦΟΡΤΩΣΗ ΒΙΝΤΕΟ ΠΟΥ ΑΡΕΣΟΥΝ</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>ΦΟΡΤΩΣΤΕ ΠΕΡΙΣΣΟΤΕΡΑ ΒΙΝΤΕΟ ΠΟΥ ΑΡΕΣΟΥΝ</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>ΦΟΡΤΩΣΤΕ ΠΕΡΙΣΣΟΤΕΡΕΣ ΛΙΣΤΕΣ ΑΝΑΠΑΡΑΓΩΓΗΣ</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>ΦΟΡΤΩΣΤΕ ΠΕΡΙΣΣΟΤΕΡΑ ΒΙΝΤΕΟ ΛΙΣΤΩΝ ΑΝΑΠΑΡΑΓΩΓΗΣ</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>ΦΟΡΤΩΣΤΕ ΠΕΡΙΣΣΟΤΕΡΕΣ ΣΥΝΔΡΟΜΕΣ</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>ΦΟΡΤΩΣΤΕ ΠΕΡΙΣΣΟΤΕΡΑ ΜΕΤΑΦΟΡΤΩΜΕΝΑ ΒΙΝΤΕΟ</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Παράκαμψη αναγνωριστικού πελάτη OAuth συσκευής περιορισμένης εισόδου</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Αφήστε το κενό για να χρησιμοποιήσετε τη διαχειριζόμενη διαμόρφωση</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Παράκαμψη μυστικού πελάτη OAuth συσκευής περιορισμένης εισόδου</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Αφήστε το κενό για να χρησιμοποιήσετε τη διαχειριζόμενη διαμόρφωση</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Αποθηκεύστε τα διαπιστευτήρια και μετά ξεκινήστε τη σύνδεση στο Google. Ο παρακάτω κωδικός επαλήθευσης εισάγεται σε άλλη συσκευή. αυτή η εφαρμογή δεν ανοίγει ποτέ μια φόρμα σύνδεσης. Συνδεθείτε ξανά μετά από αυτήν την ενημέρωση για να παραχωρήσετε στο προφίλ πρόσβαση ανάγνωσης.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ΑΝΟΙΧΤΟ ΚΑΝΑΛΙ</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ΑΝΟΙΞΤΕ ΣΤΟ BROWSER</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>παίκτης</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>ΠΑΙΞΤΕ ΣΤΗΝ ΕΦΑΡΜΟΓΗ</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>λίστες αναπαραγωγής</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>βίντεο λίστας αναπαραγωγής</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Απόρρητο</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>ιδιωτική</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Ένα περιορισμένο κλειδί API χρησιμοποιείται μόνο για κλήσεις μόνο για ανάγνωση YouTube Data API v3. Οι διαχειριζόμενες τοπικές τιμές κατασκευής παραμένουν κρυφές. Η αποθήκευση εδώ τα υπερισχύει.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>πρόσβαση σε δημόσια δεδομένα</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>δημόσιο</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>ΑΝΑΝΕΩΣΗ</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>ΑΝΑΝΕΩΣΗ ΠΡΟΦΙΛ</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Η Ασφαλής λειτουργία χρησιμοποιεί την αυστηρή ρύθμιση Ασφαλούς Αναζήτησης του YouTube για αναζητήσεις. Δεν παρέχει τον κατάλογο YouTube Kids ή το φίλτρο δημοφιλών ροών, κατηγορίας και λογαριασμού.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>ασφαλής λειτουργία</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Χρησιμοποιήστε αυστηρή Ασφαλή Αναζήτηση για δημόσιες αναζητήσεις βίντεο</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>ΑΠΟΘΗΚΕΥΣΗ ΚΛΕΙΔΙΟΥ API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ΑΠΟΘΗΚΕΥΣΗ ΑΡΧΕΙΟΥ</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>ΑΠΟΘΗΚΕΥΣΗ ΔΙΑπιστευτηρίων</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Δεν έχει επιλεγεί βίντεο.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>ΕΠΙΛΟΓΗ ΒΙΝΤΕΟ</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>ρυθμίσεις</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ΕΝΑΡΞΗ ΣΥΝΔΕΣΗΣ GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ΕΞΟΔΟΣ</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ΕΝΑΡΞΗ ΑΝΕΒΑΣΗΣ</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>συνδρομές</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Τίτλος</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Απαιτείται</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>μη εισηγμένη</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Το ιστορικό παρακολούθησης και η παρακολούθηση αργότερα δεν εκτίθενται ως αναγνώσιμες συλλογές v3. Το UniTube δεν τα μιμείται ούτε τα χαρακτηρίζει εσφαλμένα.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>δεν υποστηρίζεται από το YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>ανέβασε βίντεο</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>ανεβάσετε</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Επιλέξτε ένα τοπικό βίντεο και, στη συνέχεια, ανεβάστε το μέσω του εξουσιοδοτημένου λογαριασμού σας Google.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>ανεβάστε βίντεο</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Έτοιμη για επιλογή βίντεο.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Οι μεταφορτώσεις απαιτούν ρυθμίσεις OAuth και ολοκληρωμένη σύνδεση Google από τις Ρυθμίσεις.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>ΑΝΕΒΑΣΤΕ ΒΙΝΤΕΟ</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>λεπτομέρειες βίντεο</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>ΠΡΟΒΟΛΗ ΔΙΑΓΝΩΣΤΙΚΩΝ</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>ΔΕΙΤΕ ΣΤΟ YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>Διαθέσιμες κατηγορίες {0:N0} για {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Φόρτωση κατηγοριών...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Φόρτωση βίντεο {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} δημοφιλή βίντεο {1} για {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Απαιτείται αναγνωριστικό καναλιού.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Φόρτωση λεπτομερειών καναλιού...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} συνδρομητές | {1:N0} βίντεο | {2:N0} προβολές</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Το κανάλι που ζητήθηκε δεν είναι διαθέσιμο.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ΚΛΕΙΣΤΕ</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η πρόσβαση στο YouTube Data API. Ελέγξτε τη σύνδεση δικτύου.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Το αίτημα του YouTube Data API έληξε. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>άγνωστο</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Η εξουσιοδότηση Google δεν παρείχε διακριτικό πρόσβασης. Συνδεθείτε ξανά.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Η πρόσβαση στον λογαριασμό Google δεν έχει ρυθμιστεί. Συνδεθείτε πριν ανοίξετε το Προφίλ.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Προσθέστε ένα κλειδί API Google πριν χρησιμοποιήσετε τις δημόσιες λειτουργίες YouTube Data API v3.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Απαιτείται αναγνωριστικό καναλιού.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Το πιστοποιημένο API δεδομένων YouTube επέστρεψε μια μη έγκυρη απάντηση. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>Το YouTube Data API επέστρεψε μια μη έγκυρη απάντηση. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Απαιτείται αναγνωριστικό λίστας αναπαραγωγής.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>Το YouTube Data API v3 επέστρεψε {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Εισαγάγετε κείμενο για αναζήτηση.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Απαιτείται αναγνωριστικό βίντεο.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Το διαγνωστικό αρχείο καταγραφής διαγράφηκε.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Το διαγνωστικό αρχείο καταγραφής αποθηκεύτηκε στο {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Δεν έχουν καταγραφεί διαγνωστικά συμβάντα.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Η αποθήκευση του διαγνωστικού αρχείου καταγραφής ακυρώθηκε.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η αποθήκευση του διαγνωστικού αρχείου καταγραφής (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Αρχείο κειμένου</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Τελευταίο παιχνίδι</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Απαιτούνται μεταδεδομένα βίντεο για την ενημέρωση του ζωντανού πλακιδίου.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Τάσεις τώρα</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Τάσεις τώρα ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Απαιτείται ένας δημοφιλής τίτλος βίντεο.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Η εξουσιοδότηση συσκευής Google έληξε.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Η εξουσιοδότηση συσκευής Google δεν ολοκληρώθηκε: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Η εξουσιοδότηση Google πρέπει να ολοκληρωθεί ξανά πριν από τη μεταφόρτωση.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η εκκίνηση της εξουσιοδότησης συσκευής Google: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Ορίστε ένα αναγνωριστικό πελάτη OAuth συσκευής περιορισμένης εισόδου πριν συνδεθείτε.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Ορίστε το μυστικό πελάτη OAuth της συσκευής περιορισμένης εισαγωγής πριν συνδεθείτε.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Η Google απέρριψε το πρόγραμμα-πελάτη OAuth της συσκευής περιορισμένης εισαγωγής (invalid_client). Ελέγξτε το αναγνωριστικό πελάτη και το μυστικό του πελάτη.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Η Google απέρριψε τα διαπιστευτήρια OAuth της συσκευής περιορισμένης εισαγωγής (invalid_client). Ελέγξτε το αναγνωριστικό πελάτη και το μυστικό του πελάτη.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Η εξουσιοδότηση συσκευής Google επέστρεψε μια μη έγκυρη απάντηση.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Το τελικό σημείο διακριτικού Google επέστρεψε μια μη έγκυρη απάντηση.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Η εξουσιοδότηση συσκευής Google δεν επέστρεψε έναν χρησιμοποιήσιμο κωδικό επαλήθευσης και διεύθυνση URL.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Το τελικό σημείο διακριτικού Google δεν επέστρεψε κανένα διακριτικό πρόσβασης.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Κανένας λογαριασμός Google δεν είναι εξουσιοδοτημένος. Ξεκινήστε πρώτα τη σύνδεση.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Η Google ζήτησε πιο αργή ψηφοφορία.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Η λήξη του αποθηκευμένου διακριτικού OAuth έχει λανθασμένη μορφή. Συνδεθείτε ξανά.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Το αποθηκευμένο διακριτικό OAuth έχει λανθασμένη μορφή. Συνδεθείτε ξανά.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Η ανανέωση διακριτικού Google απέτυχε: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Η εξουσιοδότηση Google ολοκληρώθηκε, αλλά το Windows Credential Locker δεν μπόρεσε να αποθηκεύσει το διακριτικό (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Το πρόγραμμα αναπαραγωγής εντός εφαρμογής δεν μπόρεσε να φορτώσει αυτό το βίντεο. Ανοίξτε το στο πρόγραμμα περιήγησης.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Φόρτωση της επίσημης σελίδας παρακολούθησης YouTube...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Απαιτείται αναγνωριστικό βίντεο για αναπαραγωγή εντός εφαρμογής.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} βίντεο</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Φόρτωση δημοφιλών βίντεο...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} δημοφιλή αποτελέσματα βίντεο.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} δημοφιλή αποτελέσματα βίντεο. Τα Windows δεν επέτρεψαν την ενημέρωση του ζωντανού πλακιδίου.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} δημοφιλή αποτελέσματα βίντεο. Το ζωντανό πλακίδιο δείχνει τώρα το κορυφαίο αποτέλεσμα.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} δημοφιλή αποτελέσματα βίντεο. Δεν ήταν δυνατή η ενημέρωση του ζωντανού πλακιδίου.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Η Google δεν παραχώρησε σε αυτόν τον λογαριασμό πρόσβαση στα δεδομένα προφίλ. Αποσυνδεθείτε, ξεκινήστε ξανά τη σύνδεση στο Google και αποδεχτείτε το εύρος μόνο για ανάγνωση του YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>Τα βίντεο που άρεσαν στο {0:N0} φορτώθηκαν.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η επίτευξη του αιτήματος βίντεο που σας αρέσουν. Ελέγξτε τη σύνδεση δικτύου.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Το χρονικό όριο του αιτήματος για τα βίντεο που αρέσουν έληξε. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Το προφίλ φορτώθηκε.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η φόρτωση του προφίλ κατά τη διάρκεια του {0} (0x{1}). Ανοίξτε το Διαγνωστικό για λεπτομέρειες.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Φόρτωση πιστοποιημένου προφίλ...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Φόρτωση βίντεο που αρέσουν...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Φόρτωση περισσότερων βίντεο που αρέσουν...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Φόρτωση περισσότερων βίντεο playlist...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Φόρτωση περισσότερων μεταφορτωμένων βίντεο...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Φόρτωση βίντεο λίστας αναπαραγωγής...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} συνδρομητές | {1:N0} βίντεο | {2:N0} προβολές</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Η Google δεν επέστρεψε κανένα κανάλι για τον εξουσιοδοτημένο λογαριασμό.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Δεν επιστράφηκαν βίντεο που σας αρέσουν.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>Το YouTube δεν παρείχε λίστα αναπαραγωγής μεταφορτώσεων για αυτό το κανάλι.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>Οι λίστες αναπαραγωγής {0:N0} φορτώθηκαν. Επιλέξτε ένα για να δείτε τα βίντεό του.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η επίτευξη του αιτήματος για playlist. Ελέγξτε τη σύνδεση δικτύου.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Το χρονικό όριο του αιτήματος των λιστών αναπαραγωγής έληξε. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>Τα βίντεο της λίστας αναπαραγωγής {0:N0} φορτώθηκαν.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η επίτευξη του αιτήματος για τα βίντεο της λίστας αναπαραγωγής. Ελέγξτε τη σύνδεση δικτύου.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Το χρονικό όριο του αιτήματος βίντεο για playlist έληξε. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η πρόσβαση στο πιστοποιημένο API του YouTube. Ελέγξτε τη σύνδεση δικτύου.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Το χρονικό όριο του επαληθευμένου αιτήματος YouTube έληξε. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Επιλέξτε Φόρτωση βίντεο που σας αρέσουν για να ζητήσετε τη συλλογή που σας αρέσει.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Επιλέξτε μια λίστα αναπαραγωγής παραπάνω για να φορτώσετε τα βίντεό της.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>κανάλι</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>βίντεο που άρεσαν</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>λίστες αναπαραγωγής</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>βίντεο λίστας αναπαραγωγής</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>ξεκινώντας</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>συνδρομές</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>ανέβασε βίντεο</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>Οι συνδρομές {0:N0} φορτώθηκαν.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η επίτευξη του αιτήματος συνδρομών. Ελέγξτε τη σύνδεση δικτύου.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Το χρονικό όριο του αιτήματος συνδρομών έληξε. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Εάν αυτός ο λογαριασμός είχε εξουσιοδοτηθεί πριν από την προσθήκη του Προφίλ, συνδεθείτε ξανά για να εκχωρήσετε το εύρος μόνο για ανάγνωση του YouTube.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>Το {0:N0} μεταφορτώθηκε βίντεο.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η πρόσβαση στο αίτημα βίντεο που ανεβάσατε. Ελέγξτε τη σύνδεση δικτύου.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Το χρονικό όριο του αιτήματος των μεταφορτωμένων βίντεο έληξε. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Φόρτωση υποστηριζόμενων περιοχών...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η φόρτωση των υποστηριζόμενων περιοχών. Ελέγξτε τη σύνδεση δικτύου.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Δεν ήταν δυνατή η φόρτωση των υποστηριζόμενων περιοχών, επειδή το αίτημα του YouTube Data API έληξε.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>Το YouTube δεν επέστρεψε καμία υποστηριζόμενη περιοχή. Χρήση Ηνωμένων Πολιτειών.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Ηνωμένες Πολιτείες</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Εισαγάγετε ένα κλειδί API ή χρησιμοποιήστε το Clear API key.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Απαιτείται ένα αναγνωριστικό πελάτη OAuth συσκευής περιορισμένης εισόδου.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Απαιτείται ένα μυστικό πελάτη OAuth συσκευής περιορισμένης εισόδου.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Αναζήτηση...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} δημόσια αποτελέσματα βίντεο.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Αυτή η εφαρμογή δεν είναι συνδεδεμένη με την Google ή το YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Κατασκευή {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>Το UniTube είναι μια σύγχρονη εφαρμογή UWP για περιήγηση στο YouTube μέσω του δημόσιου API του YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Αναπτύχθηκε από:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Χρήση ενσωματωμένης διαμόρφωσης UniTube για δημόσια δεδομένα. Η αποθήκευση εδώ το παρακάμπτει.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Δεν έχει διαμορφωθεί κανένα κλειδί API.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Το κλειδί API σας αποθηκεύεται στο Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Η εξουσιοδότηση Google ακυρώθηκε.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Η εξουσιοδότηση Google ολοκληρώθηκε. Διατίθενται αναγνώσεις προφίλ και μεταφορτώσεις βίντεο.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>Ο κωδικός {0} λήγει σε {1:D2}:{2:D2}. Έλεγχος Google κάθε {3} δευτερόλεπτα.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Η εξουσιοδότηση Google δεν μπόρεσε να επικοινωνήσει με το τελικό σημείο του διακριτικού. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Η εξουσιοδότηση Google καταργήθηκε. Ξεκινήστε τη σύνδεση στο Google πριν ανοίξετε το Προφίλ ή τη μεταφόρτωση.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Ένας Λογαριασμός Google είναι εξουσιοδοτημένος για αναγνώσεις προφίλ και μεταφορτώσεις βίντεο. Συνδεθείτε ξανά εάν αυτό το διακριτικό είναι προγενέστερο του Προφίλ.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Η εξουσιοδότηση Google απέτυχε απροσδόκητα (0x{0}). Ανοίξτε τα Διαγνωστικά μετά την επανεκκίνηση της εφαρμογής.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Χρήση ενσωματωμένης διαμόρφωσης UniTube για Προφίλ και μεταφορτώσεις. Ξεκινήστε πρώτα τη σύνδεση στο Google.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Τα διαπιστευτήρια OAuth συσκευής περιορισμένης εισόδου αποθηκεύτηκαν. Εάν κάποια τιμή αλλάξει, συνδεθείτε ξανά πριν τη μεταφόρτωση.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Τα αποθηκευμένα διαπιστευτήρια OAuth έχουν ρυθμιστεί. Ξεκινήστε τη σύνδεση στο Google πριν ανοίξετε το Προφίλ ή τη μεταφόρτωση.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Μια ατελής αποθηκευμένη παράκαμψη OAuth αγνοήθηκε. Χρήση ενσωματωμένης διαμόρφωσης UniTube για Προφίλ και μεταφορτώσεις.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Η διαχειριζόμενη διαμόρφωση OAuth είναι διαθέσιμη. Ξεκινήστε τη σύνδεση στο Google πριν ανοίξετε το Προφίλ ή τη μεταφόρτωση.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Αποθηκεύστε τα διαπιστευτήρια OAuth και, στη συνέχεια, ξεκινήστε τη σύνδεση στο Google πριν ανοίξετε το Προφίλ ή τη μεταφόρτωση.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Κωδικός: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Ο κωδικός επαλήθευσης έληξε. Αίτημα νέου κωδικού...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Εισαγάγετε τον κωδικό σε αυτό το πρόγραμμα περιήγησης. Αυτό το τηλέφωνο θα περιμένει την εξουσιοδότηση της Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Ο προηγούμενος κωδικός σας έληξε. Εισαγάγετε τον νέο κωδικό σε αυτό το πρόγραμμα περιήγησης.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Σε άλλο τηλέφωνο, tablet ή υπολογιστή με τρέχον πρόγραμμα περιήγησης, επισκεφτείτε τη διεύθυνση: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Αναμονή για έγκριση από την Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Η μεταφόρτωση ακυρώθηκε. Η μερικώς μεταφορτωμένη συνεδρία με δυνατότητα συνέχισης δεν συνεχίστηκε.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Ακύρωση μεταφόρτωσης...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Η μεταφόρτωση ολοκληρώθηκε. Το YouTube επεξεργάζεται το βίντεο.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Η μεταφόρτωση ολοκληρώθηκε. Αναγνωριστικό βίντεο: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Η περιγραφή του βίντεο πρέπει να είναι 5000 χαρακτήρες ή λιγότεροι.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Επιλέξτε ένα αρχείο βίντεο που περιέχει δεδομένα.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Το επιλεγμένο αρχείο έληξε πριν από το αναφερόμενο μήκος του.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Επιλέξτε ένα αρχείο βίντεο πριν το ανεβάσετε.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Το επιλεγμένο βίντεο είναι πολύ μεγάλο για μεταφόρτωση.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Η μεταφόρτωση δεν μπόρεσε να φτάσει στο YouTube. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>Το YouTube δεν επέστρεψε ολοκληρωμένη απάντηση μεταφόρτωσης.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>Το YouTube δεν επέστρεψε μια τοποθεσία μεταφόρτωσης με δυνατότητα συνέχισης.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Επιλέξτε ιδιωτικό, μη καταχωρισμένο ή δημόσιο απόρρητο.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Μεταφορτώθηκε {0:N0} από {1:N0} byte ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Έτοιμο για μεταφόρτωση {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>Η μεταφόρτωση YouTube επέστρεψε {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} byte)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Η επιλογή βίντεο ακυρώθηκε.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Έναρξη επαναλήψεων μεταφόρτωσης...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Η μεταφόρτωση έληξε. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Εισαγάγετε έναν τίτλο πριν από τη μεταφόρτωση.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Ο τίτλος του βίντεο πρέπει να είναι 100 χαρακτήρες ή λιγότεροι.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Επιλέξτε ένα αναγνωρισμένο αρχείο βίντεο.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Φόρτωση λεπτομερειών βίντεο...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Δημοσιεύθηκε {0} | {1:N0} προβολές | διάρκεια {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Το Play in app ανοίγει την επίσημη σελίδα παρακολούθησης του YouTube για κινητά.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Η αναπαραγωγή ξεκίνησε, αλλά δεν ήταν δυνατή η αποθήκευση των μεταδεδομένων της για το ζωντανό πλακίδιο.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Η αναπαραγωγή ξεκίνησε, αλλά τα Windows δεν επέτρεψαν την ενημέρωση του ζωντανού πλακιδίου.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Η αναπαραγωγή ξεκίνησε, αλλά δεν ήταν δυνατή η ενημέρωση του ζωντανού πλακιδίου.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Το ζητούμενο βίντεο δεν είναι διαθέσιμο.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Απαιτείται αναγνωριστικό βίντεο.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Ιδιαίτερες ευχαριστίες</value>
+  </data>
+</root>

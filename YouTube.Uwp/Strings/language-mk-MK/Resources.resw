@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>ЈАВЕН ПРЕЛИСТУВАЧ</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>ПОСТАВКИ</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>ДОМА</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>ПРЕБАРУВАЊЕ</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>КАТЕГОРИИ</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>ПРОФИЛ</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>откријте</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Најновите популарни видеа, во класичен распоред на телефонот.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>ТРЕНД СЕГА</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Вчитајте популарни видеа за вашиот регион</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>популарни видеа</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Изберете „Трендинг сега“ за да се вчитаат јавни резултати.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>пребарување</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Најдете јавни видеа на YouTube со клучот API обезбеден од корисникот.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Термини за пребарување</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Пребарајте YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>ПРЕБАРУВАЊЕ</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>ПОПУЛАРНО</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>РЕГИОН</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>категории</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Допрете категорија за да ги проширите нејзините сегашни популарни видеа. Допрете го повторно за да се собере и изберете друг.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>профил</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Податоците за сметката се достапни преку вашата автентицирана врска на YouTube.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>ЗА</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Отфрлање на клучот на Google API</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Оставете празно за да користите управувана конфигурација</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ НАЗАД</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ОТКАЖИ</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>за овој канал</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>детали за каналот</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>ЈАСНО</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Личните акредитиви се чуваат само во Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Опис</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Факултативно</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>опис</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Овој дневник ги евидентира грешките во апликацијата и пресвртниците на OAuth. Ингеренциите, кодовите за авторизација и токените се исклучени.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>дијагностика</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>За читање и прикачување на профилот користете телевизор на Google и клиент OAuth на уред со ограничен влез. Не се користи URI за пренасочување. Управуваните локални вредности за градење остануваат скриени; зачувувањето на ингеренциите овде ги надминува.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google сметка</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Репродукцијата во апликација ја користи официјалната страница за гледање мобилни телефони на YouTube. Оваа апликација не извлекува или презема URL-адреси за медиуми.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>допаднаа видеа</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>ВКЛУЧЕТЕ ГИ ВИДЕАТА МИ СЕ ДОПАЃААТ</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>ВКЛУЧЕТЕ ПОВЕЌЕ ВИДЕА ЛАЈКНИ</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>ВЧУВАЈ ПОВЕЌЕ ПЛЕЈЛИСТИ</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>ВЧУВАЈ ПОВЕЌЕ ВИДЕА ЗА ПЛЕЈЛИСТА</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>ВЧИНИ ПОВЕЌЕ ПРЕТПЛАТИ</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>ВКЛУЧЕТЕ ПОВЕЌЕ ПОСТАВЕНИ ВИДЕА</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Отфрлање на ID на клиентот OAuth со ограничен влезен уред</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Оставете празно за да користите управувана конфигурација</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Отфрлање на тајната на клиентот на OAuth уред со ограничен влез</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Оставете празно за да користите управувана конфигурација</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Зачувајте ги ингеренциите, а потоа стартувајте се најавувањето на Google. Кодот за потврда подолу се внесува на друг уред; оваа апликација никогаш не отвора формулар за најавување. Најавете се повторно по ова ажурирање за да дозволите пристап за читање на профилот.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ОТВОРЕТЕ КАНАЛ</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ОТВОРИ ВО ПРЕЛИСТУВАЧ</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>играч</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>ИГРАЈ ВО АПЛИКАЦИЈАТА</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>плејлисти</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>видеа од плејлистата</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Приватност</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>приватен</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Ограничениот API клуч се користи само за повици на YouTube Data API v3 само за читање. Управуваните локални вредности за градење остануваат скриени; штедењето овде ги надминува.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>пристап до јавни податоци</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>јавен</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>ОСВЕЖУВАЈ</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>ОСВЕЖЕТЕ ГО ПРОФИЛОТ</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Безбедниот режим ја користи строгата поставка за SafeSearch на YouTube за пребарувања. Не го обезбедува каталогот на YouTube Kids или филтрите за популарни, категории и доводи на сметки.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>безбеден режим</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Користете строго SafeSearch за јавни пребарувања на видеа</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>ЗАЧУВАЈ КЛУЧОТ API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ЗАЧУВАЈ ДНЕВНИК</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>ЗАЧУВАЈТЕ АКРЕДЕНТИИ</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Нема избрано видео.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>ИЗБЕРЕТЕ ВИДЕО</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>поставувања</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>ЗАПОЧНЕТЕ СЕ НАЈАВА НА GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ОДЈДЕТЕ СЕ</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ЗАПОЧНЕТЕ СО ПОСТАВУВАЊЕ</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>претплати</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Наслов</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Задолжително</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>ненаведени</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>„Историјата на гледање“ и „Гледајте подоцна“ не се изложени како читливи збирки v3. UniTube не ги имитира или погрешно ги означува.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>неподдржано од YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>поставени видеа</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>подигнете</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Изберете локално видео, а потоа поставете го преку вашата овластена сметка на Google.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>прикачи видео</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Подготвен за избор на видео.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Поставките бараат поставки за OAuth и завршено најавување на Google од Поставки.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>ПОСТАВЕТЕ ВИДЕО</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>видео детали</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>ПОГЛЕДНЕТЕ ДИЈАГНОСТИКА</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>ГЛЕДАЈ НА ЈУТУБ</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} категории достапни за {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Се вчитуваат категории...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Се вчитуваат {0} видеа...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} популарни {1} видеа за {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Потребен е ID на канал.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Се вчитуваат детали за каналот...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} претплатници | {1:N0} видеа | {2:N0} прегледи</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Бараниот канал е недостапен.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ЗАТВОРИ</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>АПИ-то на YouTube Data не може да се достигне. Проверете ја мрежната врска.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Времето на барањето на YouTube Data API истече. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>непознат</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Овластувањето на Google не обезбеди токен за пристап. Најавете се повторно.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Пристапот до сметката на Google не е конфигуриран. Најавете се пред да го отворите Профилот.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Додајте клуч на Google API пред да ги користите јавните функции на YouTube Data API v3.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Потребен е ID на канал.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Автентицираното YouTube Data API врати неважечки одговор. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube Data API врати неважечки одговор. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Потребен е ID на плејлиста.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 го врати {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Внесете текст за пребарување.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Потребна е идентификација на видео.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Дијагностичкиот дневник е избришан.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Дијагностичкиот дневник е зачуван во {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Не се регистрирани дијагностички настани.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Зачувувањето на дијагностичкиот дневник беше откажано.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Не може да се зачува дијагностичкиот дневник (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Текстуална датотека</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Последно одиграно</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Потребни се видео метаподатоци за ажурирање на плочката во живо.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Во тренд сега</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Во тренд сега ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Потребен е наслов на видео во тренд.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Овластувањето на уредот на Google истече.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Овластувањето на уредот на Google не беше завршено: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Овластувањето на Google треба да се заврши повторно пред да се постави.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Овластувањето на уредот на Google не може да започне: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Поставете ID на клиент OAuth на уред со ограничен влез пред да се најавите.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Поставете ја тајната на клиентот на уредот со ограничен влез OAuth пред да се најавите.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google го отфрли клиентот OAuth на уредот со ограничен влез (invalid_client). Проверете го идентификаторот на клиентот и тајната на клиентот.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google ги отфрли акредитациите на уредот со ограничено внесување OAuth (invalid_client). Проверете го идентификаторот на клиентот и тајната на клиентот.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Овластувањето на уредот на Google врати неважечки одговор.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Крајната точка на токен на Google врати неважечки одговор.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Овластувањето на уредот на Google не врати употреблив код за потврда и URL-адреса.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Крајната точка на токен на Google не врати токен за пристап.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Ниедна сметка на Google не е овластена. Прво започнете со најавување.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google побара побавно гласање.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Истекот на зачуваниот токен OAuth е погрешно формиран. Најавете се повторно.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Зачуваниот OAuth токен е погрешно формиран. Најавете се повторно.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Неуспешно освежување на токен на Google: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Овластувањето на Google е завршено, но Windows Credential Locker не може да го зачува токенот (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Плеерот во апликацијата не можеше да го вчита ова видео. Наместо тоа, отворете го во прелистувачот.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Се вчитува официјалната страница за гледање на YouTube...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Потребен е ID на видео за репродукција во апликација.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} видеа</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Се вчитуваат популарни видеа...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} популарни видео резултати.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} популарни видео резултати. Windows не дозволи ажурирање на живата плочка.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} популарни видео резултати. Плочката во живо сега го покажува врвниот резултат.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} популарни видео резултати. Плочката во живо не може да се ажурира.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google не и дозволи на оваа сметка пристап до податоците на профилот. Одјавете се, започнете повторно најавување на Google и прифатете го опсегот само за читање на YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>На {0:N0} се вчитаа видеата што се допаднаа.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Не можеше да се постигне барањето за допаднати видеа. Проверете ја мрежната врска.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Времето на барањето за допаднати видеа истече. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Профилот е вчитан.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Профилот не може да се вчита за време на {0} (0x{1}). Отворете Дијагностика за детали.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Се вчитува автентицираниот профил...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Се вчитуваат видеата што се допаѓаат...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Се вчитуваат повеќе допаднати видеа...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Се вчитуваат повеќе видеа од плејлиста...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Се вчитуваат повеќе поставени видеа...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Се вчитуваат видеа од плејлистата...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} претплатници | {1:N0} видеа | {2:N0} прегледи</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google не врати ниту еден канал за овластената сметка.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Нема вратени видеа што се допаѓаат.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube не обезбеди плејлиста со прикачувања за овој канал.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>Вчитани се плејлистите {0:N0}. Изберете еден за да ги видите неговите видеа.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Не можеше да се постигне барањето за плејлисти. Проверете ја мрежната врска.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Времето на барањето за плејлисти истече. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>Вчитани се видеата со плејлистата {0:N0}.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Барањето видеа од плејлистата не можеше да се постигне. Проверете ја мрежната врска.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Времето на барањето за видеа од плејлиста истече. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Не можеше да се достигне автентицираното YouTube API. Проверете ја мрежната врска.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Времето на автентицираното барање на YouTube истече. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Изберете Вчитај допаднати видеа за да ја побарате колекцијата што ви се допаднала.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Изберете плејлиста погоре за да ги вчитате нејзините видеа.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>канал</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>допаднаа видеа</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>плејлисти</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>видеа од плејлистата</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>почнувајќи</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>претплати</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>поставени видеа</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>Вчитани се претплатите {0:N0}.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Барањето за претплати не можеше да се постигне. Проверете ја мрежната врска.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Времето на барањето за претплати истече. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Ако оваа сметка била овластена пред да се додаде профилот, најавете се повторно за да го дадете опсегот само за читање на YouTube.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} поставените видеа се вчитани.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Не можеше да се постигне барањето за поставени видеа. Проверете ја мрежната врска.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Времето на барањето за поставени видеа истече. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Се вчитуваат поддржаните региони...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Поддржаните региони не можеа да се вчитаат. Проверете ја мрежната врска.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Поддржаните региони не можеа да се вчитаат бидејќи барањето за API за податоци на YouTube истече.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube не врати ниту еден поддржан регион. Користење на Соединетите Американски Држави.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Соединетите Американски Држави</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Внесете клуч API или користете го клучот Clear API.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Потребен е ID на клиент OAuth на уред со ограничен влез.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Потребна е тајна на клиентот OAuth на уред со ограничен влез.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Се бара...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} резултати од јавно видео.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Оваа апликација не е поврзана со Google или YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Изградба на {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube е модерна UWP апликација за прелистување на YouTube преку јавното API на YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Развиено од:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Користење на вградената конфигурација UniTube за јавни податоци. Зачувувањето овде го надминува.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Не е конфигуриран клуч API.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Вашиот API клуч е зачуван во Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Овластувањето на Google е откажано.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Овластувањето на Google е завршено. Достапни се читања на профили и прикачувања на видеа.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} кодот истекува во {1:D2}:{2:D2}. Проверување на Google на секои {3} секунди.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Овластувањето на Google не можеше да контактира со крајната точка на токенот. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Овластувањето на Google е отстрането. Започнете со најавување на Google пред да го отворите профилот или да поставите.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Сметка на Google е овластена за читање на профили и прикачување видеа. Најавете се повторно ако овој токен е пред Профилот.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Овластувањето на Google неочекувано не успеа (0x{0}). Отворете Дијагностика откако ќе ја рестартирате апликацијата.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Користење на вградената конфигурација на UniTube за профил и поставувања. Прво започнете со најавување на Google.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Ингеренциите за OAuth на уредот со ограничен влез се зачувани. Ако било која вредност се смени, најавете се повторно пред да ја поставите.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Зачуваните акредитиви на OAuth се конфигурирани. Започнете со најавување на Google пред да го отворите профилот или да поставите.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Нецелосно зачувано отфрлање на OAuth беше игнорирано. Користење на вградената конфигурација на UniTube за профил и поставувања.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Достапна е конфигурација на управувана OAuth. Започнете со најавување на Google пред да го отворите профилот или да поставите.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Зачувајте ги ингеренциите на OAuth, а потоа започнете се најавување на Google пред да го отворите Профилот или да поставите.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Шифра: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Кодот за потврда е истечен. Се бара нов код...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Внесете го кодот во тој прелистувач. Овој телефон ќе чека овластување од Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Вашиот претходен код истече. Внесете го новиот код во тој прелистувач.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>На друг телефон, таблет или компјутер со тековен прелистувач, посетете: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Се чека одобрување од Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Поставувањето е откажано. Делумно поставената сесија за продолжување не беше продолжена.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Се откажува поставувањето...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Поставувањето е завршено. YouTube го обработува видеото.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Поставувањето е завршено. ID на видео: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Описот на видеото мора да содржи 5000 знаци или помалку.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Изберете видео датотека што содржи податоци.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Избраната датотека заврши пред нејзината пријавена должина.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Изберете видео датотека пред да ја поставите.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Избраното видео е преголемо за прикачување.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Поставувањето не можеше да стигне до YouTube. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube не врати завршен одговор за прикачување.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube не врати локација за прикачување што може да се продолжи.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Изберете приватна, ненаведена или јавна приватност.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>Поставени {0:N0} од {1:N0} бајти ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Подготвен за поставување {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>Поставувањето на YouTube е вратено {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} бајти)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Изборот на видеото беше откажан.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Почнува повторно поставување...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Истече времето за поставување. Проверете ја мрежната врска и обидете се повторно.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Внесете наслов пред да го поставите.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Насловот на видеото мора да има 100 знаци или помалку.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Изберете препознаена видео датотека.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Се вчитуваат детали за видеото...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Објавено {0} | {1:N0} прегледи | времетраење {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Играј во апликацијата ја отвора официјалната страница за гледање мобилни телефони на YouTube.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Репродукцијата започна, но неговите метаподатоци не можеа да се зачуваат за плочката во живо.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Репродукцијата започна, но Windows не дозволи ажурирање на плочката во живо.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Репродукцијата започна, но плочката во живо не може да се ажурира.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Бараното видео е недостапно.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Потребна е идентификација на видео.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Посебна благодарност</value>
+  </data>
+</root>

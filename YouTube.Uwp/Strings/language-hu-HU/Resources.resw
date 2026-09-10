@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>NYILVÁNOS BÖNGÉSZŐ</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>BEÁLLÍTÁSOK</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>OTTHON</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>KERESÉS</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>KATEGÓRIÁK</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFIL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>felfedezni</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>A legújabb népszerű videók a klasszikus telefon-első elrendezésben.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>MOST TRENDEZŐ</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Töltsön be régiójában népszerű videókat</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>népszerű videók</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>A nyilvános eredmények betöltéséhez válassza a Felkapott most lehetőséget.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>keresés</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Keressen nyilvános YouTube-videókat a felhasználó által biztosított API-kulcsával.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Keresési kifejezések</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Keresés a YouTube-on</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>KERESÉS</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>NÉPSZERŰ</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>RÉGIÓ</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>kategóriákat</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Koppintson egy kategóriára az aktuális népszerű videóinak kibontásához. Koppintson rá ismét az összecsukáshoz, és válasszon másikat.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profil</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>A hitelesített YouTube-kapcsolaton keresztül elérhető fiókadatok.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>RÓLUNK</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API kulcs felülbírálása</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Hagyja üresen a felügyelt konfiguráció használatához</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ VISSZA</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>MÉGSEM</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>erről a csatornáról</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>csatorna részleteit</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>CLEAR</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>A személyes hitelesítő adatok csak a Windows Credential Lockerben tárolódnak.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Leírás</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Nem kötelező</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>leírást</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Ez a napló rögzíti az alkalmazáshibákat és az OAuth-mérföldköveket. A hitelesítési adatok, engedélyezési kódok és tokenek kizárva.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnosztika</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>A profil beolvasása és feltöltése Google TV-k és korlátozott bemenetű eszköz OAuth-kliens használatával történik. Nem használnak átirányítási URI-t. A kezelt helyi build értékek rejtve maradnak; a hitelesítő adatok itt történő mentése felülírja őket.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google fiók</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Az alkalmazáson belüli lejátszás a YouTube hivatalos mobilnézőoldalát használja. Ez az alkalmazás nem bontja ki és nem tölti le a média URL-jeit.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>kedvelt videók</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>TÖLTSE BE KEDVEZETT VIDEÓKAT</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>TÖLTSE BE TÖBB SZERETETT VIDEÓT</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>TOVÁBBI LEJÁTSZÁSI LISTA BETÖLTÉSE</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>TÖLTSE BE TÖBB LEJÁTSZÁSI LISTA VIDEÓT</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>TOVÁBBI ELŐFIZETÉS BETÖLTÉSE</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>TOVÁBBI FELTÖLTÖTT VIDEÓ BETÖLTÉSE</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Korlátozott bemenetű eszköz OAuth-ügyfélazonosítójának felülbírálása</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Hagyja üresen a felügyelt konfiguráció használatához</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Korlátozott bemenetű eszköz OAuth-kliens titkos felülbírálása</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Hagyja üresen a felügyelt konfiguráció használatához</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Mentse el a hitelesítési adatokat, majd indítsa el a Google bejelentkezést. Az alábbi ellenőrző kódot egy másik eszközön adta meg; ez az alkalmazás soha nem nyit meg bejelentkezési űrlapot. A frissítés után jelentkezzen be újra, hogy profilolvasási hozzáférést biztosítson.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>CSATORNA NYITÁSA</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>MEGNYITÁS BÖNGÉSZŐBEN</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>játékos</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>JÁTÉK AZ APP</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>lejátszási listák</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>lejátszási listás videók</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Adatvédelem</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>privát</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>A korlátozott API-kulcs csak olvasható YouTube Data API v3-hívásokhoz használható. A kezelt helyi build értékek rejtve maradnak; az itteni mentés felülírja őket.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>nyilvános adatokhoz való hozzáférés</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>nyilvános</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>FRISSÍTÉS</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>PROFIL FRISSÍTÉSE</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>A Biztonságos mód a YouTube szigorú Biztonságos Keresés beállítását használja a keresésekhez. Nem biztosítja a YouTube Kids katalógust, és nem szűri a népszerű, kategória- és fiókhírcsatornákat.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>biztonságos módban</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Használjon szigorú Biztonságos Keresést nyilvános videókereséshez</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>API KULCS MENTÉSE</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>NAPLÓ MENTÉSE</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>MENTÉSI ADATOK</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Nincs videó kiválasztva.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>VÁLASZTÁS VIDEÓT</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>beállításokat</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>INDÍTSA EL A GOOGLE BEJELENTKEZÉSÉT</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>KIJELENTKEZÉS</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>FELTÖLTÉS INDÍTÁSA</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>előfizetések</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Cím</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Kötelező</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>listázatlan</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>A Megtekintési előzmények és a Megnézendő videók nem olvashatók v3-as gyűjteményekként. Az UniTube nem emulálja és nem címkézi félre őket.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>nem támogatja a YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>feltöltött videók</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>feltölteni</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Válasszon ki egy helyi videót, majd töltse fel hivatalos Google-fiókján keresztül.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>videó feltöltése</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Készen áll a videó kiválasztására.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>A feltöltéshez OAuth-beállítások és befejezett Google-bejelentkezés szükséges a Beállításokban.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>VIDEÓ FELTÖLTÉSE</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>videó részletei</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>DIAGNOSZTIKA MEGTEKINTÉSE</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>NÉZD MEG A YOUTUBE-ON</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} kategóriák állnak rendelkezésre a {1} számára.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Kategóriák betöltése...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} videók betöltése...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} népszerű {1} videók a {2} számára.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Csatornaazonosító szükséges.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Csatorna részleteinek betöltése...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} előfizetők | {1:N0} videók | {2:N0} nézetek</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>A kért csatorna nem érhető el.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ZÁRJA</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>A YouTube Data API nem érhető el. Ellenőrizze a hálózati kapcsolatot.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>A YouTube Data API kérése időtúllépést szenvedett. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>ismeretlen</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>A Google felhatalmazása nem biztosított hozzáférési tokent. Jelentkezzen be újra.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>A Google-fiókhoz való hozzáférés nincs konfigurálva. Jelentkezzen be a profil megnyitása előtt.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>A nyilvános YouTube Data API v3 funkcióinak használata előtt adjon hozzá egy Google API-kulcsot.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Csatornaazonosító szükséges.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>A hitelesített YouTube Data API érvénytelen választ adott vissza. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>A YouTube Data API érvénytelen választ adott vissza. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Lejátszási listaazonosító szükséges.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>A YouTube Data API v3 visszaadott {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Írja be a keresendő szöveget.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Videóazonosító szükséges.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Diagnosztikai napló törölve.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Diagnosztikai napló mentve a {0} mappába.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Nem rögzítettek diagnosztikai eseményeket.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>A diagnosztikai napló mentése megszakadt.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Nem sikerült menteni a diagnosztikai naplót (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Szöveges fájl</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Utoljára játszott</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Az élő csempe frissítéséhez videó metaadatokra van szükség.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Most felkapott</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Jelenleg felkapott ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Felkapott videó címe kötelező.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>A Google-eszköz engedélyezése lejárt.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>A Google-eszköz engedélyezése nem fejeződött be: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Feltöltés előtt újra el kell végezni a Google-engedélyezést.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>A Google-eszköz hitelesítését nem sikerült elindítani: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>A bejelentkezés előtt állítson be egy korlátozott bemenetű eszköz OAuth-ügyfélazonosítóját.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>A bejelentkezés előtt állítsa be a korlátozott bemenetű eszköz OAuth-kliens titkát.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>A Google elutasította a korlátozott bevitelű eszköz OAuth-kliensét (invalid_client). Ellenőrizze az ügyfélazonosítót és az ügyfél titkosságát.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>A Google elutasította a korlátozott bevitelű eszköz OAuth hitelesítő adatait (invalid_client). Ellenőrizze az ügyfélazonosítót és az ügyfél titkosságát.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>A Google eszközengedélyezése érvénytelen választ adott.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>A Google token végpontja érvénytelen választ adott.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>A Google eszközengedélyezése nem adott vissza használható ellenőrző kódot és URL-t.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>A Google token végpontja nem adott vissza hozzáférési tokent.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Nincs engedélyezve Google-fiók. Először indítsa el a bejelentkezést.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>A Google lassabb szavazást kért.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>A tárolt OAuth-token lejárata hibás. Jelentkezzen be újra.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>A tárolt OAuth-token hibás. Jelentkezzen be újra.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>A Google token frissítése nem sikerült: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>A Google hitelesítése befejeződött, de a Windows Credential Locker nem tudta menteni a tokent (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Az alkalmazáson belüli lejátszó nem tudta betölteni ezt a videót. Inkább nyissa meg a böngészőben.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>A hivatalos YouTube videooldal betöltése...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Az alkalmazáson belüli lejátszáshoz videoazonosító szükséges.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} videók</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Népszerű videók betöltése...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} népszerű videotalálatok.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} népszerű videotalálatok. A Windows nem engedélyezte az élő csempe frissítését.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} népszerű videotalálatok. Az élő lapka most a legjobb eredményt mutatja.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} népszerű videotalálatok. Az élő csempét nem sikerült frissíteni.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>A Google nem adott hozzáférést ennek a fióknak a profiladatokhoz. Jelentkezzen ki, indítsa újra a Google-bejelentkezést, és fogadja el a YouTube írásvédett hatókörét.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} kedvelt videók betöltve.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>A kedvelt videókra vonatkozó kérést nem sikerült elérni. Ellenőrizze a hálózati kapcsolatot.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>A kedvelt videók kérése időtúllépést szenvedett. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Profil betöltve.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>A profil nem tölthető be a {0} (0x{1}) alatt. A részletekért nyissa meg a Diagnosztika alkalmazást.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Hitelesített profil betöltése...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Kedvelt videók betöltése...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>További kedvelt videók betöltése...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>További lejátszási listás videók betöltése...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>További feltöltött videók betöltése...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Lejátszási listás videók betöltése...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} előfizetők | {1:N0} videók | {2:N0} nézetek</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>A Google nem adott vissza csatornát az engedélyezett fiókhoz.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Nem küldtek vissza kedvelt videókat.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>A YouTube nem biztosított feltöltési lejátszási listát ehhez a csatornához.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} lejátszási listák betöltve. Válasszon egyet a hozzá tartozó videók megtekintéséhez.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>A lejátszási listák kérését nem sikerült elérni. Ellenőrizze a hálózati kapcsolatot.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>A lejátszási listák kérése lejárt. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} lejátszási listás videók betöltve.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>A lejátszási listákra vonatkozó videókra vonatkozó kérést nem sikerült elérni. Ellenőrizze a hálózati kapcsolatot.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>A lejátszási listákra vonatkozó videókérés időtúllépést szenvedett. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>A hitelesített YouTube API nem érhető el. Ellenőrizze a hálózati kapcsolatot.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>A hitelesített YouTube-kérés időtúllépést szenvedett. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Válaszd a Kedvelt videók betöltése lehetőséget a kedvelt gyűjtemény lekéréséhez.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Válaszd ki a fenti lejátszási listát a videóinak betöltéséhez.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>csatorna</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>kedvelt videók</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>lejátszási listák</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>lejátszási listás videók</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>induló</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>előfizetések</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>feltöltött videók</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} előfizetések betöltve.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Az előfizetési kérelmet nem sikerült elérni. Ellenőrizze a hálózati kapcsolatot.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Az előfizetési kérelmek időtúllépése lejárt. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Ha ezt a fiókot a profil hozzáadása előtt engedélyezték, jelentkezzen be újra a YouTube írásvédett hatókörének biztosításához.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} feltöltött videók betöltve.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>A feltöltött videók iránti kérelmet nem sikerült elérni. Ellenőrizze a hálózati kapcsolatot.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>A feltöltött videókra vonatkozó kérés időtúllépést szenvedett. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Támogatott régiók betöltése...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>A támogatott régiók betöltése nem sikerült. Ellenőrizze a hálózati kapcsolatot.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>A támogatott régiók nem tölthetők be, mert a YouTube Data API kérés időtúllépést szenvedett.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>A YouTube nem adott vissza egyetlen támogatott régiót sem. Az Egyesült Államok használatával.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Egyesült Államok</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Adjon meg egy API-kulcsot, vagy használja az API-kulcs törlését.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Korlátozott bemenetű eszköz OAuth-ügyfélazonosítóra van szükség.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Korlátozott bemenetű eszköz OAuth-ügyféltitka szükséges.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Keresés...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} nyilvános videotalálatok.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Ez az alkalmazás nem kapcsolódik a Google-hoz vagy a YouTube-hoz.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Build {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>Az UniTube egy modern UWP-alkalmazás, amellyel a YouTube nyilvános API-ján keresztül böngészhet a YouTube-on.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Fejlesztője:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Beépített UniTube konfiguráció használata nyilvános adatokhoz. Az itteni mentés felülírja.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Nincs API-kulcs konfigurálva.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Az API-kulcsot a Windows Credential Locker tárolja.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>A Google felhatalmazása törölve.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>A Google engedélyezése befejeződött. Profilolvasás és videófeltöltés elérhető.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>A {0} kód lejár a következő helyen: {1:D2}:{2:D2}. A Google ellenőrzése {3} másodpercenként.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>A Google-engedélyezés nem tudott kapcsolatba lépni a token végponttal. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>A Google jogosultsága eltávolítva. Indítsa el a Google-bejelentkezést a profil megnyitása vagy a feltöltés előtt.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>A Google-fiók jogosult a profilok olvasására és a videók feltöltésére. Jelentkezzen be újra, ha ez a token a profilnál korábbi.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>A Google hitelesítése váratlanul meghiúsult (0x{0}). Az alkalmazás újraindítása után nyissa meg a Diagnosztika alkalmazást.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>A beépített UniTube konfiguráció használata a profilhoz és a feltöltéshez. Először indítsa el a Google bejelentkezést.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>A korlátozott bevitelű eszköz OAuth hitelesítő adatai mentve. Ha bármelyik érték megváltozott, jelentkezzen be újra a feltöltés előtt.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>A mentett OAuth hitelesítési adatok konfigurálva vannak. Indítsa el a Google-bejelentkezést a profil megnyitása vagy a feltöltés előtt.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>A program figyelmen kívül hagyta a nem teljes mentett OAuth-felülírást. A beépített UniTube konfiguráció használata a profilhoz és a feltöltéshez.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Felügyelt OAuth-konfiguráció elérhető. Indítsa el a Google-bejelentkezést a profil megnyitása vagy a feltöltés előtt.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Mentse az OAuth hitelesítési adatokat, majd indítsa el a Google-bejelentkezést a profil megnyitása vagy a feltöltés előtt.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Kód: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Az ellenőrző kód lejárt. Új kód kérése...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Írja be a kódot a böngészőbe. Ez a telefon a Google engedélyére vár.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Az előző kódod lejárt. Írja be az új kódot a böngészőben.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Egy másik telefonon, táblagépen vagy számítógépen aktuális böngészővel látogassa meg a következőt: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Várakozás a Google jóváhagyására.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Feltöltés megszakítva. A részben feltöltött folytatható munkamenet nem folytatódott.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Feltöltés megszakítása...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Feltöltés befejeződött. A YouTube feldolgozza a videót.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Feltöltés befejeződött. Videóazonosító: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>A videó leírása legfeljebb 5000 karakterből állhat.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Válasszon ki egy adatot tartalmazó videofájlt.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>A kiválasztott fájl a jelentett hossza előtt ért véget.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Feltöltés előtt válasszon ki egy videofájlt.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>A kiválasztott videó túl nagy a feltöltéshez.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>A feltöltés nem tudta elérni a YouTube-ot. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>A YouTube nem adott vissza kitöltött feltöltési választ.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>A YouTube nem adott vissza egy újrakezdhető feltöltési helyet.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Válassza ki a privát, nem nyilvános vagy nyilvános adatvédelmet.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0}/{1:N0} bájt feltöltve ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Feltöltésre kész {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>A YouTube-feltöltés {0} ({1}) eredményt adott vissza. {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bájt)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>A videó kiválasztása megszakadt.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Folytatható feltöltés indítása...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>A feltöltés lejárt. Ellenőrizze a hálózati kapcsolatot, és próbálja újra.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Feltöltés előtt írjon be egy címet.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>A videó címének legfeljebb 100 karakterből kell állnia.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Válasszon ki egy felismert videofájlt.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Videó részleteinek betöltése...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Megjelent {0} | {1:N0} megtekintések | időtartam {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>A Play in app megnyitja a YouTube hivatalos mobil videooldalát.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>A lejátszás elindult, de a metaadatait nem sikerült elmenteni az élő csempéhez.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>A lejátszás elindult, de a Windows nem engedélyezte az élő csempe frissítését.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>A lejátszás elindult, de az élő csempe nem frissíthető.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>A kért videó nem érhető el.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Videóazonosító szükséges.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Külön köszönet</value>
+  </data>
+</root>

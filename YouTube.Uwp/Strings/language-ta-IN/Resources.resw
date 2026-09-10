@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>பொது உலாவி</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>அமைப்புகள்</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>வீடு</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>தேடு</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>வகைகள்</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>சுயவிவரம்</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>கண்டுபிடிக்க</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>கிளாசிக் ஃபோன் முதல் தளவமைப்பில் சமீபத்திய பிரபலமான வீடியோக்கள்.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>இப்போது பிரபலமாகிறது</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>உங்கள் பிராந்தியத்திற்கான பிரபலமான வீடியோக்களை ஏற்றவும்</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>பிரபலமான வீடியோக்கள்</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>பொது முடிவுகளை ஏற்ற, இப்போது பிரபலமடைவதைத் தேர்வு செய்யவும்.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>தேடல்</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>உங்கள் பயனர் வழங்கிய API விசையுடன் பொது YouTube வீடியோக்களைக் கண்டறியவும்.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>தேடல் சொற்கள்</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>YouTube இல் தேடவும்</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>தேடு</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>பிரபலமானது</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>பிராந்தியம்</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>வகைகள்</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>ஒரு வகையின் தற்போதைய பிரபலமான வீடியோக்களை விரிவுபடுத்த தட்டவும். சுருக்கவும், இன்னொன்றைத் தேர்வு செய்யவும் அதை மீண்டும் தட்டவும்.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>சுயவிவரம்</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>உங்கள் அங்கீகரிக்கப்பட்ட YouTube இணைப்பு மூலம் கணக்குத் தரவு கிடைக்கும்.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>பற்றி</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Google API விசை மேலெழுதுதல்</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>நிர்வகிக்கப்பட்ட உள்ளமைவைப் பயன்படுத்த, காலியாக விடவும்</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ பின்</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ரத்துசெய்</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>இந்த சேனல் பற்றி</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>சேனல் விவரங்கள்</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>தெளிவு</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>தனிப்பட்ட சான்றுகள் Windows Credential Locker இல் மட்டுமே சேமிக்கப்படும்.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>விளக்கம்</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>விருப்பமானது</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>விளக்கம்</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>இந்த பதிவு ஆப்ஸ் பிழைகள் மற்றும் OAuth மைல்கற்களை பதிவு செய்கிறது. நற்சான்றிதழ்கள், அங்கீகாரக் குறியீடுகள் மற்றும் டோக்கன்கள் விலக்கப்பட்டுள்ளன.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>நோய் கண்டறிதல்</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>சுயவிவரத்தைப் படிக்கவும் பதிவேற்றவும் Google TVகள் மற்றும் வரையறுக்கப்பட்ட உள்ளீட்டு சாதனமான OAuth கிளையண்டைப் பயன்படுத்துகின்றன. வழிமாற்று URI பயன்படுத்தப்படவில்லை. நிர்வகிக்கப்பட்ட உள்ளூர் உருவாக்க மதிப்புகள் மறைக்கப்பட்டிருக்கும்; நற்சான்றிதழ்களைச் சேமிப்பது அவற்றை மீறுகிறது.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google கணக்கு</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>YouTube இன் அதிகாரப்பூர்வ மொபைல் கண்காணிப்புப் பக்கத்தைப் பயன்பாட்டில் பிளேபேக் பயன்படுத்துகிறது. இந்த ஆப்ஸ் மீடியா URLகளைப் பிரித்தெடுக்கவோ பதிவிறக்கவோ இல்லை.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>வீடியோக்களை விரும்பினார்</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>விரும்பிய வீடியோக்களை ஏற்றவும்</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>மேலும் விரும்பிய வீடியோக்களை ஏற்றவும்</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>மேலும் பிளேலிஸ்ட்களை ஏற்றவும்</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>மேலும் பிளேலிஸ்ட் வீடியோக்களை ஏற்றவும்</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>மேலும் சந்தாக்களை ஏற்றவும்</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>மேலும் பதிவேற்றிய வீடியோக்களை ஏற்றவும்</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>வரையறுக்கப்பட்ட உள்ளீட்டு சாதனம் OAuth கிளையன்ட் ஐடி மேலெழுதப்பட்டது</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>நிர்வகிக்கப்பட்ட உள்ளமைவைப் பயன்படுத்த, காலியாக விடவும்</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>வரையறுக்கப்பட்ட உள்ளீட்டு சாதனம் OAuth கிளையண்ட் இரகசிய மேலெழுதல்</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>நிர்வகிக்கப்பட்ட உள்ளமைவைப் பயன்படுத்த, காலியாக விடவும்</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>நற்சான்றிதழ்களைச் சேமித்து, Google உள்நுழைவைத் தொடங்கவும். கீழே உள்ள சரிபார்ப்புக் குறியீடு மற்றொரு சாதனத்தில் உள்ளிடப்பட்டுள்ளது; இந்த ஆப்ஸ் உள்நுழைவு படிவத்தை திறக்காது. இந்தப் புதுப்பித்தலுக்குப் பிறகு, சுயவிவரத்தைப் படிக்கும் அணுகலை வழங்க, மீண்டும் உள்நுழையவும்.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>சேனலைத் திறக்கவும்</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>உலாவியில் திறக்கவும்</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>வீரர்</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>பயன்பாட்டில் விளையாடு</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>பிளேலிஸ்ட்கள்</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>பிளேலிஸ்ட் வீடியோக்கள்</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>தனியுரிமை</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>தனிப்பட்ட</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>தடைசெய்யப்பட்ட API விசை படிக்க மட்டும் YouTube Data API v3 அழைப்புகளுக்கு மட்டுமே பயன்படுத்தப்படும். நிர்வகிக்கப்பட்ட உள்ளூர் உருவாக்க மதிப்புகள் மறைக்கப்பட்டிருக்கும்; இங்கே சேமிப்பது அவற்றை மீறுகிறது.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>பொது தரவு அணுகல்</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>பொது</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>புதுப்பிக்கவும்</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>சுயவிவரத்தைப் புதுப்பிக்கவும்</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>பாதுகாப்பான பயன்முறையானது, தேடல்களுக்கு YouTubeன் கடுமையான பாதுகாப்பான தேடல் அமைப்பைப் பயன்படுத்துகிறது. இது YouTube கிட்ஸ் பட்டியலை வழங்காது அல்லது பிரபலமான, வகை மற்றும் கணக்கு ஊட்டங்களை வடிகட்டாது.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>பாதுகாப்பான முறை</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>பொது வீடியோ தேடல்களுக்கு கடுமையான பாதுகாப்பான தேடலைப் பயன்படுத்தவும்</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>API விசையைச் சேமிக்கவும்</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>பதிவை சேமிக்கவும்</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>நற்சான்றிதழ்களைச் சேமிக்கவும்</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>வீடியோ எதுவும் தேர்ந்தெடுக்கப்படவில்லை.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>வீடியோவைத் தேர்ந்தெடுக்கவும்</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>அமைப்புகள்</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>GOOGLE உள்நுழைவைத் தொடங்கவும்</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>வெளியேறு</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>பதிவேற்றத்தைத் தொடங்கு</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>சந்தாக்கள்</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>தலைப்பு</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>தேவை</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>பட்டியலிடப்படாத</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>பார்வை வரலாறு மற்றும் பிறகு பார்ப்பது ஆகியவை படிக்கக்கூடிய v3 தொகுப்புகளாக வெளிப்படுத்தப்படவில்லை. யூனிடியூப் அவற்றைப் பின்பற்றவோ தவறாக பெயரிடவோ இல்லை.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>YouTube தரவு API v3 ஆல் ஆதரிக்கப்படவில்லை</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>பதிவேற்றிய வீடியோக்கள்</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>பதிவேற்றம்</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>உள்ளூர் வீடியோவைத் தேர்ந்தெடுத்து, உங்கள் அங்கீகரிக்கப்பட்ட Google கணக்கு மூலம் பதிவேற்றவும்.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>வீடியோவைப் பதிவேற்றவும்</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>வீடியோவைத் தேர்ந்தெடுக்கத் தயார்.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>பதிவேற்றங்களுக்கு OAuth அமைப்புகள் மற்றும் அமைப்புகளில் இருந்து Google உள்நுழைவு பூர்த்தி செய்யப்பட வேண்டும்.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>வீடியோவைப் பதிவேற்றவும்</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>வீடியோ விவரங்கள்</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>கண்டறிதல்களைப் பார்க்கவும்</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>யூடியூபில் பார்க்கவும்</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{1}க்கு {0:N0} வகைகள் உள்ளன.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>வகைகளை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} வீடியோக்களை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{2}க்கான {0:N0} பிரபலமான {1} வீடியோக்கள்.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>சேனல் ஐடி தேவை.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>சேனல் விவரங்களை ஏற்றுகிறது...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} சந்தாதாரர்கள் | {1:N0} வீடியோக்கள் | {2:N0} காட்சிகள்</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>கோரப்பட்ட சேனல் கிடைக்கவில்லை.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>மூடவும்</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>YouTube தரவு API ஐ அடைய முடியவில்லை. பிணைய இணைப்பைச் சரிபார்க்கவும்.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>YouTube டேட்டா API கோரிக்கை நேரம் முடிந்தது. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>தெரியவில்லை</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Google அங்கீகாரம் அணுகல் டோக்கனை வழங்கவில்லை. மீண்டும் உள்நுழையவும்.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Google கணக்கு அணுகல் உள்ளமைக்கப்படவில்லை. சுயவிவரத்தைத் திறப்பதற்கு முன் உள்நுழையவும்.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>பொது YouTube தரவு API v3 அம்சங்களைப் பயன்படுத்தும் முன் Google API விசையைச் சேர்க்கவும்.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>சேனல் ஐடி தேவை.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>அங்கீகரிக்கப்பட்ட YouTube டேட்டா API தவறான பதிலை அளித்துள்ளது. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>YouTube தரவு API தவறான பதிலை அளித்துள்ளது. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>பிளேலிஸ்ட் ஐடி தேவை.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube தரவு API v3 {0} ({1}) திரும்பியது. {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>தேட உரையை உள்ளிடவும்.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>வீடியோ ஐடி தேவை.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>கண்டறியும் பதிவு அழிக்கப்பட்டது.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>கண்டறியும் பதிவு {0} இல் சேமிக்கப்பட்டது.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>கண்டறியும் நிகழ்வுகள் எதுவும் பதிவு செய்யப்படவில்லை.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>கண்டறியும் பதிவைச் சேமிப்பது ரத்துசெய்யப்பட்டது.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>கண்டறியும் பதிவை (0x{0}) சேமிக்க முடியவில்லை.</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>உரை கோப்பு</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>கடைசியாக விளையாடியது</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>லைவ் டைலைப் புதுப்பிக்க வீடியோ மெட்டாடேட்டா தேவை.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>இப்போது டிரெண்டிங்</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>இப்போது பிரபலமாக உள்ளது ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>பிரபலமான வீடியோ தலைப்பு தேவை.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Google சாதன அங்கீகாரம் காலாவதியானது.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Google சாதன அங்கீகாரம் முடிக்கப்படவில்லை: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>பதிவேற்றுவதற்கு முன் Google அங்கீகாரத்தை மீண்டும் முடிக்க வேண்டும்.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Google சாதன அங்கீகாரத்தைத் தொடங்க முடியவில்லை: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>உள்நுழைவதற்கு முன் வரையறுக்கப்பட்ட உள்ளீட்டு சாதன OAuth கிளையன்ட் ஐடியை அமைக்கவும்.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>உள்நுழைவதற்கு முன் வரையறுக்கப்பட்ட உள்ளீட்டு சாதனமான OAuth கிளையண்ட் ரகசியத்தை அமைக்கவும்.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>வரையறுக்கப்பட்ட உள்ளீட்டு சாதனமான OAuth கிளையண்டை (invalid_client) Google நிராகரித்தது. கிளையன்ட் ஐடி மற்றும் கிளையண்ட் ரகசியத்தை சரிபார்க்கவும்.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>வரையறுக்கப்பட்ட உள்ளீட்டு சாதனமான OAuth நற்சான்றிதழ்களை Google நிராகரித்தது (invalid_client). கிளையன்ட் ஐடி மற்றும் கிளையண்ட் ரகசியத்தை சரிபார்க்கவும்.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Google சாதன அங்கீகாரம் தவறான பதிலை அளித்துள்ளது.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Google டோக்கன் எண்ட்பாயிண்ட் தவறான பதிலை அளித்துள்ளது.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>பயன்படுத்தக்கூடிய சரிபார்ப்புக் குறியீடு மற்றும் URL ஐ Google சாதன அங்கீகாரம் வழங்கவில்லை.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Google டோக்கன் எண்ட்பாயிண்ட் அணுகல் டோக்கனை வழங்கவில்லை.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>எந்த Google கணக்கும் அங்கீகரிக்கப்படவில்லை. முதலில் உள்நுழைவைத் தொடங்கவும்.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>மெதுவான வாக்கெடுப்பை Google கோரியது.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>சேமிக்கப்பட்ட OAuth டோக்கன் காலாவதி தவறானது. மீண்டும் உள்நுழையவும்.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>சேமிக்கப்பட்ட OAuth டோக்கன் தவறானது. மீண்டும் உள்நுழையவும்.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Google டோக்கன் புதுப்பித்தல் தோல்வியடைந்தது: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Google அங்கீகாரம் முடிந்தது, ஆனால் Windows Credential Locker டோக்கனை (0x{0}) சேமிக்க முடியவில்லை.</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>பயன்பாட்டில் உள்ள பிளேயரால் இந்த வீடியோவை ஏற்ற முடியவில்லை. அதற்கு பதிலாக உலாவியில் திறக்கவும்.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>அதிகாரப்பூர்வ YouTube பார்வைப் பக்கத்தை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>பயன்பாட்டில் பிளேபேக்கிற்கு வீடியோ ஐடி தேவை.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} வீடியோக்கள்</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>பிரபலமான வீடியோக்களை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} பிரபலமான வீடியோ முடிவுகள்.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} பிரபலமான வீடியோ முடிவுகள். விண்டோஸ் லைவ் டைலைப் புதுப்பிக்க அனுமதிக்கவில்லை.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} பிரபலமான வீடியோ முடிவுகள். லைவ் டைல் இப்போது சிறந்த முடிவைக் காட்டுகிறது.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} பிரபலமான வீடியோ முடிவுகள். லைவ் டைலைப் புதுப்பிக்க முடியவில்லை.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>சுயவிவரத் தரவுக்கான அணுகலை இந்தக் கணக்கிற்கு Google வழங்கவில்லை. வெளியேறி, Google உள்நுழைவை மீண்டும் தொடங்கவும், மேலும் YouTube படிக்க மட்டும் நோக்கத்தை ஏற்கவும்.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} விரும்பிய வீடியோக்கள் ஏற்றப்பட்டன.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>விரும்பிய வீடியோக்கள் கோரிக்கையை அடைய முடியவில்லை. பிணைய இணைப்பைச் சரிபார்க்கவும்.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>விரும்பிய வீடியோக்களுக்கான கோரிக்கை நேரம் முடிந்தது. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>சுயவிவரம் ஏற்றப்பட்டது.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>{0} (0x{1}) போது சுயவிவரத்தை ஏற்ற முடியவில்லை. விவரங்களுக்கு கண்டறிதலைத் திறக்கவும்.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>அங்கீகரிக்கப்பட்ட சுயவிவரத்தை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>விரும்பிய வீடியோக்களை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>மேலும் விரும்பப்பட்ட வீடியோக்களை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>மேலும் பிளேலிஸ்ட் வீடியோக்களை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>மேலும் பதிவேற்றிய வீடியோக்களை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>பிளேலிஸ்ட் வீடியோக்களை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} சந்தாதாரர்கள் | {1:N0} வீடியோக்கள் | {2:N0} காட்சிகள்</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>அங்கீகரிக்கப்பட்ட கணக்கிற்கான எந்த சேனலையும் Google திரும்பப் பெறவில்லை.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>விரும்பிய வீடியோக்கள் எதுவும் திரும்பப் பெறப்படவில்லை.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>இந்தச் சேனலுக்கான பதிவேற்றங்கள் பட்டியலை YouTube வழங்கவில்லை.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} பிளேலிஸ்ட்கள் ஏற்றப்பட்டன. அதன் வீடியோக்களைப் பார்க்க ஒன்றைத் தேர்ந்தெடுக்கவும்.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>பிளேலிஸ்ட் கோரிக்கையை அடைய முடியவில்லை. பிணைய இணைப்பைச் சரிபார்க்கவும்.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>பிளேலிஸ்ட் கோரிக்கை நேரம் முடிந்தது. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} பிளேலிஸ்ட் வீடியோக்கள் ஏற்றப்பட்டன.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>பிளேலிஸ்ட் வீடியோ கோரிக்கையை அடைய முடியவில்லை. பிணைய இணைப்பைச் சரிபார்க்கவும்.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>பிளேலிஸ்ட் வீடியோக்களுக்கான கோரிக்கை நேரம் முடிந்தது. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>அங்கீகரிக்கப்பட்ட YouTube API ஐ அடைய முடியவில்லை. பிணைய இணைப்பைச் சரிபார்க்கவும்.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>அங்கீகரிக்கப்பட்ட YouTube கோரிக்கையின் நேரம் முடிந்தது. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>நீங்கள் விரும்பிய சேகரிப்பைக் கோர விரும்பிய வீடியோக்களை ஏற்றவும் என்பதைத் தேர்ந்தெடுக்கவும்.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>அதன் வீடியோக்களை ஏற்றுவதற்கு மேலே உள்ள பிளேலிஸ்ட்டைத் தேர்ந்தெடுக்கவும்.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>சேனல்</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>வீடியோக்களை விரும்பினார்</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>பிளேலிஸ்ட்கள்</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>பிளேலிஸ்ட் வீடியோக்கள்</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>தொடங்குகிறது</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>சந்தாக்கள்</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>பதிவேற்றிய வீடியோக்கள்</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} சந்தாக்கள் ஏற்றப்பட்டன.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>சந்தா கோரிக்கையை அடைய முடியவில்லை. பிணைய இணைப்பைச் சரிபார்க்கவும்.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>சந்தாக் கோரிக்கை நேரம் முடிந்தது. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} சுயவிவரம் சேர்க்கப்படுவதற்கு முன்பு இந்தக் கணக்கு அங்கீகரிக்கப்பட்டிருந்தால், YouTube படிக்க மட்டும் நோக்கத்தை வழங்க மீண்டும் உள்நுழையவும்.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} பதிவேற்றப்பட்ட வீடியோக்கள் ஏற்றப்பட்டன.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>பதிவேற்றிய வீடியோ கோரிக்கையை அடைய முடியவில்லை. பிணைய இணைப்பைச் சரிபார்க்கவும்.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>பதிவேற்றிய வீடியோக்களுக்கான கோரிக்கை நேரம் முடிந்தது. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>ஆதரிக்கப்படும் பகுதிகளை ஏற்றுகிறது...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>ஆதரிக்கப்படும் பகுதிகளை ஏற்ற முடியவில்லை. பிணைய இணைப்பைச் சரிபார்க்கவும்.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>YouTube தரவு API கோரிக்கை நேரம் முடிந்துவிட்டதால், ஆதரிக்கப்படும் பகுதிகளை ஏற்ற முடியவில்லை.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>ஆதரிக்கப்படும் எந்தப் பகுதிகளையும் YouTube திரும்பப் பெறவில்லை. அமெரிக்காவைப் பயன்படுத்துகிறது.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>அமெரிக்கா</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>API விசையை உள்ளிடவும் அல்லது Clear API விசையைப் பயன்படுத்தவும்.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>வரையறுக்கப்பட்ட உள்ளீட்டு சாதனம் OAuth கிளையன்ட் ஐடி தேவை.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>வரையறுக்கப்பட்ட உள்ளீட்டு சாதனம் OAuth கிளையன்ட் ரகசியம் தேவை.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>தேடுகிறது...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} பொது வீடியோ முடிவுகள்.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>இந்த ஆப்ஸ் Google அல்லது YouTube உடன் இணைக்கப்படவில்லை.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>உருவாக்க {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>யூனிட்யூப் என்பது யூடியூப் பொது ஏபிஐ வழியாக யூடியூப்பை உலாவுவதற்கான நவீன யுடபிள்யூபி அப்ளிகேஷன் ஆகும்.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>உருவாக்கப்பட்டது:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>யூனிடியூப் UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>பொது தரவுகளுக்கு உள்ளமைக்கப்பட்ட யூனிடியூப் உள்ளமைவைப் பயன்படுத்துதல். இங்கே சேமிப்பது அதை மீறுகிறது.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>ஏபிஐ விசை எதுவும் கட்டமைக்கப்படவில்லை.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>உங்கள் API விசை Windows Credential Locker இல் சேமிக்கப்பட்டுள்ளது.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Google அங்கீகாரம் ரத்து செய்யப்பட்டது.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Google அங்கீகாரம் முடிந்தது. சுயவிவர வாசிப்பு மற்றும் வீடியோ பதிவேற்றங்கள் உள்ளன.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} குறியீடு {1:D2}:{2:D2} இல் காலாவதியாகிறது. ஒவ்வொரு {3} வினாடிகளிலும் Google ஐச் சரிபார்க்கிறது.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Google அங்கீகாரத்தால் டோக்கன் எண்ட்பாயிண்ட்டைத் தொடர்புகொள்ள முடியவில்லை. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Google அங்கீகாரம் அகற்றப்பட்டது. சுயவிவரத்தைத் திறப்பதற்கு முன் அல்லது பதிவேற்றுவதற்கு முன் Google உள்நுழைவைத் தொடங்கவும்.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>சுயவிவரத்தைப் படிக்கவும் வீடியோ பதிவேற்றவும் Google கணக்கு அங்கீகரிக்கப்பட்டுள்ளது. இந்த டோக்கன் சுயவிவரத்திற்கு முந்தையதாக இருந்தால் மீண்டும் உள்நுழையவும்.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Google அங்கீகாரம் எதிர்பாராதவிதமாக தோல்வியடைந்தது (0x{0}). பயன்பாட்டை மறுதொடக்கம் செய்த பிறகு கண்டறிதலைத் திறக்கவும்.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>சுயவிவரம் மற்றும் பதிவேற்றங்களுக்கு உள்ளமைக்கப்பட்ட யூனிடியூப் உள்ளமைவைப் பயன்படுத்துதல். முதலில் Google உள்நுழைவைத் தொடங்கவும்.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>வரையறுக்கப்பட்ட உள்ளீட்டு சாதனம் OAuth நற்சான்றிதழ்கள் சேமிக்கப்பட்டன. மதிப்பு மாறியிருந்தால், பதிவேற்றுவதற்கு முன் மீண்டும் உள்நுழையவும்.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>சேமிக்கப்பட்ட OAuth நற்சான்றிதழ்கள் உள்ளமைக்கப்பட்டுள்ளன. சுயவிவரத்தைத் திறப்பதற்கு முன் அல்லது பதிவேற்றுவதற்கு முன் Google உள்நுழைவைத் தொடங்கவும்.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>ஒரு முழுமையடையாத சேமிக்கப்பட்ட OAuth புறக்கணிக்கப்பட்டது. சுயவிவரம் மற்றும் பதிவேற்றங்களுக்கு உள்ளமைக்கப்பட்ட யூனிடியூப் உள்ளமைவைப் பயன்படுத்துதல்.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>நிர்வகிக்கப்பட்ட OAuth உள்ளமைவு கிடைக்கிறது. சுயவிவரத்தைத் திறப்பதற்கு முன் அல்லது பதிவேற்றுவதற்கு முன் Google உள்நுழைவைத் தொடங்கவும்.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>OAuth நற்சான்றிதழ்களைச் சேமித்து, சுயவிவரத்தைத் திறப்பதற்கு முன் அல்லது பதிவேற்றுவதற்கு முன் Google உள்நுழைவைத் தொடங்கவும்.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>குறியீடு: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>சரிபார்ப்புக் குறியீடு காலாவதியானது. புதிய குறியீட்டைக் கோருகிறது...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>அந்த உலாவியில் குறியீட்டை உள்ளிடவும். இந்த ஃபோன் Google அங்கீகாரத்திற்காக காத்திருக்கும்.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>உங்கள் முந்தைய குறியீடு காலாவதியானது. அந்த உலாவியில் புதிய குறியீட்டை உள்ளிடவும்.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>தற்போதைய உலாவியுடன் மற்றொரு தொலைபேசி, டேப்லெட் அல்லது கணினியில், இங்கு செல்க: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Google ஒப்புதலுக்காகக் காத்திருக்கிறது.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>பதிவேற்றம் ரத்து செய்யப்பட்டது. ஓரளவு பதிவேற்றம் செய்யப்பட்ட மறுதொடக்க அமர்வு தொடரவில்லை.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>பதிவேற்றத்தை ரத்துசெய்கிறது...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>பதிவேற்றம் முடிந்தது. YouTube வீடியோவைச் செயலாக்குகிறது.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>பதிவேற்றம் முடிந்தது. வீடியோ ஐடி: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>வீடியோ விளக்கம் 5000 எழுத்துகள் அல்லது அதற்கும் குறைவாக இருக்க வேண்டும்.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>தரவைக் கொண்ட வீடியோ கோப்பைத் தேர்ந்தெடுக்கவும்.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>தேர்ந்தெடுக்கப்பட்ட கோப்பு அதன் அறிக்கை நீளத்திற்கு முன்பே முடிந்தது.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>பதிவேற்றுவதற்கு முன் வீடியோ கோப்பைத் தேர்ந்தெடுக்கவும்.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>தேர்ந்தெடுத்த வீடியோ பதிவேற்ற முடியாத அளவுக்கு பெரிதாக உள்ளது.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>பதிவேற்றம் YouTubeஐ அடைய முடியவில்லை. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>பதிவேற்றம் செய்யப்பட்ட பதிலை YouTube வழங்கவில்லை.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>மீண்டும் தொடங்கக்கூடிய பதிவேற்ற இருப்பிடத்தை YouTube வழங்கவில்லை.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>தனிப்பட்ட, பட்டியலிடப்படாத அல்லது பொது தனியுரிமையைத் தேர்ந்தெடுக்கவும்.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} / {1:N0} பைட்டுகள் பதிவேற்றப்பட்டன ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>{0} ஐப் பதிவேற்றத் தயார்.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>YouTube பதிவேற்றம் {0} ({1}) திரும்பியது. {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} பைட்டுகள்)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>வீடியோ தேர்வு ரத்து செய்யப்பட்டது.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>மீண்டும் தொடங்கும் பதிவேற்றத்தைத் தொடங்குகிறது...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>பதிவேற்றம் நேரம் முடிந்தது. பிணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயலவும்.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>பதிவேற்றும் முன் தலைப்பை உள்ளிடவும்.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>வீடியோவின் தலைப்பு 100 எழுத்துகள் அல்லது அதற்கும் குறைவாக இருக்க வேண்டும்.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>அங்கீகரிக்கப்பட்ட வீடியோ கோப்பைத் தேர்ந்தெடுக்கவும்.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>வீடியோ விவரங்களை ஏற்றுகிறது...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>வெளியிடப்பட்டது {0} | {1:N0} காட்சிகள் | கால அளவு {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>பயன்பாட்டில் Play ஆனது YouTubeன் அதிகாரப்பூர்வ மொபைல் கண்காணிப்புப் பக்கத்தைத் திறக்கிறது.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>பிளேபேக் தொடங்கியது, ஆனால் அதன் மெட்டாடேட்டாவை லைவ் டைலுக்குச் சேமிக்க முடியவில்லை.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>பிளேபேக் தொடங்கியது, ஆனால் விண்டோஸ் லைவ் டைலைப் புதுப்பிக்க அனுமதிக்கவில்லை.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>பிளேபேக் தொடங்கியது, ஆனால் லைவ் டைலைப் புதுப்பிக்க முடியவில்லை.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>கோரப்பட்ட வீடியோ கிடைக்கவில்லை.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>வீடியோ ஐடி தேவை.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>சிறப்பு நன்றிகள்</value>
+  </data>
+</root>

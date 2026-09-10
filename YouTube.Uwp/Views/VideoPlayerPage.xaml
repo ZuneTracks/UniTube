@@ -16,8 +16,8 @@
                     <ColumnDefinition Width="Auto" />
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-                <Button Content="‹ BACK" Style="{StaticResource PhoneOutlineButtonStyle}" Click="BackButton_Click" VerticalAlignment="Center" />
-                <TextBlock Grid.Column="1" Text="player" Style="{StaticResource PhoneSectionTitleStyle}" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                <Button x:Uid="BackButton" Content="‹ BACK" Style="{StaticResource PhoneOutlineButtonStyle}" Click="BackButton_Click" VerticalAlignment="Center" />
+                <TextBlock x:Uid="PlayerTitle" Grid.Column="1" Text="player" Style="{StaticResource PhoneSectionTitleStyle}" VerticalAlignment="Center" HorizontalAlignment="Right" />
             </Grid>
         </Border>
         <Border Grid.Row="1" Background="{StaticResource PhoneAccentBrush}" />
@@ -25,7 +25,7 @@
         <WebView x:Name="PlayerWebView" Grid.Row="3" NavigationCompleted="PlayerWebView_NavigationCompleted" NavigationFailed="PlayerWebView_NavigationFailed" />
         <Border Grid.Row="4" Background="{StaticResource PhoneHeaderBrush}" Padding="12,8">
             <StackPanel Orientation="Horizontal">
-                <Button Content="OPEN IN BROWSER" Style="{StaticResource PhoneOutlineButtonStyle}" Click="OpenInBrowserButton_Click" />
+                <Button x:Uid="OpenInBrowserButton" Content="OPEN IN BROWSER" Style="{StaticResource PhoneOutlineButtonStyle}" Click="OpenInBrowserButton_Click" />
             </StackPanel>
         </Border>
     </Grid>

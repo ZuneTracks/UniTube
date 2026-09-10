@@ -62,18 +62,18 @@ namespace YouTube.Uwp.Services
             BasicProperties properties = await request.File.GetBasicPropertiesAsync();
             if (properties.Size == 0)
             {
-                throw new ArgumentException("Select a video file that contains data.", "request");
+                throw new ArgumentException(Localizer.Get("Upload.FileContainsNoData"), "request");
             }
 
             if (properties.Size > long.MaxValue)
             {
-                throw new ArgumentException("The selected video is too large to upload.", "request");
+                throw new ArgumentException(Localizer.Get("Upload.FileTooLarge"), "request");
             }
 
             string accessToken = await accessTokenProvider();
             if (string.IsNullOrWhiteSpace(accessToken))
             {
-                throw new OAuthException("Google authorization did not provide an access token. Sign in again.");
+                throw new OAuthException(Localizer.Get("DataApi.AccessTokenMissing"));
             }
 
             string contentType = GetContentType(request.File);
@@ -90,7 +90,7 @@ namespace YouTube.Uwp.Services
                     byte[] bytes = await ReadChunkAsync(stream, uploaded, bytesToRead);
                     if (bytes.Length == 0)
                     {
-                        throw new YouTubeUploadException("The selected file ended before its reported length.");
+                        throw new YouTubeUploadException(Localizer.Get("Upload.FileEndedEarly"));
                     }
 
                     ulong end = uploaded + (uint)bytes.Length - 1;
@@ -125,7 +125,7 @@ namespace YouTube.Uwp.Services
                 }
             }
 
-            throw new YouTubeUploadException("YouTube did not return a completed upload response.");
+            throw new YouTubeUploadException(Localizer.Get("Upload.NoCompletedResponse"));
         }
 
         private async Task<Uri> CreateResumableSessionAsync(
@@ -153,7 +153,7 @@ namespace YouTube.Uwp.Services
                     if (response.Headers.Location == null
                         || !Uri.TryCreate(response.Headers.Location.ToString(), UriKind.Absolute, out location))
                     {
-                        throw new YouTubeUploadException("YouTube did not return a resumable upload location.");
+                        throw new YouTubeUploadException(Localizer.Get("Upload.NoResumableLocation"));
                     }
 
                     return location;
@@ -217,12 +217,7 @@ namespace YouTube.Uwp.Services
         {
             string body = await response.Content.ReadAsStringAsync();
             return new YouTubeUploadException(
-                "YouTube upload returned "
-                + ((int)response.StatusCode).ToString(CultureInfo.InvariantCulture)
-                + " ("
-                + response.StatusCode
-                + "). "
-                + body);
+                Localizer.Format("Upload.ResponseError", (int)response.StatusCode, response.StatusCode, body));
         }
 
         private static ulong GetNextUploadOffset(HttpResponseMessage response, ulong defaultOffset)
@@ -276,7 +271,7 @@ namespace YouTube.Uwp.Services
                 case ".mkv":
                     return "video/x-matroska";
                 default:
-                    throw new ArgumentException("Select a recognized video file.", "file");
+                    throw new ArgumentException(Localizer.Get("Upload.UnrecognizedFile"), "file");
             }
         }
 
@@ -284,22 +279,22 @@ namespace YouTube.Uwp.Services
         {
             if (request == null || request.File == null)
             {
-                throw new ArgumentException("Select a video file before uploading.", "request");
+                throw new ArgumentException(Localizer.Get("Upload.FileRequired"), "request");
             }
 
             if (string.IsNullOrWhiteSpace(request.Title))
             {
-                throw new ArgumentException("Enter a title before uploading.", "request");
+                throw new ArgumentException(Localizer.Get("Upload.TitleRequired"), "request");
             }
 
             if (request.Title.Trim().Length > 100)
             {
-                throw new ArgumentException("The video title must be 100 characters or fewer.", "request");
+                throw new ArgumentException(Localizer.Get("Upload.TitleTooLong"), "request");
             }
 
             if (!string.IsNullOrEmpty(request.Description) && request.Description.Trim().Length > 5000)
             {
-                throw new ArgumentException("The video description must be 5000 characters or fewer.", "request");
+                throw new ArgumentException(Localizer.Get("Upload.DescriptionTooLong"), "request");
             }
 
             if (string.IsNullOrWhiteSpace(request.PrivacyStatus)
@@ -307,7 +302,7 @@ namespace YouTube.Uwp.Services
                     && request.PrivacyStatus != "unlisted"
                     && request.PrivacyStatus != "public"))
             {
-                throw new ArgumentException("Select private, unlisted, or public privacy.", "request");
+                throw new ArgumentException(Localizer.Get("Upload.PrivacyRequired"), "request");
             }
         }
     }

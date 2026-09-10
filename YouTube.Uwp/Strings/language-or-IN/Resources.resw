@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>ପବ୍ଲିକ୍ ବ୍ରାଉଜର</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>ସେଟିଂ</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>ଘର</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>ସନ୍ଧାନ |</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>କ୍ୟାଟେଗୋରୀଗୁଡିକ |</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>ପ୍ରୋଫାଇଲ୍ |</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>ଆବିଷ୍କାର କରନ୍ତୁ |</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>କ୍ଲାସିକ୍ ଫୋନ୍-ପ୍ରଥମ ଲେଆଉଟ୍ ରେ ସର୍ବଶେଷ ଲୋକପ୍ରିୟ ଭିଡିଓଗୁଡିକ |</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>ବର୍ତ୍ତମାନ ଟ୍ରେଣ୍ଡିଂ</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>ଆପଣଙ୍କ ଅଞ୍ଚଳ ପାଇଁ ଲୋକପ୍ରିୟ ଭିଡିଓ ଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>ଲୋକପ୍ରିୟ ଭିଡିଓଗୁଡିକ |</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>ଜନସାଧାରଣ ଫଳାଫଳ ଲୋଡ୍ କରିବାକୁ ବର୍ତ୍ତମାନ ଟ୍ରେଣ୍ଡିଂ ବାଛନ୍ତୁ |</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>ସନ୍ଧାନ</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>ଆପଣଙ୍କର ଉପଭୋକ୍ତା-ଯୋଗାଇଥିବା API କି ସହିତ ସର୍ବସାଧାରଣ ୟୁଟ୍ୟୁବ୍ ଭିଡିଓ ଖୋଜ |</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>ସନ୍ଧାନ ସର୍ତ୍ତାବଳୀ</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>ୟୁଟ୍ୟୁବ୍ ସନ୍ଧାନ କରନ୍ତୁ |</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>ସନ୍ଧାନ |</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULAR</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>ଅଞ୍ଚଳ</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>ବର୍ଗଗୁଡିକ</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>ଏହାର ସାମ୍ପ୍ରତିକ ଲୋକପ୍ରିୟ ଭିଡିଓଗୁଡିକ ବିସ୍ତାର କରିବାକୁ ଏକ ବର୍ଗ ଟ୍ୟାପ୍ କରନ୍ତୁ | ଭୁଶୁଡ଼ିବା ପାଇଁ ଆଉ ଏକ ଟ୍ୟାପ୍ କରନ୍ତୁ ଏବଂ ଅନ୍ୟଟି ବାଛନ୍ତୁ |</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>ପ୍ରୋଫାଇଲ୍</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>ଆପଣଙ୍କର ପ୍ରାମାଣିକ ୟୁଟ୍ୟୁବ୍ ସଂଯୋଗ ମାଧ୍ୟମରେ ଖାତା ତଥ୍ୟ ଉପଲବ୍ଧ |</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>ବିଷୟରେ</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ API କୀ ନବଲିଖନ କରନ୍ତୁ |</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>ପରିଚାଳିତ ବିନ୍ୟାସ ବ୍ୟବହାର କରିବାକୁ ଖାଲି ଛାଡିଦିଅ |</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ପଛକୁ</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>ବାତିଲ୍</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>ଏହି ଚ୍ୟାନେଲ ବିଷୟରେ</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>ଚ୍ୟାନେଲ ବିବରଣୀ</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>ସଫା କର |</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>ବ୍ୟକ୍ତିଗତ ପରିଚୟପତ୍ର କେବଳ ୱିଣ୍ଡୋଜ୍ କ୍ରେଡେନସିଆଲ୍ ଲକରରେ ଗଚ୍ଛିତ |</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>ବର୍ଣ୍ଣନା</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>ବ tion କଳ୍ପିକ</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>ବର୍ଣ୍ଣନା</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>ଏହି ଲଗ୍ ଆପ୍ ତ୍ରୁଟି ଏବଂ OAuth ମାଇଲଖୁଣ୍ଟକୁ ରେକର୍ଡ କରେ | ପ୍ରମାଣପତ୍ର, ପ୍ରାଧିକରଣ ସଂକେତ, ଏବଂ ଟୋକେନ୍ ଗୁଡିକ ବାଦ ଦିଆଯାଇଛି |</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>ନିଦାନ</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>ପ୍ରୋଫାଇଲ୍ ଏକ ଗୁଗୁଲ୍ ଟିଭି ଏବଂ ସୀମିତ-ଇନପୁଟ୍ ଡିଭାଇସ୍ OAuth କ୍ଲାଏଣ୍ଟ ବ୍ୟବହାର କରେ ଏବଂ ଅପଲୋଡ୍ କରେ | କ red ଣସି ପୁନ ir ନିର୍ଦ୍ଦେଶ URI ବ୍ୟବହୃତ ହୁଏ ନାହିଁ | ପରିଚାଳିତ ସ୍ଥାନୀୟ ନିର୍ମାଣ ମୂଲ୍ୟ ଲୁକ୍କାୟିତ ରହିଥାଏ; ଏଠାରେ ପରିଚୟପତ୍ର ସଂରକ୍ଷଣ କରିବା ସେମାନଙ୍କୁ ଅତିକ୍ରମ କରେ |</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଆକାଉଣ୍ଟ୍ |</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>ଇନ୍-ଆପ୍ ପ୍ଲେକ୍ ୟୁଟ୍ୟୁବ୍ ର ଅଫିସିଆଲ୍ ମୋବାଇଲ୍ ୱାଚ୍ ପେଜ୍ ବ୍ୟବହାର କରେ | ଏହି ଆପ୍ ମିଡିଆ URL ଗୁଡିକ ବାହାର କରେ ନାହିଁ କିମ୍ବା ଡାଉନଲୋଡ୍ କରେ ନାହିଁ |</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>ଭିଡିଓଗୁଡିକ ପସନ୍ଦ କରନ୍ତି |</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>ଲୋଡ୍ ଭିଡିଓଗୁଡିକ ଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>ଅଧିକ ପସନ୍ଦ କରୁଥିବା ଭିଡିଓଗୁଡିକ ଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>ଅଧିକ ଖେଳାଳୀ ଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>ଅଧିକ ପ୍ଲେଲିଷ୍ଟ ଭିଡିଓ ଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>ଅଧିକ ସବସ୍କ୍ରିପସନ୍ ଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>ଅଧିକ ଅପଲୋଡ୍ ଭିଡିଓଗୁଡିକ ଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>ସୀମିତ-ଇନପୁଟ୍ ଉପକରଣ OAuth କ୍ଲାଏଣ୍ଟ ID ନବଲିଖନ କରେ |</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>ପରିଚାଳିତ ବିନ୍ୟାସ ବ୍ୟବହାର କରିବାକୁ ଖାଲି ଛାଡିଦିଅ |</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>ସୀମିତ-ଇନପୁଟ୍ ଉପକରଣ OAuth କ୍ଲାଏଣ୍ଟ ଗୁପ୍ତ ନବଲିଖନ |</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>ପରିଚାଳିତ ବିନ୍ୟାସ ବ୍ୟବହାର କରିବାକୁ ଖାଲି ଛାଡିଦିଅ |</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>ପରିଚୟପତ୍ର ସଞ୍ଚୟ କରନ୍ତୁ, ତାପରେ ଗୁଗୁଲ୍ ସାଇନ୍-ଇନ୍ ଆରମ୍ଭ କରନ୍ତୁ | ନିମ୍ନରେ ଯାଞ୍ଚ କୋଡ୍ ଅନ୍ୟ ଏକ ଉପକରଣରେ ପ୍ରବେଶ କରାଯାଇଛି; ଏହି ଆପ୍ କଦାପି ସାଇନ୍-ଇନ୍ ଫର୍ମ ଖୋଲିବ ନାହିଁ | ପ୍ରୋଫାଇଲ୍ ପଠନ ଆକ୍ସେସ୍ ପ୍ରଦାନ କରିବାକୁ ଏହି ଅଦ୍ୟତନ ପରେ ପୁନର୍ବାର ସାଇନ୍ ଇନ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>ଚାନେଲ ଖୋଲନ୍ତୁ |</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ବ୍ରାଉଜରରେ ଖୋଲନ୍ତୁ |</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>ପ୍ଲେୟାର</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>APP ରେ ଖେଳନ୍ତୁ |</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>ପ୍ଲେଲିଷ୍ଟଗୁଡିକ |</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>ପ୍ଲେଲିଷ୍ଟ ଭିଡିଓଗୁଡିକ |</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>ଗୋପନୀୟତା</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>ବ୍ୟକ୍ତିଗତ</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>ଏକ ସୀମିତ API କି କେବଳ ପଠନୀୟ ୟୁଟ୍ୟୁବ୍ ଡାଟା API v3 କଲ୍ ପାଇଁ ବ୍ୟବହୃତ ହୁଏ | ପରିଚାଳିତ ସ୍ଥାନୀୟ ନିର୍ମାଣ ମୂଲ୍ୟ ଲୁକ୍କାୟିତ ରହିଥାଏ; ଏଠାରେ ସେଭ୍ କରିବା ସେମାନଙ୍କୁ ଅତିକ୍ରମ କରେ |</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>ସର୍ବସାଧାରଣ ତଥ୍ୟ ପ୍ରବେଶ</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>ଜନସାଧାରଣ</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>ରେଫ୍ରେସ୍</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>ରେଫ୍ରେସ୍ ପ୍ରୋଫାଇଲ୍ |</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>ସେଫ୍ ମୋଡ୍ ସନ୍ଧାନ ପାଇଁ ୟୁଟ୍ୟୁବର କଠୋର ସେଫ୍ ସର୍ଚ୍ଚ ସେଟିଂ ବ୍ୟବହାର କରେ | ଏହା ୟୁଟ୍ୟୁବ୍ କିଡ୍ସ କାଟାଲଗ୍ କିମ୍ବା ଲୋକପ୍ରିୟ, ବର୍ଗ, ଏବଂ ଆକାଉଣ୍ଟ୍ ଫିଡ୍ ଫିଲ୍ଟର୍ ପ୍ରଦାନ କରେ ନାହିଁ |</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>ସୁରକ୍ଷିତ ମୋଡ୍ |</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>ସର୍ବସାଧାରଣ ଭିଡିଓ ସନ୍ଧାନ ପାଇଁ କଠୋର ନିରାପଦ ସନ୍ଧାନ ବ୍ୟବହାର କରନ୍ତୁ |</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>API କି ସଞ୍ଚୟ କରନ୍ତୁ |</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>ଲଗ୍ ସଞ୍ଚୟ କରନ୍ତୁ |</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>କ୍ରେଡିଏଣ୍ଟିଆଲ୍ ସଞ୍ଚୟ କରନ୍ତୁ |</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>କ video ଣସି ଭିଡିଓ ଚୟନ ହୋଇନାହିଁ |</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>ଭିଡିଓ ଚୟନ କରନ୍ତୁ |</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>ସେଟିଂସମୂହ</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>GOOGLE ସାଇନ୍-ଇନ୍ ଆରମ୍ଭ କରନ୍ତୁ |</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>ସାଇନ୍ ଆଉଟ୍ |</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>ଆରମ୍ଭ କରନ୍ତୁ |</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>ସଦସ୍ୟତା</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>ଆଖ୍ୟା</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>ଆବଶ୍ୟକ</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>ତାଲିକାଭୁକ୍ତ ନୁହେଁ |</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>ଇତିହାସ ଦେଖନ୍ତୁ ଏବଂ ପରେ ଦେଖନ୍ତୁ ପଠନୀୟ v3 ସଂଗ୍ରହ ଭାବରେ ଉନ୍ମୋଚିତ ହୁଏ ନାହିଁ | ୟୁନିଟ୍ୟୁବ୍ ସେମାନଙ୍କୁ ଅନୁକରଣ କରେ ନାହିଁ କିମ୍ବା ଭୁଲ୍ ଭୁଲ୍ କରେ ନାହିଁ |</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>ୟୁଟ୍ୟୁବ୍ ଡାଟା API v3 ଦ୍ୱାରା ଅସମର୍ଥିତ |</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>ଭିଡିଓ ଅପଲୋଡ୍ ହୋଇଛି |</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>ଏକ ସ୍ଥାନୀୟ ଭିଡିଓ ଚୟନ କରନ୍ତୁ, ତାପରେ ଏହାକୁ ଆପଣଙ୍କର ପ୍ରାଧିକୃତ ଗୁଗୁଲ୍ ଆକାଉଣ୍ଟ୍ ମାଧ୍ୟମରେ ଅପଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>ଭିଡିଓ ଅପଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>ଏକ ଭିଡିଓ ବାଛିବା ପାଇଁ ପ୍ରସ୍ତୁତ |</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ ଗୁଡିକ OAuth ସେଟିଂସମୂହ ଏବଂ ସେଟିଂସମୂହରୁ ଏକ ସମ୍ପୂର୍ଣ୍ଣ ଗୁଗୁଲ୍ ସାଇନ୍-ଇନ୍ ଆବଶ୍ୟକ କରେ |</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>ଭିଡିଓ ଅପଲୋଡ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>ଭିଡିଓ ବିବରଣୀ</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ଦେଖନ୍ତୁ |</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>YOUTUBE ରେ ଦେଖନ୍ତୁ |</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{1} ପାଇଁ {0:N0} ବର୍ଗ ଉପଲବ୍ଧ |</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>ବର୍ଗଗୁଡିକ ଧାରଣ କରୁଛି ...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>{0} ଭିଡିଓ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{2} ପାଇଁ {0:N0} ଲୋକପ୍ରିୟ {1} ଭିଡିଓଗୁଡିକ |</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>ଏକ ଚ୍ୟାନେଲ୍ ID ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>ଚ୍ୟାନେଲ ବିବରଣୀ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} ଗ୍ରାହକ | | {1:N0} ଭିଡିଓ | {2:N0} ଦୃଶ୍ୟ |</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>ଅନୁରୋଧ କରାଯାଇଥିବା ଚ୍ୟାନେଲ ଉପଲବ୍ଧ ନାହିଁ |</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>ବନ୍ଦ |</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>ୟୁଟ୍ୟୁବ୍ ଡାଟା API ପହଞ୍ଚି ପାରିଲା ନାହିଁ | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>ୟୁଟ୍ୟୁବ୍ ଡାଟା API ଅନୁରୋଧ ସମୟ ସମାପ୍ତ ହୋଇଛି | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>ଅଜ୍ଞାତ</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ପ୍ରାଧିକରଣ ଏକ ପ୍ରବେଶ ଟୋକନ୍ ପ୍ରଦାନ କରି ନାହିଁ | ପୁନର୍ବାର ସାଇନ୍ ଇନ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଆକାଉଣ୍ଟ୍ ପ୍ରବେଶ ବିନ୍ୟାସ ହୋଇନାହିଁ | ପ୍ରୋଫାଇଲ୍ ଖୋଲିବା ପୂର୍ବରୁ ସାଇନ୍ ଇନ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>ସାର୍ବଜନୀନ ୟୁଟ୍ୟୁବ୍ ଡାଟା API v3 ବ features ଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ ଏକ Google API କି ଯୋଡନ୍ତୁ |</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>ଏକ ଚ୍ୟାନେଲ୍ ID ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>ପ୍ରାମାଣିକୃତ ୟୁଟ୍ୟୁବ୍ ଡାଟା API ଏକ ଅବ alid ଧ ପ୍ରତିକ୍ରିୟା ଫେରସ୍ତ କଲା | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>ୟୁଟ୍ୟୁବ୍ ଡାଟା API ଏକ ଅବ alid ଧ ପ୍ରତିକ୍ରିୟା ଫେରସ୍ତ କଲା | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>ଏକ ପ୍ଲେଲିଷ୍ଟ ID ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>ୟୁଟ୍ୟୁବ୍ ଡାଟା API v3 {0} ({1}) ଫେରସ୍ତ କଲା | {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>ଖୋଜିବା ପାଇଁ ପାଠ ପ୍ରବେଶ କରନ୍ତୁ |</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>ଏକ ଭିଡିଓ ID ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ଲଗ୍ ସଫା ହେଲା |</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ଲଗ୍ {0} ରେ ସଞ୍ଚୟ ହୋଇଛି |</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>କ diagn ଣସି ନିଦାନ ଘଟଣା ରେକର୍ଡ ହୋଇନାହିଁ |</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ଲଗ୍ ସଞ୍ଚୟ ବାତିଲ୍ ହେଲା |</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ଲଗ୍ (0x{0}) ସଞ୍ଚୟ କରିପାରିଲା ନାହିଁ |</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>ପାଠ୍ୟ ଫାଇଲ୍ |</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>ଶେଷ ଖେଳିଲା |</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>ଲାଇଭ୍ ଟାଇଲ୍ ଅପଡେଟ୍ କରିବାକୁ ଭିଡିଓ ମେଟାଡାଟା ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>ବର୍ତ୍ତମାନ ଟ୍ରେଣ୍ଡ କରୁଛି |</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>ବର୍ତ୍ତମାନ ଟ୍ରେଣ୍ଡ କରୁଛି ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>ଏକ ଟ୍ରେଣ୍ଡିଂ ଭିଡିଓ ଟାଇଟଲ୍ ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଡିଭାଇସ୍ ପ୍ରାଧିକରଣର ଅବଧି ସମାପ୍ତ ହୋଇଛି |</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଡିଭାଇସ୍ ପ୍ରାଧିକରଣ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇନାହିଁ: {0} |</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ କରିବା ପୂର୍ବରୁ ଗୁଗୁଲ୍ ପ୍ରାଧିକରଣ ପୁନର୍ବାର ସମାପ୍ତ ହେବା ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଡିଭାଇସ୍ ପ୍ରାଧିକରଣ ଆରମ୍ଭ ହୋଇପାରିଲା ନାହିଁ: {0} |</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>ସାଇନ୍ ଇନ୍ କରିବା ପୂର୍ବରୁ ଏକ ସୀମିତ-ଇନପୁଟ୍ ଡିଭାଇସ୍ OAuth କ୍ଲାଏଣ୍ଟ ID ସେଟ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>ସାଇନ୍ ଇନ୍ କରିବା ପୂର୍ବରୁ ସୀମିତ-ଇନପୁଟ୍ ଡିଭାଇସ୍ OAuth କ୍ଲାଏଣ୍ଟ ଗୁପ୍ତ ସେଟ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ସୀମିତ-ଇନପୁଟ୍ ଡିଭାଇସ୍ OAuth କ୍ଲାଏଣ୍ଟ (ଅବ alid ଧ_ କ୍ଲାଏଣ୍ଟ) କୁ ପ୍ରତ୍ୟାଖ୍ୟାନ କଲା | କ୍ଲାଏଣ୍ଟ ID ଏବଂ କ୍ଲାଏଣ୍ଟ ଗୁପ୍ତ ଯାଞ୍ଚ କରନ୍ତୁ |</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ସୀମିତ-ଇନପୁଟ୍ ଡିଭାଇସ୍ OAuth ପରିଚୟପତ୍ର (ଅବ alid ଧ_ କ୍ଲାଏଣ୍ଟ) କୁ ପ୍ରତ୍ୟାଖ୍ୟାନ କଲା | କ୍ଲାଏଣ୍ଟ ID ଏବଂ କ୍ଲାଏଣ୍ଟ ଗୁପ୍ତ ଯାଞ୍ଚ କରନ୍ତୁ |</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଡିଭାଇସ୍ ପ୍ରାଧିକରଣ ଏକ ଅବ alid ଧ ପ୍ରତିକ୍ରିୟା ଫେରସ୍ତ କଲା |</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଟୋକନ୍ ଏଣ୍ଡପଏଣ୍ଟ ଏକ ଅବ alid ଧ ପ୍ରତିକ୍ରିୟା ଫେରାଇଲା |</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଡିଭାଇସ୍ ପ୍ରାଧିକରଣ ଏକ ବ୍ୟବହାରଯୋଗ୍ୟ ଯାଞ୍ଚ କୋଡ୍ ଏବଂ URL ଫେରସ୍ତ କଲା ନାହିଁ |</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଟୋକନ୍ ଏଣ୍ଡପଏଣ୍ଟ ଏକ ଆକ୍ସେସ୍ ଟୋକନ୍ ଫେରସ୍ତ କଲା ନାହିଁ |</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>କ Google ଣସି ଗୁଗୁଲ୍ ଆକାଉଣ୍ଟ୍ ଅନୁମୋଦିତ ନୁହେଁ | ପ୍ରଥମେ ସାଇନ୍ ଇନ୍ ଆରମ୍ଭ କରନ୍ତୁ |</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>ଗୁଗୁଲ ମନ୍ଥର ମତଦାନ ପାଇଁ ଅନୁରୋଧ କଲା |</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>ଗଚ୍ଛିତ OAuth ଟୋକେନ୍ ଅବଧି ସମାପ୍ତ ହୋଇଛି | ପୁନର୍ବାର ସାଇନ୍ ଇନ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>ଗଚ୍ଛିତ OAuth ଟୋକେନ୍ ତ୍ରୁଟିପୂର୍ଣ୍ଣ | ପୁନର୍ବାର ସାଇନ୍ ଇନ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଟୋକନ୍ ସତେଜ ବିଫଳ ହେଲା: {0} |</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ପ୍ରାଧିକରଣ ସମାପ୍ତ ହୋଇଛି, କିନ୍ତୁ ୱିଣ୍ଡୋଜ୍ କ୍ରେଡେନସିଆଲ୍ ଲକର୍ ଟୋକେନ୍ (0x{0}) ସଞ୍ଚୟ କରିପାରିବ ନାହିଁ |</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>ଇନ୍-ଆପ୍ ପ୍ଲେୟାର୍ ଏହି ଭିଡିଓ ଲୋଡ୍ କରିପାରିଲା ନାହିଁ | ଏହା ପରିବର୍ତ୍ତେ ବ୍ରାଉଜରରେ ଖୋଲନ୍ତୁ |</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>ଅଫିସିଆଲ୍ ୟୁଟ୍ୟୁବ୍ ୱାଚ୍ ପେଜ୍ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>ଇନ୍-ଆପ୍ ପ୍ଲେକ୍ ପାଇଁ ଏକ ଭିଡିଓ ID ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} ଭିଡିଓଗୁଡିକ |</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>ଲୋକପ୍ରିୟ ଭିଡିଓ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} ଲୋକପ୍ରିୟ ଭିଡିଓ ଫଳାଫଳ |</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} ଲୋକପ୍ରିୟ ଭିଡିଓ ଫଳାଫଳ | ୱିଣ୍ଡୋଜ୍ ଲାଇଭ୍ ଟାଇଲ୍ ଅପଡେଟ୍ କରିବାକୁ ଅନୁମତି ଦେଲା ନାହିଁ |</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} ଲୋକପ୍ରିୟ ଭିଡିଓ ଫଳାଫଳ | ଲାଇଭ୍ ଟାଇଲ୍ ବର୍ତ୍ତମାନ ଶୀର୍ଷ ଫଳାଫଳ ଦେଖାଏ |</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} ଲୋକପ୍ରିୟ ଭିଡିଓ ଫଳାଫଳ | ଲାଇଭ୍ ଟାଇଲ୍ ଅପଡେଟ୍ ହୋଇପାରିଲା ନାହିଁ |</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>ପ୍ରୋଫାଇଲ୍ ତଥ୍ୟକୁ ଗୁଗୁଲ୍ ଏହି ଆକାଉଣ୍ଟ୍ ପ୍ରବେଶ ଅନୁମତି ଦେଇନାହିଁ | ସାଇନ୍ ଆଉଟ୍ କରନ୍ତୁ, ପୁନର୍ବାର ଗୁଗୁଲ୍ ସାଇନ୍-ଇନ୍ ଆରମ୍ଭ କରନ୍ତୁ ଏବଂ ୟୁଟ୍ୟୁବ୍ କେବଳ ପଠନୀୟ ପରିସର ଗ୍ରହଣ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ଲୋଡ୍ ଭିଡିଓଗୁଡିକ ପସନ୍ଦ କରେ |</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>ପସନ୍ଦିତ ଭିଡିଓ ଅନୁରୋଧ ପହଞ୍ଚି ପାରିଲା ନାହିଁ | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>ପସନ୍ଦିତ ଭିଡିଓ ଅନୁରୋଧ ସମୟ ସମାପ୍ତ ହୋଇଛି | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>ପ୍ରୋଫାଇଲ୍ ଲୋଡ୍ ହୋଇଛି |</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>{0} (0x{1}) ସମୟରେ ପ୍ରୋଫାଇଲ୍ ଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ | ବିବରଣୀ ପାଇଁ ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ଖୋଲନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>ପ୍ରାମାଣିକ ପ୍ରୋଫାଇଲ୍ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>ପସନ୍ଦିତ ଭିଡିଓଗୁଡିକ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>ଅଧିକ ପସନ୍ଦିତ ଭିଡିଓ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>ଅଧିକ ପ୍ଲେଲିଷ୍ଟ ଭିଡିଓ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>ଅଧିକ ଅପଲୋଡ୍ ହୋଇଥିବା ଭିଡିଓଗୁଡିକ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>ପ୍ଲେଲିଷ୍ଟ ଭିଡିଓ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} ଗ୍ରାହକ | | {1:N0} ଭିଡିଓ | {2:N0} ଦୃଶ୍ୟ |</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>ପ୍ରାଧିକୃତ ଖାତା ପାଇଁ ଗୁଗୁଲ କ channel ଣସି ଚ୍ୟାନେଲ ଫେରସ୍ତ କଲା ନାହିଁ |</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>କ likes ଣସି ପସନ୍ଦିତ ଭିଡିଓ ଫେରସ୍ତ ହୋଇନାହିଁ |</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>ଏହି ଚ୍ୟାନେଲ ପାଇଁ ୟୁଟ୍ୟୁବ୍ ଏକ ଅପଲୋଡ୍ ପ୍ଲେଲିଷ୍ଟ ପ୍ରଦାନ କରିନାହିଁ |</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} ପ୍ଲେଲିଷ୍ଟଗୁଡ଼ିକ ଲୋଡ୍ ହୋଇଛି | ଏହାର ଭିଡିଓ ଦେଖିବା ପାଇଁ ଗୋଟିଏ ଚୟନ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>ପ୍ଲେଲିଷ୍ଟ ଅନୁରୋଧ ପହଞ୍ଚି ପାରିଲା ନାହିଁ | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>ପ୍ଲେଲିଷ୍ଟ ଅନୁରୋଧ ସମୟ ସମାପ୍ତ ହୋଇଛି | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ପ୍ଲେଲିଷ୍ଟ ଭିଡିଓ ଲୋଡ୍ ହୋଇଛି |</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>ପ୍ଲେଲିଷ୍ଟ ଭିଡିଓ ଅନୁରୋଧ ପହଞ୍ଚି ପାରିଲା ନାହିଁ | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>ପ୍ଲେଲିଷ୍ଟ ଭିଡିଓ ଅନୁରୋଧ ସମୟ ସମାପ୍ତ ହୋଇଛି | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>ପ୍ରାମାଣିକୃତ ୟୁଟ୍ୟୁବ୍ API ପହଞ୍ଚି ପାରିଲା ନାହିଁ | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>ପ୍ରାମାଣିକ ୟୁଟ୍ୟୁବ୍ ଅନୁରୋଧ ସମୟ ସମାପ୍ତ ହୋଇଛି | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>ଆପଣଙ୍କର ପସନ୍ଦିତ ସଂଗ୍ରହକୁ ଅନୁରୋଧ କରିବାକୁ ଲୋଡ୍ ପସନ୍ଦ ଭିଡିଓଗୁଡିକ ଚୟନ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>ଏହାର ଭିଡିଓ ଲୋଡ୍ କରିବାକୁ ଉପରୋକ୍ତ ଏକ ପ୍ଲେଲିଷ୍ଟ ଚୟନ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>ଚ୍ୟାନେଲ୍ |</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>ଭିଡିଓଗୁଡିକ ପସନ୍ଦ କରନ୍ତି |</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>ପ୍ଲେଲିଷ୍ଟଗୁଡିକ |</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>ପ୍ଲେଲିଷ୍ଟ ଭିଡିଓଗୁଡିକ |</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>ଆରମ୍ଭ</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>ସଦସ୍ୟତା</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>ଭିଡିଓ ଅପଲୋଡ୍ ହୋଇଛି |</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} ସଦସ୍ୟତା ଲୋଡ୍ ହୋଇଛି |</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>ସଦସ୍ୟତା ଅନୁରୋଧ ପହଞ୍ଚି ପାରିଲା ନାହିଁ | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>ସଦସ୍ୟତା ଅନୁରୋଧ ସମୟ ସମାପ୍ତ ହୋଇଛି | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} ପ୍ରୋଫାଇଲ୍ ଯୋଡିବା ପୂର୍ବରୁ ଯଦି ଏହି ଆକାଉଣ୍ଟ୍ ସ୍ authorized ୀକୃତପ୍ରାପ୍ତ, କେବଳ ୟୁଟ୍ୟୁବ୍ ପଠନ ପରିସର ପ୍ରଦାନ କରିବାକୁ ପୁନର୍ବାର ସାଇନ୍ ଇନ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} ଭିଡିଓ ଅପଲୋଡ୍ ହୋଇଛି |</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ ହୋଇଥିବା ଭିଡିଓ ଅନୁରୋଧ ପହଞ୍ଚି ପାରିଲା ନାହିଁ | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ ହୋଇଥିବା ଭିଡିଓ ଅନୁରୋଧ ସମୟ ସମାପ୍ତ ହୋଇଛି | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>ସମର୍ଥିତ ଅଞ୍ଚଳଗୁଡିକ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>ସମର୍ଥିତ ଅଞ୍ଚଳଗୁଡିକ ଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>ସମର୍ଥିତ ଅଞ୍ଚଳଗୁଡିକ ଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ କାରଣ ୟୁଟ୍ୟୁବ୍ ଡାଟା API ଅନୁରୋଧ ସମୟ ସମାପ୍ତ ହେଲା |</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>ୟୁଟ୍ୟୁବ୍ କ supported ଣସି ସମର୍ଥିତ ଅଞ୍ଚଳ ଫେରସ୍ତ କରିନାହିଁ | ଯୁକ୍ତରାଷ୍ଟ୍ର ବ୍ୟବହାର କରୁଛି |</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>ଯୁକ୍ତରାଷ୍ଟ୍ର</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>ଏକ API କି ପ୍ରବେଶ କରନ୍ତୁ କିମ୍ବା ଖାଲି API କି ବ୍ୟବହାର କରନ୍ତୁ |</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>ଏକ ସୀମିତ-ଇନପୁଟ୍ ଉପକରଣ OAuth କ୍ଲାଏଣ୍ଟ ID ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>ଏକ ସୀମିତ-ଇନପୁଟ୍ ଉପକରଣ OAuth କ୍ଲାଏଣ୍ଟ ରହସ୍ୟ ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>ଖୋଜୁଛି ...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} ସର୍ବସାଧାରଣ ଭିଡିଓ ଫଳାଫଳ |</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>|
+ଏହି ଆପ୍ ଗୁଗୁଲ୍ କିମ୍ବା ୟୁଟ୍ୟୁବ୍ ସହିତ ଜଡିତ ନୁହେଁ |</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>{0}.{1}.{2}.{3} ନିର୍ମାଣ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>|
+ୟୁଟ୍ୟୁବ୍ର ସର୍ବସାଧାରଣ API ମାଧ୍ୟମରେ ୟୁଟ୍ୟୁବ୍ ବ୍ରାଉଜିଂ ପାଇଁ ୟୁନିଟ୍ୟୁବ୍ ହେଉଛି ଏକ ଆଧୁନିକ UWP ପ୍ରୟୋଗ |</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>ଦ୍ୱାରା ବିକଶିତ:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>|
+ୟୁନିଟ୍ୟୁବ୍ UWP |</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>ସର୍ବସାଧାରଣ ତଥ୍ୟ ପାଇଁ ବିଲ୍ଟ-ଇନ୍ ୟୁନିଟ୍ୟୁବ୍ ବିନ୍ୟାସକରଣ ବ୍ୟବହାର କରିବା | ଏଠାରେ ସଞ୍ଚୟ କରିବା ଏହାକୁ ଅତିକ୍ରମ କରେ |</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>|
+କ API ଣସି API ଚାବି ବିନ୍ୟାସିତ ହୋଇନାହିଁ |</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>ଆପଣଙ୍କର API କି ୱିଣ୍ଡୋଜ୍ କ୍ରେଡେନସିଆଲ୍ ଲକରରେ ଗଚ୍ଛିତ ଅଛି |</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>|
+ଗୁଗୁଲ୍ ପ୍ରାଧିକରଣ ବାତିଲ୍ ହୋଇଛି |</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ପ୍ରାଧିକରଣ ସମାପ୍ତ ହୋଇଛି | ପ୍ରୋଫାଇଲ୍ ପଠନ ଏବଂ ଭିଡିଓ ଅପଲୋଡ୍ ଉପଲବ୍ଧ |</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} କୋଡ୍ {1:D2} ରେ ସମାପ୍ତ ହୁଏ: {2:D2} | ପ୍ରତି {3} ସେକେଣ୍ଡରେ ଗୁଗୁଲ୍ ଯାଞ୍ଚ କରୁଛି |</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ପ୍ରାଧିକରଣ ଟୋକନ୍ ଶେଷ ପଏଣ୍ଟ ସହିତ ଯୋଗାଯୋଗ କରିପାରିବ ନାହିଁ | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ପ୍ରାଧିକରଣ ଅପସାରିତ ହୋଇଛି | ପ୍ରୋଫାଇଲ୍ ଖୋଲିବା କିମ୍ବା ଅପଲୋଡ୍ କରିବା ପୂର୍ବରୁ ଗୁଗୁଲ୍ ସାଇନ୍-ଇନ୍ ଆରମ୍ଭ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>ପ୍ରୋଫାଇଲ୍ ପଠନ ଏବଂ ଭିଡିଓ ଅପଲୋଡ୍ ପାଇଁ ଏକ ଗୁଗୁଲ୍ ଆକାଉଣ୍ଟ୍ ସ୍ authorized ୀକୃତପ୍ରାପ୍ତ | ଯଦି ଏହି ଟୋକନ୍ ପ୍ରୋଫାଇଲ୍ ପୂର୍ବାନୁମାନ କରେ ତେବେ ପୁନର୍ବାର ସାଇନ୍ ଇନ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ପ୍ରାଧିକରଣ ଅପ୍ରତ୍ୟାଶିତ ଭାବରେ ବିଫଳ ହେଲା (0x{0}) | ଆପ୍ ପୁନ rest ଆରମ୍ଭ କରିବା ପରେ ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ଖୋଲନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>ପ୍ରୋଫାଇଲ୍ ଏବଂ ଅପଲୋଡ୍ ପାଇଁ ବିଲ୍ଟ-ଇନ୍ ୟୁନିଟ୍ୟୁବ୍ ବିନ୍ୟାସକରଣ ବ୍ୟବହାର | ପ୍ରଥମେ ଗୁଗୁଲ୍ ସାଇନ୍ ଇନ୍ ଆରମ୍ଭ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>ସୀମିତ-ଇନପୁଟ୍ ଉପକରଣ OAuth ପରିଚୟପତ୍ର ସ saved ୍ଚୟ ହୋଇଛି | ଯଦି ଉଭୟ ମୂଲ୍ୟ ବଦଳିଛି, ଅପଲୋଡ୍ କରିବା ପୂର୍ବରୁ ପୁନର୍ବାର ସାଇନ୍ ଇନ୍ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>ସଞ୍ଚିତ OAuth ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ ବିନ୍ୟାସିତ ହୋଇଛି | ପ୍ରୋଫାଇଲ୍ ଖୋଲିବା କିମ୍ବା ଅପଲୋଡ୍ କରିବା ପୂର୍ବରୁ ଗୁଗୁଲ୍ ସାଇନ୍-ଇନ୍ ଆରମ୍ଭ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>ଏକ ଅସମ୍ପୂର୍ଣ୍ଣ ସଞ୍ଚିତ OAuth ନବଲିଖନକୁ ଅଣଦେଖା କରାଯାଇଥିଲା | ପ୍ରୋଫାଇଲ୍ ଏବଂ ଅପଲୋଡ୍ ପାଇଁ ବିଲ୍ଟ-ଇନ୍ ୟୁନିଟ୍ୟୁବ୍ ବିନ୍ୟାସକରଣ ବ୍ୟବହାର |</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>ପରିଚାଳିତ OAuth ସଂରଚନା ଉପଲବ୍ଧ | ପ୍ରୋଫାଇଲ୍ ଖୋଲିବା କିମ୍ବା ଅପଲୋଡ୍ କରିବା ପୂର୍ବରୁ ଗୁଗୁଲ୍ ସାଇନ୍-ଇନ୍ ଆରମ୍ଭ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>OAuth ପରିଚୟପତ୍ର ସଞ୍ଚୟ କରନ୍ତୁ, ତାପରେ ପ୍ରୋଫାଇଲ୍ ଖୋଲିବା କିମ୍ବା ଅପଲୋଡ୍ କରିବା ପୂର୍ବରୁ ଗୁଗୁଲ୍ ସାଇନ୍-ଇନ୍ ଆରମ୍ଭ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>କୋଡ୍: {0} |</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>ଯାଞ୍ଚ କୋଡ୍ ମିଆଦ ପୂର୍ଣ୍ଣ ହୋଇଛି | ଏକ ନୂତନ କୋଡ୍ ଅନୁରୋଧ ...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>ସେହି ବ୍ରାଉଜରରେ କୋଡ୍ ପ୍ରବେଶ କରନ୍ତୁ | ଏହି ଫୋନ୍ ଗୁଗୁଲ୍ ପ୍ରାଧିକରଣ ପାଇଁ ଅପେକ୍ଷା କରିବ |</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>ତୁମର ପୂର୍ବ କୋଡ୍ ମିଆଦ ପୂର୍ଣ୍ଣ ହୋଇଛି | ସେହି ବ୍ରାଉଜରରେ ନୂତନ କୋଡ୍ ପ୍ରବେଶ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>ଅନ୍ୟ ଏକ ଫୋନ୍, ଟାବଲେଟ୍, କିମ୍ବା ସାମ୍ପ୍ରତିକ ବ୍ରାଉଜର୍ ସହିତ କମ୍ପ୍ୟୁଟର, ପରିଦର୍ଶନ କରନ୍ତୁ: {0} |</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>ଗୁଗୁଲ୍ ଅନୁମୋଦନକୁ ଅପେକ୍ଷା କରିଛି |</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ ବାତିଲ୍ ହୋଇଛି | ଆଂଶିକ ଅପଲୋଡ୍ ହୋଇଥିବା ପୁନ ume କାର୍ଯ୍ୟକ୍ଷମ ଅଧିବେଶନ ଜାରି ରହିଲା ନାହିଁ |</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ ବାତିଲ୍ ...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ ସମାପ୍ତ ହୋଇଛି | ୟୁଟ୍ୟୁବ୍ ଭିଡିଓ ପ୍ରକ୍ରିୟାକରଣ କରୁଛି |</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ ସମାପ୍ତ ହୋଇଛି | ଭିଡିଓ ID: {0} |</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>ଭିଡିଓ ବର୍ଣ୍ଣନା ନିଶ୍ଚିତ ଭାବରେ 5000 ଅକ୍ଷର କିମ୍ବା କମ୍ ହେବା ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>ଡାଟା ଧାରଣ କରିଥିବା ଏକ ଭିଡିଓ ଫାଇଲ୍ ଚୟନ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>ମନୋନୀତ ଫାଇଲ୍ ଏହାର ରିପୋର୍ଟ ହୋଇଥିବା ଲମ୍ବ ପୂର୍ବରୁ ସମାପ୍ତ ହେଲା |</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ କରିବା ପୂର୍ବରୁ ଏକ ଭିଡିଓ ଫାଇଲ୍ ଚୟନ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>ମନୋନୀତ ଭିଡିଓ ଅପଲୋଡ୍ କରିବାକୁ ବହୁତ ବଡ ଅଟେ |</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ ୟୁଟ୍ୟୁବରେ ପହଞ୍ଚି ପାରିଲା ନାହିଁ | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>ୟୁଟ୍ୟୁବ୍ ଏକ ସମ୍ପୂର୍ଣ୍ଣ ଅପଲୋଡ୍ ପ୍ରତିକ୍ରିୟା ଫେରସ୍ତ କରିନାହିଁ |</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>ୟୁଟ୍ୟୁବ୍ ପୁନ um କାର୍ଯ୍ୟକ୍ଷମ ଅପଲୋଡ୍ ଅବସ୍ଥାନ ଫେରସ୍ତ କଲା ନାହିଁ |</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>ବ୍ୟକ୍ତିଗତ, ତାଲିକାଭୁକ୍ତ, କିମ୍ବା ସର୍ବସାଧାରଣ ଗୋପନୀୟତା ଚୟନ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{1:N0} ବାଇଟ୍ ର {0:N0} ଅପଲୋଡ୍ ହୋଇଛି ({2:F0}%) |</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>{0} ଅପଲୋଡ୍ କରିବାକୁ ପ୍ରସ୍ତୁତ |</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>ୟୁଟ୍ୟୁବ୍ ଅପଲୋଡ୍ {0} ({1}) ଫେରସ୍ତ କଲା | {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} ବାଇଟ୍)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>ଭିଡିଓ ଚୟନ ବାତିଲ କରାଯାଇଥିଲା |</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>ପୁନ um କାର୍ଯ୍ୟକ୍ଷମ ଅପଲୋଡ୍ ଆରମ୍ଭ ...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ ସମୟ ସମାପ୍ତ ହୋଇଛି | ନେଟୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>ଅପଲୋଡ୍ କରିବା ପୂର୍ବରୁ ଏକ ଆଖ୍ୟା ପ୍ରବେଶ କରନ୍ତୁ |</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>ଭିଡିଓ ଟାଇଟଲ୍ 100 ଅକ୍ଷର କିମ୍ବା କମ୍ ହେବା ଜରୁରୀ |</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>ଏକ ସ୍ୱୀକୃତିପ୍ରାପ୍ତ ଭିଡିଓ ଫାଇଲ୍ ଚୟନ କରନ୍ତୁ |</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>ଭିଡିଓ ବିବରଣୀ ଲୋଡ୍ କରୁଛି ...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>{0} ପ୍ରକାଶିତ | {1:N0} ଦୃଶ୍ୟ | | ଅବଧି {2} |</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>ଆପ୍ ପ୍ଲେ ୟୁଟ୍ୟୁବ୍ ର ଅଫିସିଆଲ୍ ମୋବାଇଲ୍ ୱାଚ୍ ପେଜ୍ ଖୋଲିବ |</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>ପ୍ଲେକ୍ ଆରମ୍ଭ ହେଲା, କିନ୍ତୁ ଏହାର ମେଟାଡାଟା ଲାଇଭ୍ ଟାଇଲ୍ ପାଇଁ ସଞ୍ଚୟ ହୋଇପାରିଲା ନାହିଁ |</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>ପ୍ଲେକ୍ ଆରମ୍ଭ ହେଲା, କିନ୍ତୁ ୱିଣ୍ଡୋଜ୍ ଲାଇଭ୍ ଟାଇଲ୍ ଅପଡେଟ୍ କରିବାକୁ ଅନୁମତି ଦେଲା ନାହିଁ |</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>ପ୍ଲେକ୍ ଆରମ୍ଭ ହେଲା, କିନ୍ତୁ ଲାଇଭ୍ ଟାଇଲ୍ ଅପଡେଟ୍ ହୋଇପାରିଲା ନାହିଁ |</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>ଅନୁରୋଧ କରାଯାଇଥିବା ଭିଡିଓ ଉପଲବ୍ଧ ନାହିଁ |</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>ଏକ ଭିଡିଓ ID ଆବଶ୍ୟକ |</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>ବିଶେଷ ଧନ୍ୟବାଦ</value>
+  </data>
+</root>

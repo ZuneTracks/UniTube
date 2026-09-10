@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>NAVEGADOR PÚBLICO</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>CONFIGURACIÓN</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>FOGAR</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>BUSCAR</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>CATEGORÍAS</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PERFIL</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>descubrir</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Os últimos vídeos populares, no deseño clásico de teléfono primeiro.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>TENDENCIA AGORA</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Carga vídeos populares para a túa rexión</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>vídeos populares</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Escolla Tendencias agora para cargar resultados públicos.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>buscar</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Busca vídeos públicos de YouTube coa túa clave API proporcionada polo usuario.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Termos de busca</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Busca en YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>BUSCAR</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>POPULAR</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>REXION</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>categorías</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Toca unha categoría para ampliar os seus vídeos populares actuais. Tocao de novo para contraer e escoller outro.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>perfil</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Os datos da conta están dispoñibles a través da túa conexión de YouTube autenticada.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>SOBRE</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Anulación da clave da API de Google</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Deixa en branco para usar a configuración xestionada</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ VOLVER</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>CANCELAR</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>sobre esta canle</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>detalles da canle</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>BORRAR</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>As credenciais persoais almacénanse só no Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Descrición</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Opcional</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>descrición</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Este rexistro rexistra os erros das aplicacións e os fitos de OAuth. Quedan excluídos as credenciais, os códigos de autorización e os tokens.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>diagnósticos</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>As lecturas e cargas de perfil utilizan un cliente OAuth de Google TVs e un dispositivo de entrada limitada. Non se usa ningún URI de redirección. Os valores de construción local xestionados permanecen ocultos; gardar as credenciais aquí anulalas.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>conta de google</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>A reprodución na aplicación utiliza a páxina oficial de visualización para móbiles de YouTube. Esta aplicación non extrae nin descarga URL multimedia.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>vídeos gustaron</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>CARGA VÍDEOS QUE GUSTA</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>CARGA MÁIS VÍDEOS QUE GUSTA</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>CARGA MÁIS LISTAS DE REPRODUCIÓN</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>CARGA MÁIS VÍDEOS DA LISTA DE REPRODUCIÓN</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>CARGA MÁIS SUBSCRICIÓNS</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>CARGA MÁIS VÍDEOS CARGADOS</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Anulación do ID de cliente OAuth do dispositivo de entrada limitada</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Deixa en branco para usar a configuración xestionada</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Anulación do segredo do cliente OAuth do dispositivo de entrada limitada</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Deixa en branco para usar a configuración xestionada</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Garda as credenciais e inicia o inicio de sesión en Google. O código de verificación que aparece a continuación insírese noutro dispositivo; esta aplicación nunca abre un formulario de inicio de sesión. Inicia sesión de novo despois desta actualización para conceder acceso de lectura ao perfil.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>CANLE ABERTA</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>ABRIR NO NAVEGADOR</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>xogador</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>XOGA NA APLICACIÓN</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>listas de reprodución</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>vídeos da lista de reprodución</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Privacidade</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>privado</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Unha clave de API restrinxida só se utiliza para chamadas de só lectura da API de datos de YouTube v3. Os valores de construción local xestionados permanecen ocultos; gardar aquí anulalos.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>acceso a datos públicos</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>público</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>ACTUALIZAR</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>ACTUALIZAR PERFIL</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>O modo seguro usa a configuración estrita de SafeSearch de YouTube para as buscas. Non ofrece o catálogo de YouTube Kids nin filtra fontes populares, categorías e contas.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>modo seguro</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Use SafeSearch estrito para buscas de vídeos públicos</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>GARDAR CLAVE API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>GARDAR REXISTRO</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>GARDAR CREDENCIAIS</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Non se seleccionou ningún vídeo.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>SELECCIONAR VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>axustes</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>INICIA A SESIÓN DE GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>PECHA SESIÓN</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>COMEZA A CARGA</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>subscricións</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Título</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Obrigatorio</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>non cotizada</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>O Historial de visualizacións e Ver máis tarde non se expoñen como coleccións v3 lexibles. UniTube non os emula nin os etiqueta mal.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>non é compatible coa API de datos de YouTube v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>vídeos cargados</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>cargar</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Selecciona un vídeo local e cárgao a través da túa conta de Google autorizada.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>cargar vídeo</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Listo para seleccionar un vídeo.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>As cargas requiren a configuración de OAuth e un inicio de sesión completo en Google desde Configuración.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>SUBIR VÍDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>detalles do vídeo</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>VER DIAGNÓSTICO</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>VER EN YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>Categorías {0:N0} dispoñibles para {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Cargando categorías...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Cargando vídeos {0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} vídeos populares de {1} para {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>É necesario un ID de canle.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Cargando detalles da canle...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} subscritores | Vídeos {1:N0} | Vistas {2:N0}</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>A canle solicitada non está dispoñible.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>PECHA</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>Non se puido acceder á API de datos de YouTube. Comprobe a conexión de rede.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Esgotouse o tempo de espera da solicitude da API de datos de YouTube. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>descoñecido</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>A autorización de Google non proporcionou un token de acceso. Inicia sesión de novo.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>O acceso á conta de Google non está configurado. Inicia sesión antes de abrir o perfil.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Engade unha clave API de Google antes de utilizar as funcións públicas de YouTube Data API v3.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>É necesario un ID de canle.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>A API de datos de YouTube autenticada devolveu unha resposta non válida. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>A API de datos de YouTube devolveu unha resposta non válida. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Requírese un ID de lista de reprodución.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>YouTube Data API v3 devolveu {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Introduza o texto para buscar.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Requírese un ID de vídeo.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Borrouse o rexistro de diagnóstico.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>O rexistro de diagnóstico gardouse en {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Non se rexistraron eventos de diagnóstico.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Cancelouse o gardado do rexistro de diagnóstico.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Non se puido gardar o rexistro de diagnóstico (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Ficheiro de texto</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Última xogada</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Os metadatos do vídeo son necesarios para actualizar o mosaico en directo.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Tendencia agora</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Tendencia agora ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Requírese un título de vídeo de tendencia.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>A autorización do dispositivo de Google caducou.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Non se completou a autorización do dispositivo de Google: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>A autorización de Google debe completarse de novo antes de cargar.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Non se puido iniciar a autorización do dispositivo de Google: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Establece un ID de cliente OAuth de dispositivo de entrada limitada antes de iniciar sesión.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Establece o segredo do cliente OAuth do dispositivo de entrada limitada antes de iniciar sesión.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Google rexeitou o cliente OAuth do dispositivo de entrada limitada (invalid_client). Comprobe o ID do cliente e o segredo do cliente.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Google rexeitou as credenciais de OAuth do dispositivo de entrada limitada (invalid_client). Comprobe o ID do cliente e o segredo do cliente.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>A autorización do dispositivo de Google devolveu unha resposta non válida.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>O punto final do token de Google devolveu unha resposta non válida.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>A autorización do dispositivo de Google non devolveu un código de verificación e un URL utilizables.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>O punto final do token de Google non devolveu un token de acceso.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Non hai ningunha conta de Google autorizada. Iniciar sesión primeiro.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Google solicitou unha votación máis lenta.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>O token de OAuth almacenado ten un formato incorrecto. Inicia sesión de novo.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>O token OAuth almacenado ten un formato incorrecto. Inicia sesión de novo.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Produciuse un erro ao actualizar o token de Google: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Autorización de Google completada, pero Windows Credential Locker non puido gardar o token (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>O reprodutor da aplicación non puido cargar este vídeo. Ábreo no navegador.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Cargando a páxina de visualización oficial de YouTube...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Requírese un ID de vídeo para a reprodución na aplicación.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>Vídeos {0:N0}</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Cargando vídeos populares...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} resultados de vídeos populares.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} resultados de vídeos populares. Windows non permitiu a actualización do mosaico en directo.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} resultados de vídeos populares. O mosaico en directo agora mostra o resultado superior.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} resultados de vídeos populares. Non se puido actualizar o mosaico en directo.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Google non concedeu a esta conta acceso aos datos do perfil. Pecha sesión, inicia sesión de novo en Google e acepta o ámbito de só lectura de YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} gustáronlle os vídeos cargados.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Non se puido acceder á solicitude de vídeos que lle gustan. Comprobe a conexión de rede.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Esgotouse o tempo de espera da solicitude de vídeos que lle gustan. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Perfil cargado.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Non se puido cargar o perfil durante {0} (0x{1}). Abre Diagnóstico para obter máis información.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Cargando perfil autenticado...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Cargando vídeos que lle gustan...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Cargando máis vídeos que lle gustan...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Cargando máis vídeos da lista de reprodución...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Cargando máis vídeos cargados...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Cargando vídeos da lista de reprodución...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} subscritores | Vídeos {1:N0} | Vistas {2:N0}</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Google non devolveu ningunha canle para a conta autorizada.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Non se devolveu ningún vídeo que lle gusta.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>YouTube non proporcionou unha lista de reprodución de cargas para esta canle.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>Cargáronse as listas de reprodución {0:N0}. Selecciona un para ver os seus vídeos.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Non se puido acceder á solicitude de listas de reprodución. Comprobe a conexión de rede.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Esgotouse o tempo de espera da solicitude de listas de reprodución. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>Cargáronse os vídeos da lista de reprodución {0:N0}.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Non se puido acceder á solicitude de vídeos da lista de reprodución. Comprobe a conexión de rede.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Esgotouse o tempo de espera da solicitude de vídeos da lista de reprodución. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Non se puido acceder á API de YouTube autenticada. Comprobe a conexión de rede.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Esgotouse o tempo de espera da solicitude de YouTube autenticada. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Selecciona Cargar vídeos que che gustan para solicitar a túa colección que che gusta.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Selecciona unha lista de reprodución arriba para cargar os seus vídeos.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>canle</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>vídeos gustaron</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>listas de reprodución</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>vídeos da lista de reprodución</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>comezando</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>subscricións</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>vídeos cargados</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>Subscricións {0:N0} cargadas.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Non se puido alcanzar a solicitude de subscricións. Comprobe a conexión de rede.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Esgotouse o tempo de espera da solicitude de subscricións. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Se esta conta foi autorizada antes de engadir o perfil, inicia sesión de novo para concederlle o ámbito de só lectura de YouTube.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} cargou vídeos cargados.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Non se puido acceder á solicitude de vídeos cargados. Comprobe a conexión de rede.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Esgotouse o tempo de espera da solicitude de vídeos cargados. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Cargando rexións compatibles...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Non se puideron cargar as rexións compatibles. Comprobe a conexión de rede.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Non se puideron cargar as rexións compatibles porque esgotou o tempo de espera da solicitude da API de datos de YouTube.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>YouTube non devolveu ningunha rexión compatible. Usando Estados Unidos.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Estados Unidos</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Introduce unha clave API ou utiliza Borrar clave API.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Requírese un ID de cliente OAuth do dispositivo de entrada limitada.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Requírese un segredo de cliente OAuth do dispositivo de entrada limitada.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Buscando...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} resultados de vídeo público.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Esta aplicación non está afiliada a Google nin a YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Construír {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>UniTube é unha aplicación UWP moderna para navegar por YouTube a través da API pública de YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Desenvolvido por:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Usando a configuración integrada de UniTube para datos públicos. Gardar aquí anulalo.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Non hai ningunha clave API configurada.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>A túa clave API está almacenada no Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Autorización de Google cancelada.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Autorización de Google completada. As lecturas de perfil e as cargas de vídeos están dispoñibles.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} O código caduca en {1:D2}:{2:D2}. Comprobando Google cada {3} segundos.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>A autorización de Google non puido contactar co punto final do token. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Eliminouse a autorización de Google. Inicia sesión en Google antes de abrir o perfil ou cargar.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Unha conta de Google está autorizada para lecturas de perfil e cargas de vídeos. Inicia sesión de novo se este token é anterior ao perfil.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>A autorización de Google fallou de forma inesperada (0x{0}). Abre Diagnóstico despois de reiniciar a aplicación.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Usando a configuración integrada de UniTube para o perfil e as cargas. Inicia sesión en Google primeiro.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Gardáronse as credenciais de OAuth do dispositivo de entrada limitada. Se algún dos valores cambiou, inicie sesión de novo antes de cargar.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>As credenciais de OAuth gardadas están configuradas. Inicia sesión en Google antes de abrir o perfil ou cargar.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Ignorouse unha substitución de OAuth gardada incompleta. Usando a configuración integrada de UniTube para o perfil e as cargas.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>A configuración de OAuth xestionada está dispoñible. Inicia sesión en Google antes de abrir o perfil ou cargar.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Garda as credenciais de OAuth e inicia sesión en Google antes de abrir o perfil ou cargalo.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Código: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>O código de verificación caducou. Solicitando un novo código...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Introduce o código nese navegador. Este teléfono esperará a autorización de Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>O teu código anterior caducou. Introduza o novo código nese navegador.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Noutro teléfono, tableta ou ordenador cun navegador actual, visita: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Agardando a aprobación de Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Cancelouse a carga. Non se continuou coa sesión reanudable parcialmente cargada.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Cancelando a carga...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Carga completada. YouTube está procesando o vídeo.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Carga completada. ID do vídeo: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>A descrición do vídeo debe ter 5000 caracteres ou menos.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Seleccione un ficheiro de vídeo que conteña datos.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>O ficheiro seleccionado rematou antes da súa lonxitude indicada.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Seleccione un ficheiro de vídeo antes de cargalo.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>O vídeo seleccionado é demasiado grande para cargalo.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>A carga non puido chegar a YouTube. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>YouTube non devolveu unha resposta de carga completada.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>YouTube non devolveu unha localización de carga reanudable.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Selecciona privacidade privada, non listada ou pública.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} de {1:N0} bytes cargados ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Listo para cargar {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>A carga de YouTube devolveuse {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} bytes)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Cancelouse a selección do vídeo.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Comezando a carga reanudable...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Esgotouse o tempo de carga. Comproba a conexión de rede e téntao de novo.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Introduce un título antes de cargar.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>O título do vídeo debe ter 100 caracteres ou menos.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Seleccione un ficheiro de vídeo recoñecido.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Cargando detalles do vídeo...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Publicado {0} | {1:N0} vistas | duración {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Xogar na aplicación abre a páxina de visualización oficial de YouTube para móbiles.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>A reprodución comezou, pero os seus metadatos non se puideron gardar para o mosaico en directo.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>A reprodución comezou, pero Windows non permitiu que se actualizase o mosaico en directo.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>A reprodución comezou, pero o mosaico en directo non se puido actualizar.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>O vídeo solicitado non está dispoñible.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Requírese un ID de vídeo.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Agradecementos especiais</value>
+  </data>
+</root>

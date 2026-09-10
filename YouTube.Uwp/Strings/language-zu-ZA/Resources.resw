@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>ISICWANGCISI SOMPHAKATHI</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>IZILUNGISELELO</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>EKHAYA</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>SESHA</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>IMIKHAKHA</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>UMLANDO</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>thola</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Amavidiyo akamuva adumile, esakhiweni sokuqala sefoni.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>OKUthrendayo MANJE</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Layisha amavidiyo adumile endaweni yangakini</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>amavidiyo adumile</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Khetha Okuthrendayo Manje ukuze ulayishe imiphumela yomphakathi.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>sesha</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Thola amavidiyo asesidlangalaleni e-YouTube ngokhiye wakho we-API onikezwe umsebenzisi.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Amatemu okusesha</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Sesha i-YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>SESHA</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>OKUDUMILE</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>ISIFUNDA</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>izigaba</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>Thepha isigaba ukuze unwebe amavidiyo akhona manje adumile. Thepha futhi ukuze ugoqe bese ukhetha enye.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>iphrofayili</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Idatha ye-akhawunti itholakala ngoxhumano lwakho lwe-YouTube oluqinisekisiwe.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>MAYELANA</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Ukukhipha ukhiye we-Google API</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Shiya kungenalutho ukuze usebenzise ukumisa okuphethwe</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>I-UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ EMUVA</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>KHANSELA</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>mayelana nalesi siteshi</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>imininingwane yesiteshi</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>SOLULE</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Imininingwane yomuntu siqu igcinwa kuphela ku-Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Incazelo</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Ongakukhetha</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>incazelo</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Le log irekhoda amaphutha ohlelo lokusebenza kanye nezinyathelo ezibalulekile ze-OAuth. Ukuqinisekisa, amakhodi okugunyaza, namathokheni akufakiwe.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>zokuxilonga</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Iphrofayela ifundeka futhi ilayishe sebenzisa i-Google TVs kanye neklayenti le-OAuth ledivayisi yokokufaka okulinganiselwe. Ayikho i-URI yokuqondisa kabusha esetshenziswayo. Amanani okwakha endawo aphethwe ahlala efihliwe; ukulondoloza imininingwane lapha kuyakweqa.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>i-akhawunti ye-google</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Ukudlala ngaphakathi nohlelo kusebenzisa ikhasi elisemthethweni lokubuka leselula le-YouTube. Lolu hlelo lokusebenza alukhiphi noma alulande ama-URL emidiya.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>amavidiyo athandiwe</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>layisha AMAVIDIYO ATHANDIWE</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>layisha AMAVIDIYO AMANINGI ATHANDIWE</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>layisha UHLU LOKUDLALWAYO OLUNINGI</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>layisha AMAVIDIYO AMANINGI OHLU LOKUDLALWAYO</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>Layisha OKUBHALISILE OKWENGEZIWE</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>LAISHA AMAVIDIYO AMANINGI ALAYISHIWE</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Ukukhipha i-ID yeklayenti ye-OAuth yedivayisi yokokufaka okukhawulelwe</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Shiya kungenalutho ukuze usebenzise ukumisa okuphethwe</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Ukukhipha okuyimfihlo kwedivayisi ye-OAuth yeklayenti yokokufaka okukhawulelwe</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Shiya kungenalutho ukuze usebenzise ukumisa okuphethwe</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>Londoloza imininingwane, bese uqala ukungena ngemvume kwe-Google. Ikhodi yokuqinisekisa engezansi ifakwe kwenye idivayisi; lolu hlelo lokusebenza alulokothi luvule ifomu lokungena ngemvume. Ngena ngemvume futhi ngemva kwalesi sibuyekezo ukuze unikeze ukufinyelela kokufunda iphrofayela.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>VULA ISITESHI</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>VULA KUSIKHANGISI</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>umdlali</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>DLALA NGOHLELO LOKUSEBENZA</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>uhlu lwadlalwayo</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>amavidiyo ohlu lwadlalwayo</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Ubumfihlo</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>okuyimfihlo</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Ukhiye we-API okhawulelwe usetshenziswa kuphela kumakholi we-YouTube Data API v3. Amanani okwakha endawo aphethwe ahlala efihliwe; ukulondoloza lapha kuyawadlula.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>ukufinyelela kwedatha yomphakathi</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>umphakathi</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>VUSELELA</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>VUSELELA IPHROFAYELA</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Imodi ephephile isebenzisa izilungiselelo ze-YouTube ze-SafeSearch ekusesheni. Ayinikezi ikhathalogi ye-YouTube Kids noma isihlungi esidumile, isigaba, nokuphakelayo kwe-akhawunti.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>imodi ephephile</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Sebenzisa i-SafeSearch eqinile ekusesheni kwamavidiyo asesidlangalaleni</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>LONDOLOZA UKHIYE WE-API</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>GCINA ILOG</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>GCINA IZINCAZELO</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Ayikho ividiyo ekhethiwe.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>KHETHA IVIDIYO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>izilungiselelo</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>QALA UKUNGENA NGEMVUME KWE-GOOGLE</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>PHUMULA</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>QALA UKULAYISHA</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>okubhaliselwe</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Isihloko</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Kudingeka</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>okungafakwanga ohlwini</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Umlando wokubuka kanye nokubuka kamuva akuvezwa njengamaqoqo e-v3 afundekayo. I-UniTube ayizilingisi noma izilebhile ngokungeyikho.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>ayisekelwe yi-YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>amavidiyo alayishiwe</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>layisha</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Khetha ividiyo yendawo, bese uyilayisha nge-akhawunti yakho yakwa-Google egunyaziwe.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>layisha ividiyo</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Ulungele ukukhetha ividiyo.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Ukulayisha kudinga izilungiselelo ze-OAuth kanye nokungena ngemvume kwe-Google okuqediwe kusuka kokuthi Izilungiselelo.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>LAYISHA IVIDIYO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>imininingwane yevidiyo</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>BUKA IZIHLOKO</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>BUKA KU-YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} izigaba ezitholakalayo ze-{1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Ilayisha izigaba...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Ilayisha amavidiyo angu-{0}...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} amavidiyo adumile {1} we-{2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Kudingeka i-ID yesiteshi.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Ilayisha imininingwane yesiteshi...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} ababhalisile | {1:N0} amavidiyo | {2:N0} ukubukwa</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Isiteshi esiceliwe asitholakali.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>VALA</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>I-YouTube Data API ayikwazanga ukufinyelelwa. Hlola uxhumano lwenethiwekhi.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Isicelo se-YouTube Data API siphelelwe yisikhathi. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>engaziwa</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Ukugunyazwa kwe-Google akuzange kunikeze ithokheni yokufinyelela. Ngena ngemvume futhi.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Ukufinyelela i-akhawunti ye-Google akulungiselelwe. Ngena ngemvume ngaphambi kokuvula Iphrofayela.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Engeza ukhiye we-Google API ngaphambi kokusebenzisa izici zomphakathi ze-YouTube Data API v3.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Kudingeka i-ID yesiteshi.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>I-API yedatha ye-YouTube eqinisekisiwe ibuyise impendulo engavumelekile. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>I-YouTube Data API ibuyise impendulo engavumelekile. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Kudingeka i-ID yohlu lwadlalwayo.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>I-YouTube Data API v3 ibuyisiwe {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Faka umbhalo ozowucinga.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Kudingeka i-ID yevidiyo.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Ilogi yokuxilonga isuliwe.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Ilogi yokuxilonga ilondolozwe ku-{0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Azikho izehlakalo zokuxilonga ezirekhodiwe.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Ukulondoloza ilogi yokuxilonga kukhanseliwe.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Ayikwazanga ukulondoloza ilogu yokuxilonga (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Ifayela lombhalo</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Igcine ukudlalwa</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Imethadatha yevidiyo iyadingeka ukuze kubuyekezwe ithayela elibukhoma.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Okuthrendayo manje</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Okuthrendayo manje ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Kudingeka isihloko sevidiyo ethrendayo.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Ukugunyazwa kwedivayisi ye-Google kuphelelwe yisikhathi.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Ukugunyazwa kwedivayisi ye-Google akuqedwanga: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Ukugunyazwa kwe-Google kudinga ukuqedelwa futhi ngaphambi kokulayisha.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Ukugunyazwa kwedivayisi ye-Google akukwazanga ukuqala: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Setha i-ID yeklayenti ye-OAuth yedivayisi yokokufaka okukhawulelwe ngaphambi kokungena ngemvume.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Setha imfihlo yeklayenti ye-OAuth yedivayisi yokokufaka okukhawulelwe ngaphambi kokungena ngemvume.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>I-Google inqabe iklayenti le-OAuth yedivayisi yokokufaka okukhawulelwe (invalid_client). Hlola i-ID yeklayenti kanye nemfihlo yeklayenti.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>I-Google inqabe izifakazelo ze-OAuth zedivayisi yokokufaka okukhawulelwe (invalid_client). Hlola i-ID yeklayenti kanye nemfihlo yeklayenti.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Ukugunyazwa kwedivayisi ye-Google kubuyise impendulo engavumelekile.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Iphoyinti lokuphela lethokheni le-Google libuyisele impendulo engavumelekile.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Ukugunyazwa kwedivayisi ye-Google akuzange kubuyise ikhodi yokuqinisekisa esebenzisekayo ne-URL.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Iphoyinti lokugcina lethokheni ye-Google ayizange ibuyise ithokheni yokufinyelela.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Ayikho i-akhawunti ye-Google egunyaziwe. Qala ukungena ngemvume kuqala.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>I-Google icele ukuvota okuhamba kancane.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Ukuphelelwa yisikhathi kwethokheni ye-OAuth egciniwe akwakhiwanga kahle. Ngena ngemvume futhi.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Ithokheni ye-OAuth egciniwe ayilungile. Ngena ngemvume futhi.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Ukuvuselela ithokheni ye-Google kwehlulekile: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Ukugunyazwa kwe-Google kuqediwe, kodwa i-Windows Credential Locker ayikwazanga ukulondoloza ithokheni (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Isidlali sangaphakathi nohlelo asikwazanga ukulayisha le vidiyo. Yivule esipheqululini kunalokho.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Ilayisha ikhasi lokubuka le-YouTube elisemthethweni...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Kudingeka i-ID yevidiyo ukuze udlale ngaphakathi nohlelo.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} amavidiyo</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Ilayisha amavidiyo adumile...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} imiphumela yevidiyo edumile.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} imiphumela yevidiyo edumile. IWindows ayizange ivumele ithayela elibukhoma ukuthi libuyekeze.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} imiphumela yevidiyo edumile. Ithayela elibukhoma manje libonisa umphumela ophezulu.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} imiphumela yevidiyo edumile. Ithayela elibukhoma alikwazanga ukubuyekezwa.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>I-Google ayizange inikeze le akhawunti ukufinyelela kudatha yephrofayela. Phuma, qala ukungena ngemvume kwe-Google futhi, futhi wamukele ububanzi bokufunda kuphela be-YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} amavidiyo athandiwe alayishiwe.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Isicelo samavidiyo athandiwe asifinyelelwanga. Hlola uxhumano lwenethiwekhi.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Isicelo samavidiyo athandiwe siphelelwe yisikhathi. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Iphrofayela ilayishiwe.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Iphrofayela ayikwazanga ukulayisha phakathi ne-{0} (0x{1}). Vula i-Diagnostics ukuze uthole imininingwane.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Ilayisha iphrofayela eqinisekisiwe...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Ilayisha amavidiyo athandiwe...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Ilayisha amavidiyo athandwe ngaphezulu...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Ilayisha amavidiyo amaningi ohlu lwadlalwayo...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Ilayisha amavidiyo alayishiwe engeziwe...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Ilayisha amavidiyo ohlu lwadlalwayo...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} ababhalisile | {1:N0} amavidiyo | {2:N0} ukubukwa</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>I-Google ayizange ibuyise isiteshi se-akhawunti egunyaziwe.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Awekho amavidiyo athandiwe abuyisiwe.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>I-YouTube ayizange inikeze uhlu lwadlalwayo olulayishiwe kulesi siteshi.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>{0:N0} izinhlu zokudlalayo zilayishiwe. Khetha eyodwa ukuze ubuke amavidiyo ayo.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Isicelo sohlu lwadlalwayo asifinyelelwanga. Hlola uxhumano lwenethiwekhi.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Isicelo sohlu lwadlalwayo siphelelwe yisikhathi. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} amavidiyo ohlu lwadlalwayo alayishiwe.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Isicelo samavidiyo ohlu lwadlalwayo asifinyelelwanga. Hlola uxhumano lwenethiwekhi.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Isicelo samavidiyo ohlu lwadlalwayo siphelelwe yisikhathi. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>I-YouTube API eqinisekisiwe ayikwazanga ukufinyelelwa. Hlola uxhumano lwenethiwekhi.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Isicelo se-YouTube esiqinisekisiwe siphelelwe yisikhathi. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Khetha Layisha amavidiyo athandiwe ukuze ucele iqoqo lakho olithandile.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Khetha uhlu lwadlalwayo ngenhla ukuze ulayishe amavidiyo alo.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>isiteshi</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>amavidiyo athandiwe</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>uhlu lwadlalwayo</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>amavidiyo ohlu lwadlalwayo</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>ukuqala</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>okubhaliselwe</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>amavidiyo alayishiwe</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>{0:N0} okubhaliselwe kulayishiwe.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Isicelo sokubhaliselwe asifinyelelwanga. Hlola uxhumano lwenethiwekhi.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Isicelo sokubhaliselwe siphelelwe yisikhathi. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Uma le akhawunti igunyaziwe ngaphambi kokuthi iphrofayela yengezwe, ngena ngemvume futhi ukuze unikeze i-YouTube ububanzi bokufunda kuphela.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} amavidiyo alayishiwe alayishiwe.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Isicelo samavidiyo alayishiwe asifinyelelwanga. Hlola uxhumano lwenethiwekhi.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Isicelo samavidiyo alayishiwe siphelelwe yisikhathi. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Ilayisha izifunda ezisekelwayo...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Izifunda ezisekelwayo azikwazanga ukulayisha. Hlola uxhumano lwenethiwekhi.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Izifunda ezisekelwayo azikwazanga ukulayisha ngoba isicelo se-YouTube Data API siphelelwe yisikhathi.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>I-YouTube ayibuyiselanga noma yiziphi izifunda ezisekelwayo. Ukusebenzisa i-United States.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>I-United States</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Faka ukhiye we-API noma sebenzisa ukhiye we-Clear API.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Kudingeka i-ID yeklayenti ye-OAuth yedivayisi yokokufaka okukhawulelwe.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Kudingeka imfihlo yeklayenti ye-OAuth yedivayisi yokokufaka okukhawulelwe.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Iyasesha...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} imiphumela yevidiyo yomphakathi.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Lolu hlelo lokusebenza aluhlobene ne-Google noma i-YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Yakha i-{0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>I-UniTube uhlelo lokusebenza lwesimanje lwe-UWP lokuphequlula i-YouTube nge-API yomphakathi ye-YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Kuthuthukiswe ngu:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>I-UWP ye-UniTube</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Isebenzisa ukulungiselelwa kwe-UniTube eyakhelwe ngaphakathi kudatha yomphakathi. Ukulondoloza lapha kuyakweqa.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Awukho ukhiye we-API omisiwe.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Ukhiye wakho we-API ugcinwe ku-Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Ukugunyazwa kwe-Google kukhanseliwe.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Ukugunyazwa kwe-Google kuqediwe. Ukufundwa kwephrofayili nokulayishwa kwevidiyo kuyatholakala.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>{0} Ikhodi iphelelwa yisikhathi ngo-{1:D2}:{2:D2}. Ihlola i-Google njalo ngemizuzwana engu-{3}.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Ukugunyazwa kwe-Google akukwazanga ukuxhumana nephoyinti lokugcina lethokheni. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Ukugunyazwa kwe-Google kususiwe. Qala ukungena ngemvume kwe-Google ngaphambi kokuvula Iphrofayela noma ukulayisha.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>I-akhawunti ye-Google igunyazelwe ukufundwa kwephrofayela nokulayishwa kwevidiyo. Ngena ngemvume futhi uma le tokheni ingaphambi kwePhrofayela.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Ukugunyazwa kwe-Google kwehlulekile kungalindelekile (0x{0}). Vula i-Diagnostics ngemva kokuqalisa kabusha uhlelo lokusebenza.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Isebenzisa ukulungiselelwa kwe-UniTube eyakhelwe ngaphakathi Yephrofayili nokulayishwayo. Qala ukungena ngemvume kwe-Google kuqala.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Kulondoloziwe imininingwane ye-OAuth yedivayisi yokokufaka okukhawulelwe. Uma noma yiliphi inani lishintshile, ngena ngemvume futhi ngaphambi kokulayisha.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Ukuqinisekisa kwe-OAuth okulondoloziwe kuyalungiswa. Qala ukungena ngemvume kwe-Google ngaphambi kokuvula Iphrofayela noma ukulayisha.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Ukukhipha okungaphelele kwe-OAuth okulondoloziwe kuzitshiwe. Isebenzisa ukulungiselelwa kwe-UniTube eyakhelwe ngaphakathi Yephrofayili nokulayishwayo.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Ukulungiselelwa kwe-OAuth ephethwe kuyatholakala. Qala ukungena ngemvume kwe-Google ngaphambi kokuvula Iphrofayela noma ukulayisha.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>Londoloza imininingwane ye-OAuth, bese uqala ukungena ngemvume kwe-Google ngaphambi kokuvula Iphrofayela noma ukulayisha.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Ikhodi: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Ikhodi yokuqinisekisa iphelelwe yisikhathi. Icela ikhodi entsha...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Faka ikhodi kuleso siphequluli. Le foni izolinda ukugunyazwa kwe-Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Ikhodi yakho yangaphambilini iphelelwe yisikhathi. Faka ikhodi entsha kuleso siphequluli.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Kwenye ifoni, ithebhulethi, noma ikhompuyutha enesiphequluli samanje, vakashela: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Ilinde ukugunyazwa kwe-Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Ukulayisha kukhanseliwe. Iseshini eqhutshekisekayo elayishwe kancane ayizange iqhutshwe.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Ikhansela ukulayisha...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Ukulayisha kuqediwe. I-YouTube icubungula ividiyo.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Ukulayisha kuqediwe. Ubunikazi bevidiyo: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Incazelo yevidiyo kufanele ibe nezinhlamvu ezingu-5000 noma ngaphansi.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Khetha ifayela levidiyo eliqukethe idatha.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Ifayela elikhethiwe liphele ngaphambi kobude balo obubikiwe.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Khetha ifayela levidiyo ngaphambi kokulayisha.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Ividiyo ekhethiwe inkulu kakhulu ukuthi ingalayishwa.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Okulayishiwe akukwazanga ukufinyelela ku-YouTube. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>I-YouTube ayizange ibuyise impendulo yokulayisha eqediwe.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>I-YouTube ayibuyiselanga indawo yokulayisha eqhubekela phambili.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Khetha okuyimfihlo, okungafakwanga ohlwini, noma okuyimfihlo yomphakathi.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} kwamabhayithi angu-{1:N0} alayishiwe ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Ilungele ukulayisha {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>Okulayishiwe ku-YouTube kubuyisiwe {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} amabhayithi)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Ukukhethwa kwevidiyo kukhanseliwe.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Iqala ukulayisha okuqhubekela phambili...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Ukulayisha kuphelelwe yisikhathi. Hlola ukuxhumeka kwenethiwekhi bese uyazama futhi.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Faka isihloko ngaphambi kokulayisha.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Isihloko sevidiyo kufanele sibe nezinhlamvu eziyi-100 noma ngaphansi.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Khetha ifayela levidiyo elaziwayo.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Ilayisha imininingwane yevidiyo...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Kushicilelwe {0} | {1:N0} ukubukwa | ubude besikhathi {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Ukudlala ohlelweni lokusebenza kuvula ikhasi elisemthethweni lokubuka leselula le-YouTube.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Ukudlala kuqalile, kodwa imethadatha yakhona ayikwazanga ukulondolozwa kuthayela elibukhoma.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Ukudlala kuqalile, kodwa iWindows ayizange ivumele ithayela elibukhoma ukuthi libuyekeze.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Ukudlala kuqalile, kodwa ithayela elibukhoma alikwazanga ukubuyekezwa.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Ividiyo eceliwe ayitholakali.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Kudingeka i-ID yevidiyo.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Ukubonga okukhethekile</value>
+  </data>
+</root>

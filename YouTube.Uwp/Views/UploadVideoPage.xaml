@@ -14,33 +14,33 @@
                     <ColumnDefinition Width="Auto" />
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-                <Button Content="‹ BACK" Style="{StaticResource PhoneOutlineButtonStyle}" Click="BackButton_Click" VerticalAlignment="Center" />
-                <TextBlock Grid.Column="1" Text="upload" Style="{StaticResource PhoneSectionTitleStyle}" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                <Button x:Uid="BackButton" Content="‹ BACK" Style="{StaticResource PhoneOutlineButtonStyle}" Click="BackButton_Click" VerticalAlignment="Center" />
+                <TextBlock x:Uid="UploadHeaderTitle" Grid.Column="1" Text="upload" Style="{StaticResource PhoneSectionTitleStyle}" VerticalAlignment="Center" HorizontalAlignment="Right" />
             </Grid>
         </Border>
         <Border Grid.Row="1" Background="{StaticResource PhoneAccentBrush}" />
         <ScrollViewer Grid.Row="2">
             <StackPanel Margin="16,18,16,28">
-                <TextBlock Text="upload video" Style="{StaticResource PhonePageTitleStyle}" />
-                <TextBlock Text="Select a local video, then upload it through your authorized Google account." Style="{StaticResource PhoneMetadataStyle}" Margin="0,2,0,16" TextWrapping="Wrap" />
+                <TextBlock x:Uid="UploadPageTitle" Text="upload video" Style="{StaticResource PhonePageTitleStyle}" />
+                <TextBlock x:Uid="UploadPageDescription" Text="Select a local video, then upload it through your authorized Google account." Style="{StaticResource PhoneMetadataStyle}" Margin="0,2,0,16" TextWrapping="Wrap" />
 
                 <Border Background="{StaticResource PhoneSurfaceBrush}" Padding="14">
                     <StackPanel>
-                        <Button Content="SELECT VIDEO" Style="{StaticResource PhoneActionButtonStyle}" Click="SelectVideoButton_Click" HorizontalAlignment="Left" />
-                        <TextBlock x:Name="SelectedFileText" Text="No video selected." Style="{StaticResource PhoneMetadataStyle}" Margin="0,8,0,12" TextWrapping="Wrap" />
-                        <TextBox x:Name="TitleBox" Style="{StaticResource PhoneTextBoxStyle}" Header="Title" PlaceholderText="Required" MaxLength="100" />
-                        <TextBox x:Name="DescriptionBox" Style="{StaticResource PhoneTextBoxStyle}" Header="Description" PlaceholderText="Optional" AcceptsReturn="True" TextWrapping="Wrap" Height="120" MaxLength="5000" />
-                        <ComboBox x:Name="PrivacyBox" Header="Privacy" SelectedIndex="0" Margin="0,0,0,8">
-                            <ComboBoxItem Content="private" />
-                            <ComboBoxItem Content="unlisted" />
-                            <ComboBoxItem Content="public" />
+                        <Button x:Uid="SelectVideoButton" Content="SELECT VIDEO" Style="{StaticResource PhoneActionButtonStyle}" Click="SelectVideoButton_Click" HorizontalAlignment="Left" />
+                        <TextBlock x:Uid="SelectedFileText" x:Name="SelectedFileText" Text="No video selected." Style="{StaticResource PhoneMetadataStyle}" Margin="0,8,0,12" TextWrapping="Wrap" />
+                        <TextBox x:Uid="TitleBox" x:Name="TitleBox" Style="{StaticResource PhoneTextBoxStyle}" Header="Title" PlaceholderText="Required" MaxLength="100" />
+                        <TextBox x:Uid="DescriptionBox" x:Name="DescriptionBox" Style="{StaticResource PhoneTextBoxStyle}" Header="Description" PlaceholderText="Optional" AcceptsReturn="True" TextWrapping="Wrap" Height="120" MaxLength="5000" />
+                        <ComboBox x:Uid="PrivacyBox" x:Name="PrivacyBox" Header="Privacy" SelectedIndex="0" Margin="0,0,0,8">
+                            <ComboBoxItem x:Uid="PrivatePrivacyOption" Tag="private" Content="private" />
+                            <ComboBoxItem x:Uid="UnlistedPrivacyOption" Tag="unlisted" Content="unlisted" />
+                            <ComboBoxItem x:Uid="PublicPrivacyOption" Tag="public" Content="public" />
                         </ComboBox>
-                        <TextBlock Text="Uploads require OAuth settings and a completed Google sign-in from Settings." Style="{StaticResource PhoneMetadataStyle}" Margin="0,0,0,8" TextWrapping="Wrap" />
+                        <TextBlock x:Uid="UploadRequirements" Text="Uploads require OAuth settings and a completed Google sign-in from Settings." Style="{StaticResource PhoneMetadataStyle}" Margin="0,0,0,8" TextWrapping="Wrap" />
                         <ProgressBar x:Name="UploadProgressBar" Minimum="0" Maximum="100" Value="0" Height="8" Margin="0,4,0,0" />
-                        <TextBlock x:Name="ProgressText" Text="Ready to select a video." Style="{StaticResource PhoneMetadataStyle}" Margin="0,6,0,8" TextWrapping="Wrap" />
+                        <TextBlock x:Uid="UploadReadyStatus" x:Name="ProgressText" Text="Ready to select a video." Style="{StaticResource PhoneMetadataStyle}" Margin="0,6,0,8" TextWrapping="Wrap" />
                         <StackPanel Orientation="Horizontal">
-                            <Button x:Name="UploadButton" Content="START UPLOAD" Style="{StaticResource PhoneActionButtonStyle}" Click="UploadButton_Click" />
-                            <Button x:Name="CancelButton" Content="CANCEL" Style="{StaticResource PhoneOutlineButtonStyle}" Click="CancelButton_Click" IsEnabled="False" />
+                            <Button x:Uid="StartUploadButton" x:Name="UploadButton" Content="START UPLOAD" Style="{StaticResource PhoneActionButtonStyle}" Click="UploadButton_Click" />
+                            <Button x:Uid="CancelButton" x:Name="CancelButton" Content="CANCEL" Style="{StaticResource PhoneOutlineButtonStyle}" Click="CancelButton_Click" IsEnabled="False" />
                         </StackPanel>
                     </StackPanel>
                 </Border>

@@ -20,13 +20,18 @@
     <AppContainerApplication>true</AppContainerApplication>
     <AppxPackage>true</AppxPackage>
     <AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
-    <AppxBundle>Never</AppxBundle>
-    <AppxBundlePlatforms>ARM</AppxBundlePlatforms>
+    <AppxBundle>Auto</AppxBundle>
+    <AppxBundlePlatforms>x86|x64|arm</AppxBundlePlatforms>
     <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
     <PlatformTarget>ARM</PlatformTarget>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WindowsXamlEnableOverview>true</WindowsXamlEnableOverview>
+    <GenerateTemporaryStoreCertificate>True</GenerateTemporaryStoreCertificate>
+    <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
+    <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
+    <GenerateTestArtifacts>True</GenerateTestArtifacts>
+    <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <OutputPath>bin\Debug\</OutputPath>
@@ -99,12 +104,54 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Store|x64'">
     <OutputPath>bin\x64\Store\</OutputPath>
+    <IntermediateOutputPath>obj\x64\Store\</IntermediateOutputPath>
     <DefineConstants>TRACE;NETFX_CORE;CODE_ANALYSIS</DefineConstants>
     <Optimize>true</Optimize>
     <NoStdLib>true</NoStdLib>
     <DebugType>pdbonly</DebugType>
     <PlatformTarget>x64</PlatformTarget>
     <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+    <AppxBundle>Always</AppxBundle>
+    <AppxBundlePlatforms>x64</AppxBundlePlatforms>
+    <UapAppxPackageBuildMode>StoreUpload</UapAppxPackageBuildMode>
+    <AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
+    <StorePackage>true</StorePackage>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;CODE_ANALYSIS;CODE_ANALYSIS</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <LangVersion>7.3</LangVersion>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;CODE_ANALYSIS;CODE_ANALYSIS</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoStdLib>true</NoStdLib>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <LangVersion>7.3</LangVersion>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Store|x86'">
+    <OutputPath>bin\x86\Store\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;CODE_ANALYSIS;CODE_ANALYSIS</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoStdLib>true</NoStdLib>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <LangVersion>7.3</LangVersion>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
@@ -136,6 +183,7 @@
     <Compile Include="Services\OAuthPkceService.cs" />
     <Compile Include="Services\DiagnosticLog.cs" />
     <Compile Include="Services\LiveTileStateStore.cs" />
+    <Compile Include="Services\Localizer.cs" />
     <Compile Include="Services\LocalBuildConfiguration.cs" Condition="Exists('$(MSBuildProjectDirectory)\Services\LocalBuildConfiguration.cs')" />
     <Compile Include="Services\RuntimeConfiguration.cs" />
     <Compile Include="Services\SecureCredentialStore.cs" />
@@ -153,6 +201,88 @@
     <ApplicationDefinition Include="App.xaml">
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <PRIResource Include="Strings\language-af-ZA\Resources.resw" />
+    <PRIResource Include="Strings\language-am-ET\Resources.resw" />
+    <PRIResource Include="Strings\language-ar-SA\Resources.resw" />
+    <PRIResource Include="Strings\language-as-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-az-Latn-AZ\Resources.resw" />
+    <PRIResource Include="Strings\language-be-BY\Resources.resw" />
+    <PRIResource Include="Strings\language-bg-BG\Resources.resw" />
+    <PRIResource Include="Strings\language-bn-BD\Resources.resw" />
+    <PRIResource Include="Strings\language-bs-Latn-BA\Resources.resw" />
+    <PRIResource Include="Strings\language-ca-ES\Resources.resw" />
+    <PRIResource Include="Strings\language-cs-CZ\Resources.resw" />
+    <PRIResource Include="Strings\language-da-DK\Resources.resw" />
+    <PRIResource Include="Strings\language-de-DE\Resources.resw" />
+    <PRIResource Include="Strings\language-el-GR\Resources.resw" />
+    <PRIResource Include="Strings\language-en-GB\Resources.resw" />
+    <PRIResource Include="Strings\language-en-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-en-US\Resources.resw" />
+    <PRIResource Include="Strings\language-es-419\Resources.resw" />
+    <PRIResource Include="Strings\language-es-ES\Resources.resw" />
+    <PRIResource Include="Strings\language-es-US\Resources.resw" />
+    <PRIResource Include="Strings\language-et-EE\Resources.resw" />
+    <PRIResource Include="Strings\language-eu-ES\Resources.resw" />
+    <PRIResource Include="Strings\language-fa-IR\Resources.resw" />
+    <PRIResource Include="Strings\language-fi-FI\Resources.resw" />
+    <PRIResource Include="Strings\language-fil-PH\Resources.resw" />
+    <PRIResource Include="Strings\language-fr-CA\Resources.resw" />
+    <PRIResource Include="Strings\language-fr-FR\Resources.resw" />
+    <PRIResource Include="Strings\language-gl-ES\Resources.resw" />
+    <PRIResource Include="Strings\language-gu-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-he-IL\Resources.resw" />
+    <PRIResource Include="Strings\language-hi-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-hr-HR\Resources.resw" />
+    <PRIResource Include="Strings\language-hu-HU\Resources.resw" />
+    <PRIResource Include="Strings\language-hy-AM\Resources.resw" />
+    <PRIResource Include="Strings\language-id-ID\Resources.resw" />
+    <PRIResource Include="Strings\language-is-IS\Resources.resw" />
+    <PRIResource Include="Strings\language-it-IT\Resources.resw" />
+    <PRIResource Include="Strings\language-ja-JP\Resources.resw" />
+    <PRIResource Include="Strings\language-ka-GE\Resources.resw" />
+    <PRIResource Include="Strings\language-kk-KZ\Resources.resw" />
+    <PRIResource Include="Strings\language-km-KH\Resources.resw" />
+    <PRIResource Include="Strings\language-kn-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-ko-KR\Resources.resw" />
+    <PRIResource Include="Strings\language-ky-KG\Resources.resw" />
+    <PRIResource Include="Strings\language-lo-LA\Resources.resw" />
+    <PRIResource Include="Strings\language-lt-LT\Resources.resw" />
+    <PRIResource Include="Strings\language-lv-LV\Resources.resw" />
+    <PRIResource Include="Strings\language-mk-MK\Resources.resw" />
+    <PRIResource Include="Strings\language-ml-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-mn-MN\Resources.resw" />
+    <PRIResource Include="Strings\language-mr-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-ms-MY\Resources.resw" />
+    <PRIResource Include="Strings\language-nb-NO\Resources.resw" />
+    <PRIResource Include="Strings\language-ne-NP\Resources.resw" />
+    <PRIResource Include="Strings\language-nl-NL\Resources.resw" />
+    <PRIResource Include="Strings\language-or-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-pa-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-pl-PL\Resources.resw" />
+    <PRIResource Include="Strings\language-pt-BR\Resources.resw" />
+    <PRIResource Include="Strings\language-pt-PT\Resources.resw" />
+    <PRIResource Include="Strings\language-ro-RO\Resources.resw" />
+    <PRIResource Include="Strings\language-ru-RU\Resources.resw" />
+    <PRIResource Include="Strings\language-si-LK\Resources.resw" />
+    <PRIResource Include="Strings\language-sk-SK\Resources.resw" />
+    <PRIResource Include="Strings\language-sl-SI\Resources.resw" />
+    <PRIResource Include="Strings\language-sq-AL\Resources.resw" />
+    <PRIResource Include="Strings\language-sr-Cyrl-RS\Resources.resw" />
+    <PRIResource Include="Strings\language-sr-Latn-RS\Resources.resw" />
+    <PRIResource Include="Strings\language-sv-SE\Resources.resw" />
+    <PRIResource Include="Strings\language-sw-KE\Resources.resw" />
+    <PRIResource Include="Strings\language-ta-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-te-IN\Resources.resw" />
+    <PRIResource Include="Strings\language-th-TH\Resources.resw" />
+    <PRIResource Include="Strings\language-tr-TR\Resources.resw" />
+    <PRIResource Include="Strings\language-uk-UA\Resources.resw" />
+    <PRIResource Include="Strings\language-ur-PK\Resources.resw" />
+    <PRIResource Include="Strings\language-uz-Latn-UZ\Resources.resw" />
+    <PRIResource Include="Strings\language-vi-VN\Resources.resw" />
+    <PRIResource Include="Strings\language-zh-Hans-CN\Resources.resw" />
+    <PRIResource Include="Strings\language-zh-Hant-HK\Resources.resw" />
+    <PRIResource Include="Strings\language-zh-Hant-TW\Resources.resw" />
+    <PRIResource Include="Strings\language-zu-ZA\Resources.resw" />
     <Page Include="MainPage.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -230,11 +360,15 @@
     <Content Include="Assets\Wide310x150Logo.scale-150.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <None Include="Package.StoreAssociation.xml" />
     <None Include="Services\LocalBuildConfiguration.cs.template" />
     <None Include="LocalPackageSigning.props.template" />
   </ItemGroup>
   <Target Name="ValidateStoreIdentity" BeforeTargets="PrepareForBuild" Condition="'$(StorePackage)' == 'true'">
     <Error Condition="!Exists('$(MSBuildProjectDirectory)\Package.StoreAssociation.xml')" Text="Store packaging requires Package.StoreAssociation.xml. Use Publish &gt; Associate App with the Store after reserving the app name in Partner Center; do not replace it with invented identity values." />
+  </Target>
+  <Target Name="ValidateUwpResourceConfiguration" BeforeTargets="PrepareForBuild" Condition="'$(DesignTimeBuild)' != 'true'">
+    <Exec Command="powershell.exe -NoProfile -ExecutionPolicy Bypass -File &quot;$(MSBuildProjectDirectory)\..\tools\ValidateUwpResources.ps1&quot; -ProjectPath &quot;$(MSBuildProjectFullPath)&quot;" />
   </Target>
   <Target Name="EnableLocalBuildConfiguration" BeforeTargets="CoreCompile" Condition="Exists('$(MSBuildProjectDirectory)\Services\LocalBuildConfiguration.cs')">
     <PropertyGroup>

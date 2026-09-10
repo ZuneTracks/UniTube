@@ -1,4 +1,5 @@
 using System;
+using YouTube.Uwp.Services;
 
 namespace YouTube.Uwp.Models
 {
@@ -18,7 +19,7 @@ namespace YouTube.Uwp.Models
 
         public string VideoCountLabel
         {
-            get { return VideoCount.ToString("N0") + " videos"; }
+            get { return Localizer.Format("Playlist.VideoCount", VideoCount); }
         }
     }
 }

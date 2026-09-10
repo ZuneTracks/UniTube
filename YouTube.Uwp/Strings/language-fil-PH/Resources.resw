@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppSubtitle.Text" xml:space="preserve">
+    <value>PUBLIC BROWSER</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>MGA SETTING</value>
+  </data>
+  <data name="HomePivotHeader.Label" xml:space="preserve">
+    <value>BAHAY</value>
+  </data>
+  <data name="SearchPivotHeader.Label" xml:space="preserve">
+    <value>PAGHAHANAP</value>
+  </data>
+  <data name="CategoriesPivotHeader.Label" xml:space="preserve">
+    <value>MGA KATEGORYA</value>
+  </data>
+  <data name="ProfilePivotHeader.Label" xml:space="preserve">
+    <value>PROFILE</value>
+  </data>
+  <data name="DiscoverTitle.Text" xml:space="preserve">
+    <value>tuklasin</value>
+  </data>
+  <data name="DiscoverDescription.Text" xml:space="preserve">
+    <value>Ang pinakabagong mga sikat na video, sa klasikong layout na una sa telepono.</value>
+  </data>
+  <data name="TrendingNowLabel.Text" xml:space="preserve">
+    <value>TRENDING NGAYON</value>
+  </data>
+  <data name="TrendingNowDescription.Text" xml:space="preserve">
+    <value>Mag-load ng mga sikat na video para sa iyong rehiyon</value>
+  </data>
+  <data name="PopularVideosTitle.Text" xml:space="preserve">
+    <value>mga sikat na video</value>
+  </data>
+  <data name="HomeStatusText.Text" xml:space="preserve">
+    <value>Piliin ang Trending Now para i-load ang mga pampublikong resulta.</value>
+  </data>
+  <data name="SearchTitle.Text" xml:space="preserve">
+    <value>paghahanap</value>
+  </data>
+  <data name="SearchDescription.Text" xml:space="preserve">
+    <value>Maghanap ng mga pampublikong video sa YouTube gamit ang iyong API key na ibinigay ng user.</value>
+  </data>
+  <data name="SearchBox.Header" xml:space="preserve">
+    <value>Mga termino para sa paghahanap</value>
+  </data>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Maghanap sa YouTube</value>
+  </data>
+  <data name="SearchButton.Content" xml:space="preserve">
+    <value>PAGHAHANAP</value>
+  </data>
+  <data name="PopularButton.Content" xml:space="preserve">
+    <value>SIKAT</value>
+  </data>
+  <data name="RegionLabel.Text" xml:space="preserve">
+    <value>REHIYON</value>
+  </data>
+  <data name="CategoriesTitle.Text" xml:space="preserve">
+    <value>mga kategorya</value>
+  </data>
+  <data name="CategoriesDescription.Text" xml:space="preserve">
+    <value>I-tap ang isang kategorya para palawakin ang mga kasalukuyang sikat na video nito. I-tap itong muli upang i-collapse at pumili ng isa pa.</value>
+  </data>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>profile</value>
+  </data>
+  <data name="ProfileDescription.Text" xml:space="preserve">
+    <value>Available ang data ng account sa pamamagitan ng iyong napatotohanan na koneksyon sa YouTube.</value>
+  </data>
+  <data name="AboutButton.Content" xml:space="preserve">
+    <value>TUNGKOL SA</value>
+  </data>
+  <data name="ApiKeyBox.Header" xml:space="preserve">
+    <value>Override ng Google API key</value>
+  </data>
+  <data name="ApiKeyBox.PlaceholderText" xml:space="preserve">
+    <value>Iwanang blangko upang magamit ang pinamamahalaang configuration</value>
+  </data>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>UNITUBE</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>‹ BUMALIK</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>KANSELAHIN</value>
+  </data>
+  <data name="ChannelAboutTitle.Text" xml:space="preserve">
+    <value>tungkol sa channel na ito</value>
+  </data>
+  <data name="ChannelDetailsHeader.Text" xml:space="preserve">
+    <value>mga detalye ng channel</value>
+  </data>
+  <data name="ClearButton.Content" xml:space="preserve">
+    <value>MALINAW</value>
+  </data>
+  <data name="CredentialStorageDescription.Text" xml:space="preserve">
+    <value>Ang mga personal na kredensyal ay nakaimbak lamang sa Windows Credential Locker.</value>
+  </data>
+  <data name="DescriptionBox.Header" xml:space="preserve">
+    <value>Paglalarawan</value>
+  </data>
+  <data name="DescriptionBox.PlaceholderText" xml:space="preserve">
+    <value>Opsyonal</value>
+  </data>
+  <data name="DescriptionTitle.Text" xml:space="preserve">
+    <value>paglalarawan</value>
+  </data>
+  <data name="DiagnosticsDescription.Text" xml:space="preserve">
+    <value>Itinatala ng log na ito ang mga error sa app at OAuth milestone. Ang mga kredensyal, authorization code, at token ay hindi kasama.</value>
+  </data>
+  <data name="DiagnosticsTitle.Text" xml:space="preserve">
+    <value>mga diagnostic</value>
+  </data>
+  <data name="GoogleAccountDescription.Text" xml:space="preserve">
+    <value>Ang pagbabasa at pag-upload ng profile ay gumagamit ng Google TV at limitadong-input na device na OAuth client. Walang ginagamit na redirect URI. Ang mga pinamamahalaang lokal na halaga ng build ay nananatiling nakatago; ang pag-save ng mga kredensyal dito ay na-override ang mga ito.</value>
+  </data>
+  <data name="GoogleAccountTitle.Text" xml:space="preserve">
+    <value>google account</value>
+  </data>
+  <data name="InAppPlaybackDescription.Text" xml:space="preserve">
+    <value>Ginagamit ng in-app na pag-playback ang opisyal na pahina sa panonood sa mobile ng YouTube. Ang app na ito ay hindi kumukuha o nagda-download ng mga media URL.</value>
+  </data>
+  <data name="LikedVideosHeading.Text" xml:space="preserve">
+    <value>nagustuhan ang mga video</value>
+  </data>
+  <data name="LoadLikedVideosButton.Content" xml:space="preserve">
+    <value>MAG-LOAD NG MGA NAG-LIKE NA VIDEO</value>
+  </data>
+  <data name="MoreLikedVideosButton.Content" xml:space="preserve">
+    <value>MAG-LOAD NG KARAGDAGANG MGA NAG-LIKE NA VIDEO</value>
+  </data>
+  <data name="MorePlaylistsButton.Content" xml:space="preserve">
+    <value>MAG-LOAD PA NG PLAYLIST</value>
+  </data>
+  <data name="MorePlaylistVideosButton.Content" xml:space="preserve">
+    <value>MAG-LOAD PA NG PLAYLIST VIDEO</value>
+  </data>
+  <data name="MoreSubscriptionsButton.Content" xml:space="preserve">
+    <value>MAG-LOAD NG KARAGDAGANG SUBSCRIPTIONS</value>
+  </data>
+  <data name="MoreUploadedVideosButton.Content" xml:space="preserve">
+    <value>MAG-LOAD PA NG MGA NA-UPLOAD NA VIDEO</value>
+  </data>
+  <data name="OAuthClientIdBox.Header" xml:space="preserve">
+    <value>Pag-override ng OAuth client ID ng limitadong input na device</value>
+  </data>
+  <data name="OAuthClientIdBox.PlaceholderText" xml:space="preserve">
+    <value>Iwanang blangko upang magamit ang pinamamahalaang configuration</value>
+  </data>
+  <data name="OAuthClientSecretBox.Header" xml:space="preserve">
+    <value>Lihim na override ng client ng OAuth na may limitadong input na device</value>
+  </data>
+  <data name="OAuthClientSecretBox.PlaceholderText" xml:space="preserve">
+    <value>Iwanang blangko upang magamit ang pinamamahalaang configuration</value>
+  </data>
+  <data name="OAuthInstructions.Text" xml:space="preserve">
+    <value>I-save ang mga kredensyal, pagkatapos ay simulan ang pag-sign in sa Google. Ang verification code sa ibaba ay inilagay sa isa pang device; hindi kailanman nagbubukas ang app na ito ng form sa pag-sign in. Mag-sign in muli pagkatapos ng update na ito para magbigay ng access sa pagbasa ng profile.</value>
+  </data>
+  <data name="OpenChannelButton.Content" xml:space="preserve">
+    <value>OPEN CHANNEL</value>
+  </data>
+  <data name="OpenInBrowserButton.Content" xml:space="preserve">
+    <value>BUKSAN SA BROWSER</value>
+  </data>
+  <data name="PlayerTitle.Text" xml:space="preserve">
+    <value>manlalaro</value>
+  </data>
+  <data name="PlayInAppButton.Content" xml:space="preserve">
+    <value>MAGLARO SA APP</value>
+  </data>
+  <data name="PlaylistsHeading.Text" xml:space="preserve">
+    <value>mga playlist</value>
+  </data>
+  <data name="PlaylistVideosHeading.Text" xml:space="preserve">
+    <value>mga video sa playlist</value>
+  </data>
+  <data name="PrivacyBox.Header" xml:space="preserve">
+    <value>Pagkapribado</value>
+  </data>
+  <data name="PrivatePrivacyOption.Content" xml:space="preserve">
+    <value>pribado</value>
+  </data>
+  <data name="PublicDataAccessDescription.Text" xml:space="preserve">
+    <value>Ginagamit lang ang restricted API key para sa read-only na mga tawag sa YouTube Data API v3. Ang mga pinamamahalaang lokal na halaga ng build ay nananatiling nakatago; ang pag-iipon dito ay nilalampasan sila.</value>
+  </data>
+  <data name="PublicDataAccessTitle.Text" xml:space="preserve">
+    <value>pag-access ng pampublikong data</value>
+  </data>
+  <data name="PublicPrivacyOption.Content" xml:space="preserve">
+    <value>pampubliko</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>I-REFRESH</value>
+  </data>
+  <data name="RefreshProfileButton.Content" xml:space="preserve">
+    <value>I-REFRESH ANG PROFILE</value>
+  </data>
+  <data name="SafeModeDescription.Text" xml:space="preserve">
+    <value>Ginagamit ng Safe Mode ang mahigpit na setting ng SafeSearch ng YouTube para sa mga paghahanap. Hindi ito nagbibigay ng YouTube Kids catalog o filter na sikat, kategorya, at mga feed ng account.</value>
+  </data>
+  <data name="SafeModeTitle.Text" xml:space="preserve">
+    <value>safe mode</value>
+  </data>
+  <data name="SafeModeToggle.Header" xml:space="preserve">
+    <value>Gumamit ng mahigpit na SafeSearch para sa mga pampublikong paghahanap ng video</value>
+  </data>
+  <data name="SaveApiKeyButton.Content" xml:space="preserve">
+    <value>I-SAVE ang API KEY</value>
+  </data>
+  <data name="SaveLogButton.Content" xml:space="preserve">
+    <value>SAVE LOG</value>
+  </data>
+  <data name="SaveOAuthSettingsButton.Content" xml:space="preserve">
+    <value>I-SAVE CREDENTIALS</value>
+  </data>
+  <data name="SelectedFileText.Text" xml:space="preserve">
+    <value>Walang napiling video.</value>
+  </data>
+  <data name="SelectVideoButton.Content" xml:space="preserve">
+    <value>PUMILI NG VIDEO</value>
+  </data>
+  <data name="SettingsTitle.Text" xml:space="preserve">
+    <value>mga setting</value>
+  </data>
+  <data name="SignInButton.Content" xml:space="preserve">
+    <value>SIMULAN ANG GOOGLE SIGN-IN</value>
+  </data>
+  <data name="SignOutButton.Content" xml:space="preserve">
+    <value>MAG-SIGN OUT</value>
+  </data>
+  <data name="StartUploadButton.Content" xml:space="preserve">
+    <value>SIMULAN ANG PAG-UPLOAD</value>
+  </data>
+  <data name="SubscriptionsHeading.Text" xml:space="preserve">
+    <value>mga subscription</value>
+  </data>
+  <data name="TitleBox.Header" xml:space="preserve">
+    <value>Pamagat</value>
+  </data>
+  <data name="TitleBox.PlaceholderText" xml:space="preserve">
+    <value>Kinakailangan</value>
+  </data>
+  <data name="UnlistedPrivacyOption.Content" xml:space="preserve">
+    <value>hindi nakalista</value>
+  </data>
+  <data name="UnsupportedCollectionsDescription.Text" xml:space="preserve">
+    <value>Ang History ng Panoorin at Panoorin sa Ibang Pagkakataon ay hindi nakalantad bilang nababasang mga koleksyon ng v3. Ang UniTube ay hindi tinutularan o maling label ang mga ito.</value>
+  </data>
+  <data name="UnsupportedCollectionsTitle.Text" xml:space="preserve">
+    <value>hindi sinusuportahan ng YouTube Data API v3</value>
+  </data>
+  <data name="UploadedVideosHeading.Text" xml:space="preserve">
+    <value>na-upload na mga video</value>
+  </data>
+  <data name="UploadHeaderTitle.Text" xml:space="preserve">
+    <value>mag-upload</value>
+  </data>
+  <data name="UploadPageDescription.Text" xml:space="preserve">
+    <value>Pumili ng lokal na video, pagkatapos ay i-upload ito sa pamamagitan ng iyong awtorisadong Google account.</value>
+  </data>
+  <data name="UploadPageTitle.Text" xml:space="preserve">
+    <value>mag-upload ng video</value>
+  </data>
+  <data name="UploadReadyStatus.Text" xml:space="preserve">
+    <value>Handa nang pumili ng video.</value>
+  </data>
+  <data name="UploadRequirements.Text" xml:space="preserve">
+    <value>Ang mga pag-upload ay nangangailangan ng mga setting ng OAuth at isang kumpletong pag-sign in sa Google mula sa Mga Setting.</value>
+  </data>
+  <data name="UploadVideoButton.Content" xml:space="preserve">
+    <value>MAG-UPLOAD NG VIDEO</value>
+  </data>
+  <data name="VideoDetailsHeader.Text" xml:space="preserve">
+    <value>mga detalye ng video</value>
+  </data>
+  <data name="ViewDiagnosticsButton.Content" xml:space="preserve">
+    <value>TINGNAN ANG DIAGNOSTICS</value>
+  </data>
+  <data name="WatchOnYouTubeButton.Content" xml:space="preserve">
+    <value>PANOORIN SA YOUTUBE</value>
+  </data>
+  <data name="Categories.Available" xml:space="preserve">
+    <value>{0:N0} kategorya na available para sa {1}.</value>
+  </data>
+  <data name="Categories.Loading" xml:space="preserve">
+    <value>Naglo-load ng mga kategorya...</value>
+  </data>
+  <data name="Categories.LoadingVideos" xml:space="preserve">
+    <value>Nilo-load ang {0} na mga video...</value>
+  </data>
+  <data name="Categories.PopularVideos" xml:space="preserve">
+    <value>{0:N0} sikat na {1} na video para sa {2}.</value>
+  </data>
+  <data name="ChannelDetails.ChannelIdRequired" xml:space="preserve">
+    <value>Kailangan ng channel ID.</value>
+  </data>
+  <data name="ChannelDetails.Loading" xml:space="preserve">
+    <value>Nilo-load ang mga detalye ng channel...</value>
+  </data>
+  <data name="ChannelDetails.Metadata" xml:space="preserve">
+    <value>{0:N0} subscriber | {1:N0} na mga video | {2:N0} view</value>
+  </data>
+  <data name="ChannelDetails.Unavailable" xml:space="preserve">
+    <value>Hindi available ang hiniling na channel.</value>
+  </data>
+  <data name="CloseButton.Content" xml:space="preserve">
+    <value>Isara</value>
+  </data>
+  <data name="Common.ApiNetworkFailure" xml:space="preserve">
+    <value>Hindi maabot ang YouTube Data API. Suriin ang koneksyon sa network.</value>
+  </data>
+  <data name="Common.ApiTimedOut" xml:space="preserve">
+    <value>Nag-time out ang kahilingan sa YouTube Data API. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="Common.Unknown" xml:space="preserve">
+    <value>hindi kilala</value>
+  </data>
+  <data name="DataApi.AccessTokenMissing" xml:space="preserve">
+    <value>Hindi nagbigay ng access token ang awtorisasyon ng Google. Mag-sign in muli.</value>
+  </data>
+  <data name="DataApi.AccountAccessNotConfigured" xml:space="preserve">
+    <value>Hindi naka-configure ang access sa Google account. Mag-sign in bago buksan ang Profile.</value>
+  </data>
+  <data name="DataApi.ApiKeyRequired" xml:space="preserve">
+    <value>Magdagdag ng Google API key bago gamitin ang mga pampublikong feature ng YouTube Data API v3.</value>
+  </data>
+  <data name="DataApi.ChannelIdRequired" xml:space="preserve">
+    <value>Kailangan ng channel ID.</value>
+  </data>
+  <data name="DataApi.InvalidAuthenticatedResponse" xml:space="preserve">
+    <value>Ang na-authenticate na YouTube Data API ay nagbalik ng di-wastong tugon. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="DataApi.InvalidPublicResponse" xml:space="preserve">
+    <value>Ang YouTube Data API ay nagbalik ng di-wastong tugon. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="DataApi.PlaylistIdRequired" xml:space="preserve">
+    <value>Kailangan ng playlist ID.</value>
+  </data>
+  <data name="DataApi.ResponseError" xml:space="preserve">
+    <value>Ang YouTube Data API v3 ay nagbalik ng {0} ({1}). {2}</value>
+  </data>
+  <data name="DataApi.SearchTextRequired" xml:space="preserve">
+    <value>Maglagay ng text na hahanapin.</value>
+  </data>
+  <data name="DataApi.VideoIdRequired" xml:space="preserve">
+    <value>Kinakailangan ang isang video ID.</value>
+  </data>
+  <data name="Diagnostics.LogCleared" xml:space="preserve">
+    <value>Na-clear ang diagnostic log.</value>
+  </data>
+  <data name="Diagnostics.LogSaved" xml:space="preserve">
+    <value>Na-save ang diagnostic log sa {0}.</value>
+  </data>
+  <data name="Diagnostics.NoEvents" xml:space="preserve">
+    <value>Walang mga diagnostic na kaganapan ang naitala.</value>
+  </data>
+  <data name="Diagnostics.SaveCanceled" xml:space="preserve">
+    <value>Nakansela ang pag-save ng diagnostic log.</value>
+  </data>
+  <data name="Diagnostics.SaveFailed" xml:space="preserve">
+    <value>Hindi ma-save ang diagnostic log (0x{0}).</value>
+  </data>
+  <data name="Diagnostics.TextFileType" xml:space="preserve">
+    <value>Text file</value>
+  </data>
+  <data name="LiveTile.LastPlayed" xml:space="preserve">
+    <value>Huling nilaro</value>
+  </data>
+  <data name="LiveTile.MetadataRequired" xml:space="preserve">
+    <value>Kinakailangan ang metadata ng video upang ma-update ang live na tile.</value>
+  </data>
+  <data name="LiveTile.TrendingNow" xml:space="preserve">
+    <value>Trending ngayon</value>
+  </data>
+  <data name="LiveTile.TrendingNowRegion" xml:space="preserve">
+    <value>Trending ngayon ({0})</value>
+  </data>
+  <data name="LiveTile.VideoTitleRequired" xml:space="preserve">
+    <value>Kinakailangan ang isang nagte-trend na pamagat ng video.</value>
+  </data>
+  <data name="OAuth.AuthorizationExpired" xml:space="preserve">
+    <value>Nag-expire na ang awtorisasyon ng Google device.</value>
+  </data>
+  <data name="OAuth.AuthorizationIncomplete" xml:space="preserve">
+    <value>Hindi nakumpleto ang pahintulot ng Google device: {0}.</value>
+  </data>
+  <data name="OAuth.AuthorizationMustBeRepeated" xml:space="preserve">
+    <value>Kailangang kumpletuhin muli ang awtorisasyon ng Google bago mag-upload.</value>
+  </data>
+  <data name="OAuth.AuthorizationStartFailed" xml:space="preserve">
+    <value>Hindi makapagsimula ang awtorisasyon ng Google device: {0}.</value>
+  </data>
+  <data name="OAuth.ClientIdRequired" xml:space="preserve">
+    <value>Magtakda ng isang limitadong-input na device na OAuth client ID bago mag-sign in.</value>
+  </data>
+  <data name="OAuth.ClientSecretRequired" xml:space="preserve">
+    <value>Itakda ang lihim ng client ng OAuth na may limitadong input device bago mag-sign in.</value>
+  </data>
+  <data name="OAuth.InvalidClient" xml:space="preserve">
+    <value>Tinanggihan ng Google ang limitadong-input na device na OAuth client (invalid_client). Tingnan ang client ID at sikreto ng kliyente.</value>
+  </data>
+  <data name="OAuth.InvalidCredentials" xml:space="preserve">
+    <value>Tinanggihan ng Google ang limitadong-input na mga kredensyal ng OAuth ng device (invalid_client). Tingnan ang client ID at sikreto ng kliyente.</value>
+  </data>
+  <data name="OAuth.InvalidDeviceAuthorizationResponse" xml:space="preserve">
+    <value>Ang awtorisasyon ng Google device ay nagbalik ng di-wastong tugon.</value>
+  </data>
+  <data name="OAuth.InvalidTokenResponse" xml:space="preserve">
+    <value>Nagbalik ng di-wastong tugon ang Google token endpoint.</value>
+  </data>
+  <data name="OAuth.InvalidVerificationCodeResponse" xml:space="preserve">
+    <value>Ang awtorisasyon ng Google device ay hindi nagbalik ng magagamit na verification code at URL.</value>
+  </data>
+  <data name="OAuth.NoAccessToken" xml:space="preserve">
+    <value>Ang Google token endpoint ay hindi nagbalik ng access token.</value>
+  </data>
+  <data name="OAuth.NoAccountAuthorized" xml:space="preserve">
+    <value>Walang Google account ang pinapahintulutan. Simulan muna ang pag-sign in.</value>
+  </data>
+  <data name="OAuth.SlowerPolling" xml:space="preserve">
+    <value>Humiling ang Google ng mas mabagal na botohan.</value>
+  </data>
+  <data name="OAuth.StoredTokenExpirationMalformed" xml:space="preserve">
+    <value>Mali ang pagkakabuo ng nakaimbak na OAuth token expiration. Mag-sign in muli.</value>
+  </data>
+  <data name="OAuth.StoredTokenMalformed" xml:space="preserve">
+    <value>Ang nakaimbak na token ng OAuth ay mali. Mag-sign in muli.</value>
+  </data>
+  <data name="OAuth.TokenRefreshFailed" xml:space="preserve">
+    <value>Nabigo ang pag-refresh ng token ng Google: {0}</value>
+  </data>
+  <data name="OAuth.TokenSaveFailed" xml:space="preserve">
+    <value>Nakumpleto ang pahintulot ng Google, ngunit hindi ma-save ng Windows Credential Locker ang token (0x{0}).</value>
+  </data>
+  <data name="Player.LoadFailed" xml:space="preserve">
+    <value>Hindi ma-load ng in-app na player ang video na ito. Buksan ito sa browser sa halip.</value>
+  </data>
+  <data name="Player.Loading" xml:space="preserve">
+    <value>Nilo-load ang opisyal na pahina sa panonood sa YouTube...</value>
+  </data>
+  <data name="Player.VideoIdRequired" xml:space="preserve">
+    <value>Kailangan ng video ID para sa in-app na pag-playback.</value>
+  </data>
+  <data name="Playlist.VideoCount" xml:space="preserve">
+    <value>{0:N0} na mga video</value>
+  </data>
+  <data name="Popular.Loading" xml:space="preserve">
+    <value>Nilo-load ang mga sikat na video...</value>
+  </data>
+  <data name="Popular.Results" xml:space="preserve">
+    <value>{0:N0} sikat na resulta ng video.</value>
+  </data>
+  <data name="Popular.TilePermissionFailure" xml:space="preserve">
+    <value>{0:N0} sikat na resulta ng video. Hindi pinapayagan ng Windows na mag-update ang live na tile.</value>
+  </data>
+  <data name="Popular.TileUpdated" xml:space="preserve">
+    <value>{0:N0} sikat na resulta ng video. Ipinapakita na ngayon ng live na tile ang nangungunang resulta.</value>
+  </data>
+  <data name="Popular.TileUpdateFailure" xml:space="preserve">
+    <value>{0:N0} sikat na resulta ng video. Hindi ma-update ang live na tile.</value>
+  </data>
+  <data name="Profile.AccessDenied" xml:space="preserve">
+    <value>Hindi binigyan ng Google ang account na ito ng access sa data ng profile. Mag-sign out, simulan muli ang pag-sign in sa Google, at tanggapin ang read-only na saklaw ng YouTube.</value>
+  </data>
+  <data name="Profile.LikedVideosLoaded" xml:space="preserve">
+    <value>Nagustuhan ni {0:N0} ang mga video na na-load.</value>
+  </data>
+  <data name="Profile.LikedVideosNetworkFailure" xml:space="preserve">
+    <value>Hindi maabot ang kahilingan sa mga ni-like na video. Suriin ang koneksyon sa network.</value>
+  </data>
+  <data name="Profile.LikedVideosTimedOut" xml:space="preserve">
+    <value>Nag-time out ang kahilingan sa mga ni-like na video. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="Profile.Loaded" xml:space="preserve">
+    <value>Na-load ang profile.</value>
+  </data>
+  <data name="Profile.LoadFailed" xml:space="preserve">
+    <value>Hindi ma-load ang profile sa panahon ng {0} (0x{1}). Buksan ang Diagnostics para sa mga detalye.</value>
+  </data>
+  <data name="Profile.Loading" xml:space="preserve">
+    <value>Nilo-load ang napatotohanang profile...</value>
+  </data>
+  <data name="Profile.LoadingLikedVideos" xml:space="preserve">
+    <value>Nilo-load ang mga ni-like na video...</value>
+  </data>
+  <data name="Profile.LoadingMoreLikedVideos" xml:space="preserve">
+    <value>Naglo-load ng higit pang mga ni-like na video...</value>
+  </data>
+  <data name="Profile.LoadingMorePlaylistVideos" xml:space="preserve">
+    <value>Naglo-load ng higit pang mga playlist na video...</value>
+  </data>
+  <data name="Profile.LoadingMoreUploadedVideos" xml:space="preserve">
+    <value>Naglo-load ng higit pang na-upload na mga video...</value>
+  </data>
+  <data name="Profile.LoadingPlaylistVideos" xml:space="preserve">
+    <value>Nilo-load ang mga playlist na video...</value>
+  </data>
+  <data name="Profile.Metadata" xml:space="preserve">
+    <value>{0:N0} subscriber | {1:N0} na mga video | {2:N0} view</value>
+  </data>
+  <data name="Profile.NoChannel" xml:space="preserve">
+    <value>Walang ibinalik na channel ang Google para sa awtorisadong account.</value>
+  </data>
+  <data name="Profile.NoLikedVideos" xml:space="preserve">
+    <value>Walang ibinalik na liked videos.</value>
+  </data>
+  <data name="Profile.NoUploadsPlaylist" xml:space="preserve">
+    <value>Hindi nagbigay ang YouTube ng playlist ng mga pag-upload para sa channel na ito.</value>
+  </data>
+  <data name="Profile.PlaylistsLoaded" xml:space="preserve">
+    <value>Na-load ang {0:N0} playlist. Pumili ng isa para mapanood ang mga video nito.</value>
+  </data>
+  <data name="Profile.PlaylistsNetworkFailure" xml:space="preserve">
+    <value>Hindi maabot ang kahilingan sa mga playlist. Suriin ang koneksyon sa network.</value>
+  </data>
+  <data name="Profile.PlaylistsTimedOut" xml:space="preserve">
+    <value>Nag-time out ang kahilingan sa mga playlist. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="Profile.PlaylistVideosLoaded" xml:space="preserve">
+    <value>{0:N0} playlist video na-load.</value>
+  </data>
+  <data name="Profile.PlaylistVideosNetworkFailure" xml:space="preserve">
+    <value>Hindi maabot ang kahilingan sa mga video ng playlist. Suriin ang koneksyon sa network.</value>
+  </data>
+  <data name="Profile.PlaylistVideosTimedOut" xml:space="preserve">
+    <value>Nag-time out ang kahilingan sa mga playlist ng video. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="Profile.RequestNetworkFailure" xml:space="preserve">
+    <value>Hindi maabot ang na-authenticate na YouTube API. Suriin ang koneksyon sa network.</value>
+  </data>
+  <data name="Profile.RequestTimedOut" xml:space="preserve">
+    <value>Nag-time out ang na-authenticate na kahilingan sa YouTube. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="Profile.SelectLikedVideos" xml:space="preserve">
+    <value>Piliin ang I-load ang mga ni-like na video para hilingin ang iyong nagustuhang koleksyon.</value>
+  </data>
+  <data name="Profile.SelectPlaylist" xml:space="preserve">
+    <value>Pumili ng playlist sa itaas para i-load ang mga video nito.</value>
+  </data>
+  <data name="Profile.StageChannel" xml:space="preserve">
+    <value>channel</value>
+  </data>
+  <data name="Profile.StageLikedVideos" xml:space="preserve">
+    <value>nagustuhan ang mga video</value>
+  </data>
+  <data name="Profile.StagePlaylists" xml:space="preserve">
+    <value>mga playlist</value>
+  </data>
+  <data name="Profile.StagePlaylistVideos" xml:space="preserve">
+    <value>mga video sa playlist</value>
+  </data>
+  <data name="Profile.StageStarting" xml:space="preserve">
+    <value>simula</value>
+  </data>
+  <data name="Profile.StageSubscriptions" xml:space="preserve">
+    <value>mga subscription</value>
+  </data>
+  <data name="Profile.StageUploadedVideos" xml:space="preserve">
+    <value>na-upload na mga video</value>
+  </data>
+  <data name="Profile.SubscriptionsLoaded" xml:space="preserve">
+    <value>Na-load ang mga {0:N0} na subscription.</value>
+  </data>
+  <data name="Profile.SubscriptionsNetworkFailure" xml:space="preserve">
+    <value>Hindi maabot ang kahilingan sa mga subscription. Suriin ang koneksyon sa network.</value>
+  </data>
+  <data name="Profile.SubscriptionsTimedOut" xml:space="preserve">
+    <value>Nag-time out ang kahilingan sa subscription. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="Profile.TokenScopeMissing" xml:space="preserve">
+    <value>{0} Kung pinahintulutan ang account na ito bago idagdag ang Profile, mag-sign in muli upang bigyan ang YouTube read-only na saklaw.</value>
+  </data>
+  <data name="Profile.UploadedVideosLoaded" xml:space="preserve">
+    <value>{0:N0} na-upload na mga video na na-load.</value>
+  </data>
+  <data name="Profile.UploadedVideosNetworkFailure" xml:space="preserve">
+    <value>Hindi maabot ang kahilingan sa mga na-upload na video. Suriin ang koneksyon sa network.</value>
+  </data>
+  <data name="Profile.UploadedVideosTimedOut" xml:space="preserve">
+    <value>Nag-time out ang kahilingan sa mga na-upload na video. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="Regions.Loading" xml:space="preserve">
+    <value>Nilo-load ang mga sinusuportahang rehiyon...</value>
+  </data>
+  <data name="Regions.LoadNetworkFailure" xml:space="preserve">
+    <value>Hindi makapag-load ang mga sinusuportahang rehiyon. Suriin ang koneksyon sa network.</value>
+  </data>
+  <data name="Regions.LoadTimedOut" xml:space="preserve">
+    <value>Hindi makapag-load ang mga sinusuportahang rehiyon dahil nag-time out ang kahilingan sa YouTube Data API.</value>
+  </data>
+  <data name="Regions.NoneReturned" xml:space="preserve">
+    <value>Hindi nagbalik ang YouTube ng anumang mga suportadong rehiyon. Gamit ang Estados Unidos.</value>
+  </data>
+  <data name="Regions.UnitedStates" xml:space="preserve">
+    <value>Estados Unidos</value>
+  </data>
+  <data name="Runtime.ApiKeyRequired" xml:space="preserve">
+    <value>Maglagay ng API key o gumamit ng Clear API key.</value>
+  </data>
+  <data name="Runtime.OAuthClientIdRequired" xml:space="preserve">
+    <value>Kinakailangan ang isang limitadong-input na device na OAuth client ID.</value>
+  </data>
+  <data name="Runtime.OAuthClientSecretRequired" xml:space="preserve">
+    <value>Ang isang limitadong-input na device na sikreto ng kliyente ng OAuth ay kinakailangan.</value>
+  </data>
+  <data name="Search.Loading" xml:space="preserve">
+    <value>Naghahanap...</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>{0:N0} mga resulta ng pampublikong video.</value>
+  </data>
+  <data name="Settings.AboutAffiliation" xml:space="preserve">
+    <value>Ang app na ito ay hindi kaakibat sa Google o YouTube.</value>
+  </data>
+  <data name="Settings.AboutBuild" xml:space="preserve">
+    <value>Bumuo ng {0}.{1}.{2}.{3}</value>
+  </data>
+  <data name="Settings.AboutDescription" xml:space="preserve">
+    <value>Ang UniTube ay isang modernong UWP application para sa pag-browse sa YouTube sa pamamagitan ng pampublikong API ng YouTube.</value>
+  </data>
+  <data name="Settings.AboutDeveloper" xml:space="preserve">
+    <value>Binuo ni:</value>
+  </data>
+  <data name="Settings.AboutTitle" xml:space="preserve">
+    <value>UniTube UWP</value>
+  </data>
+  <data name="Settings.ApiKeyBuiltIn" xml:space="preserve">
+    <value>Paggamit ng built-in na UniTube configuration para sa pampublikong data. Ino-override ito ng pag-save dito.</value>
+  </data>
+  <data name="Settings.ApiKeyNotConfigured" xml:space="preserve">
+    <value>Walang API key ang naka-configure.</value>
+  </data>
+  <data name="Settings.ApiKeyStored" xml:space="preserve">
+    <value>Ang iyong API key ay nakaimbak sa Windows Credential Locker.</value>
+  </data>
+  <data name="Settings.AuthorizationCanceled" xml:space="preserve">
+    <value>Kinansela ang awtorisasyon ng Google.</value>
+  </data>
+  <data name="Settings.AuthorizationCompleted" xml:space="preserve">
+    <value>Nakumpleto ang pahintulot ng Google. Available ang mga pagbabasa ng profile at pag-upload ng video.</value>
+  </data>
+  <data name="Settings.AuthorizationCountdown" xml:space="preserve">
+    <value>Mag-e-expire ang {0} Code sa {1:D2}:{2:D2}. Sinusuri ang Google bawat {3} segundo.</value>
+  </data>
+  <data name="Settings.AuthorizationNetworkFailure" xml:space="preserve">
+    <value>Hindi makontak ng awtorisasyon ng Google ang token endpoint. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="Settings.AuthorizationRemoved" xml:space="preserve">
+    <value>Inalis ang pahintulot ng Google. Simulan ang pag-sign in sa Google bago buksan ang Profile o pag-upload.</value>
+  </data>
+  <data name="Settings.AuthorizationStored" xml:space="preserve">
+    <value>Ang isang Google account ay pinahihintulutan para sa pagbabasa ng profile at pag-upload ng video. Mag-sign in muli kung ang token na ito ay nauna sa Profile.</value>
+  </data>
+  <data name="Settings.AuthorizationUnexpectedFailure" xml:space="preserve">
+    <value>Nabigo ang awtorisasyon ng Google nang hindi inaasahan (0x{0}). Buksan ang Diagnostics pagkatapos i-restart ang app.</value>
+  </data>
+  <data name="Settings.OAuthBuiltIn" xml:space="preserve">
+    <value>Paggamit ng built-in na configuration ng UniTube para sa Profile at mga pag-upload. Simulan muna ang pag-sign in sa Google.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsSaved" xml:space="preserve">
+    <value>Na-save ang mga kredensyal ng OAuth ng device na may limitadong input. Kung nagbago ang alinmang halaga, mag-sign in muli bago mag-upload.</value>
+  </data>
+  <data name="Settings.OAuthCredentialsStored" xml:space="preserve">
+    <value>Na-configure ang mga naka-save na kredensyal ng OAuth. Simulan ang pag-sign in sa Google bago buksan ang Profile o pag-upload.</value>
+  </data>
+  <data name="Settings.OAuthIncompleteOverride" xml:space="preserve">
+    <value>Binalewala ang isang hindi kumpletong naka-save na OAuth override. Paggamit ng built-in na configuration ng UniTube para sa Profile at mga pag-upload.</value>
+  </data>
+  <data name="Settings.OAuthManaged" xml:space="preserve">
+    <value>Available ang pinamamahalaang configuration ng OAuth. Simulan ang pag-sign in sa Google bago buksan ang Profile o pag-upload.</value>
+  </data>
+  <data name="Settings.OAuthNotConfigured" xml:space="preserve">
+    <value>I-save ang mga kredensyal ng OAuth, pagkatapos ay simulan ang pag-sign in sa Google bago buksan ang Profile o pag-upload.</value>
+  </data>
+  <data name="Settings.VerificationCode" xml:space="preserve">
+    <value>Code: {0}</value>
+  </data>
+  <data name="Settings.VerificationCodeExpiredRequesting" xml:space="preserve">
+    <value>Nag-expire na ang verification code. Humihiling ng bagong code...</value>
+  </data>
+  <data name="Settings.VerificationCodeInstructions" xml:space="preserve">
+    <value>Ilagay ang code sa browser na iyon. Maghihintay ang teleponong ito para sa pahintulot ng Google.</value>
+  </data>
+  <data name="Settings.VerificationCodeRenewed" xml:space="preserve">
+    <value>Nag-expire ang iyong dating code. Ilagay ang bagong code sa browser na iyon.</value>
+  </data>
+  <data name="Settings.VerificationUrl" xml:space="preserve">
+    <value>Sa isa pang telepono, tablet, o computer na may kasalukuyang browser, bisitahin ang: {0}</value>
+  </data>
+  <data name="Settings.WaitingForGoogleApproval" xml:space="preserve">
+    <value>Naghihintay ng pag-apruba ng Google.</value>
+  </data>
+  <data name="Upload.Canceled" xml:space="preserve">
+    <value>Kinansela ang pag-upload. Hindi ipinagpatuloy ang bahagyang na-upload na resumable session.</value>
+  </data>
+  <data name="Upload.Canceling" xml:space="preserve">
+    <value>Kinakansela ang pag-upload...</value>
+  </data>
+  <data name="Upload.CompletedProcessing" xml:space="preserve">
+    <value>Nakumpleto ang pag-upload. Pinoproseso ng YouTube ang video.</value>
+  </data>
+  <data name="Upload.CompletedWithVideoId" xml:space="preserve">
+    <value>Nakumpleto ang pag-upload. Video ID: {0}</value>
+  </data>
+  <data name="Upload.DescriptionTooLong" xml:space="preserve">
+    <value>Ang paglalarawan ng video ay dapat na 5000 character o mas kaunti.</value>
+  </data>
+  <data name="Upload.FileContainsNoData" xml:space="preserve">
+    <value>Pumili ng video file na naglalaman ng data.</value>
+  </data>
+  <data name="Upload.FileEndedEarly" xml:space="preserve">
+    <value>Natapos ang napiling file bago ang naiulat na haba nito.</value>
+  </data>
+  <data name="Upload.FileRequired" xml:space="preserve">
+    <value>Pumili ng video file bago mag-upload.</value>
+  </data>
+  <data name="Upload.FileTooLarge" xml:space="preserve">
+    <value>Masyadong malaki ang napiling video para i-upload.</value>
+  </data>
+  <data name="Upload.NetworkFailure" xml:space="preserve">
+    <value>Hindi maabot ng upload ang YouTube. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="Upload.NoCompletedResponse" xml:space="preserve">
+    <value>Hindi nagbalik ang YouTube ng nakumpletong tugon sa pag-upload.</value>
+  </data>
+  <data name="Upload.NoResumableLocation" xml:space="preserve">
+    <value>Hindi nagbalik ang YouTube ng resumable na lokasyon ng pag-upload.</value>
+  </data>
+  <data name="Upload.PrivacyRequired" xml:space="preserve">
+    <value>Pumili ng pribado, hindi nakalista, o pampublikong privacy.</value>
+  </data>
+  <data name="Upload.Progress" xml:space="preserve">
+    <value>{0:N0} ng {1:N0} byte na na-upload ({2:F0}%).</value>
+  </data>
+  <data name="Upload.ReadyToUpload" xml:space="preserve">
+    <value>Handa nang mag-upload ng {0}.</value>
+  </data>
+  <data name="Upload.ResponseError" xml:space="preserve">
+    <value>Ang pag-upload sa YouTube ay nagbalik ng {0} ({1}). {2}</value>
+  </data>
+  <data name="Upload.SelectedFile" xml:space="preserve">
+    <value>{0} ({1:N0} byte)</value>
+  </data>
+  <data name="Upload.SelectionCanceled" xml:space="preserve">
+    <value>Kinansela ang pagpili ng video.</value>
+  </data>
+  <data name="Upload.Starting" xml:space="preserve">
+    <value>Sinisimulan ang muling pag-upload...</value>
+  </data>
+  <data name="Upload.TimedOut" xml:space="preserve">
+    <value>Nag-time out ang pag-upload. Suriin ang koneksyon sa network at subukang muli.</value>
+  </data>
+  <data name="Upload.TitleRequired" xml:space="preserve">
+    <value>Maglagay ng pamagat bago mag-upload.</value>
+  </data>
+  <data name="Upload.TitleTooLong" xml:space="preserve">
+    <value>Ang pamagat ng video ay dapat na 100 character o mas kaunti.</value>
+  </data>
+  <data name="Upload.UnrecognizedFile" xml:space="preserve">
+    <value>Pumili ng isang kinikilalang video file.</value>
+  </data>
+  <data name="VideoDetails.Loading" xml:space="preserve">
+    <value>Nilo-load ang mga detalye ng video...</value>
+  </data>
+  <data name="VideoDetails.Metadata" xml:space="preserve">
+    <value>Nai-publish {0} | {1:N0} view | tagal {2}</value>
+  </data>
+  <data name="VideoDetails.PlayInAppStatus" xml:space="preserve">
+    <value>Binubuksan ng Play in app ang opisyal na pahina sa panonood sa mobile ng YouTube.</value>
+  </data>
+  <data name="VideoDetails.TileMetadataFailure" xml:space="preserve">
+    <value>Nagsimula ang pag-playback, ngunit hindi ma-save ang metadata nito para sa live na tile.</value>
+  </data>
+  <data name="VideoDetails.TilePermissionFailure" xml:space="preserve">
+    <value>Nagsimula ang pag-playback, ngunit hindi pinapayagan ng Windows na mag-update ang live na tile.</value>
+  </data>
+  <data name="VideoDetails.TileUpdateFailure" xml:space="preserve">
+    <value>Nagsimula ang pag-playback, ngunit hindi ma-update ang live na tile.</value>
+  </data>
+  <data name="VideoDetails.Unavailable" xml:space="preserve">
+    <value>Hindi available ang hiniling na video.</value>
+  </data>
+  <data name="VideoDetails.VideoIdRequired" xml:space="preserve">
+    <value>Kinakailangan ang isang video ID.</value>
+  </data>
+  <data name="Settings.AboutSpecialThanks" xml:space="preserve">
+    <value>Espesyal na pasasalamat</value>
+  </data>
+</root>

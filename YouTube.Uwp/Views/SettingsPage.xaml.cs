@@ -91,40 +91,40 @@ namespace YouTube.Uwp.Views
         {
             if (App.Configuration.HasStoredApiKey)
             {
-                return "Your API key is stored in Windows Credential Locker.";
+                return Localizer.Get("Settings.ApiKeyStored");
             }
 
             if (App.Configuration.HasBuildDefaultApiKey)
             {
-                return "Using built-in UniTube configuration for public data. Saving here overrides it.";
+                return Localizer.Get("Settings.ApiKeyBuiltIn");
             }
 
-            return "No API key is configured.";
+            return Localizer.Get("Settings.ApiKeyNotConfigured");
         }
 
         private void UpdateAuthorizationStatus()
         {
             if (OAuthDeviceAuthorizationService.HasStoredToken())
             {
-                AuthStatusText.Text = "A Google account is authorized for profile reads and video uploads. Sign in again if this token predates Profile.";
+                AuthStatusText.Text = Localizer.Get("Settings.AuthorizationStored");
             }
             else if (App.Configuration.HasStoredOAuthDeviceCredentials)
             {
-                AuthStatusText.Text = "Saved OAuth credentials are configured. Start Google sign-in before opening Profile or uploading.";
+                AuthStatusText.Text = Localizer.Get("Settings.OAuthCredentialsStored");
             }
             else if (App.Configuration.HasBuildDefaultOAuthDeviceCredentials)
             {
                 AuthStatusText.Text = App.Configuration.HasIncompleteStoredOAuthDeviceCredentials
-                    ? "An incomplete saved OAuth override was ignored. Using built-in UniTube configuration for Profile and uploads."
-                    : "Using built-in UniTube configuration for Profile and uploads. Start Google sign-in first.";
+                    ? Localizer.Get("Settings.OAuthIncompleteOverride")
+                    : Localizer.Get("Settings.OAuthBuiltIn");
             }
             else if (App.Configuration.HasOAuthDeviceCredentials)
             {
-                AuthStatusText.Text = "Managed OAuth configuration is available. Start Google sign-in before opening Profile or uploading.";
+                AuthStatusText.Text = Localizer.Get("Settings.OAuthManaged");
             }
             else
             {
-                AuthStatusText.Text = "Save OAuth credentials, then start Google sign-in before opening Profile or uploading.";
+                AuthStatusText.Text = Localizer.Get("Settings.OAuthNotConfigured");
             }
 
             UpdateAuthorizationControls();
@@ -143,7 +143,7 @@ namespace YouTube.Uwp.Views
             {
                 App.Configuration.SaveOAuthDeviceSettings(OAuthClientIdBox.Text, OAuthClientSecretBox.Password);
                 OAuthClientSecretBox.Password = string.Empty;
-                AuthStatusText.Text = "Limited-input device OAuth credentials saved. If either value changed, sign in again before uploading.";
+                AuthStatusText.Text = Localizer.Get("Settings.OAuthCredentialsSaved");
                 UpdateAuthorizationControls();
             }
             catch (ArgumentException exception)
@@ -182,7 +182,7 @@ namespace YouTube.Uwp.Views
                             new Progress<DeviceAuthorizationProgress>(UpdateDeviceAuthorizationProgress),
                             authorizationCancellation.Token);
                         StopAuthorizationCountdown();
-                        AuthStatusText.Text = "Google authorization completed. Profile reads and video uploads are available.";
+                        AuthStatusText.Text = Localizer.Get("Settings.AuthorizationCompleted");
                         DiagnosticLog.Write("OAuth.SignIn", "Device authorization completed and token persistence returned.");
                         break;
                     }
@@ -190,7 +190,7 @@ namespace YouTube.Uwp.Views
                     {
                         authorizationCancellation.Token.ThrowIfCancellationRequested();
                         StopAuthorizationCountdown();
-                        AuthStatusText.Text = "The verification code expired. Requesting a new Google code...";
+                        AuthStatusText.Text = Localizer.Get("Settings.VerificationCodeExpiredRequesting");
                         DiagnosticLog.Write("OAuth.SignIn", "Device authorization code expired; requesting a replacement.");
                         renewedCode = true;
                     }
@@ -204,22 +204,22 @@ namespace YouTube.Uwp.Views
             catch (TaskCanceledException)
             {
                 DiagnosticLog.Write("OAuth.SignIn", "Device authorization canceled or timed out.");
-                AuthStatusText.Text = "Google authorization canceled.";
+                AuthStatusText.Text = Localizer.Get("Settings.AuthorizationCanceled");
             }
             catch (OperationCanceledException)
             {
                 DiagnosticLog.Write("OAuth.SignIn", "Device authorization canceled.");
-                AuthStatusText.Text = "Google authorization canceled.";
+                AuthStatusText.Text = Localizer.Get("Settings.AuthorizationCanceled");
             }
             catch (HttpRequestException)
             {
                 DiagnosticLog.Write("OAuth.SignIn", "Network failure during device authorization.");
-                AuthStatusText.Text = "Google authorization could not contact the token endpoint. Check the network connection and try again.";
+                AuthStatusText.Text = Localizer.Get("Settings.AuthorizationNetworkFailure");
             }
             catch (Exception exception)
             {
                 DiagnosticLog.WriteException("OAuth.SignIn", exception);
-                AuthStatusText.Text = "Google authorization failed unexpectedly (0x" + exception.HResult.ToString("X8") + "). Open Diagnostics after restarting the app.";
+                AuthStatusText.Text = Localizer.Format("Settings.AuthorizationUnexpectedFailure", exception.HResult.ToString("X8"));
             }
             finally
             {
@@ -236,7 +236,7 @@ namespace YouTube.Uwp.Views
             OAuthDeviceAuthorizationService.ClearStoredToken();
             VerificationUrlText.Text = string.Empty;
             VerificationCodeText.Text = string.Empty;
-            AuthStatusText.Text = "Google authorization removed. Start Google sign-in before opening Profile or uploading.";
+            AuthStatusText.Text = Localizer.Get("Settings.AuthorizationRemoved");
             UpdateAuthorizationControls();
         }
 
@@ -244,13 +244,14 @@ namespace YouTube.Uwp.Views
         {
             authorizationExpiresAt = DateTimeOffset.UtcNow.AddSeconds(authorization.ExpiresInSeconds);
             authorizationPollIntervalSeconds = authorization.PollIntervalSeconds;
-            authorizationPollingStatus = "Waiting for Google approval.";
-            VerificationUrlText.Text = "On another phone, tablet, or computer with a current browser, visit: "
-                + authorization.VerificationUri.AbsoluteUri;
-            VerificationCodeText.Text = "Code: " + authorization.UserCode;
+            authorizationPollingStatus = Localizer.Get("Settings.WaitingForGoogleApproval");
+            VerificationUrlText.Text = Localizer.Format(
+                "Settings.VerificationUrl",
+                authorization.VerificationUri.AbsoluteUri);
+            VerificationCodeText.Text = Localizer.Format("Settings.VerificationCode", authorization.UserCode);
             AuthStatusText.Text = renewedCode
-                ? "Your previous code expired. Enter the new code in that browser."
-                : "Enter the code in that browser. This phone will wait for Google authorization.";
+                ? Localizer.Get("Settings.VerificationCodeRenewed")
+                : Localizer.Get("Settings.VerificationCodeInstructions");
             UpdateAuthorizationCountdown();
             authorizationCountdownTimer.Start();
         }
@@ -272,19 +273,17 @@ namespace YouTube.Uwp.Views
             int secondsRemaining = Math.Max(0, (int)Math.Ceiling((authorizationExpiresAt - DateTimeOffset.UtcNow).TotalSeconds));
             if (secondsRemaining == 0)
             {
-                AuthorizationCountdownText.Text = "Verification code expired. Requesting a new code...";
+                AuthorizationCountdownText.Text = Localizer.Get("Settings.VerificationCodeExpiredRequesting");
                 return;
             }
 
             TimeSpan remaining = TimeSpan.FromSeconds(secondsRemaining);
-            AuthorizationCountdownText.Text = authorizationPollingStatus
-                + " Code expires in "
-                + ((int)remaining.TotalMinutes).ToString("D2")
-                + ":"
-                + remaining.Seconds.ToString("D2")
-                + ". Checking Google every "
-                + authorizationPollIntervalSeconds
-                + " seconds.";
+            AuthorizationCountdownText.Text = Localizer.Format(
+                "Settings.AuthorizationCountdown",
+                authorizationPollingStatus,
+                (int)remaining.TotalMinutes,
+                remaining.Seconds,
+                authorizationPollIntervalSeconds);
         }
 
         private void StopAuthorizationCountdown()
@@ -309,14 +308,14 @@ namespace YouTube.Uwp.Views
 
             panel.Children.Add(new TextBlock
             {
-                Text = "UniTube UWP",
+                Text = Localizer.Get("Settings.AboutTitle"),
                 FontSize = 20,
                 FontWeight = Windows.UI.Text.FontWeights.SemiBold,
                 Margin = new Thickness(0, 0, 0, 6)
             });
             panel.Children.Add(new TextBlock
             {
-                Text = "UniTube is a modern UWP application for browsing YouTube via YouTube's public API.",
+                Text = Localizer.Get("Settings.AboutDescription"),
                 TextWrapping = TextWrapping.Wrap,
                 Margin = new Thickness(0, 0, 0, 8)
             });
@@ -324,12 +323,12 @@ namespace YouTube.Uwp.Views
             PackageVersion version = Package.Current.Id.Version;
             panel.Children.Add(new TextBlock
             {
-                Text = string.Format("Build {0}.{1}.{2}.{3}", version.Major, version.Minor, version.Build, version.Revision),
+                Text = Localizer.Format("Settings.AboutBuild", version.Major, version.Minor, version.Build, version.Revision),
                 Margin = new Thickness(0, 0, 0, 8)
             });
             panel.Children.Add(new TextBlock
             {
-                Text = "This app is not affiliated with Google or YouTube.",
+                Text = Localizer.Get("Settings.AboutAffiliation"),
                 TextWrapping = TextWrapping.Wrap,
                 Margin = new Thickness(0, 0, 0, 8)
             });
@@ -340,7 +339,7 @@ namespace YouTube.Uwp.Views
             };
             developerPanel.Children.Add(new TextBlock
             {
-                Text = "Developed by: ",
+                Text = Localizer.Get("Settings.AboutDeveloper"),
                 VerticalAlignment = VerticalAlignment.Center
             });
             developerPanel.Children.Add(new HyperlinkButton
@@ -350,10 +349,21 @@ namespace YouTube.Uwp.Views
                 Margin = new Thickness(4, 0, 0, 0)
             });
             panel.Children.Add(developerPanel);
+            panel.Children.Add(new TextBlock
+            {
+                Text = Localizer.Get("Settings.AboutSpecialThanks"),
+                FontWeight = Windows.UI.Text.FontWeights.SemiBold,
+                Margin = new Thickness(0, 12, 0, 4)
+            });
+            panel.Children.Add(new TextBlock
+            {
+                Text = "RU and UA translation provided by @msnmoney (Discord)",
+                TextWrapping = TextWrapping.Wrap
+            });
 
             var closeButton = new Button
             {
-                Content = "CLOSE",
+                Content = Localizer.Get("CloseButton.Content"),
                 HorizontalAlignment = HorizontalAlignment.Right,
                 Margin = new Thickness(0, 12, 0, 0)
             };

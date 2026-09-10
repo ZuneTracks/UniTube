@@ -14,19 +14,19 @@
                     <ColumnDefinition Width="Auto" />
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-                <Button Content="‹ BACK" Style="{StaticResource PhoneOutlineButtonStyle}" Click="BackButton_Click" VerticalAlignment="Center" />
-                <TextBlock Grid.Column="1" Text="diagnostics" Style="{StaticResource PhoneSectionTitleStyle}" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                <Button x:Uid="BackButton" Content="‹ BACK" Style="{StaticResource PhoneOutlineButtonStyle}" Click="BackButton_Click" VerticalAlignment="Center" />
+                <TextBlock x:Uid="DiagnosticsTitle" Grid.Column="1" Text="diagnostics" Style="{StaticResource PhoneSectionTitleStyle}" VerticalAlignment="Center" HorizontalAlignment="Right" />
             </Grid>
         </Border>
         <Border Grid.Row="1" Background="{StaticResource PhoneAccentBrush}" />
         <ScrollViewer Grid.Row="2">
             <StackPanel Margin="16,18,16,28">
-                <TextBlock Text="diagnostics" Style="{StaticResource PhonePageTitleStyle}" />
-                <TextBlock Text="This log records app errors and OAuth milestones. Credentials, authorization codes, and tokens are excluded." Style="{StaticResource PhoneMetadataStyle}" Margin="0,2,0,12" TextWrapping="Wrap" />
+                <TextBlock x:Uid="DiagnosticsTitle" Text="diagnostics" Style="{StaticResource PhonePageTitleStyle}" />
+                <TextBlock x:Uid="DiagnosticsDescription" Text="This log records app errors and OAuth milestones. Credentials, authorization codes, and tokens are excluded." Style="{StaticResource PhoneMetadataStyle}" Margin="0,2,0,12" TextWrapping="Wrap" />
                 <StackPanel Orientation="Horizontal">
-                    <Button Content="REFRESH" Style="{StaticResource PhoneActionButtonStyle}" Click="RefreshButton_Click" />
-                    <Button Content="SAVE LOG" Style="{StaticResource PhoneOutlineButtonStyle}" Click="SaveButton_Click" />
-                    <Button Content="CLEAR" Style="{StaticResource PhoneOutlineButtonStyle}" Click="ClearButton_Click" />
+                    <Button x:Uid="RefreshButton" Content="REFRESH" Style="{StaticResource PhoneActionButtonStyle}" Click="RefreshButton_Click" />
+                    <Button x:Uid="SaveLogButton" Content="SAVE LOG" Style="{StaticResource PhoneOutlineButtonStyle}" Click="SaveButton_Click" />
+                    <Button x:Uid="ClearButton" Content="CLEAR" Style="{StaticResource PhoneOutlineButtonStyle}" Click="ClearButton_Click" />
                 </StackPanel>
                 <TextBlock x:Name="StatusText" Style="{StaticResource PhoneMetadataStyle}" Margin="0,6,0,8" TextWrapping="Wrap" />
                 <TextBox x:Name="LogTextBox" Style="{StaticResource PhoneTextBoxStyle}" IsReadOnly="True" AcceptsReturn="True" TextWrapping="Wrap" MinHeight="260" />
