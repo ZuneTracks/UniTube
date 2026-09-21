@@ -81,7 +81,6 @@
     <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
     <PlatformTarget>ARM</PlatformTarget>
     <AppxBundle>Always</AppxBundle>
-    <AppxBundlePlatforms>ARM</AppxBundlePlatforms>
     <UapAppxPackageBuildMode>StoreUpload</UapAppxPackageBuildMode>
     <AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
     <StorePackage>true</StorePackage>
@@ -120,7 +119,6 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <Prefer32Bit>true</Prefer32Bit>
     <AppxBundle>Always</AppxBundle>
-    <AppxBundlePlatforms>x64</AppxBundlePlatforms>
     <UapAppxPackageBuildMode>StoreUpload</UapAppxPackageBuildMode>
     <AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
     <StorePackage>true</StorePackage>

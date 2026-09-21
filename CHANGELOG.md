@@ -2,6 +2,12 @@
 
 ## Unreleased - Windows 10 Mobile Store install fix
 
+- Fixed the Store packaging wizard producing an ARM-only `.appxbundle` even
+  when both ARM and x64 were selected. The `Store|ARM` and `Store|x64`
+  configurations pinned `AppxBundlePlatforms` to their own single platform,
+  which overrode the project-wide `x86|x64|arm` default and silently discarded
+  the architecture selection. Both pins are removed so the selection governs.
+
 - Fixed Store installs terminating immediately after the splash screen on
   Windows 10 Mobile. The package declared a dependency on
   `Microsoft.VCLibs.140.00` with `MinVersion 14.0.33519.0`, which Mobile can
