@@ -33,6 +33,12 @@
     <GenerateTestArtifacts>True</GenerateTestArtifacts>
     <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' != 'Debug'">
+    <!-- Required so the .NET Native 1.7 toolchain from Microsoft.NETCore.UniversalWindowsPlatform is
+         used instead of the in-box Windows SDK ILC fallback. The fallback declares a VCLibs minimum
+         that Windows 10 Mobile can never provision, which crashes Store installs after the splash. -->
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <OutputPath>bin\Debug\</OutputPath>
     <IntermediateOutputPath>obj\Debug\</IntermediateOutputPath>
@@ -157,7 +163,7 @@
   </PropertyGroup>
   <Import Project="LocalPackageSigning.props" Condition="Exists('$(MSBuildProjectDirectory)\LocalPackageSigning.props')" />
   <ItemGroup>
-    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="5.2.9" />
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.2.14" />
   </ItemGroup>
   <PropertyGroup>
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
@@ -376,10 +382,4 @@
     </PropertyGroup>
   </Target>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
-  <Target Name="ExcludeSdkMetadataFromStorePackage" AfterTargets="_AddUnionWinmd;_AddFxWinmd" Condition="'$(UapAppxPackageBuildMode)' == 'StoreUpload'">
-    <ItemGroup>
-      <PackagingOutputs Remove="@(UnionMetadataWinmd)" />
-      <PackagingOutputs Remove="@(WinmdsFromFrameworkSDKs)" />
-    </ItemGroup>
-  </Target>
 </Project>
