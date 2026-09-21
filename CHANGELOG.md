@@ -1,5 +1,25 @@
 # Changelog
 
+## Unreleased - Windows 10 Mobile Store install fix
+
+- Fixed Store installs terminating immediately after the splash screen on
+  Windows 10 Mobile. The package declared a dependency on
+  `Microsoft.VCLibs.140.00` with `MinVersion 14.0.33519.0`, which Mobile can
+  never provision because it stopped receiving framework-package updates at OS
+  build 15254 (Store provisions VCLibs only up to ~`14.0.24217.0`).
+- Upgraded `Microsoft.NETCore.UniversalWindowsPlatform` from `5.2.9` to
+  `6.2.14` and enabled `UseDotNetNativeToolchain` for non-Debug configurations
+  so the .NET Native 1.7 toolchain is used instead of the in-box Windows SDK
+  ILC fallback. The package now declares `Microsoft.VCLibs.140.00`
+  `14.0.22929.0` with `Microsoft.NET.Native.Framework.1.7` and
+  `Microsoft.NET.Native.Runtime.1.7`.
+- `TargetPlatformMinVersion` remains `10.0.15063.0`, so Windows 10 Mobile
+  support is retained.
+- Removed the `ExcludeSdkMetadataFromStorePackage` target, which stripped
+  `WinMetadata\Windows.winmd` from Store upload packages. The Store recompiles
+  uploaded MSIL in the cloud and cannot resolve Windows Runtime types without
+  that file.
+
 ## v1.6.7.6 - Region selector release
 
 - Replaced the editable two-letter region code with a selector that lists
