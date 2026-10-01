@@ -8,7 +8,10 @@ handling, or binary libraries are reused.
 
 [Terms of Service](docs/terms-of-service.md) | [Privacy Policy](docs/privacy-policy.md)
 
-## Current release: v1.6.7.6
+## Current release: v1.8.0.0
+
+v1.8.0.0 is the latest Store release version that incorporates many behind-the-scenes fixes
+to .NET compatiblility
 
 v1.6.7.6 replaces the editable region code with a selector of countries
 supported by YouTube. It starts with the device's active region, places that
