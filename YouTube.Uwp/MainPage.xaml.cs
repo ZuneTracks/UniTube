@@ -7,6 +7,7 @@ using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
+using Windows.UI.Xaml.Input;
 using YouTube.Uwp.Models;
 using YouTube.Uwp.Services;
 using YouTube.Uwp.Views;
@@ -745,12 +746,6 @@ namespace YouTube.Uwp
             }
         }
 
-        private void ProfileVideoButton_Click(object sender, RoutedEventArgs e)
-        {
-            Button button = sender as Button;
-            NavigateToVideo(button == null ? null : button.Tag as VideoSummary);
-        }
-
         private void ToggleUploadedVideosButton_Click(object sender, RoutedEventArgs e)
         {
             ToggleProfileSection(UploadedVideosContentPanel, UploadedVideosToggleGlyph);
@@ -942,16 +937,25 @@ namespace YouTube.Uwp
             }
         }
 
-        private void ResultsList_ItemClick(object sender, ItemClickEventArgs e)
+        private void VideoCard_Tapped(object sender, TappedRoutedEventArgs e)
         {
-            VideoSummary video = e.ClickedItem as VideoSummary;
-            NavigateToVideo(video);
+            FrameworkElement card = sender as FrameworkElement;
+            NavigateToVideo(card == null ? null : card.DataContext as VideoSummary);
         }
 
-        private void CategoryVideoButton_Click(object sender, RoutedEventArgs e)
+        private void VideoCardExpandButton_Click(object sender, RoutedEventArgs e)
         {
             Button button = sender as Button;
-            NavigateToVideo(button == null ? null : button.Tag as VideoSummary);
+            VideoSummary video = button == null ? null : button.Tag as VideoSummary;
+            if (video != null)
+            {
+                video.IsExpanded = !video.IsExpanded;
+            }
+        }
+
+        private void VideoCardExpandButton_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            e.Handled = true;
         }
 
         private void NavigateToVideo(VideoSummary video)

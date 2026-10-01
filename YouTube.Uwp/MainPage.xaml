@@ -6,10 +6,10 @@
     xmlns:models="using:YouTube.Uwp.Models">
     <Page.Resources>
         <DataTemplate x:Key="VideoCardTemplate">
-            <Border Background="{StaticResource PhoneCardBrush}">
+            <Border Background="{StaticResource PhoneCardBrush}" Tapped="VideoCard_Tapped">
                 <Grid>
                     <Grid.RowDefinitions>
-                        <RowDefinition Height="148" />
+                        <RowDefinition Height="{Binding ThumbnailHeight}" />
                         <RowDefinition Height="Auto" />
                     </Grid.RowDefinitions>
                     <Grid>
@@ -17,10 +17,12 @@
                         <Border VerticalAlignment="Bottom" Background="#C0000000" Padding="10,7,10,7">
                             <TextBlock Text="{Binding Title}" Style="{StaticResource PhoneCardTitleStyle}" TextWrapping="Wrap" MaxLines="2" />
                         </Border>
+                        <Button Content="{Binding ExpandGlyph}" Style="{StaticResource PhoneActionButtonStyle}" Click="VideoCardExpandButton_Click" Tapped="VideoCardExpandButton_Tapped" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="8" MinWidth="36" Padding="8,2,8,2" Tag="{Binding}" />
                     </Grid>
                     <StackPanel Grid.Row="1" Margin="10,8,10,10">
                         <TextBlock Text="{Binding ChannelTitle}" Foreground="{StaticResource PhoneHighlightBrush}" TextWrapping="NoWrap" TextTrimming="CharacterEllipsis" />
                         <TextBlock Text="{Binding PublishedAt}" Style="{StaticResource PhoneMetadataStyle}" Margin="0,3,0,0" />
+                        <TextBlock Text="{Binding Description}" Style="{StaticResource PhoneMetadataStyle}" Margin="0,6,0,0" TextWrapping="Wrap" Visibility="{Binding DescriptionVisibility}" />
                     </StackPanel>
                 </Grid>
             </Border>
@@ -36,9 +38,7 @@
             </Grid>
         </DataTemplate>
         <DataTemplate x:Key="InlineCategoryVideoTemplate">
-            <Button Background="Transparent" BorderThickness="0" Padding="0" Margin="0,0,0,10" HorizontalAlignment="Stretch" HorizontalContentAlignment="Stretch" Click="CategoryVideoButton_Click" Tag="{Binding}">
-                <ContentControl Content="{Binding}" ContentTemplate="{StaticResource VideoCardTemplate}" />
-            </Button>
+            <ContentControl Content="{Binding}" ContentTemplate="{StaticResource VideoCardTemplate}" Margin="0,0,0,10" />
         </DataTemplate>
         <DataTemplate x:Key="CategoryTemplate">
             <Border Background="{StaticResource PhoneCardBrush}" Margin="0,0,0,8">
@@ -80,9 +80,7 @@
             </Button>
         </DataTemplate>
         <DataTemplate x:Key="ProfileVideoTemplate">
-            <Button Background="Transparent" BorderThickness="0" Padding="0" Margin="0,0,0,10" HorizontalAlignment="Stretch" HorizontalContentAlignment="Stretch" Click="ProfileVideoButton_Click" Tag="{Binding}">
-                <ContentControl Content="{Binding}" ContentTemplate="{StaticResource VideoCardTemplate}" />
-            </Button>
+            <ContentControl Content="{Binding}" ContentTemplate="{StaticResource VideoCardTemplate}" Margin="0,0,0,10" />
         </DataTemplate>
     </Page.Resources>
 
@@ -136,7 +134,7 @@
 
                         <TextBlock x:Uid="PopularVideosTitle" Text="popular videos" Style="{StaticResource PhoneSectionTitleStyle}" />
                         <TextBlock x:Uid="HomeStatusText" x:Name="HomeStatusText" Style="{StaticResource PhoneMetadataStyle}" Text="Choose Trending Now to load public results." Margin="0,3,0,12" TextWrapping="Wrap" />
-                        <ListView ItemsSource="{Binding Results}" ItemTemplate="{StaticResource VideoCardTemplate}" ItemContainerStyle="{StaticResource PhoneListItemStyle}" IsItemClickEnabled="True" ItemClick="ResultsList_ItemClick" SelectionMode="None" />
+                        <ListView ItemsSource="{Binding Results}" ItemTemplate="{StaticResource VideoCardTemplate}" ItemContainerStyle="{StaticResource PhoneListItemStyle}" SelectionMode="None" />
                     </StackPanel>
                 </ScrollViewer>
             </PivotItem>
@@ -158,7 +156,7 @@
                         <ComboBox x:Name="RegionSelector" ItemsSource="{Binding Regions}" DisplayMemberPath="Name" SelectedValuePath="Code" SelectedValue="{Binding SelectedRegionCode, Mode=TwoWay}" SelectionChanged="RegionSelector_SelectionChanged" />
                         <TextBlock x:Name="RegionStatusText" Style="{StaticResource PhoneMetadataStyle}" Margin="0,4,0,0" TextWrapping="Wrap" />
                         <TextBlock x:Name="PublicStatusText" Style="{StaticResource PhoneMetadataStyle}" Margin="0,4,0,12" TextWrapping="Wrap" />
-                        <ListView ItemsSource="{Binding Results}" ItemTemplate="{StaticResource VideoCardTemplate}" ItemContainerStyle="{StaticResource PhoneListItemStyle}" IsItemClickEnabled="True" ItemClick="ResultsList_ItemClick" SelectionMode="None" />
+                        <ListView ItemsSource="{Binding Results}" ItemTemplate="{StaticResource VideoCardTemplate}" ItemContainerStyle="{StaticResource PhoneListItemStyle}" SelectionMode="None" />
                     </StackPanel>
                 </ScrollViewer>
             </PivotItem>
