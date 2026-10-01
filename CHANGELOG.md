@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.8.5.0 - Expandable video previews
+
+- Added a compact **+** control to video cards in Trending Now, Search,
+  Categories, and Profile collections.
+- Expanding a card increases its thumbnail preview and reveals the video
+  description; the control changes to **−** to collapse it again.
+- Kept the card tap action for opening video details, so preview expansion does
+  not interfere with playback navigation.
+- Updated the package version to `1.8.5.0`.
+
 ## Unreleased - Windows 10 Mobile Store install fix
 
 - Fixed the Store packaging wizard producing an ARM-only `.appxbundle` even

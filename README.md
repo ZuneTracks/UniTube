@@ -8,10 +8,12 @@ handling, or binary libraries are reused.
 
 [Terms of Service](docs/terms-of-service.md) | [Privacy Policy](docs/privacy-policy.md)
 
-## Current release: v1.8.0.0
+## Current release: v1.8.5.0
 
-v1.8.0.0 is the latest Store release version that incorporates many behind-the-scenes fixes
-to .NET compatiblility
+v1.8.5.0 adds expandable video preview cards throughout Trending Now, Search,
+Categories, and Profile. Use the **+** control on a card to enlarge its
+thumbnail and reveal its description, then select **−** to return to the
+compact view.
 
 v1.6.7.6 replaces the editable region code with a selector of countries
 supported by YouTube. It starts with the device's active region, places that
