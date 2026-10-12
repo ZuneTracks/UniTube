@@ -700,7 +700,7 @@
     <value>Canceling upload...</value>
   </data>
   <data name="Upload.CompletedProcessing" xml:space="preserve">
-    <value>Upload completed. YouTube is processing the video.</value>
+    <value>Your video was successfully uploaded. YouTube is processing the video.</value>
   </data>
   <data name="Upload.CompletedWithVideoId" xml:space="preserve">
     <value>Upload completed. Video ID: {0}</value>

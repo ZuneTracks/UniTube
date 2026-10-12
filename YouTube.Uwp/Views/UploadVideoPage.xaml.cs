@@ -1,10 +1,12 @@
 using System;
+using System.Globalization;
 using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
 using Windows.Storage;
 using Windows.Storage.FileProperties;
 using Windows.Storage.Pickers;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Navigation;
@@ -58,7 +60,7 @@ namespace YouTube.Uwp.Views
 
             BasicProperties properties = await file.GetBasicPropertiesAsync();
             selectedFile = file;
-            SelectedFileText.Text = Localizer.Format("Upload.SelectedFile", file.Name, properties.Size);
+            SelectedFileText.Text = file.Name + " (" + FormatFileSize(properties.Size) + ")";
             ProgressText.Text = Localizer.Format("Upload.ReadyToUpload", file.Name);
         }
 
@@ -85,13 +87,14 @@ namespace YouTube.Uwp.Views
                     PrivacyStatus = privacyItem == null ? null : privacyItem.Tag as string
                 };
 
-                VideoUploadResult result = await uploadClient.UploadAsync(
+                await uploadClient.UploadAsync(
                     request,
                     new Progress<VideoUploadProgress>(UpdateProgress),
                     uploadCancellation.Token);
-                ProgressText.Text = string.IsNullOrWhiteSpace(result.VideoId)
-                    ? Localizer.Get("Upload.CompletedProcessing")
-                    : Localizer.Format("Upload.CompletedWithVideoId", result.VideoId);
+                string completionMessage = Localizer.Get("Upload.CompletedProcessing");
+                ProgressText.Text = completionMessage;
+                await new MessageDialog(completionMessage).ShowAsync();
+                ResetUploadForm();
             }
             catch (TaskCanceledException)
             {
@@ -150,11 +153,36 @@ namespace YouTube.Uwp.Views
         private void UpdateProgress(VideoUploadProgress progress)
         {
             UploadProgressBar.Value = progress.Percentage;
-            ProgressText.Text = Localizer.Format(
-                "Upload.Progress",
-                progress.BytesUploaded,
-                progress.TotalBytes,
-                progress.Percentage);
+            ProgressText.Text = FormatFileSize(progress.BytesUploaded)
+                + " / "
+                + FormatFileSize(progress.TotalBytes)
+                + " ("
+                + progress.Percentage.ToString("F0", CultureInfo.CurrentCulture)
+                + "%)";
+        }
+
+        private void ResetUploadForm()
+        {
+            selectedFile = null;
+            SelectedFileText.Text = Localizer.Get("SelectedFileText.Text");
+            TitleBox.Text = string.Empty;
+            DescriptionBox.Text = string.Empty;
+            PrivacyBox.SelectedIndex = 0;
+            UploadProgressBar.Value = 0;
+            ProgressText.Text = Localizer.Get("UploadReadyStatus.Text");
+        }
+
+        private static string FormatFileSize(ulong bytes)
+        {
+            const double Kilobyte = 1024d;
+            const double Megabyte = Kilobyte * 1024d;
+
+            double value = bytes >= Megabyte
+                ? bytes / Megabyte
+                : bytes / Kilobyte;
+            string unit = bytes >= Megabyte ? "MB" : "KB";
+            string format = value < 10 ? "0.#" : "0";
+            return value.ToString(format, CultureInfo.CurrentCulture) + " " + unit;
         }
     }
 }
