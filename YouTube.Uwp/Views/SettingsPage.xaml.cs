@@ -313,17 +313,16 @@ namespace YouTube.Uwp.Views
                 FontWeight = Windows.UI.Text.FontWeights.SemiBold,
                 Margin = new Thickness(0, 0, 0, 6)
             });
-            panel.Children.Add(new TextBlock
-            {
-                Text = Localizer.Get("Settings.AboutDescription"),
-                TextWrapping = TextWrapping.Wrap,
-                Margin = new Thickness(0, 0, 0, 8)
-            });
-
             PackageVersion version = Package.Current.Id.Version;
             panel.Children.Add(new TextBlock
             {
                 Text = Localizer.Format("Settings.AboutBuild", version.Major, version.Minor, version.Build, version.Revision),
+                Margin = new Thickness(0, 0, 0, 8)
+            });
+            panel.Children.Add(new TextBlock
+            {
+                Text = Localizer.Get("Settings.AboutDescription"),
+                TextWrapping = TextWrapping.Wrap,
                 Margin = new Thickness(0, 0, 0, 8)
             });
             panel.Children.Add(new TextBlock
