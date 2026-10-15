@@ -1,0 +1,2 @@
+MainPackage=C:\Users\phefn\Github\YourTube-UWP\YouTube.Uwp\bin\x64\Store\YouTube.Uwp_1.8.6.0_x64_Store.appx
+SymbolPackage=C:\Users\phefn\Github\YourTube-UWP\YouTube.Uwp\obj\x64\Store\Symbols\YouTube.Uwp_1.8.6.0_x64_Store.appxsym
